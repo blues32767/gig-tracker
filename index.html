@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>2026 獨立音樂祭 ‧ 跨樂團活動資訊站</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎸</text></svg>">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-main: #f5f5f3;
+            --bg-card: #ffffff;
+            --bg-subtle: #eeeee9;
+            --text-main: #111111;
+            --text-secondary: #666666;
+            --accent: #ff5500;
+            --border: #dcdcd5;
+            --blur-bg: rgba(245, 245, 243, 0.95);
+            --dn: #dc2626;
+            --transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+            border-radius: 0px !important;
+            letter-spacing: -0.01em;
+        }
+
+        body {
+            background: var(--bg-main);
+            color: var(--text-main);
+            padding-top: 120px;
+            line-height: 1.5;
+        }
+
+        .hero-grid {
+            position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+            background-image: linear-gradient(to right, var(--border) 1px, transparent 1px), linear-gradient(to bottom, var(--border) 1px, transparent 1px);
+            background-size: 40px 40px; opacity: 0.3; pointer-events: none; z-index: -1;
+        }
+
+        /* ===== Navbar ===== */
+        nav {
+            position: fixed; top: 12px; left: 1rem; right: 1rem; max-width: 1200px; margin: 0 auto;
+            background: var(--blur-bg); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
+            border: 2px solid var(--text-main); z-index: 1000; box-shadow: 4px 4px 0px var(--text-main);
+            display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 1.5rem;
+            flex-wrap: wrap; gap: 0.5rem;
+        }
+
+        .nav-brand { font-size: 0.95rem; font-weight: 900; display: flex; align-items: center; gap: 8px; text-transform: uppercase; }
+        .nav-links { display: flex; gap: 0.25rem; flex-wrap: wrap; }
+        .nav-item { font-size: 0.8rem; font-weight: 800; cursor: pointer; padding: 0.4rem 0.75rem; border: 2px solid transparent; text-transform: uppercase; }
+        .nav-item:hover { border-color: var(--border); background: var(--bg-subtle); }
+        .nav-item.active { background: var(--text-main); color: var(--bg-main); border-color: var(--text-main); }
+
+        .container { max-width: 1200px; margin: 1.5rem auto; padding: 0 1rem; }
+        .view { display: none; animation: fadeIn 0.3s ease; }
+        .view.active { display: block; }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+
+        h2 { font-size: 1.75rem; font-weight: 900; margin-bottom: 0.4rem; text-transform: uppercase; }
+        h3 { font-size: 1.15rem; font-weight: 800; margin-bottom: 0.85rem; text-transform: uppercase; }
+
+        .card {
+            background: var(--bg-card); border: 2px solid var(--text-main); padding: 1.5rem;
+            box-shadow: 4px 4px 0px var(--text-main); margin-bottom: 1.5rem; transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .card:hover { transform: translate(-2px, -2px); box-shadow: 6px 6px 0px var(--text-main); }
+
+        .btn {
+            background: var(--text-main); color: var(--bg-main); border: 2px solid var(--text-main);
+            padding: 0.7rem 1.4rem; font-size: 0.85rem; font-weight: 800; cursor: pointer;
+            text-transform: uppercase; box-shadow: 3px 3px 0px rgba(0,0,0,0.2); transition: var(--transition);
+        }
+        .btn:hover { background: var(--bg-card); color: var(--text-main); transform: translate(-1px, -1px); box-shadow: 4px 4px 0px var(--text-main); }
+        .btn-outline { background: transparent; color: var(--text-main); box-shadow: 2px 2px 0px var(--text-main); }
+        .btn-outline:hover { background: var(--text-main); color: var(--bg-main); }
+
+        /* ===== 樂團過濾列 ===== */
+        .multi-band-filter-bar { display: flex; gap: 0.5rem; overflow-x: auto; padding-bottom: 0.75rem; margin-bottom: 1rem; scrollbar-width: none; }
+        .multi-band-filter-bar::-webkit-scrollbar { display: none; }
+        .band-chip {
+            display: inline-flex; align-items: center; gap: 6px; padding: 0.4rem 1.25rem; border: 2px solid var(--border);
+            background: var(--bg-card); font-size: 0.85rem; font-weight: 800; color: var(--text-secondary); cursor: pointer; white-space: nowrap; transition: var(--transition);
+        }
+        .band-chip.active { border-color: var(--text-main); color: #ffffff; box-shadow: 3px 3px 0px var(--text-main); }
+        .band-badge { font-size: 0.65rem; font-weight: 900; padding: 2px 6px; color: #ffffff; border: 1.5px solid var(--text-main); margin-right: 6px; vertical-align: middle; }
+
+        /* ===== UPCOMING WIDGET (防破版更新) ===== */
+        .upc-row { display: flex; gap: 1rem; padding: 1rem 0; border-bottom: 1px solid var(--border); align-items: flex-start; }
+        .upc-date-box { background: var(--text-main); color: var(--bg-main); padding: 0.5rem 0.3rem; text-align: center; min-width: 64px; display: flex; flex-direction: column; justify-content: center; font-family: var(--font-mono); flex-shrink: 0; }
+        .upc-info { flex: 1; min-width: 0; word-break: break-word; }
+        .ev-note { word-break: break-word; white-space: normal; }
+
+        /* ===== 行事曆 Calendar (防破版更新) ===== */
+        .cal-header-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.85rem; background: var(--bg-card); border: 2px solid var(--text-main); padding: 0.5rem 0.75rem; box-shadow: 2px 2px 0px var(--text-main); }
+        .cal-weekdays { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 4px; text-align: center; font-size: 0.78rem; font-weight: 900; color: var(--text-secondary); margin-bottom: 6px; }
+        .cal-grid { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 4px; }
+        .cal-day-cell { min-width: 0; min-height: 54px; border: 2px solid var(--border); background: var(--bg-card); display: flex; flex-direction: column; align-items: center; padding: 4px 2px; font-size: 0.85rem; font-weight: 800; cursor: pointer; transition: var(--transition); user-select: none; overflow: hidden; }
+        .cal-day-cell:hover { border-color: var(--text-main); transform: translate(-1px, -1px); }
+        .cal-day-cell.other-month { opacity: 0.2; pointer-events: none; }
+        .cal-day-cell.selected { border-color: var(--text-main); box-shadow: 2px 2px 0px var(--text-main); background: var(--bg-subtle); }
+
+        /* ===== 場次與歌單列表 ===== */
+        .event-card { cursor: pointer; display: flex; margin-bottom: 1rem !important; }
+        .chk-area { padding-right: 1rem; display: flex; align-items: flex-start; padding-top: 4px; }
+        .ev-chk { width: 20px; height: 20px; border: 2px solid var(--text-main); accent-color: var(--text-main); cursor: pointer; }
+        .ev-content { flex: 1; }
+        .ev-title { font-size: 1.15rem; font-weight: 900; margin-top: 0.4rem; }
+        .ev-body { margin-top: 1rem; padding-top: 1rem; border-top: 2px solid var(--border); display: none; }
+        .event-card.expanded .ev-body { display: block; }
+        .song-line { display: flex; justify-content: space-between; padding: 0.5rem 0; font-size: 0.95rem; border-bottom: 1px dashed var(--border); font-weight: 700; }
+
+        /* ===== 機率預測 Progress Bar ===== */
+        .stat-row { display: flex; align-items: center; margin-bottom: 0.75rem; }
+        .stat-label { width: 120px; font-weight: 800; font-size: 0.85rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding-right: 10px; }
+        .stat-bar-bg { flex: 1; height: 20px; background: var(--bg-subtle); border: 2px solid var(--text-main); position: relative; }
+        .stat-bar-fill { height: 100%; transition: width 0.5s ease; border-right: 2px solid var(--text-main); }
+        .stat-pct { width: 50px; text-align: right; font-weight: 900; font-size: 0.85rem; }
+
+        /* ===== Onboarding & Toast ===== */
+        #onboarding-modal { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0, 0, 0, 0.8); backdrop-filter: blur(8px); z-index: 3000; display: none; justify-content: center; align-items: center; padding: 1.5rem; }
+        .onboarding-content { background: var(--bg-card); width: 100%; max-width: 580px; border: 3px solid var(--text-main); padding: 2.5rem 2rem; box-shadow: 8px 8px 0px var(--text-main); text-align: center; max-height: 90vh; overflow-y: auto; }
+        .onboarding-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 1rem; margin-top: 1rem; }
+        .band-card { border: 2px solid var(--border); background: var(--bg-subtle); padding: 1.25rem 0.5rem; cursor: pointer; transition: var(--transition); display: flex; flex-direction: column; align-items: center; gap: 0.75rem; user-select: none; }
+        .band-card:hover { border-color: var(--text-main); transform: translate(-2px, -2px); box-shadow: 4px 4px 0px rgba(0,0,0,0.2); }
+        .band-card.selected { border-color: var(--text-main); box-shadow: 4px 4px 0px var(--text-main); }
+        
+        #toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text-main); color: var(--bg-main); border: 2px solid var(--text-main); padding: 0.75rem 1.75rem; font-size: 0.85rem; font-weight: 900; opacity: 0; pointer-events: none; transition: var(--transition); z-index: 9999; box-shadow: 4px 4px 0px var(--accent); text-transform: uppercase; }
+        #toast.show { opacity: 1; transform: translate(-50%, -8px); }
+
+        input[type="text"] { width: 100%; padding: 0.75rem 1rem; border: 2px solid var(--text-main); font-size: 0.95rem; font-weight: 700; outline: none; transition: var(--transition); margin-top: 0.5rem; }
+        input[type="text"]:focus { border-color: var(--accent); box-shadow: 3px 3px 0px var(--accent); }
+    </style>
+</head>
+
+<body>
+    <div class="hero-grid"></div>
+    <div id="toast"></div>
+
+    <!-- Onboarding Modal -->
+    <div id="onboarding-modal">
+        <div class="onboarding-content">
+            <h2>選擇你想追的音樂宇宙</h2>
+            <p style="color: var(--text-secondary); font-weight: 700; margin-bottom: 1.5rem;">勾選你喜歡的樂團，打造專屬行事曆與機率數據</p>
+            <div id="onboarding-band-list" class="onboarding-grid"></div>
+            <button class="btn" style="width: 100%; margin-top: 2rem; padding: 1rem;" onclick="saveOnboardingAndStart()">開始探索 🚀</button>
+        </div>
+    </div>
+
+    <!-- Navbar -->
+    <nav>
+        <div class="nav-brand"><span>🎸 INDIE MUSIC 2026</span></div>
+        <div class="nav-links">
+            <div class="nav-item active" onclick="switchTab('view-home')">首頁行事曆</div>
+            <div class="nav-item" onclick="switchTab('view-events')">詳細歌單</div>
+            <div class="nav-item" onclick="switchTab('view-stats')">金曲機率</div>
+            <div class="nav-item" style="border-left: 2px dashed var(--text-main);" onclick="switchTab('view-journey')">登入/足跡</div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <!-- Global Filter Bar -->
+        <div id="global-band-filter" class="multi-band-filter-bar"></div>
+
+        <!-- 1. 首頁 (Upcoming + Calendar) -->
+        <div id="view-home" class="view active">
+            <div id="local-loader" style="text-align:center; padding:3rem; font-weight:900;">連線至音樂祭資料庫中...</div>
+            
+            <div class="card" id="upcoming-widget" style="display:none;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; flex-wrap: wrap; gap: 10px;">
+                    <h3 style="margin:0;">📅 近期活動 Upcoming</h3>
+                    <div style="display:inline-flex; border: 2px solid var(--text-main); background: var(--bg-card); box-shadow: 2px 2px 0px var(--text-main);">
+                        <button class="btn btn-outline" style="border:none; box-shadow:none; padding: 4px 12px;" id="btn-view-list" onclick="setUpcomingView('list')">📋 列表</button>
+                        <button class="btn btn-outline" style="border:none; box-shadow:none; padding: 4px 12px; border-left: 2px solid var(--text-main);" id="btn-view-cal" onclick="setUpcomingView('cal')">📅 月曆</button>
+                    </div>
+                </div>
+
+                <!-- 列表模式 -->
+                <div id="upcoming-list"></div>
+
+                <!-- 行事曆模式 -->
+                <div id="upcoming-calendar-view" style="display: none; margin-top: 1rem;">
+                    <div class="cal-header-bar">
+                        <button class="btn btn-outline btn-sm" onclick="changeCalMonth(-1)">◀</button>
+                        <span id="cal-month-title" style="font-weight: 900; font-size: 1rem;"></span>
+                        <button class="btn btn-outline btn-sm" onclick="changeCalMonth(1)">▶</button>
+                    </div>
+                    <div class="cal-weekdays">
+                        <div>一</div><div>二</div><div>三</div><div>四</div><div>五</div>
+                        <div style="color:var(--dn);">六</div><div style="color:var(--dn);">日</div>
+                    </div>
+                    <div class="cal-grid" id="calendar-grid"></div>
+                    <div id="cal-selected-detail" style="margin-top:1.5rem; display:none;"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 2. 詳細歌單足跡 -->
+        <div id="view-events" class="view">
+            <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:1.5rem; flex-wrap:wrap; gap:1rem;">
+                <div>
+                    <h2>詳細場次足跡</h2>
+                    <p style="color:var(--text-secondary); font-weight:700;">勾選你參與過的演出，記錄專屬音樂足跡</p>
+                </div>
+                <button class="btn" id="btn-save-events" onclick="saveFootprint()">💾 儲存足跡</button>
+            </div>
+            <div id="events-list"></div>
+        </div>
+
+        <!-- 3. 金曲機率預測 -->
+        <div id="view-stats" class="view">
+            <div class="card">
+                <h2>📊 金曲出現機率預測</h2>
+                <p style="color:var(--text-secondary); font-weight:700; margin-bottom:1.5rem;">分析歷史歌單，找出該樂團最常唱的歌 (Top 10)</p>
+                
+                <div style="margin-bottom: 1.5rem;">
+                    <label style="font-weight:900; font-size:0.9rem;">選擇樂團：</label>
+                    <select id="stats-band-select" style="padding:0.5rem; font-weight:bold; border:2px solid var(--text-main); margin-left:0.5rem;" onchange="renderStats()"></select>
+                </div>
+                
+                <div id="stats-container">
+                    <!-- Progress bars will be injected here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- 4. 登入與足跡 -->
+        <div id="view-journey" class="view">
+            <div id="journey-auth" style="max-width:440px; margin:2rem auto;">
+                <div class="card" style="text-align:center;">
+                    <h2 style="margin-bottom:1.5rem;">身分驗證</h2>
+                    <div style="text-align:left; margin-bottom:1.5rem;">
+                        <label style="font-size:0.8rem; font-weight:800; color:var(--text-secondary);">輸入專屬 ID (綁定試算表 UserData 區)</label>
+                        <input type="text" id="login-id" placeholder="例如: INDIE-1234" style="text-transform:uppercase;">
+                    </div>
+                    <button class="btn" style="width:100%; margin-bottom:1rem;" onclick="loginUser()">登入查看足跡</button>
+                    <div style="margin:1rem 0; font-weight:900; color:var(--text-secondary);">或</div>
+                    <button class="btn btn-outline" style="width:100%;" onclick="createUserId()">建立全新 ID</button>
+                </div>
+            </div>
+
+            <div id="journey-dashboard" style="display:none; text-align:center;">
+                <div class="card">
+                    <h2>歡迎回來，<span id="display-user-id" style="color:var(--accent);"></span></h2>
+                    <p style="font-weight:800; color:var(--text-secondary); margin-top:0.5rem;">你總共參戰了 <span id="dash-prog-cnt" style="color:var(--text-main); font-size:2rem; font-weight:900;">0</span> 場演出</p>
+                    <button class="btn btn-outline" style="margin-top:2rem;" onclick="logoutUser()">登出</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ==========================================
+        // 設定區
+        // ==========================================
+        const BAND_CONFIG = {
+            'mango': { id: 'mango', name: '芒果醬', color: '#ff5500', icon: '🥭' },
+            'bisiugroup': { id: 'bisiugroup', name: '美秀集團', color: '#ff0055', icon: '🪩' },
+            'papunband': { id: 'papunband', name: '怕胖團', color: '#00aaff', icon: '🤘' },
+            'icyball': { id: 'icyball', name: '冰球樂團', color: '#00cbd5', icon: '🧊' },
+            'gongguan': { id: 'gongguan', name: '公館青少年', color: '#00cc66', icon: '🎸' }
+        };
+
+        const GAS_API_URL = 'https://script.google.com/macros/s/AKfycbwR49SJXjZM55RzbhpQyDv39sVM2J91U8BSs7gKlATQihm_QC60HOHH6FQtiA4CvLJexg/exec';
+        
+        const LS_FOLLOWED = 'indie_followed_bands';
+        const LS_AUTO_LOGIN = 'indie_user_id';
+
+        let appData = { events: [], upcoming: [] };
+        let followedBands = [];
+        let currentUser = null; // { userId: '...', attendedIds: [...] }
+
+        // Calendar state
+        let calCurrentDate = new Date();
+        let calSelectedDateStr = null;
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadLocalBands();
+            fetchData();
+        });
+
+        // ==========================================
+        // 核心邏輯與 Onboarding
+        // ==========================================
+        function loadLocalBands() {
+            const saved = localStorage.getItem(LS_FOLLOWED);
+            if (!saved) {
+                showOnboarding();
+            } else {
+                followedBands = JSON.parse(saved);
+                renderFilterBar();
+            }
+        }
+
+        function showOnboarding() {
+            const grid = document.getElementById('onboarding-band-list');
+            grid.innerHTML = Object.values(BAND_CONFIG).map(b => `
+                <div class="band-card" data-id="${b.id}" onclick="toggleOnboarding(this, '${b.id}')">
+                    <div style="font-size:2.5rem;">${b.icon}</div>
+                    <div style="font-weight:900; font-size:1.1rem; color:var(--text-main); margin-top:0.5rem;">${b.name}</div>
+                </div>
+            `).join('');
+            document.getElementById('onboarding-modal').style.display = 'flex';
+        }
+
+        function toggleOnboarding(el, bandId) {
+            el.classList.toggle('selected');
+            if (el.classList.contains('selected')) {
+                el.style.backgroundColor = BAND_CONFIG[bandId].color + '20';
+                el.style.borderColor = BAND_CONFIG[bandId].color;
+            } else {
+                el.style.backgroundColor = ''; el.style.borderColor = '';
+            }
+        }
+
+        function saveOnboardingAndStart() {
+            const selected = Array.from(document.querySelectorAll('#onboarding-band-list .band-card.selected')).map(el => el.getAttribute('data-id'));
+            if (selected.length === 0) { showToast('請至少選擇一個樂團！'); return; }
+            followedBands = selected;
+            localStorage.setItem(LS_FOLLOWED, JSON.stringify(followedBands));
+            document.getElementById('onboarding-modal').style.display = 'none';
+            renderFilterBar();
+            renderAllViews();
+        }
+
+        function renderFilterBar() {
+            const bar = document.getElementById('global-band-filter');
+            bar.innerHTML = Object.values(BAND_CONFIG).map(b => {
+                const active = followedBands.includes(b.id);
+                return `<div class="band-chip ${active ? 'active' : ''}" style="${active ? 'background:' + b.color + '; border-color:var(--text-main);' : ''}" onclick="toggleBand('${b.id}')">${b.icon} ${b.name}</div>`;
+            }).join('');
+        }
+
+        function toggleBand(id) {
+            if (followedBands.includes(id)) {
+                if (followedBands.length <= 1) { showToast('至少需保留一個樂團！'); return; }
+                followedBands = followedBands.filter(x => x !== id);
+            } else {
+                followedBands.push(id);
+            }
+            localStorage.setItem(LS_FOLLOWED, JSON.stringify(followedBands));
+            renderFilterBar();
+            renderAllViews();
+        }
+
+        function fetchData() {
+            fetch(GAS_API_URL + '?action=getSetlistData')
+                .then(res => res.json())
+                .then(data => {
+                    document.getElementById('local-loader').style.display = 'none';
+                    if (data.success) {
+                        appData.upcoming = data.upcoming || [];
+                        appData.events = data.events || [];
+                        tryAutoLogin();
+                        renderAllViews();
+                        populateStatsSelect();
+                    } else {
+                        document.getElementById('local-loader').innerText = '資料庫連線失敗，請檢查網址';
+                    }
+                })
+                .catch(err => {
+                    document.getElementById('local-loader').innerText = '網路錯誤，無法載入資料';
+                });
+        }
+
+        function getFiltered(list) { return list.filter(item => followedBands.includes(item.band)); }
+
+        function renderAllViews() {
+            renderUpcoming();
+            if (document.getElementById('upcoming-calendar-view').style.display === 'block') {
+                renderUpcomingCalendar();
+            }
+            renderEvents();
+            if (document.getElementById('stats-band-select').options.length > 0) {
+                renderStats();
+            }
+        }
+
+        // ==========================================
+        // 首頁：預告與日曆
+        // ==========================================
+        function formatNote(noteStr) {
+            if (!noteStr) return '';
+            let html = escapeHtml(noteStr);
+            html = html.replace(/([^：:\n]+)[：:]\s*(https?:\/\/[^\s]+)/g, (match, label, url) => {
+                return `<a href="${url}" target="_blank" style="color:var(--accent); text-decoration:underline; font-weight:900; word-break:break-all;">🔗 ${label.trim()}</a>`;
+            });
+            html = html.replace(/(?<!href=")(https?:\/\/[^\s]+)/g, (match, url) => {
+                return `<a href="${url}" target="_blank" style="color:var(--accent); text-decoration:underline; word-break:break-all;">🔗 連結</a>`;
+            });
+            return html.replace(/\n/g, '<br>');
+        }
+
+        function setUpcomingView(mode) {
+            if (mode === 'cal') {
+                document.getElementById('upcoming-list').style.display = 'none';
+                document.getElementById('upcoming-calendar-view').style.display = 'block';
+                document.getElementById('btn-view-cal').style.background = 'var(--text-main)';
+                document.getElementById('btn-view-cal').style.color = '#fff';
+                document.getElementById('btn-view-list').style.background = 'transparent';
+                document.getElementById('btn-view-list').style.color = 'var(--text-main)';
+                renderUpcomingCalendar();
+            } else {
+                document.getElementById('upcoming-list').style.display = 'block';
+                document.getElementById('upcoming-calendar-view').style.display = 'none';
+                document.getElementById('btn-view-list').style.background = 'var(--text-main)';
+                document.getElementById('btn-view-list').style.color = '#fff';
+                document.getElementById('btn-view-cal').style.background = 'transparent';
+                document.getElementById('btn-view-cal').style.color = 'var(--text-main)';
+            }
+        }
+
+        function renderUpcoming() {
+            const widget = document.getElementById('upcoming-widget');
+            const listEl = document.getElementById('upcoming-list');
+            const filtered = getFiltered(appData.upcoming);
+            
+            if (filtered.length === 0) { widget.style.display = 'none'; return; }
+            widget.style.display = 'block';
+
+            listEl.innerHTML = filtered.map(u => {
+                const b = BAND_CONFIG[u.band] || BAND_CONFIG['mango'];
+                let mapHtml = u.mapLink ? `<a href="${escapeHtml(u.mapLink)}" target="_blank" style="color:var(--accent); text-decoration:none; font-weight:900; margin-left:8px; border-bottom:2px solid var(--accent); padding-bottom:1px; white-space:nowrap;">📍 開啟地圖</a>` : '';
+                let noteHtml = u.note ? `<div class="ev-note" style="font-size:0.85rem; font-weight:800; color:var(--text-main); background:var(--bg-subtle); padding:6px 10px; margin-top:8px; border-left:4px solid var(--text-main);">💡 備註：<br>${formatNote(u.note)}</div>` : '';
+
+                return `
+                <div style="padding:1.25rem 0; border-bottom:2px dashed var(--border); display:flex; gap:1rem; align-items:flex-start;">
+                    <div style="background:${b.color}; color:#fff; border:2px solid var(--text-main); padding:0.4rem; text-align:center; min-width:64px; box-shadow:2px 2px 0px var(--text-main); flex-shrink:0;">
+                        <div style="font-size:0.65rem; font-weight:900;">${u.date.substring(4, 6)}月</div>
+                        <div style="font-size:1.25rem; font-weight:900; line-height:1;">${u.date.substring(6, 8)}</div>
+                    </div>
+                    <div class="upc-info">
+                        <div style="font-weight:900; font-size:1.1rem; margin-bottom:4px;">
+                            <span class="band-badge" style="background:${b.color};">${b.name}</span>
+                            ${escapeHtml(u.name)}
+                        </div>
+                        <div style="font-size:0.85rem; font-weight:700; color:var(--text-secondary);">
+                            🕒 ${escapeHtml(u.time)} • 📍 ${escapeHtml(u.location || '未公布')} ${mapHtml}
+                        </div>
+                        ${noteHtml}
+                    </div>
+                </div>`;
+            }).join('');
+        }
+
+        function changeCalMonth(step) {
+            calCurrentDate.setMonth(calCurrentDate.getMonth() + step);
+            renderUpcomingCalendar();
+        }
+
+        function renderUpcomingCalendar() {
+            const year = calCurrentDate.getFullYear();
+            const month = calCurrentDate.getMonth();
+            document.getElementById('cal-month-title').innerText = `${year} / ${String(month + 1).padStart(2, '0')}`;
+
+            const grid = document.getElementById('calendar-grid');
+            grid.innerHTML = '';
+
+            const firstDay = new Date(year, month, 1).getDay();
+            const lastDate = new Date(year, month + 1, 0).getDate();
+            let startDayOfWeek = firstDay - 1; if (startDayOfWeek === -1) startDayOfWeek = 6;
+            const prevLastDate = new Date(year, month, 0).getDate();
+
+            for (let i = startDayOfWeek - 1; i >= 0; i--) {
+                grid.innerHTML += `<div class="cal-day-cell other-month"><span style="display:block; width:100%; text-align:center;">${prevLastDate - i}</span></div>`;
+            }
+
+            const filtered = getFiltered(appData.upcoming);
+            const eventMap = {};
+            filtered.forEach(u => {
+                if (!eventMap[u.date]) eventMap[u.date] = [];
+                eventMap[u.date].push(u);
+            });
+
+            for (let day = 1; day <= lastDate; day++) {
+                const dStr = `${year}${String(month + 1).padStart(2, '0')}${String(day).padStart(2, '0')}`;
+                const evList = eventMap[dStr];
+                const cell = document.createElement('div');
+                cell.className = 'cal-day-cell' + (calSelectedDateStr === dStr ? ' selected' : '');
+                
+                let inner = `<span style="display:block; width:100%; text-align:center; margin-bottom:4px;">${day}</span>`;
+
+                if (evList && evList.length > 0) {
+                    let eventsHtml = evList.map(u => {
+                        const bConfig = BAND_CONFIG[u.band] || BAND_CONFIG['mango'];
+                        let shortLoc = u.location ? u.location.substring(0, 2) : '未定';
+                        return `
+                        <div style="font-size:0.65rem; font-weight:800; color:#fff; background:${bConfig.color}; border:1.5px solid var(--text-main); margin-bottom:3px; padding:2px; width:96%; max-width:100%; text-align:center; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; box-shadow:1px 1px 0px var(--text-main);" title="${escapeHtml(u.name)}">
+                            ${escapeHtml(shortLoc)}(${bConfig.name})
+                        </div>`;
+                    }).join('');
+                    
+                    inner += `<div style="width:100%; display:flex; flex-direction:column; align-items:center;">${eventsHtml}</div>`;
+                    cell.onclick = () => { calSelectedDateStr = dStr; renderUpcomingCalendar(); showCalDateDetail(dStr, evList); };
+                } else {
+                    cell.onclick = () => { calSelectedDateStr = null; renderUpcomingCalendar(); document.getElementById('cal-selected-detail').style.display = 'none'; };
+                }
+                cell.innerHTML = inner;
+                grid.appendChild(cell);
+            }
+        }
+
+        function showCalDateDetail(dateStr, evList) {
+            const box = document.getElementById('cal-selected-detail');
+            box.style.display = 'block';
+            box.innerHTML = `<div style="font-weight:900; border-bottom:2px solid var(--text-main); padding-bottom:6px; margin-bottom:1rem;">📍 演出陣容</div>` + 
+            evList.map(u => {
+                const b = BAND_CONFIG[u.band] || BAND_CONFIG['mango'];
+                return `
+                <div style="border:2px solid var(--border); padding:1rem; margin-bottom:0.75rem;">
+                    <div style="font-weight:900;"><span class="band-badge" style="background:${b.color};">${b.name}</span> ${escapeHtml(u.name)}</div>
+                    <div style="font-size:0.85rem; font-weight:700; margin-top:6px; color:var(--text-secondary);">🕒 ${escapeHtml(u.time)}<br>📍 ${escapeHtml(u.location)}</div>
+                </div>`;
+            }).join('');
+        }
+
+        // ==========================================
+        // 歷史歌單與打卡足跡
+        // ==========================================
+        function renderEvents() {
+            const listEl = document.getElementById('events-list');
+            const filtered = getFiltered(appData.events);
+            
+            if(filtered.length === 0) {
+                listEl.innerHTML = '<div style="font-weight:800;">無符合資料</div>'; return;
+            }
+
+            listEl.innerHTML = filtered.map(e => {
+                const b = BAND_CONFIG[e.band] || BAND_CONFIG['mango'];
+                const isChecked = currentUser && currentUser.attendedIds.includes(e.id) ? 'checked' : '';
+                
+                const setlistHtml = e.setlist && e.setlist.length ? e.setlist.map(s => `
+                    <div class="song-line">
+                        <div>${s.orderStr}. ${s.songName} 
+                            ${s.isEncore ? '<span style="color:var(--accent); font-size:0.75rem;">(安可)</span>' : ''}
+                        </div>
+                    </div>
+                `).join('') : '<div style="color:#888; padding:0.5rem 0; font-weight:700;">無歌單資料</div>';
+
+                return `
+                <div class="card event-card" onclick="this.classList.toggle('expanded')">
+                    <div class="chk-area">
+                        <input type="checkbox" class="ev-chk" data-id="${e.id}" ${isChecked} onclick="event.stopPropagation(); updateFootprintCount();">
+                    </div>
+                    <div class="ev-content">
+                        <div style="font-size:0.85rem; font-weight:800; color:var(--text-secondary); margin-bottom:4px;">${e.date}</div>
+                        <div class="ev-title"><span class="band-badge" style="background:${b.color};">${b.name}</span> ${escapeHtml(e.name)}</div>
+                        <div style="font-size:0.85rem; color:var(--text-secondary); margin:4px 0; font-weight:700;">📍 ${escapeHtml(e.location)}</div>
+                        <div class="ev-body">${setlistHtml}</div>
+                    </div>
+                </div>`;
+            }).join('');
+            
+            updateFootprintCount();
+        }
+
+        // ==========================================
+        // 金曲機率統計 (Statistics)
+        // ==========================================
+        function populateStatsSelect() {
+            const sel = document.getElementById('stats-band-select');
+            sel.innerHTML = Object.values(BAND_CONFIG).map(b => `<option value="${b.id}">${b.icon} ${b.name}</option>`).join('');
+            if (followedBands.length > 0) sel.value = followedBands[0];
+            renderStats();
+        }
+
+        function renderStats() {
+            const bandId = document.getElementById('stats-band-select').value;
+            const bConfig = BAND_CONFIG[bandId];
+            const bandEvents = appData.events.filter(e => e.band === bandId && e.setlist && e.setlist.length > 0);
+            
+            const container = document.getElementById('stats-container');
+            if (bandEvents.length === 0) {
+                container.innerHTML = '<div style="font-weight:800; color:var(--text-secondary);">該樂團目前尚無歷史歌單資料。</div>';
+                return;
+            }
+
+            const totalShows = bandEvents.length;
+            const songCounts = {};
+
+            bandEvents.forEach(ev => {
+                const uniqueSongs = new Set(ev.setlist.map(s => s.songName));
+                uniqueSongs.forEach(songName => {
+                    songCounts[songName] = (songCounts[songName] || 0) + 1;
+                });
+            });
+
+            // Sort by count descending
+            const sortedSongs = Object.keys(songCounts).map(name => ({
+                name: name, count: songCounts[name], pct: Math.round((songCounts[name] / totalShows) * 100)
+            })).sort((a, b) => b.count - a.count).slice(0, 10);
+
+            container.innerHTML = `
+                <div style="margin-bottom:1rem; font-weight:900; font-size:0.85rem; color:var(--text-secondary);">
+                    資料來源：共分析 ${totalShows} 場歷史演出
+                </div>
+            ` + sortedSongs.map(song => `
+                <div class="stat-row">
+                    <div class="stat-label" title="${song.name}">${song.name}</div>
+                    <div class="stat-bar-bg">
+                        <div class="stat-bar-fill" style="width: ${song.pct}%; background-color: ${bConfig.color};"></div>
+                    </div>
+                    <div class="stat-pct">${song.pct}%</div>
+                </div>
+            `).join('');
+        }
+
+        // ==========================================
+        // 登入與足跡存取邏輯
+        // ==========================================
+        function tryAutoLogin() {
+            const savedId = localStorage.getItem(LS_AUTO_LOGIN);
+            if (savedId) {
+                document.getElementById('login-id').value = savedId;
+                loginUser(true);
+            }
+        }
+
+        function loginUser(isAuto = false) {
+            const uid = document.getElementById('login-id').value.trim().toUpperCase();
+            if (!uid) { showToast('請輸入 ID'); return; }
+            
+            fetch(GAS_API_URL + '?action=getUserData&userId=' + encodeURIComponent(uid))
+                .then(res => res.json())
+                .then(data => {
+                    if (data.success) {
+                        currentUser = { userId: data.userId, attendedIds: (data.attendedEvents || '').split(',').filter(x => x) };
+                        localStorage.setItem(LS_AUTO_LOGIN, data.userId);
+                        showDashboard();
+                        renderEvents(); 
+                        if(!isAuto) showToast('登入成功！');
+                    } else {
+                        if(!isAuto) showToast('找不到該 ID，請點擊建立全新 ID');
+                    }
+                });
+        }
+
+        function createUserId() {
+            const uid = 'INDIE-' + Math.random().toString(36).substring(2, 6).toUpperCase();
+            currentUser = { userId: uid, attendedIds: [] };
+            localStorage.setItem(LS_AUTO_LOGIN, uid);
+            showDashboard();
+            showToast('已為你建立專屬 ID！');
+        }
+
+        function logoutUser() {
+            currentUser = null;
+            localStorage.removeItem(LS_AUTO_LOGIN);
+            document.getElementById('journey-auth').style.display = 'block';
+            document.getElementById('journey-dashboard').style.display = 'none';
+            document.getElementById('login-id').value = '';
+            renderEvents();
+            showToast('已登出');
+        }
+
+        function showDashboard() {
+            document.getElementById('journey-auth').style.display = 'none';
+            document.getElementById('journey-dashboard').style.display = 'block';
+            document.getElementById('display-user-id').innerText = currentUser.userId;
+            updateFootprintCount();
+        }
+
+        function updateFootprintCount() {
+            if (!currentUser) return;
+            const checkedBoxes = Array.from(document.querySelectorAll('.ev-chk:checked')).map(cb => cb.getAttribute('data-id'));
+            document.getElementById('dash-prog-cnt').innerText = checkedBoxes.length;
+        }
+
+        function saveFootprint() {
+            if (!currentUser) {
+                showToast('請先前往「登入」分頁建立身分！');
+                switchTab('view-journey');
+                return;
+            }
+            const checkedBoxes = Array.from(document.querySelectorAll('.ev-chk:checked')).map(cb => cb.getAttribute('data-id'));
+            currentUser.attendedIds = checkedBoxes;
+            const payload = { action: 'saveUserData', userId: currentUser.userId, attendedEvents: checkedBoxes.join(','), nickname: '' };
+            
+            fetch(GAS_API_URL, { method: 'POST', body: JSON.stringify(payload) })
+                .then(res => res.json())
+                .then(data => {
+                    if(data.success) showToast('足跡已同步至雲端！');
+                    else showToast('儲存失敗');
+                });
+        }
+
+        // ==========================================
+        // Utilities
+        // ==========================================
+        function switchTab(id) {
+            document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+            document.querySelectorAll('.nav-item').forEach(v => v.classList.remove('active'));
+            document.getElementById(id).classList.add('active');
+            const nav = document.querySelector(`.nav-item[onclick="switchTab('${id}')"]`);
+            if(nav) nav.classList.add('active');
+            window.scrollTo(0,0);
+        }
+
+        function escapeHtml(str) { return String(str || '').replace(/[&<>"']/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "\'": '&#39;' })[m]); }
+        function showToast(msg) {
+            const t = document.getElementById('toast');
+            t.innerText = msg; t.classList.add('show');
+            setTimeout(() => t.classList.remove('show'), 3000);
+        }
+    </script>
+</body>
+</html>
