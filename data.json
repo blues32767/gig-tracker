@@ -30,6 +30,12 @@
       "name": "公館青少年",
       "short": "公館",
       "color": "#2a9d8f"
+    },
+    {
+      "id": "captainlu",
+      "name": "盧廣仲",
+      "short": "廣眾",
+      "color": "#36cc00"
     }
   ],
   "events": [
@@ -3537,6 +3543,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "14ccbe6d-b713-4746-972b-f677ad68f24e",
-  "updatedAt": "2026-10-08T09:27:30.477Z"
+  "revision": "d9e338c7-10d0-4ca5-91e4-f84b7710318d",
+  "updatedAt": "2026-10-08T09:30:12.188Z"
 }
