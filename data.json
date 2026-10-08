@@ -2931,7 +2931,7 @@
       "id": "upcoming-row-5",
       "date": "20261009",
       "band": "mango",
-      "time": "18：40-19-15",
+      "time": "18:40-19:15",
       "name": "宜蘭 2026宜蘭星光音樂節",
       "location": "宜蘭市運動公園",
       "mapLink": "https://maps.app.goo.gl/jxd5BsZTru9AAtm88",
@@ -3563,6 +3563,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "6272aa5e-b0ab-4006-86c9-655602fefdb0",
-  "updatedAt": "2026-10-08T13:04:01.467Z"
+  "revision": "0c0752aa-fdd8-475f-baf3-a8c153f56a3d",
+  "updatedAt": "2026-10-08T13:07:03.690Z"
 }
