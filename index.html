@@ -5,8 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>聽團網 — 下一場，在現場見。</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&display=swap" rel="stylesheet">
-    <!-- FullCalendar CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.css" rel="stylesheet">
     <style>
         :root {
             --bg-main: #f5f5f3;
@@ -27,28 +25,26 @@
             --accent: #d4f55a;
         }
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', system-ui, sans-serif; letter-spacing: -0.01em; }
-        body { background: var(--bg-main); color: var(--text-main); padding-top: 140px; transition: background-color 0.3s, color 0.3s; overflow-x: hidden; }
+        body { background: var(--bg-main); color: var(--text-main); padding-top: 80px; transition: background-color 0.3s, color 0.3s; }
         
         .hero-grid { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(to right, var(--text-main) 1px, transparent 1px), linear-gradient(to bottom, var(--text-main) 1px, transparent 1px); background-size: 40px 40px; opacity: 0.05; pointer-events: none; z-index: -1; }
         html.dark .hero-grid { opacity: 0.1; }
 
-        nav { position: fixed; top: 12px; left: 1rem; right: 1rem; max-width: 1200px; margin: 0 auto; background: var(--bg-card); border: 2px solid var(--text-main); z-index: 1000; box-shadow: 4px 4px 0px var(--text-main); display: flex; flex-direction: column; padding: 0.5rem; gap: 8px; transition: transform 0.3s ease, background-color 0.3s, border-color 0.3s, box-shadow 0.3s; }
-        nav.nav-hidden { transform: translateY(-150%); box-shadow: none; }
-        
+        nav { position: fixed; top: 12px; left: 1rem; right: 1rem; max-width: 1200px; margin: 0 auto; background: var(--bg-card); border: 2px solid var(--text-main); z-index: 1000; box-shadow: 4px 4px 0px var(--text-main); display: flex; flex-direction: column; padding: 0.5rem; gap: 8px; transition: all 0.3s; }
         .nav-top { display: flex; justify-content: space-between; align-items: center; }
         .nav-brand { font-size: 1.1rem; font-weight: 900; color: var(--text-main); text-transform: uppercase; }
-        .nav-links { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; border-top: 1.5px dashed var(--text-main); padding-top: 8px; }
-        .nav-item { font-size: 0.75rem; font-weight: 800; text-align: center; padding: 6px 0; border: 1.5px solid var(--border); background: var(--bg-subtle); color: var(--text-secondary); cursor: pointer; white-space: nowrap; }
+        .nav-links { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; border-top: 1.5px dashed var(--text-main); padding-top: 8px; }
+        .nav-item { font-size: 0.75rem; font-weight: 800; text-align: center; padding: 6px 0; border: 1.5px solid var(--border); background: var(--bg-subtle); color: var(--text-secondary); cursor: pointer; }
         .nav-item.active { background: var(--text-main); color: var(--bg-main); border-color: var(--text-main); }
         .theme-btn { font-size: 0.8rem; font-weight: 800; background: var(--bg-subtle); border: 1.5px solid var(--text-main); padding: 4px 10px; cursor: pointer; box-shadow: 2px 2px 0px var(--text-main); }
         
         @media (min-width: 768px) {
             nav { flex-direction: row; align-items: center; justify-content: space-between; padding: 0 1.5rem; height: 64px; }
             .nav-links { display: flex; border-top: none; padding-top: 0; gap: 8px; }
-            .nav-item { padding: 6px 12px; font-size: 0.85rem; }
+            .nav-item { padding: 6px 16px; font-size: 0.85rem; }
         }
 
-        .container { max-width: 1200px; margin: 0 auto 2rem auto; padding: 0 1rem; width: 100%; overflow-x: hidden; }
+        .container { max-width: 1200px; margin: 1rem auto; padding: 0 1rem; }
         
         .filter-bar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; align-items: center; }
         .filter-btn { font-size: 0.8rem; font-weight: 800; padding: 6px 14px; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); cursor: pointer; border-radius: 20px; box-shadow: 2px 2px 0px var(--text-main); transition: all 0.2s; white-space: nowrap; }
@@ -69,101 +65,66 @@
         .b-gongguan { background: #2a9d8f; border-color: #1f756b; color: #fff;}
         .b-default { background: var(--text-secondary); border-color: var(--text-main); color: var(--bg-main); }
 
-        .search-container { display: flex; flex-direction: column; gap: 8px; margin-bottom: 16px; width: 100%; max-width: 100%; }
-        @media (min-width: 768px) {
-            .search-container { flex-direction: row; justify-content: space-between; align-items: center; }
-        }
-        
-        .search-input { width: 100%; max-width: 100%; padding: 8px 12px; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); font-size: 0.85rem; font-weight: 700; box-shadow: 2px 2px 0px var(--text-main); }
-        @media (min-width: 768px) {
-             .search-input { max-width: 300px; }
-        }
+        .search-input { width: 100%; max-width: 300px; padding: 8px 12px; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); font-size: 0.85rem; font-weight: 700; box-shadow: 2px 2px 0px var(--text-main); margin-bottom: 16px; }
 
-        .events-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 12px; width: 100%; }
-        @media (min-width: 768px) { .events-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-        @media (min-width: 1024px) { .events-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+        .events-grid { display: grid; grid-template-columns: 1fr; gap: 12px; }
+        @media (min-width: 768px) { .events-grid { grid-template-columns: repeat(2, 1fr); } }
+        @media (min-width: 1024px) { .events-grid { grid-template-columns: repeat(3, 1fr); } }
 
-        .compact-card { display: flex; padding: 10px; gap: 12px; background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 3px 3px 0px var(--text-main); border-radius: 6px; align-items: flex-start; transition: transform 0.2s, box-shadow 0.2s; width: 100%; box-sizing: border-box; overflow: hidden;}
+        .compact-card { display: flex; padding: 10px; gap: 12px; background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 3px 3px 0px var(--text-main); border-radius: 6px; align-items: flex-start; transition: transform 0.2s, box-shadow 0.2s; }
         .compact-card:hover { transform: translate(-2px, -2px); box-shadow: 5px 5px 0px var(--text-main); }
         
         .cc-date { display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--text-main); color: var(--bg-main); min-width: 52px; padding: 6px 4px; border-radius: 4px; flex-shrink: 0; }
         .cc-date .m { font-size: 11px; font-weight: 800; margin-bottom: 2px; }
         .cc-date .d { font-size: 20px; font-weight: 900; line-height: 1; }
-        .cc-date .day { font-size: 10px; font-weight: 800; margin-top: 2px; }
+        .cc-date .y { font-size: 9px; font-weight: 700; opacity: 0.8; margin-top: 3px; }
         
-        .cc-info { flex: 1; min-width: 0; display: flex; flex-direction: column;}
-        .cc-title { font-size: 15px; font-weight: 900; color: var(--text-main); line-height: 1.3; margin-bottom: 6px; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; }
+        .cc-info { flex: 1; min-width: 0; }
+        .cc-title { font-size: 15px; font-weight: 900; color: var(--text-main); line-height: 1.3; margin-bottom: 6px; }
         .cc-meta { font-size: 12px; color: var(--text-secondary); font-weight: 700; margin-bottom: 6px; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
         .cc-bands { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 6px; }
         
-        .band-tag { font-size: 10px; font-weight: 800; padding: 2px 6px; border: 1.5px solid var(--text-main); border-radius: 4px; display: inline-flex; align-items: center; gap: 4px; white-space: nowrap; }
+        .band-tag { font-size: 10px; font-weight: 800; padding: 2px 6px; border: 1.5px solid var(--text-main); border-radius: 4px; display: inline-flex; align-items: center; gap: 4px; }
         .band-time { font-weight: 700; font-size: 9px; padding-left: 4px; opacity: 0.9; border-left: 1px solid currentColor; }
         
-        .cc-actions { display: flex; gap: 6px; margin-top: auto; flex-wrap: wrap; }
-        .cc-btn { font-size: 11px; font-weight: 800; padding: 4px 10px; border: 1.5px solid var(--text-main); background: var(--bg-card); color: var(--text-main); text-decoration: none; border-radius: 4px; cursor: pointer; box-shadow: 1.5px 1.5px 0px var(--text-main); transition: background 0.1s; white-space: nowrap; }
+        .cc-note { font-size: 11.5px; color: var(--text-secondary); background: var(--bg-subtle); padding: 6px 8px; border: 1px dashed var(--border); margin-bottom: 8px; line-height: 1.5; border-radius: 4px; white-space: pre-line;}
+        
+        .cc-actions { display: flex; gap: 6px; margin-top: 8px; flex-wrap: wrap; }
+        .cc-btn { font-size: 11px; font-weight: 800; padding: 4px 10px; border: 1.5px solid var(--text-main); background: var(--bg-card); color: var(--text-main); text-decoration: none; border-radius: 4px; cursor: pointer; box-shadow: 1.5px 1.5px 0px var(--text-main); transition: background 0.1s; }
         .cc-btn:hover { background: var(--text-main); color: var(--bg-main); }
         .cc-btn.active { background: var(--text-main); color: var(--bg-main); box-shadow: none; transform: translate(1.5px, 1.5px); }
 
-        .cc-note-wrap { width: 100%; margin-top: 8px; }
-        .cc-note-toggle { font-size: 11px; font-weight: 800; cursor: pointer; color: var(--text-main); padding: 4px 0; display: inline-block; text-decoration: underline; text-decoration-style: dashed;}
-        .cc-note-toggle:hover { color: var(--accent); }
-        .cc-note-content { font-size: 11.5px; color: var(--text-secondary); background: var(--bg-subtle); padding: 6px 8px; border: 1px dashed var(--border); margin-top: 4px; line-height: 1.5; border-radius: 4px; white-space: pre-wrap; word-wrap: break-word; overflow-wrap: break-word; display: none; }
-        .cc-note-content.open { display: block; }
-        
-        .setlists-wrap { width: 100%; margin-top: 8px; }
-        .setlist-summary { font-size: 11px; font-weight: 800; cursor: pointer; color: var(--text-main); padding: 4px 0; display: inline-block; text-decoration: underline; text-decoration-style: dashed; }
+        .setlists-wrap { margin-top: 8px; }
+        .setlist-summary { font-size: 11px; font-weight: 800; cursor: pointer; color: var(--text-main); padding: 4px 0; display: inline-block;}
         .setlist-summary:hover { color: var(--accent); }
-        .setlist-content { background: var(--bg-subtle); border: 1.5px dashed var(--text-main); padding: 8px; font-size: 11.5px; font-weight: 700; border-radius: 4px; margin-top: 4px; display: none; word-wrap: break-word; overflow-wrap: break-word; }
+        .setlist-content { background: var(--bg-subtle); border: 1.5px dashed var(--text-main); padding: 8px; font-size: 11.5px; font-weight: 700; border-radius: 4px; margin-top: 4px; display: none; }
         .setlist-content.open { display: block; }
         .sl-band-title { font-weight: 900; color: var(--text-main); margin: 6px 0 2px 0; border-bottom: 1px solid var(--border); padding-bottom: 2px;}
-        .sl-song { padding: 2px 0; color: var(--text-secondary); display: flex; align-items: center; gap: 4px; flex-wrap: wrap; }
+        .sl-song { padding: 2px 0; color: var(--text-secondary); display: flex; align-items: center; gap: 4px;}
         
         .section-title { font-size: 1.25rem; font-weight: 900; margin-bottom: 12px; color: var(--text-main); display: flex; justify-content: space-between; align-items: center; }
-        .empty-state { text-align: center; padding: 3rem 1rem; border: 2px dashed var(--text-main); background: var(--bg-card); border-radius: 8px; font-weight: 800; color: var(--text-secondary); grid-column: 1 / -1; width: 100%; box-sizing: border-box; }
+        .empty-state { text-align: center; padding: 3rem 1rem; border: 2px dashed var(--text-main); background: var(--bg-card); border-radius: 8px; font-weight: 800; color: var(--text-secondary); grid-column: 1 / -1; }
         .btn-more { display: block; width: 100%; max-width: 200px; margin: 20px auto; text-align: center; font-size: 0.9rem; padding: 8px; font-weight: 800; background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 3px 3px 0px var(--text-main); cursor: pointer; color: var(--text-main); border-radius: 4px; }
         
         /* Stats Styles */
-        .stats-list { background: var(--bg-card); padding: 20px; border: 2px solid var(--text-main); box-shadow: 4px 4px 0px var(--text-main); border-radius: 8px; width: 100%; box-sizing: border-box; overflow-x: auto;}
-        .stat-row { display: grid; grid-template-columns: 120px 1fr 50px; align-items: center; gap: 12px; margin: 12px 0; font-size: 12px; font-weight: 800; min-width: 300px; }
+        .stats-list { background: var(--bg-card); padding: 20px; border: 2px solid var(--text-main); box-shadow: 4px 4px 0px var(--text-main); border-radius: 8px; }
+        .stat-row { display: grid; grid-template-columns: 120px 1fr 50px; align-items: center; gap: 12px; margin: 12px 0; font-size: 12px; font-weight: 800; }
         .stat-bar-bg { height: 8px; background: var(--bg-subtle); border-radius: 10px; overflow: hidden; border: 1px solid var(--text-main); }
         .stat-bar-fill { height: 100%; background: var(--text-main); }
-        .stats-select { padding: 6px; font-size: 12px; font-weight: 700; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); box-shadow: 2px 2px 0px var(--text-main); margin-bottom: 16px; max-width: 100%; }
+        .stats-select { padding: 6px; font-size: 12px; font-weight: 700; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); box-shadow: 2px 2px 0px var(--text-main); margin-bottom: 16px; }
 
-        /* Calendar Styles */
-        #calendar-container { background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 4px 4px 0px var(--text-main); border-radius: 8px; padding: 10px; margin-top: 10px; width: 100%; box-sizing: border-box; overflow-x: auto; }
-        .fc-theme-standard td, .fc-theme-standard th { border: 1px solid var(--border); }
-        .fc-theme-standard .fc-scrollgrid { border: 2px solid var(--text-main); }
-        .fc .fc-toolbar-title { font-weight: 900; color: var(--text-main); font-size: 1.2rem; }
-        .fc .fc-button-primary { background-color: var(--text-main); border-color: var(--text-main); color: var(--bg-main); font-weight: 800; font-family: 'Inter', sans-serif; text-transform: uppercase; box-shadow: 2px 2px 0px var(--accent); transition: all 0.2s;}
-        .fc .fc-button-primary:hover { background-color: var(--text-secondary); border-color: var(--text-secondary); box-shadow: none; transform: translate(2px, 2px);}
-        .fc .fc-button-primary:not(:disabled).fc-button-active, .fc .fc-button-primary:not(:disabled):active { background-color: var(--text-secondary); border-color: var(--text-secondary); box-shadow: none;}
-        .fc .fc-daygrid-day-number { color: var(--text-main); font-weight: 800; }
-        .fc .fc-col-header-cell-cushion { color: var(--text-main); font-weight: 900; padding: 8px 4px; }
-        .fc-event { border: 1px solid var(--text-main); border-radius: 2px; padding: 1px 2px; font-size: 0.7rem; font-weight: 700; color: var(--text-main) !important; cursor: pointer; box-shadow: 1px 1px 0px var(--text-main); margin-bottom: 2px; overflow: hidden; text-overflow: ellipsis; }
-        .fc-event-title { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block; }
-        
-        html.dark .fc .fc-button-primary { color: var(--text-main); background-color: var(--bg-subtle); }
-        html.dark .fc .fc-button-primary:hover { background-color: var(--text-main); color: var(--bg-main); }
-        html.dark .fc-event { color: #111 !important; } /* force dark text on events in dark mode for contrast if backgrounds are light */
-        
-        /* Tooltip for Calendar */
-        .cal-tooltip { position: absolute; z-index: 10001; background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 4px 4px 0px var(--text-main); padding: 10px; border-radius: 6px; font-size: 12px; max-width: 250px; display: none; pointer-events: none; }
-        .cal-tooltip h4 { margin: 0 0 4px 0; font-weight: 900; color: var(--text-main); }
-        .cal-tooltip p { margin: 0 0 4px 0; color: var(--text-secondary); font-weight: 700;}
-
-        .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: var(--text-main); color: var(--bg-main); padding: 8px 16px; font-size: 12px; font-weight: 800; border-radius: 4px; z-index: 2000; box-shadow: 4px 4px 0px var(--accent); max-width: 90vw; text-align: center;}
+        .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: var(--text-main); color: var(--bg-main); padding: 8px 16px; font-size: 12px; font-weight: 800; border-radius: 4px; z-index: 2000; box-shadow: 4px 4px 0px var(--accent); }
     </style>
 </head>
 <body>
     <div class="hero-grid"></div>
-    <nav id="navbar">
+    <nav>
         <div class="nav-top">
             <div class="nav-brand">聽團網 TING TUAN</div>
             <button class="theme-btn" onclick="toggleTheme()">◑ 主題</button>
         </div>
         <div class="nav-links">
-            <div class="nav-item active" data-tab="upcoming">預告列表</div>
-            <div class="nav-item" data-tab="calendar">行事曆</div>
+            <div class="nav-item active" data-tab="upcoming">演出預告</div>
             <div class="nav-item" data-tab="events">歷史歌單</div>
             <div class="nav-item" data-tab="stats">歌曲統計</div>
             <div class="nav-item" data-tab="footprints">我的足跡</div>
@@ -172,13 +133,13 @@
 
     <div class="container">
         <div class="filter-bar" id="filters"></div>
-        <div class="search-container" id="search-bar-wrapper">
+        <div style="display:flex; justify-content:space-between; align-items:center;">
             <input type="text" id="search" class="search-input" placeholder="搜尋活動、地點、歌曲...">
             <div id="status" style="font-size:10px; font-weight:700; color:var(--text-secondary); text-align:right;"></div>
         </div>
         
         <div class="section-title">
-            <span id="tab-title">預告列表</span>
+            <span id="tab-title">演出預告</span>
             <span id="result-count" style="font-size: 0.8rem; background: var(--text-main); color: var(--bg-main); padding: 2px 8px; border-radius: 12px;">0 場</span>
         </div>
 
@@ -192,29 +153,19 @@
         </div>
 
         <div id="content"></div>
-        
-        <div id="calendar-container" style="display: none;">
-            <div id="calendar"></div>
-        </div>
     </div>
     
-    <div id="cal-tooltip" class="cal-tooltip"></div>
     <div id="toast" class="toast" style="display:none;"></div>
-
-    <!-- FullCalendar JS -->
-    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/locales/zh-tw.js"></script>
 
     <script>
         const DATA_URL = './data.json';
         const BANDS = {
-            mango: { name: '芒果醬', short: '芒', class: 'b-mango', color: '#ff6600' },
-            bisiugroup: { name: '美秀集團', short: '美秀', class: 'b-bisiugroup', color: '#e63946' },
-            papunband: { name: '怕胖團', short: '怕胖', class: 'b-papunband', color: '#1d3557' },
-            icyball: { name: '冰球樂團', short: '冰球', class: 'b-icyball', color: '#00b4d8' },
-            gongguan: { name: '公館青少年', short: '公館', class: 'b-gongguan', color: '#2a9d8f' }
+            mango: { name: '芒果醬', short: '芒', class: 'b-mango' },
+            bisiugroup: { name: '美秀集團', short: '美秀', class: 'b-bisiugroup' },
+            papunband: { name: '怕胖團', short: '怕胖', class: 'b-papunband' },
+            icyball: { name: '冰球樂團', short: '冰球', class: 'b-icyball' },
+            gongguan: { name: '公館青少年', short: '公館', class: 'b-gongguan' }
         };
-        const DAY_NAMES = ['日', '一', '二', '三', '四', '五', '六'];
 
         const $ = s => document.querySelector(s);
         const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -224,41 +175,12 @@
         let tab = 'upcoming', query = '', limit = 24, statsBand = 'all';
         let selectedBands = new Set(['all']);
         let footprints = new Set(storage.get('ting-footprints', []));
-        let calendar;
 
         const taipeiParts = Object.fromEntries(new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Taipei', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date()).map(p => [p.type, p.value]));
         const taipeiToday = taipeiParts.year + taipeiParts.month + taipeiParts.day;
 
-        // --- Navbar Hide on Scroll ---
-        let lastScrollY = window.scrollY;
-        const navbar = document.getElementById('navbar');
-        
-        window.addEventListener('scroll', () => {
-            const currentScrollY = window.scrollY;
-            if (currentScrollY > lastScrollY && currentScrollY > 100) {
-                // Scrolling down
-                navbar.classList.add('nav-hidden');
-            } else {
-                // Scrolling up
-                navbar.classList.remove('nav-hidden');
-            }
-            lastScrollY = currentScrollY;
-        }, { passive: true });
-        // ------------------------------
-
         function dateKey(s) { return String(s || '').replace(/[-/]/g, '').replace(/\.0$/, ''); }
-        
-        function getDayOfWeek(dateString) {
-            // Format YYYYMMDD
-            if (!dateString || dateString.length !== 8) return '';
-            const y = parseInt(dateString.substring(0, 4));
-            const m = parseInt(dateString.substring(4, 6)) - 1;
-            const d = parseInt(dateString.substring(6, 8));
-            const dateObj = new Date(y, m, d);
-            return DAY_NAMES[dateObj.getDay()];
-        }
-
-        function bandInfo(id) { return BANDS[id] || { name: id, short: Array.from(id || '?')[0], class: 'b-default', color: '#666' }; }
+        function bandInfo(id) { return BANDS[id] || { name: id, short: Array.from(id || '?')[0], class: 'b-default' }; }
         function safeUrl(u) { try { const x = new URL(u); return x.protocol === 'https:' ? x.href : '' } catch { return '' } }
 
         function showToast(msg) {
@@ -326,24 +248,12 @@
                 e.target.classList.add('active');
                 tab = e.target.dataset.tab;
                 limit = 24;
-                
                 $('#footprints-actions').style.display = tab === 'footprints' ? 'block' : 'none';
-                $('#search-bar-wrapper').style.display = tab === 'calendar' ? 'none' : 'flex';
-                $('#filters').style.display = (tab === 'calendar' || tab === 'stats') ? 'none' : 'flex';
                 
-                const titles = { upcoming: '預告列表', calendar: '行事曆', events: '歷史歌單', stats: '歌曲統計', footprints: '我的現場足跡' };
+                const titles = { upcoming: '演出預告', events: '歷史歌單', stats: '歌曲統計', footprints: '我的現場足跡' };
                 $('#tab-title').innerText = titles[tab];
                 
-                if (tab === 'calendar') {
-                    $('#content').style.display = 'none';
-                    $('#result-count').style.display = 'none';
-                    $('#calendar-container').style.display = 'block';
-                    renderCalendar();
-                } else {
-                    $('#content').style.display = 'block';
-                    $('#calendar-container').style.display = 'none';
-                    render();
-                }
+                render();
             });
         });
 
@@ -360,10 +270,6 @@
         function toggleTheme() {
             const isDark = document.documentElement.classList.toggle('dark');
             storage.set('ting-theme', isDark ? 'dark' : 'light');
-            if(tab === 'calendar' && calendar) {
-                // minor re-render needed for some styles if needed, usually CSS variables handle it
-                calendar.render(); 
-            }
         }
         if (storage.get('ting-theme') === 'dark') document.documentElement.classList.add('dark');
 
@@ -423,56 +329,25 @@
         }
 
         window.toggleFootprint = toggleFootprint;
-        window.toggleContent = function(el) {
+        window.toggleSetlist = function(el) {
             const content = el.nextElementSibling;
             content.classList.toggle('open');
-            el.innerText = content.classList.contains('open') ? el.innerText.replace('▶', '▼') : el.innerText.replace('▼', '▶');
         };
 
         function buildCard(g, historical) {
             const k = dateKey(g.date);
             const map = safeUrl(g.mapLink), ticket = safeUrl(g.ticketUrl);
-            const dayStr = getDayOfWeek(k);
             
             const bandsHtml = g.bands.map(b => {
                 const bi = bandInfo(b.id);
-                return `<span class="band-tag ${bi.class}">${esc(bi.short)}</span>`;
+                const timeHtml = b.time && b.time !== '未定' ? `<span class="band-time">${esc(b.time)}</span>` : '';
+                return `<span class="band-tag ${bi.class}">${esc(bi.short)} ${timeHtml}</span>`;
             }).join('');
-
-            let notesHtml = '';
-            if (g.notes.length > 0) {
-                // Combine notes and time info into the hidden note section
-                let combinedNotes = [];
-                g.bands.forEach(b => {
-                    if(b.time && b.time !== '未定') {
-                        combinedNotes.push(`[${bandInfo(b.id).name}] 時間: ${b.time}`);
-                    }
-                });
-                combinedNotes = combinedNotes.concat(g.notes);
-                
-                notesHtml = `
-                <div class="cc-note-wrap">
-                    <div class="cc-note-toggle" onclick="toggleContent(this)">▶ 查看活動資訊與備註</div>
-                    <div class="cc-note-content">${esc(combinedNotes.join('
-'))}</div>
-                </div>`;
-            } else {
-                 // If no notes, still show time if available
-                let times = g.bands.filter(b=> b.time && b.time !== '未定').map(b=> `[${bandInfo(b.id).name}] ${b.time}`);
-                if(times.length > 0) {
-                     notesHtml = `
-                    <div class="cc-note-wrap">
-                        <div class="cc-note-toggle" onclick="toggleContent(this)">▶ 查看時間資訊</div>
-                        <div class="cc-note-content">${esc(times.join('
-'))}</div>
-                    </div>`;
-                }
-            }
 
             let setlistsHtml = '';
             if (historical && g.totalSongs > 0) {
                 setlistsHtml = `<div class="setlists-wrap">
-                    <div class="setlist-summary" onclick="toggleContent(this)">▶ 展開歷史歌單 (${g.totalSongs} 首)</div>
+                    <div class="setlist-summary" onclick="toggleSetlist(this)">▶ 展開歌單 (${g.totalSongs} 首)</div>
                     <div class="setlist-content">`;
                 g.bands.forEach(b => {
                     if (b.setlist && b.setlist.length > 0) {
@@ -488,30 +363,21 @@
             const isAttended = g.originalIds.some(id => footprints.has(id));
             const idsJoined = g.originalIds.join(',');
 
-            // Google Maps quick link format if no map link provided
-            let finalMapLink = map;
-            if(!finalMapLink && g.location) {
-                finalMapLink = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(g.location)}`;
-            }
-
             return `
             <div class="compact-card">
                 <div class="cc-date">
                     <div class="m">${esc(k.slice(4,6))}月</div>
                     <div class="d">${esc(k.slice(6,8))}</div>
-                    <div class="day">${dayStr}</div>
+                    <div class="y">${esc(k.slice(0,4))}</div>
                 </div>
                 <div class="cc-info">
                     <div class="cc-title">${esc(g.name)}</div>
-                    <div class="cc-meta">
-                        ${finalMapLink ? `<a href="${esc(finalMapLink)}" target="_blank" style="color:inherit; text-decoration:underline;">📍 ${esc(g.location || '地點待公布')}</a>` : `📍 ${esc(g.location || '地點待公布')}`}
-                    </div>
+                    <div class="cc-meta">📍 ${esc(g.location || '地點待公布')}</div>
                     <div class="cc-bands">${bandsHtml}</div>
-                    
-                    ${notesHtml}
+                    ${g.notes.length > 0 ? `<div class="cc-note">${esc(g.notes.join('\n'))}</div>` : ''}
                     ${setlistsHtml}
-                    
                     <div class="cc-actions">
+                        ${map ? `<a href="${esc(map)}" target="_blank" class="cc-btn">地圖</a>` : ''}
                         ${ticket ? `<a href="${esc(ticket)}" target="_blank" class="cc-btn">購票</a>` : ''}
                         ${historical ? `<button class="cc-btn ${isAttended ? 'active' : ''}" onclick="toggleFootprint('${idsJoined}', this)">${isAttended ? '✓ 足跡' : '＋ 足跡'}</button>` : ''}
                     </div>
@@ -543,7 +409,7 @@
                     html += `
                     <div class="stat-row">
                         <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                            <span style="color: var(--bg-main); font-weight: 900; margin-right: 4px; background:var(--text-main); padding: 2px 6px; border-radius: 4px;">#${idx+1}</span> 
+                            <span style="color: var(--accent); font-weight: 900; margin-right: 4px; background:var(--text-main); padding: 2px 6px; border-radius: 4px;">#${idx+1}</span> 
                             ${esc(name)}
                         </div>
                         <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: ${pct}%;"></div></div>
@@ -554,107 +420,8 @@
             html += '</div>';
             $('#content').innerHTML = html;
         }
-        
-        function renderCalendar() {
-            if (calendar) {
-                calendar.destroy();
-            }
-            
-            let calEvents = [];
-            
-            // Combine upcoming and events for calendar
-            let allSourceList = [...data.upcoming, ...data.events];
-            let groupedForCal = groupEvents(allSourceList);
-            
-            groupedForCal.forEach(g => {
-                const dateStr = g.date; // format YYYYMMDD
-                if(dateStr.length === 8) {
-                    const y = dateStr.substring(0,4);
-                    const m = dateStr.substring(4,6);
-                    const d = dateStr.substring(6,8);
-                    const isoDate = `${y}-${m}-${d}`;
-                    
-                    g.bands.forEach(b => {
-                        const bi = bandInfo(b.id);
-                        calEvents.push({
-                            title: `[${bi.short}] ${g.name}`,
-                            start: isoDate,
-                            backgroundColor: bi.color,
-                            borderColor: bi.color,
-                            textColor: '#fff',
-                            extendedProps: {
-                                location: g.location,
-                                bands: g.bands.map(bb=> bandInfo(bb.id).name).join(', '),
-                                time: b.time || '未定'
-                            }
-                        });
-                    });
-                }
-            });
-
-            const calendarEl = document.getElementById('calendar');
-            calendar = new FullCalendar.Calendar(calendarEl, {
-                locale: 'zh-tw',
-                initialView: 'dayGridMonth',
-                headerToolbar: {
-                    left: 'prev,next today',
-                    center: 'title',
-                    right: 'dayGridMonth'
-                },
-                events: calEvents,
-                height: 'auto',
-                contentHeight: 'auto',
-                aspectRatio: 1.35,
-                eventMouseEnter: function(info) {
-                    const tooltip = document.getElementById('cal-tooltip');
-                    tooltip.innerHTML = `
-                        <h4>${esc(info.event.title)}</h4>
-                        <p>📍 ${esc(info.event.extendedProps.location || '未定')}</p>
-                        <p>⏰ ${esc(info.event.extendedProps.time)}</p>
-                    `;
-                    tooltip.style.display = 'block';
-                    
-                    // Basic positioning
-                    const rect = info.el.getBoundingClientRect();
-                    tooltip.style.top = (rect.bottom + window.scrollY + 5) + 'px';
-                    tooltip.style.left = (rect.left + window.scrollX) + 'px';
-                },
-                eventMouseLeave: function(info) {
-                    document.getElementById('cal-tooltip').style.display = 'none';
-                },
-                windowResize: function(view) {
-                    if (window.innerWidth < 768) {
-                         calendar.setOption('aspectRatio', 0.8);
-                         calendar.setOption('headerToolbar', {
-                            left: 'prev,next',
-                            center: 'title',
-                            right: 'today'
-                        });
-                    } else {
-                        calendar.setOption('aspectRatio', 1.35);
-                        calendar.setOption('headerToolbar', {
-                            left: 'prev,next today',
-                            center: 'title',
-                            right: 'dayGridMonth'
-                        });
-                    }
-                }
-            });
-            calendar.render();
-            // trigger resize logic once on init
-            if (window.innerWidth < 768) {
-                 calendar.setOption('aspectRatio', 0.8);
-                 calendar.setOption('headerToolbar', {
-                    left: 'prev,next',
-                    center: 'title',
-                    right: 'today'
-                });
-            }
-        }
 
         function render() {
-            if (tab === 'calendar') return;
-            
             renderFilters();
             if (tab === 'stats') {
                 $('#result-count').style.display = 'none';
@@ -663,14 +430,8 @@
             }
             $('#result-count').style.display = 'inline-block';
 
-            const historical = tab !== 'events' ? false : true; // only 'events' tab is historical
-            
-            let sourceList = [];
-            if(tab === 'upcoming') {
-                sourceList = data.upcoming.filter(e => dateKey(e.date) >= taipeiToday);
-            } else if (tab === 'events' || tab === 'footprints') {
-                 sourceList = data.events;
-            }
+            const historical = tab !== 'upcoming';
+            let sourceList = historical ? data.events : data.upcoming.filter(e => dateKey(e.date) >= taipeiToday);
             
             let groupedList = groupEvents(sourceList);
             groupedList = filterGrouped(groupedList);
