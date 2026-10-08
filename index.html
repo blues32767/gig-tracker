@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>聽團網 — 下一場，在現場見。</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&display=swap" rel="stylesheet">
-    <!-- FullCalendar CSS -->
     <link href="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.css" rel="stylesheet">
     <style>
         :root {
@@ -75,9 +74,7 @@
         }
         
         .search-input { width: 100%; max-width: 100%; padding: 8px 12px; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); font-size: 0.85rem; font-weight: 700; box-shadow: 2px 2px 0px var(--text-main); }
-        @media (min-width: 768px) {
-             .search-input { max-width: 300px; }
-        }
+        @media (min-width: 768px) { .search-input { max-width: 300px; } }
 
         .events-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 12px; width: 100%; }
         @media (min-width: 768px) { .events-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
@@ -129,28 +126,27 @@
         .stat-bar-fill { height: 100%; background: var(--text-main); }
         .stats-select { padding: 6px; font-size: 12px; font-weight: 700; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); box-shadow: 2px 2px 0px var(--text-main); margin-bottom: 16px; max-width: 100%; }
 
-        /* Calendar Styles */
+        /* Calendar Styles (Updated for text wrapping) */
         #calendar-container { background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 4px 4px 0px var(--text-main); border-radius: 8px; padding: 10px; margin-top: 10px; width: 100%; box-sizing: border-box; overflow-x: auto; }
         .fc-theme-standard td, .fc-theme-standard th { border: 1px solid var(--border); }
         .fc-theme-standard .fc-scrollgrid { border: 2px solid var(--text-main); }
         .fc .fc-toolbar-title { font-weight: 900; color: var(--text-main); font-size: 1.2rem; }
         .fc .fc-button-primary { background-color: var(--text-main); border-color: var(--text-main); color: var(--bg-main); font-weight: 800; font-family: 'Inter', sans-serif; text-transform: uppercase; box-shadow: 2px 2px 0px var(--accent); transition: all 0.2s;}
         .fc .fc-button-primary:hover { background-color: var(--text-secondary); border-color: var(--text-secondary); box-shadow: none; transform: translate(2px, 2px);}
-        .fc .fc-button-primary:not(:disabled).fc-button-active, .fc .fc-button-primary:not(:disabled):active { background-color: var(--text-secondary); border-color: var(--text-secondary); box-shadow: none;}
-        .fc .fc-daygrid-day-number { color: var(--text-main); font-weight: 800; }
+        .fc .fc-daygrid-day-number { color: var(--text-main); font-weight: 800; cursor: pointer; text-decoration: underline; }
         .fc .fc-col-header-cell-cushion { color: var(--text-main); font-weight: 900; padding: 8px 4px; }
-        .fc-event { border: 1px solid var(--text-main); border-radius: 2px; padding: 1px 2px; font-size: 0.7rem; font-weight: 700; color: var(--text-main) !important; cursor: pointer; box-shadow: 1px 1px 0px var(--text-main); margin-bottom: 2px; overflow: hidden; text-overflow: ellipsis; }
-        .fc-event-title { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block; }
+        .fc-event { 
+            border: 1px solid var(--text-main); border-radius: 2px; padding: 2px !important; 
+            font-size: 10px; font-weight: 700; color: var(--text-main) !important; cursor: pointer; 
+            box-shadow: 1px 1px 0px var(--text-main); margin-bottom: 2px;
+            white-space: normal !important; overflow: visible !important; text-align: center;
+        }
+        .fc-event-title { white-space: pre-wrap !important; overflow: visible !important; line-height: 1.3; }
         
         html.dark .fc .fc-button-primary { color: var(--text-main); background-color: var(--bg-subtle); }
         html.dark .fc .fc-button-primary:hover { background-color: var(--text-main); color: var(--bg-main); }
-        html.dark .fc-event { color: #111 !important; } /* force dark text on events in dark mode for contrast if backgrounds are light */
+        html.dark .fc-event { color: #111 !important; }
         
-        /* Tooltip for Calendar */
-        .cal-tooltip { position: absolute; z-index: 10001; background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 4px 4px 0px var(--text-main); padding: 10px; border-radius: 6px; font-size: 12px; max-width: 250px; display: none; pointer-events: none; }
-        .cal-tooltip h4 { margin: 0 0 4px 0; font-weight: 900; color: var(--text-main); }
-        .cal-tooltip p { margin: 0 0 4px 0; color: var(--text-secondary); font-weight: 700;}
-
         .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: var(--text-main); color: var(--bg-main); padding: 8px 16px; font-size: 12px; font-weight: 800; border-radius: 4px; z-index: 2000; box-shadow: 4px 4px 0px var(--accent); max-width: 90vw; text-align: center;}
     </style>
 </head>
@@ -171,42 +167,55 @@
     </nav>
 
     <div class="container">
+        <!-- 移除了原先行事曆隱藏篩選列的邏輯，現在全域顯示 -->
         <div class="filter-bar" id="filters"></div>
         <div class="search-container" id="search-bar-wrapper">
             <input type="text" id="search" class="search-input" placeholder="搜尋活動、地點、歌曲...">
             <div id="status" style="font-size:10px; font-weight:700; color:var(--text-secondary); text-align:right;"></div>
         </div>
         
-        <div class="section-title">
+        <div class="section-title" id="section-title-wrap">
             <span id="tab-title">預告列表</span>
             <span id="result-count" style="font-size: 0.8rem; background: var(--text-main); color: var(--bg-main); padding: 2px 8px; border-radius: 12px;">0 場</span>
         </div>
 
         <div id="footprints-actions" style="display:none; margin-bottom: 16px;">
-            <button class="cc-btn" id="export">匯出足跡</button>
+            <div style="background:var(--bg-card); border:2px dashed var(--text-main); padding:16px; border-radius:8px; margin-bottom:16px;">
+                <div style="font-size:13px; font-weight:900; margin-bottom:10px; color:var(--text-main);">☁ 我的足跡雲端帳號</div>
+                <div style="display:flex; gap:8px; flex-wrap:wrap; align-items:center;">
+                    <input type="text" id="user-id-input" placeholder="輸入自訂 ID..." style="flex:1; min-width:120px; padding:8px 12px; border:2px solid var(--text-main); border-radius:4px; font-weight:800; font-size:14px;">
+                    <button class="cc-btn" id="generate-id" onclick="generateId()">隨機產生</button>
+                    <button class="cc-btn active" id="cloud-sync" onclick="cloudSync()">同步到雲端</button>
+                </div>
+            </div>
+            <div id="footprints-analysis" style="margin-bottom:20px;"></div>
+            
+            <button class="cc-btn" id="export">匯出足跡 (.json)</button>
             <label>
                 <input type="file" id="import" accept="application/json" hidden>
                 <button class="cc-btn" onclick="document.getElementById('import').click()">匯入足跡</button>
             </label>
-            <div style="font-size: 11px; color: var(--text-secondary); margin-top: 6px; font-weight: 700;">足跡保存在此裝置瀏覽器。清除資料後會消失，可匯出 JSON 備份。</div>
         </div>
 
         <div id="content"></div>
         
         <div id="calendar-container" style="display: none;">
             <div id="calendar"></div>
+            <!-- 行事曆點擊後顯示卡片的區塊 -->
+            <div id="calendar-events-list"></div>
         </div>
     </div>
     
-    <div id="cal-tooltip" class="cal-tooltip"></div>
     <div id="toast" class="toast" style="display:none;"></div>
 
-    <!-- FullCalendar JS -->
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/locales/zh-tw.js"></script>
 
     <script>
+        // ★★★ 請替換成你的 GAS Web App URL ★★★
+        const GAS_URL = 'https://script.google.com/macros/s/AKfycbwR49SJXjZM55RzbhpQyDv39sVM2J91U8BSs7gKlATQihm_QC60HOHH6FQtiA4CvLJexg/exec';
         const DATA_URL = './data.json';
+        
         const BANDS = {
             mango: { name: '芒果醬', short: '芒', class: 'b-mango', color: '#ff6600' },
             bisiugroup: { name: '美秀集團', short: '美秀', class: 'b-bisiugroup', color: '#e63946' },
@@ -223,39 +232,29 @@
         let data = { upcoming: [], events: [], songsMap: {} };
         let tab = 'upcoming', query = '', limit = 24, statsBand = 'all';
         let selectedBands = new Set(['all']);
+        
         let footprints = new Set(storage.get('ting-footprints', []));
+        let userId = storage.get('ting-user-id', '');
         let calendar;
 
         const taipeiParts = Object.fromEntries(new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Taipei', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date()).map(p => [p.type, p.value]));
         const taipeiToday = taipeiParts.year + taipeiParts.month + taipeiParts.day;
 
-        // --- Navbar Hide on Scroll ---
         let lastScrollY = window.scrollY;
         const navbar = document.getElementById('navbar');
-        
         window.addEventListener('scroll', () => {
             const currentScrollY = window.scrollY;
-            if (currentScrollY > lastScrollY && currentScrollY > 100) {
-                // Scrolling down
-                navbar.classList.add('nav-hidden');
-            } else {
-                // Scrolling up
-                navbar.classList.remove('nav-hidden');
-            }
+            if (currentScrollY > lastScrollY && currentScrollY > 100) navbar.classList.add('nav-hidden');
+            else navbar.classList.remove('nav-hidden');
             lastScrollY = currentScrollY;
         }, { passive: true });
-        // ------------------------------
 
         function dateKey(s) { return String(s || '').replace(/[-/]/g, '').replace(/\.0$/, ''); }
         
         function getDayOfWeek(dateString) {
-            // Format YYYYMMDD
             if (!dateString || dateString.length !== 8) return '';
-            const y = parseInt(dateString.substring(0, 4));
-            const m = parseInt(dateString.substring(4, 6)) - 1;
-            const d = parseInt(dateString.substring(6, 8));
-            const dateObj = new Date(y, m, d);
-            return DAY_NAMES[dateObj.getDay()];
+            const y = parseInt(dateString.substring(0, 4)), m = parseInt(dateString.substring(4, 6)) - 1, d = parseInt(dateString.substring(6, 8));
+            return DAY_NAMES[new Date(y, m, d).getDay()];
         }
 
         function bandInfo(id) { return BANDS[id] || { name: id, short: Array.from(id || '?')[0], class: 'b-default', color: '#666' }; }
@@ -267,6 +266,53 @@
             setTimeout(() => $('#toast').style.display = 'none', 3000);
         }
 
+        // --- User ID & Cloud Sync Logic ---
+        if(userId) $('#user-id-input').value = userId;
+
+        function generateId() {
+            const newId = 'USER_' + Math.random().toString(36).substring(2, 10).toUpperCase();
+            $('#user-id-input').value = newId;
+            storage.set('ting-user-id', newId);
+        }
+
+        $('#user-id-input').addEventListener('change', e => {
+            storage.set('ting-user-id', e.target.value.trim());
+        });
+
+        async function cloudSync() {
+            const uid = $('#user-id-input').value.trim();
+            if(!uid) { showToast('請輸入或產生 ID'); return; }
+            $('#cloud-sync').innerText = '同步中...';
+            
+            try {
+                // 1. Fetch cloud data to merge
+                const getRes = await fetch(`${GAS_URL}?action=getUser&userId=${encodeURIComponent(uid)}`);
+                const getJson = await getRes.json();
+                if(getJson.success && getJson.data) {
+                    const cloudIds = JSON.parse(getJson.data);
+                    cloudIds.forEach(id => footprints.add(id)); // Merge
+                }
+                
+                // 2. Post merged data back to cloud
+                const body = new URLSearchParams({
+                    action: 'syncUser',
+                    userId: uid,
+                    data: JSON.stringify([...footprints])
+                });
+                await fetch(GAS_URL, { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: body });
+                
+                storage.set('ting-footprints', [...footprints]);
+                storage.set('ting-user-id', uid);
+                showToast('足跡雲端同步成功！');
+                if(tab === 'footprints') render();
+            } catch(e) {
+                showToast('同步失敗，可能遇到跨域或網路問題');
+                console.error(e);
+            }
+            $('#cloud-sync').innerText = '同步到雲端';
+        }
+        // ----------------------------------
+
         async function load() {
             $('#status').innerText = "讀取中...";
             try {
@@ -276,6 +322,19 @@
                 data = d;
                 storage.set('ting-data-v1', d);
                 $('#status').innerText = `已同步 (更新於 ${new Date(d.updatedAt || Date.now()).toLocaleDateString()})`;
+                
+                // 若有自動登入，背景嘗試拉取雲端足跡 (靜默)
+                if(userId && GAS_URL !== '你的_GAS_網址_請替換') {
+                    fetch(`${GAS_URL}?action=getUser&userId=${encodeURIComponent(userId)}`)
+                        .then(r => r.json())
+                        .then(j => {
+                            if(j.success && j.data) {
+                                JSON.parse(j.data).forEach(id => footprints.add(id));
+                                storage.set('ting-footprints', [...footprints]);
+                            }
+                        }).catch(e=>{});
+                }
+                
                 render();
             } catch (e) {
                 const cached = storage.get('ting-data-v1', null);
@@ -316,7 +375,11 @@
                     }
                 }
                 limit = 24;
-                render();
+                if (tab === 'calendar') {
+                    renderCalendar(); // 行事曆支援動態過濾
+                } else {
+                    render();
+                }
             }
         });
 
@@ -329,15 +392,17 @@
                 
                 $('#footprints-actions').style.display = tab === 'footprints' ? 'block' : 'none';
                 $('#search-bar-wrapper').style.display = tab === 'calendar' ? 'none' : 'flex';
-                $('#filters').style.display = (tab === 'calendar' || tab === 'stats') ? 'none' : 'flex';
+                // 移除了原本行事曆會隱藏 filters 的邏輯，讓行事曆也能點選樂團
+                $('#filters').style.display = tab === 'stats' ? 'none' : 'flex';
                 
                 const titles = { upcoming: '預告列表', calendar: '行事曆', events: '歷史歌單', stats: '歌曲統計', footprints: '我的現場足跡' };
                 $('#tab-title').innerText = titles[tab];
+                $('#section-title-wrap').style.display = tab === 'calendar' ? 'none' : 'flex';
                 
                 if (tab === 'calendar') {
                     $('#content').style.display = 'none';
-                    $('#result-count').style.display = 'none';
                     $('#calendar-container').style.display = 'block';
+                    $('#calendar-events-list').innerHTML = ''; // 清空下方列表
                     renderCalendar();
                 } else {
                     $('#content').style.display = 'block';
@@ -360,10 +425,7 @@
         function toggleTheme() {
             const isDark = document.documentElement.classList.toggle('dark');
             storage.set('ting-theme', isDark ? 'dark' : 'light');
-            if(tab === 'calendar' && calendar) {
-                // minor re-render needed for some styles if needed, usually CSS variables handle it
-                calendar.render(); 
-            }
+            if(tab === 'calendar' && calendar) calendar.render(); 
         }
         if (storage.get('ting-theme') === 'dark') document.documentElement.classList.add('dark');
 
@@ -373,14 +435,8 @@
                 const key = dateKey(e.date) + '|' + (e.location || '未定');
                 if (!groupedMap.has(key)) {
                     groupedMap.set(key, {
-                        originalIds: [],
-                        date: e.date,
-                        location: e.location,
-                        name: e.name, 
-                        mapLink: e.mapLink,
-                        ticketUrl: e.ticketUrl,
-                        notes: [],
-                        bands: []
+                        originalIds: [], date: e.date, location: e.location, name: e.name, 
+                        mapLink: e.mapLink, ticketUrl: e.ticketUrl, notes: [], bands: []
                     });
                 }
                 const group = groupedMap.get(key);
@@ -434,44 +490,35 @@
             const map = safeUrl(g.mapLink), ticket = safeUrl(g.ticketUrl);
             const dayStr = getDayOfWeek(k);
             
-            const bandsHtml = g.bands.map(b => {
-                const bi = bandInfo(b.id);
-                return `<span class="band-tag ${bi.class}">${esc(bi.short)}</span>`;
-            }).join('');
+            const bandsHtml = g.bands.map(b => `<span class="band-tag ${bandInfo(b.id).class}">${esc(bandInfo(b.id).short)}</span>`).join('');
 
             let notesHtml = '';
-            if (g.notes.length > 0) {
-                // Combine notes and time info into the hidden note section
-                let combinedNotes = [];
-                g.bands.forEach(b => {
-                    if(b.time && b.time !== '未定') {
-                        combinedNotes.push(`[${bandInfo(b.id).name}] 時間: ${b.time}`);
+            let combinedNotes = [];
+            g.bands.forEach(b => {
+                if(b.time && b.time !== '未定') combinedNotes.push(`[${bandInfo(b.id).name}] 時間：${b.time}`);
+            });
+            combinedNotes = combinedNotes.concat(g.notes);
+            
+            if (combinedNotes.length > 0) {
+                // 【修改】將備註內容中的 "活動網址：https://..." 轉為超連結格式
+                const processedNotesHtml = combinedNotes.map(line => {
+                    const match = line.match(/^(.*?)：(https?:\/\/[^\s]+)(.*)$/);
+                    if (match) {
+                        return `<a href="${esc(match[2])}" target="_blank" style="color:var(--text-main); font-weight:900; text-decoration:underline; word-break:break-all;">${esc(match[1])}</a>${esc(match[3])}`;
                     }
-                });
-                combinedNotes = combinedNotes.concat(g.notes);
+                    return esc(line).replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" style="color:var(--text-main); font-weight:900; text-decoration:underline; word-break:break-all;">$1</a>');
+                }).join('<br>');
                 
                 notesHtml = `
                 <div class="cc-note-wrap">
-                    <div class="cc-note-toggle" onclick="toggleContent(this)">▶ 查看活動資訊與備註</div>
-                   <div class="cc-note-content">${esc(combinedNotes.join('\n'))}</div>
+                    <div class="cc-note-toggle" onclick="toggleContent(this)">▶ 查看活動資訊與時間</div>
+                    <div class="cc-note-content">${processedNotesHtml}</div>
                 </div>`;
-            } else {
-                 // If no notes, still show time if available
-                let times = g.bands.filter(b=> b.time && b.time !== '未定').map(b=> `[${bandInfo(b.id).name}] ${b.time}`);
-                if(times.length > 0) {
-                     notesHtml = `
-                    <div class="cc-note-wrap">
-                        <div class="cc-note-toggle" onclick="toggleContent(this)">▶ 查看時間資訊</div>
-                        <div class="cc-note-content">${esc(times.join('\n'))}</div>
-                    </div>`;
-                }
             }
 
             let setlistsHtml = '';
             if (historical && g.totalSongs > 0) {
-                setlistsHtml = `<div class="setlists-wrap">
-                    <div class="setlist-summary" onclick="toggleContent(this)">▶ 展開歷史歌單 (${g.totalSongs} 首)</div>
-                    <div class="setlist-content">`;
+                setlistsHtml = `<div class="setlists-wrap"><div class="setlist-summary" onclick="toggleContent(this)">▶ 展開歷史歌單 (${g.totalSongs} 首)</div><div class="setlist-content">`;
                 g.bands.forEach(b => {
                     if (b.setlist && b.setlist.length > 0) {
                         setlistsHtml += `<div class="sl-band-title">${esc(bandInfo(b.id).name)}</div>`;
@@ -485,12 +532,7 @@
 
             const isAttended = g.originalIds.some(id => footprints.has(id));
             const idsJoined = g.originalIds.join(',');
-
-            // Google Maps quick link format if no map link provided
-            let finalMapLink = map;
-            if(!finalMapLink && g.location) {
-                finalMapLink = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(g.location)}`;
-            }
+            let finalMapLink = map ? map : (g.location ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(g.location)}` : '');
 
             return `
             <div class="compact-card">
@@ -505,13 +547,49 @@
                         ${finalMapLink ? `<a href="${esc(finalMapLink)}" target="_blank" style="color:inherit; text-decoration:underline;">📍 ${esc(g.location || '地點待公布')}</a>` : `📍 ${esc(g.location || '地點待公布')}`}
                     </div>
                     <div class="cc-bands">${bandsHtml}</div>
-                    
                     ${notesHtml}
                     ${setlistsHtml}
-                    
                     <div class="cc-actions">
                         ${ticket ? `<a href="${esc(ticket)}" target="_blank" class="cc-btn">購票</a>` : ''}
                         ${historical ? `<button class="cc-btn ${isAttended ? 'active' : ''}" onclick="toggleFootprint('${idsJoined}', this)">${isAttended ? '✓ 足跡' : '＋ 足跡'}</button>` : ''}
+                    </div>
+                </div>
+            </div>`;
+        }
+
+        // 足跡分析畫面渲染
+        function renderFootprintStats() {
+            const attended = data.events.filter(e => footprints.has(e.id));
+            if(attended.length === 0) {
+                $('#footprints-analysis').innerHTML = `<div class="empty-state">尚未有足跡紀錄。先去「歷史歌單」找找你去過的現場吧！</div>`;
+                return;
+            }
+            
+            let bandsCount = new Map(), songCounts = new Map();
+            attended.forEach(e => {
+                bandsCount.set(e.band, (bandsCount.get(e.band)||0) + 1);
+                if(e.setlist) e.setlist.forEach(s => songCounts.set(s.songName, (songCounts.get(s.songName)||0) + 1));
+            });
+            
+            const topBand = [...bandsCount].sort((a,b)=>b[1]-a[1])[0]?.[0];
+            const topSong = [...songCounts].sort((a,b)=>b[1]-a[1])[0]?.[0];
+            const uniqueSongs = songCounts.size;
+            
+            $('#footprints-analysis').innerHTML = `
+            <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:20px;">
+                <div style="background:var(--bg-card); border:2px solid var(--text-main); padding:16px; border-radius:8px; box-shadow:3px 3px 0px var(--text-main);">
+                    <div style="font-size:11px; color:var(--text-secondary); font-weight:800;">參戰場次</div>
+                    <div style="font-size:28px; font-weight:900; color:var(--text-main);">${attended.length} <span style="font-size:14px;">場</span></div>
+                </div>
+                <div style="background:var(--bg-card); border:2px solid var(--text-main); padding:16px; border-radius:8px; box-shadow:3px 3px 0px var(--text-main);">
+                    <div style="font-size:11px; color:var(--text-secondary); font-weight:800;">解鎖歌曲</div>
+                    <div style="font-size:28px; font-weight:900; color:var(--text-main);">${uniqueSongs} <span style="font-size:14px;">首</span></div>
+                </div>
+                <div style="grid-column:1/-1; background:var(--accent); border:2px solid var(--text-main); padding:16px; border-radius:8px; box-shadow:3px 3px 0px var(--text-main);">
+                    <div style="font-size:11px; color:var(--text-main); font-weight:800;">你的靈魂最愛</div>
+                    <div style="font-size:18px; font-weight:900; color:var(--text-main); margin-top:4px;">
+                        👑 樂團：${bandInfo(topBand).name} <br>
+                        🎵 歌曲：${esc(topSong || '無紀錄')}
                     </div>
                 </div>
             </div>`;
@@ -552,149 +630,114 @@
             html += '</div>';
             $('#content').innerHTML = html;
         }
+
+        function renderCalendarDateEvents(dateStr) {
+            const clickedDate = dateStr.replace(/-/g, '');
+            let sourceList = [...data.upcoming, ...data.events];
+            let groupedList = groupEvents(sourceList).filter(g => dateKey(g.date) === clickedDate);
+            // 套用目前上方過濾器的條件
+            groupedList = filterGrouped(groupedList);
+            
+            let html = '<div class="events-grid" style="margin-top:20px;">';
+            if (groupedList.length === 0) {
+                html += '<div class="empty-state">這天沒有符合條件的演出行程。</div>';
+            } else {
+                const isHistorical = clickedDate < taipeiToday;
+                groupedList.forEach(g => { html += buildCard(g, isHistorical); });
+            }
+            html += '</div>';
+            
+            $('#calendar-events-list').innerHTML = `
+                <div class="section-title" style="margin-top:30px; padding-top:20px; border-top:2px dashed var(--text-main);">
+                    <span>📌 ${dateStr.replace(/-/g, '/')} 現場清單</span>
+                </div>
+                ${html}
+            `;
+            $('#calendar-events-list').scrollIntoView({ behavior: 'smooth' });
+        }
         
         function renderCalendar() {
-            if (calendar) {
-                calendar.destroy();
-            }
-            
+            if (calendar) calendar.destroy();
             let calEvents = [];
-            
-            // Combine upcoming and events for calendar
             let allSourceList = [...data.upcoming, ...data.events];
-            let groupedForCal = groupEvents(allSourceList);
+            let groupedForCal = filterGrouped(groupEvents(allSourceList)); // 先過濾樂團
             
             groupedForCal.forEach(g => {
-                const dateStr = g.date; // format YYYYMMDD
+                const dateStr = g.date;
                 if(dateStr.length === 8) {
-                    const y = dateStr.substring(0,4);
-                    const m = dateStr.substring(4,6);
-                    const d = dateStr.substring(6,8);
-                    const isoDate = `${y}-${m}-${d}`;
-                    
+                    const isoDate = `${dateStr.substring(0,4)}-${dateStr.substring(4,6)}-${dateStr.substring(6,8)}`;
                     g.bands.forEach(b => {
                         const bi = bandInfo(b.id);
+                        // 【修改】只取地點的前兩個字 + 樂團代號 + 斷行顯示
+                        const locPrefix = (g.location || '').substring(0, 2) || '未定';
                         calEvents.push({
-                            title: `[${bi.short}] ${g.name}`,
+                            title: `${locPrefix}\n[${bi.short}]`,
                             start: isoDate,
                             backgroundColor: bi.color,
                             borderColor: bi.color,
-                            textColor: '#fff',
-                            extendedProps: {
-                                location: g.location,
-                                bands: g.bands.map(bb=> bandInfo(bb.id).name).join(', '),
-                                time: b.time || '未定'
-                            }
+                            textColor: '#fff'
                         });
                     });
                 }
             });
 
-            const calendarEl = document.getElementById('calendar');
-            calendar = new FullCalendar.Calendar(calendarEl, {
+            calendar = new FullCalendar.Calendar(document.getElementById('calendar'), {
                 locale: 'zh-tw',
                 initialView: 'dayGridMonth',
-                headerToolbar: {
-                    left: 'prev,next today',
-                    center: 'title',
-                    right: 'dayGridMonth'
-                },
+                headerToolbar: { left: 'prev,next today', center: 'title', right: 'dayGridMonth' },
                 events: calEvents,
                 height: 'auto',
                 contentHeight: 'auto',
                 aspectRatio: 1.35,
-                eventMouseEnter: function(info) {
-                    const tooltip = document.getElementById('cal-tooltip');
-                    tooltip.innerHTML = `
-                        <h4>${esc(info.event.title)}</h4>
-                        <p>📍 ${esc(info.event.extendedProps.location || '未定')}</p>
-                        <p>⏰ ${esc(info.event.extendedProps.time)}</p>
-                    `;
-                    tooltip.style.display = 'block';
-                    
-                    // Basic positioning
-                    const rect = info.el.getBoundingClientRect();
-                    tooltip.style.top = (rect.bottom + window.scrollY + 5) + 'px';
-                    tooltip.style.left = (rect.left + window.scrollX) + 'px';
-                },
-                eventMouseLeave: function(info) {
-                    document.getElementById('cal-tooltip').style.display = 'none';
-                },
+                dateClick: function(info) { renderCalendarDateEvents(info.dateStr); },
+                eventClick: function(info) { renderCalendarDateEvents(info.event.startStr); },
                 windowResize: function(view) {
                     if (window.innerWidth < 768) {
                          calendar.setOption('aspectRatio', 0.8);
-                         calendar.setOption('headerToolbar', {
-                            left: 'prev,next',
-                            center: 'title',
-                            right: 'today'
-                        });
+                         calendar.setOption('headerToolbar', { left: 'prev,next', center: 'title', right: 'today' });
                     } else {
                         calendar.setOption('aspectRatio', 1.35);
-                        calendar.setOption('headerToolbar', {
-                            left: 'prev,next today',
-                            center: 'title',
-                            right: 'dayGridMonth'
-                        });
+                        calendar.setOption('headerToolbar', { left: 'prev,next today', center: 'title', right: 'dayGridMonth' });
                     }
                 }
             });
             calendar.render();
-            // trigger resize logic once on init
             if (window.innerWidth < 768) {
                  calendar.setOption('aspectRatio', 0.8);
-                 calendar.setOption('headerToolbar', {
-                    left: 'prev,next',
-                    center: 'title',
-                    right: 'today'
-                });
+                 calendar.setOption('headerToolbar', { left: 'prev,next', center: 'title', right: 'today' });
             }
         }
 
         function render() {
             if (tab === 'calendar') return;
-            
             renderFilters();
-            if (tab === 'stats') {
-                $('#result-count').style.display = 'none';
-                renderStats();
-                return;
-            }
+            if (tab === 'stats') { $('#result-count').style.display = 'none'; renderStats(); return; }
             $('#result-count').style.display = 'inline-block';
 
-            const historical = tab !== 'events' ? false : true; // only 'events' tab is historical
-            
+            const historical = tab !== 'events' ? false : true;
             let sourceList = [];
-            if(tab === 'upcoming') {
-                sourceList = data.upcoming.filter(e => dateKey(e.date) >= taipeiToday);
-            } else if (tab === 'events' || tab === 'footprints') {
-                 sourceList = data.events;
-            }
+            if(tab === 'upcoming') sourceList = data.upcoming.filter(e => dateKey(e.date) >= taipeiToday);
+            else if (tab === 'events' || tab === 'footprints') sourceList = data.events;
             
             let groupedList = groupEvents(sourceList);
             groupedList = filterGrouped(groupedList);
-            
             if (tab === 'footprints') {
                 groupedList = groupedList.filter(g => g.originalIds.some(id => footprints.has(id)));
+                renderFootprintStats(); // 渲染分析面板
             }
 
             groupedList.sort((a, b) => historical ? dateKey(b.date).localeCompare(dateKey(a.date)) : dateKey(a.date).localeCompare(dateKey(b.date)));
-            
             $('#result-count').innerText = `${groupedList.length} 場`;
 
             let html = '<div class="events-grid">';
             if (groupedList.length === 0) {
                 html += '<div class="empty-state">目前沒有符合條件的演出。</div>';
             } else {
-                groupedList.slice(0, limit).forEach(g => {
-                    html += buildCard(g, historical);
-                });
+                groupedList.slice(0, limit).forEach(g => { html += buildCard(g, tab === 'upcoming' ? false : true); });
             }
             html += '</div>';
 
-            if (groupedList.length > limit) {
-                html += `<button class="btn-more" onclick="limit+=24; render();">載入更多 ↓</button>`;
-            }
-
+            if (groupedList.length > limit) html += `<button class="btn-more" onclick="limit+=24; render();">載入更多 ↓</button>`;
             $('#content').innerHTML = html;
         }
 
@@ -714,9 +757,7 @@
                 storage.set('ting-footprints', [...footprints]);
                 showToast('足跡已成功匯入！');
                 render();
-            } catch (err) {
-                showToast(err.message);
-            }
+            } catch (err) { showToast(err.message); }
         });
 
         load();
