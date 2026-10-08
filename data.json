@@ -2962,16 +2962,6 @@
       "note": "免費  14:00-23:00\n*芒果醬Mangojump\n-表演 16:00-16:40 海風舞台\n-訪問 17:30-18:00 海膽舞台 (hitFM90.1)\n時間表：https://www.facebook.com/share/p/1Drj1qMBxv/\n活動海報：https://www.takaorock.tw/upload/attachments/9039469968.jpg\n活動官方ＦＢ：https://www.facebook.com/TAKAOfest"
     },
     {
-      "id": "upcoming-row-43",
-      "date": "20261014",
-      "band": "papunband",
-      "time": "tes",
-      "name": "tset",
-      "location": "test",
-      "mapLink": "",
-      "note": "test"
-    },
-    {
       "id": "upcoming-row-9",
       "date": "20261017",
       "band": "gongguan",
@@ -3547,6 +3537,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "4d27aaab-c59f-40ba-b285-7c1b4aa7aec9",
-  "updatedAt": "2026-10-08T09:25:57.322Z"
+  "revision": "14ccbe6d-b713-4746-972b-f677ad68f24e",
+  "updatedAt": "2026-10-08T09:27:30.477Z"
 }
