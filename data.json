@@ -3118,6 +3118,16 @@
       "note": "免費\n━━━━【11/01】━━━━\n｜怕胖團｜芒果醬｜VH\n｜林希子 x URBAN BAND\n｜U:NUS｜Ozone\n❑花蓮縣富里鄉天使之眼大草原❑\n▶〈資料來源：富里鄉公所〉◀\n貼文：https://www.facebook.com/100064452321544/posts/1528275889330807/?app=fbl"
     },
     {
+      "id": "upcoming-row-44",
+      "date": "20261101",
+      "band": "icyball",
+      "time": "",
+      "name": "台中 搖滾台中",
+      "location": "臺中文心森林公園",
+      "mapLink": "",
+      "note": "免費\n活動貼文：https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專：https://www.facebook.com/RockInTaichungMusicFestival/"
+    },
+    {
       "id": "upcoming-row-24",
       "date": "20261107",
       "band": "mango",
@@ -3553,6 +3563,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "398e25ba-1d70-4bed-ad60-619af9341d10",
-  "updatedAt": "2026-10-08T09:34:02.347Z"
+  "revision": "5a8405ab-4458-4324-a68b-c13a82ddab97",
+  "updatedAt": "2026-10-08T10:40:21.568Z"
 }
