@@ -1,5 +1,37 @@
 {
   "success": true,
+  "bands": [
+    {
+      "id": "mango",
+      "name": "芒果醬",
+      "short": "芒",
+      "color": "#ff6600"
+    },
+    {
+      "id": "bisiugroup",
+      "name": "美秀集團",
+      "short": "美秀",
+      "color": "#e63946"
+    },
+    {
+      "id": "papunband",
+      "name": "怕胖團",
+      "short": "怕胖",
+      "color": "#1d3557"
+    },
+    {
+      "id": "icyball",
+      "name": "冰球樂團",
+      "short": "冰球",
+      "color": "#00b4d8"
+    },
+    {
+      "id": "gongguan",
+      "name": "公館青少年",
+      "short": "公館",
+      "color": "#2a9d8f"
+    }
+  ],
   "events": [
     {
       "id": "EV_20261231_M",
@@ -3285,19 +3317,19 @@
       "songName": "不換",
       "spotify": "https://...",
       "youtubeMv": "https://...",
-      "lyrics": "〈不換〉\n歌詞..."
+      "lyrics": "歌詞文字..."
     },
     "S_MANGO_01": {
       "songId": "S_MANGO_01",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "我喜歡你",
       "spotify": "https://open.spotify.com/track/6FpUCVpLvO0QXwsovSfWEa",
       "youtubeMv": "https://www.youtube.com/watch?v=Q-Y-C_S5HFY",
-      "lyrics": "〈我喜歡你〉\n喔愛 什麼是愛..."
+      "lyrics": "〈我喜歡你 I'm Into You 〉\r\n喔愛　什麼是愛\r\n你看我的眼神怎麼這麼可愛\r\n若是講你的心親像大海\r\n我也會甘願　為了你暈船\r\n\r\n喔喔喔愛　什麼是愛\r\n你看我的眼神甘嘸一絲絲愛\r\n真想欲在這個花花世界\r\n帶你去一個　溫暖的所在\r\n\r\nNow I just want hold you tight, oh baby don’t cry.\r\nI miss you in this rainy night.\r\nI’ll show you the best in my mind.\r\nLet’s dance in the night.\r\nI will sing a song for you, the love in my eyes.\r\n（I’ll write a poem for you, the love in my eyes.）\r\n\r\n喔喔喔愛　有你的將來\r\n我對你的感情我講不出來\r\n在這個風風雨雨的世界\r\n你敢會嫌棄　我騎摩托車\r\n\r\n喔喔喔愛　有我的未來\r\n我對你的感情我要講出來\r\n在這個風風雨雨的世界\r\n我永遠在這　等你瞭解\r\n\r\n喔喔喔愛\r\n\r\n喔愛　什麼是愛\r\n你看我的眼神有一絲悲哀\r\n真想欲在這個混亂世界\r\n做你的心中　安身的所在\r\n\r\n喔喔喔愛　有我的未來\r\n我對你的感情我要講出來\r\n在這個吵吵鬧鬧的時代\r\n請你站在這　在這聽我說\r\n\r\n我喜歡你\r\n\r\n喔愛　什麼是愛\r\n我對你的感情甘可以叫作愛\r\n若是有一天你想要瞭解\r\n我永遠在這　我予你時間\r\n喔喔喔愛"
     },
     "S_MANGO_02": {
       "songId": "S_MANGO_02",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "我不想工作aka我會中樂透",
       "spotify": "https://open.spotify.com/track/5IqaZdsIrs4cyH2PnAemhw?si=1936dacb55ef4545",
       "youtubeMv": "https://www.youtube.com/watch?v=OyeATtbuOFw",
@@ -3305,7 +3337,7 @@
     },
     "S_MANGO_03": {
       "songId": "S_MANGO_03",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "小紫-給我錢",
       "spotify": "https://open.spotify.com/track/4FZ4qOboa8lShfJM83N3Pf?si=6eddf5c853e5408d",
       "youtubeMv": "https://www.youtube.com/watch?v=gCa2L_mC3w8",
@@ -3313,7 +3345,7 @@
     },
     "S_MANGO_04": {
       "songId": "S_MANGO_04",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "九彎十八拐",
       "spotify": "https://open.spotify.com/track/1ZalNzLDU5nQHtysrY3TxI?si=c41af1a3ef6e47ac",
       "youtubeMv": "https://www.youtube.com/watch?v=xX1FYlFEANs",
@@ -3321,7 +3353,7 @@
     },
     "S_MANGO_05": {
       "songId": "S_MANGO_05",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "阿基里斯",
       "spotify": "https://open.spotify.com/track/3grfyfny4HPV4sKuqi4xq9",
       "youtubeMv": "https://www.youtube.com/watch?v=c0adKx7wvnc",
@@ -3329,7 +3361,7 @@
     },
     "S_MANGO_06": {
       "songId": "S_MANGO_06",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "陳小魚aka妳的心我的心",
       "spotify": "https://open.spotify.com/track/6p6eua2dtC6sytuheiCTrJ?si=4a42190e4e24488f",
       "youtubeMv": "https://www.youtube.com/watch?v=f8oGaPKAJdc",
@@ -3337,7 +3369,7 @@
     },
     "S_MANGO_07": {
       "songId": "S_MANGO_07",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "夏夜晚風",
       "spotify": "https://open.spotify.com/track/3AC2gM5jm7IZBliXHSjG9P?si=708a1948ff5c4eac",
       "youtubeMv": "https://www.youtube.com/watch?v=ZMN9TFioGyg",
@@ -3345,7 +3377,7 @@
     },
     "S_MANGO_08": {
       "songId": "S_MANGO_08",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "敢有人愛我",
       "spotify": "https://open.spotify.com/track/04PZNwgkMetGudb7ahGhgB?si=943b3c1a0cfb481b",
       "youtubeMv": "https://www.youtube.com/watch?v=ra6FtwuNMVU",
@@ -3353,7 +3385,7 @@
     },
     "S_MANGO_09": {
       "songId": "S_MANGO_09",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "團長",
       "spotify": "https://open.spotify.com/track/4XbhB6eS9NvpTK04b7u2lc?si=edae10cfca944850",
       "youtubeMv": "https://www.youtube.com/watch?v=_PAbZ6OZenY",
@@ -3361,7 +3393,7 @@
     },
     "S_MANGO_10": {
       "songId": "S_MANGO_10",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "Bittersweet",
       "spotify": "https://open.spotify.com/track/2rOUAYWW3PNAQ1wsECNCPw?si=bf89907784b14800",
       "youtubeMv": "https://www.youtube.com/watch?v=j8oaDr3ot3Q",
@@ -3369,7 +3401,7 @@
     },
     "S_MANGO_11": {
       "songId": "S_MANGO_11",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "月亮",
       "spotify": "https://open.spotify.com/track/72DMWUqA8F3gdcnMbSy3Q3?si=6d9ba6f317ae4201",
       "youtubeMv": "https://www.youtube.com/watch?v=Zy6HieZgCFM",
@@ -3377,7 +3409,7 @@
     },
     "S_MANGO_12": {
       "songId": "S_MANGO_12",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "飛去長灘島 aka 馬上買機票",
       "spotify": "https://open.spotify.com/track/5en1eE7RVSoswHTW6w900x?si=83bc2a67583f430f",
       "youtubeMv": "https://www.youtube.com/watch?v=BZn87toc1Zk",
@@ -3385,7 +3417,7 @@
     },
     "S_MANGO_13": {
       "songId": "S_MANGO_13",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "風",
       "spotify": "https://open.spotify.com/track/2nwRk2QTUrMPfDcpISEvPY?si=9f2cea6222274366",
       "youtubeMv": "https://www.youtube.com/watch?v=lk7f6nk_3Ss",
@@ -3393,7 +3425,7 @@
     },
     "S_MANGO_14": {
       "songId": "S_MANGO_14",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "抱歉",
       "spotify": "https://open.spotify.com/track/7pkz47b80Yo71cAKnbfERy?si=2267eb060485465a",
       "youtubeMv": "https://www.youtube.com/watch?v=vTTdt7D7KtI",
@@ -3401,7 +3433,7 @@
     },
     "S_MANGO_15": {
       "songId": "S_MANGO_15",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "孤單滷三塊",
       "spotify": "https://open.spotify.com/track/5yNq182N0c8Qr1yBafV2qR?si=d52b2db4dff34f0e",
       "youtubeMv": "https://www.youtube.com/watch?v=L1YaNbdQP44",
@@ -3409,7 +3441,7 @@
     },
     "S_MANGO_16": {
       "songId": "S_MANGO_16",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "飛吧萊特",
       "spotify": "https://open.spotify.com/track/0sFaRFGbAWKHsWCJo429Sa?si=b21dcb24708b44c7",
       "youtubeMv": "https://www.youtube.com/watch?v=L_U_s--etOQ",
@@ -3417,7 +3449,7 @@
     },
     "S_MANGO_17": {
       "songId": "S_MANGO_17",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "芒太郎",
       "spotify": "https://open.spotify.com/track/792zkpRW4wZJPkk9oWtmnf?si=40fa496761c54b19",
       "youtubeMv": "https://www.youtube.com/watch?v=6ja_sCDKy74",
@@ -3425,7 +3457,7 @@
     },
     "S_MANGO_18": {
       "songId": "S_MANGO_18",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "長夜",
       "spotify": "https://open.spotify.com/track/3pU6yme3KgdLMSWQSWtHXC?si=8a9864342f6048ad",
       "youtubeMv": "https://www.youtube.com/watch?v=105hWCYgf04",
@@ -3433,7 +3465,7 @@
     },
     "S_MANGO_19": {
       "songId": "S_MANGO_19",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "心臟",
       "spotify": "https://open.spotify.com/track/4OHw2xPQiZqty57gQ43IBF?si=c8e794e60a9c4b5a",
       "youtubeMv": "https://www.youtube.com/watch?v=bYezT_-PLOE",
@@ -3441,7 +3473,7 @@
     },
     "S_MANGO_20": {
       "songId": "S_MANGO_20",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "早安",
       "spotify": "https://open.spotify.com/track/6RG2TmuPNynYrecZbBGKTh?si=8784914b95da494c",
       "youtubeMv": "https://www.youtube.com/watch?v=Qt6N0ZNzNik",
@@ -3449,7 +3481,7 @@
     },
     "S_MANGO_21": {
       "songId": "S_MANGO_21",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "愛河",
       "spotify": "https://open.spotify.com/track/6Ml2iT71B4SuSqUydTsUJk?si=e51b12f30748497d",
       "youtubeMv": "https://www.youtube.com/watch?v=bl_SCkq6m8Q",
@@ -3457,7 +3489,7 @@
     },
     "S_MANGO_22": {
       "songId": "S_MANGO_22",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "停下來",
       "spotify": "https://open.spotify.com/track/6fmtkxNNlpnqBQX1g5tBb9?si=631b6c7a1cc9476d",
       "youtubeMv": "https://www.youtube.com/watch?v=Xa5puaEcpTI",
@@ -3465,7 +3497,7 @@
     },
     "S_MANGO_23": {
       "songId": "S_MANGO_23",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "讓我照顧妳",
       "spotify": "https://open.spotify.com/track/7AB54z783sISJvq8cjV6Y0?si=e42968a3ba2f488b",
       "youtubeMv": "https://www.youtube.com/watch?v=HZyUCJ5f8OU",
@@ -3473,7 +3505,7 @@
     },
     "S_MANGO_24": {
       "songId": "S_MANGO_24",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "再見電影院",
       "spotify": "https://open.spotify.com/track/4JJ8GRo0zdKos9tePuHgSG?si=d4a9332f925a465c",
       "youtubeMv": "https://www.youtube.com/watch?v=qogG4fdeUIk",
@@ -3481,7 +3513,7 @@
     },
     "S_MANGO_25": {
       "songId": "S_MANGO_25",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "胖起來",
       "spotify": "https://open.spotify.com/track/4YFcSX86SCmjj0hycxBdoM?si=5991a7f176fa416d",
       "youtubeMv": "https://www.youtube.com/watch?v=3NhKXexZXSI",
@@ -3489,7 +3521,7 @@
     },
     "S_MANGO_26": {
       "songId": "S_MANGO_26",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "向前",
       "spotify": "",
       "youtubeMv": "https://www.youtube.com/watch?v=MdpBsrqgaiI",
@@ -3497,37 +3529,14 @@
     },
     "S_MANGO_27": {
       "songId": "S_MANGO_27",
-      "band": "mango",
+      "band": "mangojump",
       "songName": "青春",
       "spotify": "",
       "youtubeMv": "https://www.youtube.com/watch?v=qUTxEM7pzGA",
       "lyrics": "〈青春〉淡江大學107級畢業歌\n還記得 大一的生日 我被丟下福園\n我發現水中密道 到淡水動物園\n不像雙澤 只差沒丟可樂 \n白天認真 晚上樹下夜笙歌\n但是 但是 畢業像   \n海嘯在千帆之外 悄悄逼近 潮汐緩緩高漲                      \n大學城十字河口 迷惑退縮\n宮燈姊姊妳能不能牽著我\n\n六月的大晴天 天空落下一道閃電\n青春 就要搬出這房間\n這一刻不再             原地徘徊       \n我們選擇 一起面對就能再見     \n\n再見了我的青春 放肆躁動的風聲\n你教我打造方舟不該安於靜海浮沉 \n我知道前方這航線要渡過波曲浪折\n約定要一起實現的夢想旅程 我一定記得\n\n戰鬥吧我的青春 跨過了這扇大門\n你教我只要揚起勇敢世界就會沸騰\n我知道前方是條孤獨又浪漫的長河\n就算是傷心的淚水痛苦萬分我也要負荷\n\n時間終究 來到 這一天\n出了門 就不再 是少年 \n我們 都堅決 不忘水源\n英勇面對克難坡一千萬倍的考驗\n\n再見了我的青春 畢業歌唱到尾聲\n你約我最後一起看陽明山上的月荷\n我知道此刻夏夜星河多劇烈又不捨\n含著淚好好的道別珍重再見無怨的青春"
-    },
-    "mango/我喜歡你": {
-      "songId": "S_MANGO_01",
-      "band": "mango",
-      "songName": "我喜歡你",
-      "spotify": "https://open.spotify.com/track/6FpUCVpLvO0QXwsovSfWEa",
-      "youtubeMv": "https://www.youtube.com/watch?v=Q-Y-C_S5HFY",
-      "lyrics": "〈我喜歡你〉\n喔愛 什麼是愛..."
-    },
-    "bisiugroup/捲醬": {
-      "songId": "",
-      "band": "bisiugroup",
-      "songName": "捲醬",
-      "youtubeMv": "https://www.youtube.com/watch?v=example",
-      "lyrics": "〈捲醬〉\n歌詞..."
-    },
-    "papunband/不換": {
-      "songId": "S_PAPUN_01",
-      "band": "papunband",
-      "songName": "不換",
-      "spotify": "https://...",
-      "youtubeMv": "https://...",
-      "lyrics": "〈不換〉\n歌詞..."
     }
   },
-  "schemaVersion": 1,
-  "revision": "0",
-  "updatedAt": "2026-10-08T07:11:36.966Z"
+  "schemaVersion": 2,
+  "revision": "5492f571-f5ac-4dbb-a97e-22ce15a89265",
+  "updatedAt": "2026-10-08T07:58:55.309Z"
 }
