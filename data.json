@@ -3028,6 +3028,16 @@
       "note": "免費索票"
     },
     {
+      "id": "upcoming-row-45",
+      "date": "20261024",
+      "band": "mango",
+      "time": "",
+      "name": "台南 火神祭",
+      "location": "台南漁光島",
+      "mapLink": "",
+      "note": "全區免費入場，另有推出「星火計畫」藝文贊助席位（票價 2,000 元及 3,600 元，可至年代售票選購）"
+    },
+    {
       "id": "upcoming-row-15",
       "date": "20261025",
       "band": "papunband",
@@ -3563,6 +3573,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7aedd762-b5be-4c87-b25f-56404487224e",
-  "updatedAt": "2026-10-09T10:19:00.599Z"
+  "revision": "475e3376-1aa7-49bc-ab46-9505861c5214",
+  "updatedAt": "2026-10-09T10:20:19.885Z"
 }
