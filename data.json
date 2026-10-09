@@ -2912,6 +2912,15 @@
       "location": "金門縣金城鎮莒光公園",
       "note": "免費\n停車指引：https://www.facebook.com/share/p/19hGMJfisg/\n地圖：https://maps.app.goo.gl/ZHYBne16V2krQ2Y69",
       "setlist": []
+    },
+    {
+      "id": "EV_2ac40358-4382-48cf-80ef-fc607d8fb7ed",
+      "date": "20261008",
+      "band": "papunband",
+      "name": "金門 𝟐𝟎𝟐𝟔 搖擺-金各演音樂祭 𝑳𝑰𝑽𝑬 𝑰𝑵 𝑯𝑶𝑷𝑬",
+      "location": "金門縣金城鎮莒光公園",
+      "note": "免費\n停車指引：https://www.facebook.com/share/p/19hGMJfisg/\n地圖：https://maps.app.goo.gl/ZHYBne16V2krQ2Y69",
+      "setlist": []
     }
   ],
   "upcoming": [
@@ -3571,6 +3580,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "c0f61aca-8e8e-497d-bce3-617431f615e4",
-  "updatedAt": "2026-10-09T11:38:31.679Z"
+  "revision": "e6143e2d-a361-4c3b-90df-2c53a6133f2f",
+  "updatedAt": "2026-10-09T11:38:49.966Z"
 }
