@@ -3031,7 +3031,7 @@
       "id": "upcoming-row-45",
       "date": "20261024",
       "band": "mango",
-      "time": "",
+      "time": "16:00-16:30",
       "name": "台南 火神祭",
       "location": "台南漁光島",
       "mapLink": "",
@@ -3573,6 +3573,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "475e3376-1aa7-49bc-ab46-9505861c5214",
-  "updatedAt": "2026-10-09T10:20:19.885Z"
+  "revision": "270ec8b8-fddd-4cf3-966c-a4fdbf4c0ec4",
+  "updatedAt": "2026-10-09T10:23:52.397Z"
 }
