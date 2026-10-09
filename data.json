@@ -2894,6 +2894,15 @@
           "isEncore": false
         }
       ]
+    },
+    {
+      "id": "EV_f5fc1a6d-b8ff-4faa-88ce-309e072b8067",
+      "date": "20261008",
+      "band": "bisiugroup",
+      "name": "金門 𝟐𝟎𝟐𝟔 搖擺-金各演音樂祭 𝑳𝑰𝑽𝑬 𝑰𝑵 𝑯𝑶𝑷𝑬",
+      "location": "金門縣金城鎮莒光公園",
+      "note": "免費\n停車指引：https://www.facebook.com/share/p/19hGMJfisg/\n地圖：https://maps.app.goo.gl/ZHYBne16V2krQ2Y69",
+      "setlist": []
     }
   ],
   "upcoming": [
@@ -3573,6 +3582,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "270ec8b8-fddd-4cf3-966c-a4fdbf4c0ec4",
-  "updatedAt": "2026-10-09T10:23:52.397Z"
+  "revision": "269b7b03-a610-46cf-bb03-0997722f2f41",
+  "updatedAt": "2026-10-09T11:33:52.555Z"
 }
