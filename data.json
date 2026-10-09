@@ -2982,10 +2982,10 @@
       "date": "20261017",
       "band": "mango",
       "time": "未定",
-      "name": "未公布",
-      "location": "",
+      "name": "台北 第61屆廣播金鐘獎頒獎典禮",
+      "location": "臺北流行音樂中心。",
       "mapLink": "",
-      "note": "可能為 ［ 第61屆廣播金鐘獎頒獎典禮 ］\r\n資訊來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
+      "note": "第61屆廣播金鐘獎頒獎典禮 -演出嘉賓\n資訊來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
     },
     {
       "id": "upcoming-row-11",
@@ -3563,6 +3563,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "0c0752aa-fdd8-475f-baf3-a8c153f56a3d",
-  "updatedAt": "2026-10-08T13:07:03.690Z"
+  "revision": "7aedd762-b5be-4c87-b25f-56404487224e",
+  "updatedAt": "2026-10-09T10:19:00.599Z"
 }
