@@ -2948,6 +2948,15 @@
       "location": "嘉義市大同技術學院",
       "note": "免費 \n時間表：https://www.instagram.com/p/Ddk09ruDyLH/\n時間：15:30-16:10\n地圖：https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E5%A4%A7%E5%90%8C%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2",
       "setlist": []
+    },
+    {
+      "id": "EV_6d03f298-e792-4aee-9681-532be06e88bc",
+      "date": "20261010",
+      "band": "mango",
+      "name": "高雄 Takao Rock 打狗祭",
+      "location": "高雄流行音樂中心 海風舞台(表演)、海膽舞台(訪問)",
+      "note": "免費  14:00-23:00\n*芒果醬Mangojump\n-表演 16:00-16:40 海風舞台\n-訪問 17:30-18:00 海膽舞台 (hitFM90.1)\n時間表：https://www.facebook.com/share/p/1Drj1qMBxv/\n活動海報：https://www.takaorock.tw/upload/attachments/9039469968.jpg\n活動官方ＦＢ：https://www.facebook.com/TAKAOfest\n時間：16:00-16:40\n地圖：https://maps.app.goo.gl/nj5jTtevQ2fZWRB67",
+      "setlist": []
     }
   ],
   "upcoming": [
@@ -3567,6 +3576,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "444cb52e-fa16-4ecf-a4be-85fbcecfa744",
-  "updatedAt": "2026-10-11T15:29:07.819Z"
+  "revision": "07ffb289-8deb-46c8-a294-de3fb5c43cdb",
+  "updatedAt": "2026-10-11T15:29:20.393Z"
 }
