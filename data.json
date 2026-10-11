@@ -2939,6 +2939,15 @@
       "location": "嘉義市大同技術學院",
       "note": "免費 \n時間表：https://www.instagram.com/p/Ddk09ruDyLH/\n時間：21:20-22:00\n地圖：https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E5%A4%A7%E5%90%8C%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2",
       "setlist": []
+    },
+    {
+      "id": "EV_27d35d22-b557-40b4-b6e5-61f16a50755f",
+      "date": "20261010",
+      "band": "gongguan",
+      "name": "《諸羅搖滾》",
+      "location": "嘉義市大同技術學院",
+      "note": "免費 \n時間表：https://www.instagram.com/p/Ddk09ruDyLH/\n時間：15:30-16:10\n地圖：https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E5%A4%A7%E5%90%8C%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2",
+      "setlist": []
     }
   ],
   "upcoming": [
@@ -3568,6 +3577,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d2e9cd50-4871-4f65-928b-11e9753ea7f1",
-  "updatedAt": "2026-10-11T15:28:43.661Z"
+  "revision": "2afaf71b-1c15-4114-b671-d05b6e98807f",
+  "updatedAt": "2026-10-11T15:28:58.213Z"
 }
