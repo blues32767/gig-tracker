@@ -3252,7 +3252,7 @@
     },
     {
       "id": "upcoming-row-29",
-      "date": "20261205",
+      "date": "20261206",
       "band": "mango",
       "time": "未定",
       "name": "未公布",
@@ -3567,5 +3567,5 @@
   },
   "schemaVersion": 2,
   "revision": "9592df3d-33eb-4924-8f5d-ae697f37227b",
-  "updatedAt": "2026-10-12T03:56:30.936Z"
+  "updatedAt": "2026-10-12T04:01:32.007Z"
 }
