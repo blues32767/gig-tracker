@@ -3207,6 +3207,16 @@
       "note": "售票 日期未定"
     },
     {
+      "id": "upcoming-row-39",
+      "date": "20261112",
+      "band": "WhoCares",
+      "time": "",
+      "name": "2026 CR造星計畫：中科大場",
+      "location": "國立台中科技大學體育館",
+      "mapLink": "",
+      "note": "2026 CR造星計畫：中科大場\n2026/11/12 中科大體育館\n卡司：\n脆樂團、胡凱兒\n來源：https://www.threads.com/share/GUHyhipLh/"
+    },
+    {
       "id": "upcoming-row-24",
       "date": "20261114",
       "band": "mango",
@@ -3572,6 +3582,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "37368a77-5ce8-4ac0-8d7b-8dd45f585b9f",
-  "updatedAt": "2026-10-12T05:13:26.202Z"
+  "revision": "6397d4db-9270-4f1d-85ec-013e5f7fdb8e",
+  "updatedAt": "2026-10-12T05:14:37.073Z"
 }
