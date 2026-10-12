@@ -2978,7 +2978,7 @@
       "name": "台北 第61屆廣播金鐘獎頒獎典禮",
       "location": "臺北流行音樂中心。",
       "mapLink": "",
-      "note": "第61屆廣播金鐘獎頒獎典禮 -演出嘉賓\n資訊來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
+      "note": "[需有入場票]－［ 第61屆廣播金鐘獎頒獎典禮 ］演出嘉賓\n活動時間：19:00開始\n金鐘獎官方網站（含直播）：https://gba.tavis.tw/61st/index.html\n資訊來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
     },
     {
       "id": "upcoming-row-4",
@@ -3566,6 +3566,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d35c395d-343b-416d-b8e1-81de6dd66f98",
-  "updatedAt": "2026-10-12T03:44:26.149Z"
+  "revision": "c04031b4-7642-4b3c-bc75-a35d12276428",
+  "updatedAt": "2026-10-12T03:47:20.130Z"
 }
