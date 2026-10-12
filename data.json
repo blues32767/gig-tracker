@@ -36,6 +36,12 @@
       "name": "盧廣仲",
       "short": "廣眾",
       "color": "#36cc00"
+    },
+    {
+      "id": "WhoCares",
+      "name": "胡凱兒",
+      "short": "胡凱",
+      "color": "#385c6e"
     }
   ],
   "events": [
@@ -3566,6 +3572,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "9592df3d-33eb-4924-8f5d-ae697f37227b",
-  "updatedAt": "2026-10-12T04:01:32.007Z"
+  "revision": "37368a77-5ce8-4ac0-8d7b-8dd45f585b9f",
+  "updatedAt": "2026-10-12T05:13:26.202Z"
 }
