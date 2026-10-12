@@ -3005,7 +3005,7 @@
       "date": "20261021",
       "band": "mango",
       "time": "未定",
-      "name": "南投 《三一璀璨・暨創新章》暨南國際大學校慶演唱會",
+      "name": "南投 《三一璀璨・暨創新章》暨南國際大學校慶演唱會(不開放校外人士)",
       "location": "南投　國立暨南國際大學體育館",
       "mapLink": "https://maps.app.goo.gl/vVP7bNThHZSGmXAy5",
       "note": "注意：【本活動不開方校外人士】\n活動時間：18:00開始\n資訊來源(國立暨南國際大學學生會)：https://www.instagram.com/p/DeUK7mHPXqt/"
@@ -3566,6 +3566,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ed11e2d1-c3ed-47fc-b043-a47881a9a40c",
-  "updatedAt": "2026-10-12T03:48:18.237Z"
+  "revision": "9592df3d-33eb-4924-8f5d-ae697f37227b",
+  "updatedAt": "2026-10-12T03:49:51.560Z"
 }
