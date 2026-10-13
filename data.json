@@ -3037,6 +3037,16 @@
       "note": "全區免費入場，另有推出「星火計畫」藝文贊助席位（票價 2,000 元及 3,600 元，可至年代售票選購）"
     },
     {
+      "id": "upcoming-row-43",
+      "date": "20261024",
+      "band": "papunband",
+      "time": "台北市ATT4FUN1F東側廣場",
+      "name": "台北FUN肆音樂節",
+      "location": "台北",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n來源：https://www.threads.com/share/D2Bzq4dri/"
+    },
+    {
       "id": "upcoming-row-8",
       "date": "20261025",
       "band": "papunband",
@@ -3612,6 +3622,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d13ce346-b020-4771-8888-ff4d5dc305d3",
-  "updatedAt": "2026-10-13T09:34:57.567Z"
+  "revision": "e9882dc8-753d-423b-b1cf-f93eeb71fedd",
+  "updatedAt": "2026-10-13T09:37:13.786Z"
 }
