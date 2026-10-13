@@ -3140,11 +3140,11 @@
       "id": "upcoming-row-38",
       "date": "20261101",
       "band": "icyball",
-      "time": "",
+      "time": "19:10-19:50",
       "name": "台中 搖滾台中",
       "location": "臺中文心森林公園",
       "mapLink": "",
-      "note": "免費\n活動貼文：https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專：https://www.facebook.com/RockInTaichungMusicFestival/"
+      "note": "免費\n時間表：https://www.facebook.com/share/p/1CEh1yvtJd/\n活動貼文：https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專：https://www.facebook.com/RockInTaichungMusicFestival/"
     },
     {
       "id": "upcoming-row-17",
@@ -3622,6 +3622,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "72d53d20-2a35-464d-a3e4-7dadbd7506ba",
-  "updatedAt": "2026-10-13T09:40:07.339Z"
+  "revision": "3e1bf890-3963-414f-9421-67cd608ba867",
+  "updatedAt": "2026-10-13T09:40:35.282Z"
 }
