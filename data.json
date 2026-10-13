@@ -3087,16 +3087,6 @@
       "note": "免費 資訊來源：https://www.threads.com/share/HdcD0vtH7/\n18:00-18:30｜粹垢TRAEGO\r\n18:30-19:00｜Control T\r\n19:00-19:30｜ERIKA 劉艾立\r\n19:30-20:00｜怕胖團\r\n20:10-20:40｜YOYO家族\r\n20:40-21:10｜八三夭"
     },
     {
-      "id": "upcoming-row-12",
-      "date": "20261031",
-      "band": "gongguan",
-      "time": "未定",
-      "name": "台中 搖滾台中",
-      "location": "臺中文心森林公園",
-      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "免費\n活動貼文：https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專：https://www.facebook.com/RockInTaichungMusicFestival/"
-    },
-    {
       "id": "upcoming-row-13",
       "date": "20261031",
       "band": "mango",
@@ -3115,6 +3105,16 @@
       "location": "台北市華山 1914 文創園區_華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
       "note": "免費 活動日期10/31-11/1\n溫蒂漫步、就以斯、公館青少年、洪安妮、溫室雜草\n時間表：https://www.threads.com/share/GCQ2l2TTz/\n來源：https://www.threads.com/share/IWcVmorAi/"
+    },
+    {
+      "id": "upcoming-row-12",
+      "date": "20261101",
+      "band": "gongguan",
+      "time": "12:30-13:10",
+      "name": "台中 搖滾台中",
+      "location": "臺中文心森林公園",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "免費\n時間表：https://www.facebook.com/share/p/1CEh1yvtJd/\n活動貼文：https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專：https://www.facebook.com/RockInTaichungMusicFestival/"
     },
     {
       "id": "upcoming-row-15",
@@ -3622,6 +3622,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e9882dc8-753d-423b-b1cf-f93eeb71fedd",
-  "updatedAt": "2026-10-13T09:37:13.786Z"
+  "revision": "fd096e51-caa3-49f9-8aad-6c651d0f75c1",
+  "updatedAt": "2026-10-13T09:39:42.013Z"
 }
