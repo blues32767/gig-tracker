@@ -3050,11 +3050,11 @@
       "id": "upcoming-row-8",
       "date": "20261025",
       "band": "papunband",
-      "time": "未定",
+      "time": "20:35-21:15",
       "name": "南投《前山音樂祭》",
       "location": "南投縣竹山鎮公所前廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E7%AB%B9%E5%B1%B1%E9%8E%AE%E5%85%AC%E6%89%80%E5%89%8D%E5%BB%A3%E5%A0%B4",
-      "note": "免費"
+      "note": "免費\n時間表：https://www.threads.com/share/HuyUrzFYN/"
     },
     {
       "id": "upcoming-row-9",
@@ -3622,6 +3622,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "76c75627-49b2-46f3-b953-516a79537438",
-  "updatedAt": "2026-10-13T09:43:18.478Z"
+  "revision": "79eb1a91-f1ea-4548-baf4-e73b6c66de76",
+  "updatedAt": "2026-10-13T09:45:29.014Z"
 }
