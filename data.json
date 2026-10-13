@@ -2970,11 +2970,11 @@
       "id": "upcoming-row-2",
       "date": "20261017",
       "band": "gongguan",
-      "time": "未定",
+      "time": "17:40-18:20",
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "免費"
+      "note": "免費\n時間表：https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1"
     },
     {
       "id": "upcoming-row-3",
@@ -3622,6 +3622,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3e1bf890-3963-414f-9421-67cd608ba867",
-  "updatedAt": "2026-10-13T09:40:35.282Z"
+  "revision": "76c75627-49b2-46f3-b953-516a79537438",
+  "updatedAt": "2026-10-13T09:43:18.478Z"
 }
