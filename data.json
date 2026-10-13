@@ -3098,13 +3098,13 @@
     },
     {
       "id": "upcoming-row-14",
-      "date": "20261101",
+      "date": "20261031",
       "band": "gongguan",
-      "time": "未定",
+      "time": "14:30-15:00",
       "name": "2026 Chill日好時光音樂祭",
       "location": "台北市華山 1914 文創園區_華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "免費 活動日期10/31-11/1\n演出時間未定\n溫蒂漫步、就以斯、公館青少年、洪安妮、溫室雜草\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "免費 活動日期10/31-11/1\n溫蒂漫步、就以斯、公館青少年、洪安妮、溫室雜草\n時間表：https://www.threads.com/share/GCQ2l2TTz/\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-15",
@@ -3612,6 +3612,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "410ec172-deaf-4a9f-bf48-d80fb13b991a",
-  "updatedAt": "2026-10-12T11:23:09.934Z"
+  "revision": "d13ce346-b020-4771-8888-ff4d5dc305d3",
+  "updatedAt": "2026-10-13T09:34:57.567Z"
 }
