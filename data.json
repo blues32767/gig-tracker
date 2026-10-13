@@ -3027,7 +3027,7 @@
       "note": "免費索票\n時間表：https://www.threads.com/share/Gb7bmwocb/"
     },
     {
-      "id": "upcoming-row-38",
+      "id": "upcoming-row-37",
       "date": "20261024",
       "band": "mango",
       "time": "16:00-16:30",
@@ -3037,7 +3037,7 @@
       "note": "全區免費入場，另有推出「星火計畫」藝文贊助席位（票價 2,000 元及 3,600 元，可至年代售票選購）"
     },
     {
-      "id": "upcoming-row-42",
+      "id": "upcoming-row-41",
       "date": "20261024",
       "band": "papunband",
       "time": "台北市ATT4FUN1F東側廣場",
@@ -3137,7 +3137,7 @@
       "note": "免費\n━━━━【11/01】━━━━\n🔥 林希子 × URBAN BAND｜14:00－14:30\n🔥 VH｜14:40－15:20\n🔥 U：NUS｜15:30－15:50\n🔥 芒果醬 Mango Jump｜16:00－16:40\n🔥 Ozone｜16:50－17:15\n🔥 怕胖團 PAPUN BAND｜17:30－18:00\n時間表：https://www.threads.com/share/GqCZYeyBI/\n貼文：https://www.facebook.com/100064452321544/posts/1528275889330807/?app=fbl"
     },
     {
-      "id": "upcoming-row-37",
+      "id": "upcoming-row-36",
       "date": "20261101",
       "band": "icyball",
       "time": "19:10-19:50",
@@ -3167,7 +3167,7 @@
       "note": "售票 日期未定"
     },
     {
-      "id": "upcoming-row-20",
+      "id": "upcoming-row-19",
       "date": "20261107",
       "band": "gongguan",
       "time": "未定",
@@ -3177,17 +3177,7 @@
       "note": "售票 日期未定"
     },
     {
-      "id": "upcoming-row-19",
-      "date": "20261108",
-      "band": "bisiugroup",
-      "time": "未定",
-      "name": "台南 浪人祭",
-      "location": "台南市安平觀夕平台旁大草皮",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
-      "note": "售票"
-    },
-    {
-      "id": "upcoming-row-21",
+      "id": "upcoming-row-20",
       "date": "20261108",
       "band": "bisiugroup",
       "time": "未定",
@@ -3197,7 +3187,7 @@
       "note": "售票 日期未定"
     },
     {
-      "id": "upcoming-row-22",
+      "id": "upcoming-row-21",
       "date": "20261108",
       "band": "bisiugroup",
       "time": "未定",
@@ -3207,7 +3197,7 @@
       "note": "售票 日期未定"
     },
     {
-      "id": "upcoming-row-43",
+      "id": "upcoming-row-42",
       "date": "20261108",
       "band": "captainlu",
       "time": "未定",
@@ -3217,7 +3207,7 @@
       "note": "售票"
     },
     {
-      "id": "upcoming-row-39",
+      "id": "upcoming-row-38",
       "date": "20261112",
       "band": "WhoCares",
       "time": "",
@@ -3227,7 +3217,7 @@
       "note": "2026 CR造星計畫：中科大場\n2026/11/12 中科大體育館\n卡司：\n脆樂團、胡凱兒\n來源：https://www.threads.com/share/GUHyhipLh/"
     },
     {
-      "id": "upcoming-row-23",
+      "id": "upcoming-row-22",
       "date": "20261114",
       "band": "mango",
       "time": "未定",
@@ -3237,7 +3227,7 @@
       "note": "芒果醬可能是11/14\n樂團活動日期未定：2026 年 11 月 14 日－11 月 15 日\n《八德3C哈樂DAY》（免費）➤卡司：｜怕胖團｜芒果醬｜甜約翰｜火星混蛋｜Control T｜東部壞男孩\n❑台北市八德資訊商圈❑"
     },
     {
-      "id": "upcoming-row-24",
+      "id": "upcoming-row-23",
       "date": "20261114",
       "band": "papunband",
       "time": "未定",
@@ -3247,8 +3237,18 @@
       "note": "樂團活動日期未定：2026 年 11 月 14 日－11 月 15 日\n《八德3C哈樂DAY》（免費）➤卡司：｜怕胖團｜芒果醬｜甜約翰｜火星混蛋｜Control T｜東部壞男孩\n❑台北市八德資訊商圈❑"
     },
     {
-      "id": "upcoming-row-25",
+      "id": "upcoming-row-24",
       "date": "20261114",
+      "band": "bisiugroup",
+      "time": "未定",
+      "name": "桃園 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "售票 日期未定"
+    },
+    {
+      "id": "upcoming-row-25",
+      "date": "20261115",
       "band": "bisiugroup",
       "time": "未定",
       "name": "桃園 火球祭",
@@ -3259,16 +3259,6 @@
     {
       "id": "upcoming-row-26",
       "date": "20261115",
-      "band": "bisiugroup",
-      "time": "未定",
-      "name": "桃園 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "售票 日期未定"
-    },
-    {
-      "id": "upcoming-row-27",
-      "date": "20261115",
       "band": "gongguan",
       "time": "未定",
       "name": "桃園 火球祭",
@@ -3277,7 +3267,7 @@
       "note": "售票"
     },
     {
-      "id": "upcoming-row-41",
+      "id": "upcoming-row-40",
       "date": "20261121",
       "band": "WhoCares",
       "time": "",
@@ -3287,7 +3277,7 @@
       "note": "演出時間未定－免費自由入場\n活動時間－2026/11/21 - 11/22\n卡司：持修、眠氣、庸俗救星、胡凱兒、鄒序\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
-      "id": "upcoming-row-40",
+      "id": "upcoming-row-39",
       "date": "20261125",
       "band": "gongguan",
       "time": "",
@@ -3297,7 +3287,7 @@
       "note": "卡司：\n李浩瑋、JUICE BOY、9M88、公館青少年、TRASH、閻奕格\n主持：木木\n.\n📍入場時間：11/25(週三)15:00-15:30\n🍀10月20日起在校生有繳交‘’學生活動費‘’可至學生會登記領取‘’優先席“號碼牌，數量有限。🍀\n🍀學生活動費可至學生會或學務處課外組補繳費🍀\n📍入場方式：✨️免費入場✨️\n在校生：\n1.須出示有效學生證(須蓋當學期註冊章)及學生資訊系統登入畫面(須查驗身分證)。\n或是\n2.在學證明(格致樓一樓大廳可以列印)及學生資訊系統登入畫面(須查驗身分證)。\n📍排隊區(於中山育樂館)：\n🌟本校學生→二樓天橋\n🌟校外人士→三樓天橋(雨備另行公告)\n🔸本次活動因參與者眾多，入場時建議配戴口罩。\n-\n來源：https://www.threads.com/share/QKAQgxo8C/"
     },
     {
-      "id": "upcoming-row-28",
+      "id": "upcoming-row-27",
       "date": "20261127",
       "band": "gongguan",
       "time": "未定",
@@ -3307,7 +3297,7 @@
       "note": "校內限定"
     },
     {
-      "id": "upcoming-row-29",
+      "id": "upcoming-row-28",
       "date": "20261206",
       "band": "mango",
       "time": "未定",
@@ -3317,7 +3307,7 @@
       "note": ""
     },
     {
-      "id": "upcoming-row-30",
+      "id": "upcoming-row-29",
       "date": "20261211",
       "band": "mango",
       "time": "未定",
@@ -3327,7 +3317,7 @@
       "note": ""
     },
     {
-      "id": "upcoming-row-31",
+      "id": "upcoming-row-30",
       "date": "20261212",
       "band": "mango",
       "time": "未定",
@@ -3337,7 +3327,7 @@
       "note": "收費　苗栗 𝗖𝗥𝗔𝗕 𝗣𝗟𝗔𝗬 𝟮𝟬𝟮𝟲 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文：https://www.instagram.com/p/DdDWlcKiMnU/"
     },
     {
-      "id": "upcoming-row-36",
+      "id": "upcoming-row-35",
       "date": "20261212",
       "band": "captainlu",
       "time": "",
@@ -3347,7 +3337,7 @@
       "note": "表演日期未定\n資訊來源：https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 𝟐𝟎𝟐𝟔 𝑻𝒊𝒂𝒐𝒕𝒐𝒏𝒈 𝑭𝒆𝒔𝒕𝒊𝒗𝒂𝒍 ✴\n↪ 條音派對 𝑇𝑖𝑎𝑜𝑡𝑜𝑛𝑔 𝑀𝑢𝑠𝑖𝑐 𝑃𝑎𝑟𝑡𝑦\n　 日　　期 ⌇ 2026.12.12 - 13\n　 地　　點 ⌇ 林森公園（台北市中山區林森北路 & 南京東路交叉口）\n　 演出陣容 ⌇\n　　 盧廣仲｜陸續公布中..."
     },
     {
-      "id": "upcoming-row-32",
+      "id": "upcoming-row-31",
       "date": "20261213",
       "band": "mango",
       "time": "未定",
@@ -3357,7 +3347,7 @@
       "note": "收費　苗栗 𝗖𝗥𝗔𝗕 𝗣𝗟𝗔𝗬 𝟮𝟬𝟮𝟲 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文：https://www.instagram.com/p/DdDWlcKiMnU/"
     },
     {
-      "id": "upcoming-row-33",
+      "id": "upcoming-row-32",
       "date": "20261219",
       "band": "mango",
       "time": "未定",
@@ -3367,7 +3357,7 @@
       "note": ""
     },
     {
-      "id": "upcoming-row-34",
+      "id": "upcoming-row-33",
       "date": "20261225",
       "band": "mango",
       "time": "未定",
@@ -3377,7 +3367,7 @@
       "note": ""
     },
     {
-      "id": "upcoming-row-35",
+      "id": "upcoming-row-34",
       "date": "20261231",
       "band": "mango",
       "time": "未定",
@@ -3622,6 +3612,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "1b7a5284-2d3d-4000-932b-333c4d2ff6ef",
-  "updatedAt": "2026-10-13T09:49:30.113Z"
+  "revision": "4b4a4c4e-39b9-4d5a-b33c-7e285064683a",
+  "updatedAt": "2026-10-13T09:50:13.052Z"
 }
