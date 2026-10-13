@@ -3164,7 +3164,7 @@
       "name": "台中 玖壹壹南北貳路音樂節",
       "location": "台中市水湳中央公園球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
-      "note": "售票 日期未定"
+      "note": "售票 11/7-11/8日期未定"
     },
     {
       "id": "upcoming-row-19",
@@ -3184,7 +3184,7 @@
       "name": "台中 玖壹壹南北貳路音樂節",
       "location": "台中市水湳中央公園球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
-      "note": "售票 日期未定"
+      "note": "售票 11/7-11/8日期未定"
     },
     {
       "id": "upcoming-row-21",
@@ -3613,5 +3613,5 @@
   },
   "schemaVersion": 2,
   "revision": "4b4a4c4e-39b9-4d5a-b33c-7e285064683a",
-  "updatedAt": "2026-10-13T09:50:13.052Z"
+  "updatedAt": "2026-10-13T09:51:31.285Z"
 }
