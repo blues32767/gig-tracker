@@ -63,7 +63,7 @@
 
         .container { max-width: 1200px; margin: 0 auto 2rem auto; padding: 0 0.85rem; width: 100%; overflow-x: hidden; }
         
-        /* 智慧型頂部精簡篩選列（手機版緊湊小字體優化） */
+        /* 智慧型頂部精簡篩選列 */
         .filter-section { margin-bottom: 12px; }
         .filter-mode-hint { font-size: 0.68rem; font-weight: 800; color: var(--text-secondary); margin-bottom: 5px; display: flex; align-items: center; justify-content: space-between; gap: 6px; }
         .filter-bar { display: flex; gap: 5px; flex-wrap: wrap; align-items: center; }
@@ -85,7 +85,7 @@
             .filter-btn, .explore-trigger-btn { font-size: 0.78rem; padding: 5px 13px; border-width: 2px; }
         }
 
-        /* 彈出式通用遮罩與對話框 (藝人探索 & 帳號快速登入共用) */
+        /* 彈出式通用遮罩與對話框 */
         .modal-backdrop { position: fixed; inset: 0; background: rgba(12, 12, 14, 0.68); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); z-index: 2500; display: none; align-items: center; justify-content: center; padding: 12px; animation: fadeIn 0.18s ease-out; }
         .modal-backdrop.open { display: flex; }
         @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
@@ -313,7 +313,7 @@
                 </div>
                 <div>
                     <label style="font-size:12px; font-weight:900; display:block; margin-bottom:5px;">🏷️ 自訂匿名暱稱（顯示於網頁右上角）</label>
-                    <input type="text" id="modal-user-nick" class="am-search-input" placeholder="例如：追團少年阿奇" maxlength="20">
+                    <input type="text" id="modal-user-nick" class="am-search-input" placeholder="例如：MJ-ADMIN" maxlength="20">
                 </div>
                 <div style="font-size:11.5px; color:var(--text-secondary); font-weight:700; line-height:1.5; background:var(--bg-subtle); padding:10px; border-radius:8px; border:1.5px dashed var(--border);">
                     💡 登入後，你在網頁上挑選的<strong>關注藝人團體</strong>與<strong>參戰足跡</strong>都會自動綁定並儲存在雲端，下次換手機或電腦打開都能一鍵載入！
@@ -337,7 +337,7 @@
     <script>
         const GAS_URL = 'https://script.google.com/macros/s/AKfycbwR49SJXjZM55RzbhpQyDv39sVM2J91U8BSs7gKlATQihm_QC60HOHH6FQtiA4CvLJexg/exec';
         const DATA_URL = './data.json';
-        const TOP_PINNED_LIMIT = 6; // 未篩選時，首頁預設僅顯示前 6 名熱門藝人（大幅減少手機版佔用空間）
+        const TOP_PINNED_LIMIT = 6;
         
         let BANDS_MAP = {}; 
         let rawBands = [];
@@ -350,7 +350,6 @@
         let data = { upcoming: [], events: [], bands: [] };
         let tab = 'upcoming', query = '', limit = 24, statsBand = 'all';
 
-        // ★ 從瀏覽器 localStorage 自動載入使用者上次挑選的藝人清單 ★
         const savedBandsArr = storage.get('ting-selected-bands', ['all']);
         let selectedBands = new Set(Array.isArray(savedBandsArr) && savedBandsArr.length > 0 ? savedBandsArr : ['all']);
 
@@ -374,6 +373,46 @@
             else navbar.classList.remove('nav-hidden');
             lastScrollY = currentScrollY;
         }, { passive: true });
+
+        function normText(s) {
+            let str = String(s || '');
+            try { str = str.normalize('NFKC'); } catch (e) {}
+            return str.trim();
+        }
+
+        function cleanVenueKey(loc) {
+            const s = normText(loc).toLowerCase();
+            if (!s || s === '未公布' || s === '未定' || s === '待公布') return '';
+            return s
+                .replace(/[《》「」『』【】\[\]()（）·・｜|：:\-_—\s。，、]/g, '')
+                .replace(/台/g, '臺')
+                .replace(/(臺北市|新北市|桃園市|臺中市|臺南市|高雄市|基隆市|新竹市|新竹縣|嘉義市|嘉義縣|苗栗縣|彰化縣|南投縣|雲林縣|屏東縣|宜蘭縣|花蓮縣|臺東縣|澎湖縣|金門縣)/g, '')
+                .replace(/(區|鄉|鎮|市)/g, '');
+        }
+
+        function cleanEventTitleKey(title) {
+            return normText(title).toLowerCase()
+                .replace(/202\d\s*(年|年度)?/g, '')
+                .replace(/\d+\s*(週年|周年|屆)/g, '')
+                .replace(/[《》「」『』【】\[\]()（）·・｜|：:\-_—\s!！?？.。、]/g, '')
+                .replace(/^(台北|臺北|新北|桃園|台中|臺中|台南|臺南|高雄|基隆|新竹|嘉義|苗栗|彰化|南投|雲林|屏東|宜蘭|花蓮|台東|臺東|澎湖|金門|馬祖)(市|縣)?/g, '')
+                .replace(/(音樂祭|音樂節|演唱會|音樂會|生活節|開城|校慶|迎新|草地|派對|音樂季|主題日|市集)$/g, '');
+        }
+
+        function isSameFrontendEvent(group, item) {
+            if (dateKey(group.date) !== dateKey(item.date)) return false;
+            const vA = cleanVenueKey(group.location);
+            const vB = cleanVenueKey(item.location);
+            if (vA && vB && vA.length >= 2 && vB.length >= 2 && (vA === vB || vA.includes(vB) || vB.includes(vA))) {
+                return true;
+            }
+            const tA = cleanEventTitleKey(group.name);
+            const tB = cleanEventTitleKey(item.name);
+            if (tA && tB && tA.length >= 2 && tB.length >= 2 && (tA === tB || tA.includes(tB) || tB.includes(tA))) {
+                return true;
+            }
+            return false;
+        }
 
         function openArtistModal() {
             $('#artist-modal-backdrop').classList.add('open');
@@ -455,7 +494,6 @@
             renderArtistModalContent();
         }
 
-        // 儲存藝人選擇至瀏覽器 localStorage，若已登入則自動背景同步至雲端
         function persistBandSelection() {
             const arr = [...selectedBands];
             storage.set('ting-selected-bands', arr);
@@ -509,7 +547,7 @@
         function inferArtistCategory(name, existingCat) {
             const validCats = ['樂團', '個人', '團體'];
             if (existingCat && validCats.includes(existingCat.trim())) return existingCat.trim();
-            const n = String(name || '').trim();
+            const n = normText(name);
 
             const knownBands = ['芒果醬', '美秀集團', '怕胖團', '冰球樂團', '公館青少年', '胡凱兒', '甜約翰', '溫蒂漫步', '好樂團', '溫室雜草', '無妄合作社', '康士坦的變化球', '血肉果汁機', '滅火器', '拍謝少年', '麋先生', '宇宙人', '告五人', '八三夭', '理想混蛋', '傻子與白痴', '草東沒有派對', '老王樂隊', '落日飛車', '傷心欲絕', '當代電影大師', '脆樂團', '庸俗救星', '福爾摩沙任務爵士樂團', '董事長樂團', '粗大BAND', '粹垢', '黑旋風', '火焰蟲樂團', '羊駝小姐', '壓滿俱樂部', '火星混蛋', '東部壞男孩', '眠氣', 'J Hall樂團', 'Control T', 'VH', 'TRASH'];
             const knownGroups = ['南西肯恩', 'U:NUS', 'F.F.O', 'Ozone', 'GX', 'ARKis', 'Saturnday', 'HUR+', '玖壹壹', 'TPE48', 'YOYO家族', 'A Tempo Quartet', '慶記KTV', '米棧不一樣舞團', '馬太鞍部落青年'];
@@ -565,10 +603,6 @@
             scheduleSilentCloudPush();
         });
 
-        /**
-         * 將使用者的「現場足跡 + 關注藝人清單 + 自訂匿名暱稱」封裝為向後相容的 JSON 物件
-         * 完全不需修改 GAS Code.gs 即可儲存在 UserData 工作表的第 2 欄！
-         */
         function buildCloudPayloadString() {
             return JSON.stringify({
                 v: 2,
@@ -578,18 +612,13 @@
             });
         }
 
-        /**
-         * 解析從雲端 UserData 讀取回來的 JSON（相容舊版純陣列與新版 v2 物件）
-         */
         function applyCloudDataFromServer(rawJsonStr, preferCloudBands = true) {
             if (!rawJsonStr) return;
             try {
                 const parsed = JSON.parse(rawJsonStr);
                 if (Array.isArray(parsed)) {
-                    // 舊版格式：純足跡陣列
                     parsed.forEach(id => footprints.add(id));
                 } else if (parsed && typeof parsed === 'object') {
-                    // 新版 v2 格式：包含 footprints, selectedBands, nickname
                     if (Array.isArray(parsed.footprints)) {
                         parsed.footprints.forEach(id => footprints.add(id));
                     }
@@ -603,7 +632,6 @@
                         storage.set('ting-user-nickname', userNickname);
                     }
                     if (Array.isArray(parsed.selectedBands) && parsed.selectedBands.length > 0) {
-                        // 若雲端有儲存挑選過的藝人，且本地目前是預設 all 或明確點擊登入同步時，自動套用雲端藝人清單
                         const localIsAll = selectedBands.size === 1 && selectedBands.has('all');
                         const cloudIsSpecific = !(parsed.selectedBands.length === 1 && parsed.selectedBands[0] === 'all');
                         if (preferCloudBands && (cloudIsSpecific || localIsAll)) {
@@ -617,7 +645,6 @@
             } catch (e) {}
         }
 
-        // 當使用者已登入時，點選藝人或足跡後 1.2 秒自動靜默備份至雲端
         function scheduleSilentCloudPush() {
             if (!userId || !GAS_URL.startsWith('https://script.google.com/')) return;
             clearTimeout(autoSyncTimer);
@@ -637,7 +664,6 @@
             }, 1200);
         }
 
-        // 手動點擊「登入 / 立即同步雲端」
         async function cloudLoginAndSync() {
             const uid = $('#user-id-input').value.trim();
             const nick = $('#user-nick-input').value.trim();
@@ -653,7 +679,6 @@
                 const getRes = await fetch(`${GAS_URL}?action=getUser&userId=${encodeURIComponent(uid)}&_t=${Date.now()}`, { credentials: 'omit' });
                 const getJson = await getRes.json();
                 if(getJson.success && getJson.data && getJson.data !== "[]") {
-                    // 若使用者剛登入且本地尚未選特定藝人，優先載入雲端已挑選的藝人；若使用者已在網頁挑好藝人再點同步，則保留當前挑選並寫入雲端
                     const localHasCustomSelection = !selectedBands.has('all') && selectedBands.size > 0;
                     applyCloudDataFromServer(getJson.data, !localHasCustomSelection);
                     if (nick) {
@@ -736,7 +761,6 @@
                 };
             });
 
-            // 清理可能已不存在於資料庫的舊 band ID
             if (!selectedBands.has('all')) {
                 const validSelected = [...selectedBands].filter(id => BANDS_MAP[id]);
                 selectedBands = validSelected.length > 0 ? new Set(validSelected) : new Set(['all']);
@@ -778,7 +802,6 @@
                 renderFilters();
                 render();
 
-                // 若瀏覽器已有登入的 userId，自動從雲端拉取該使用者的關注藝人、足跡與匿名暱稱
                 if(userId && GAS_URL.startsWith('https://script.google.com/')) {
                     fetch(`${GAS_URL}?action=getUser&userId=${encodeURIComponent(userId)}&_t=${Date.now()}`, { credentials: 'omit' })
                         .then(r => r.json())
@@ -805,11 +828,6 @@
             }
         }
 
-        /**
-         * ★ 雙模式智慧頂部列 ★
-         * 模式 A（未選特定藝人 / 瀏覽全部）：僅顯示前 6 名熱門藝人 + [🔍 挑選藝人 (43)]
-         * 模式 B（已選特定藝人 / 專屬關注模式）：只顯示使用者自己挑選的那幾組藝人（隱藏其他未選藝人！）+ [➕ 增減藝人] + [✕ 看全部]
-         */
         function renderFilters() {
             const isAllMode = selectedBands.has('all') || selectedBands.size === 0;
             const hintEl = $('#filter-mode-hint');
@@ -819,7 +837,6 @@
                 visibleBands = rawBands.slice(0, TOP_PINNED_LIMIT);
                 hintEl.innerHTML = `<span>🔥 熱門排行前 ${visibleBands.length} 組（點選藝人可固定為你的專屬清單）</span>`;
             } else {
-                // 只顯示使用者自己挑選的藝人（並依活動場次排序）
                 visibleBands = rawBands.filter(b => selectedBands.has(b.id));
                 hintEl.innerHTML = `<span>📌 我的專屬關注藝人 (${visibleBands.length} 組 · 已自動記憶)</span>`;
             }
@@ -971,17 +988,49 @@
         }
         if (storage.get('ting-theme') === 'dark') document.documentElement.classList.add('dark');
 
+        // ★ 前端智慧分組：即使舊快取中場地或活動名稱有些微差異，只要同日且同場地/同核心名稱即自動合併為同一張卡片 ★
         function groupEvents(list) {
-            const groupedMap = new Map();
+            const groups = [];
             list.forEach(e => {
-                const key = dateKey(e.date) + '|' + (e.location || '未定');
-                if (!groupedMap.has(key)) { groupedMap.set(key, { originalIds: [], date: e.date, location: e.location, name: e.name, mapLink: e.mapLink, ticketUrl: e.ticketUrl, notes: [], bands: [] }); }
-                const group = groupedMap.get(key);
+                let group = groups.find(g => isSameFrontendEvent(g, e));
+                if (!group) {
+                    group = {
+                        originalIds: [],
+                        date: e.date,
+                        location: normText(e.location).replace(/_/g, ''),
+                        name: normText(e.name),
+                        mapLink: e.mapLink,
+                        ticketUrl: e.ticketUrl,
+                        notes: [],
+                        bands: []
+                    };
+                    groups.push(group);
+                } else {
+                    const cleanName = normText(e.name);
+                    if (cleanName && cleanName !== '未公布' && cleanName.length > group.name.length) {
+                        group.name = cleanName;
+                    }
+                    const cleanLoc = normText(e.location).replace(/_/g, '');
+                    if (cleanLoc && cleanLoc !== '未公布' && cleanLoc.length > group.location.length) {
+                        group.location = cleanLoc;
+                    }
+                    if (!group.mapLink && e.mapLink) group.mapLink = e.mapLink;
+                    if (!group.ticketUrl && e.ticketUrl) group.ticketUrl = e.ticketUrl;
+                }
                 group.originalIds.push(e.id);
                 if (e.note && !group.notes.includes(e.note)) group.notes.push(e.note);
-                if (!group.bands.find(b => b.id === e.band)) group.bands.push({ id: e.band, time: e.time, name: e.name, setlist: e.setlist || [] });
+                const existingBand = group.bands.find(b => b.id === e.band);
+                if (!existingBand) {
+                    group.bands.push({ id: e.band, time: e.time, name: normText(e.name), setlist: e.setlist || [] });
+                } else if ((!existingBand.time || existingBand.time === '未定' || existingBand.time === '未公布') && e.time && e.time !== '未定' && e.time !== '未公布') {
+                    existingBand.time = e.time;
+                }
             });
-            return Array.from(groupedMap.values()).map(g => { g.bandIds = g.bands.map(b => b.id); g.totalSongs = g.bands.reduce((sum, b) => sum + b.setlist.length, 0); return g; });
+            return groups.map(g => {
+                g.bandIds = g.bands.map(b => b.id);
+                g.totalSongs = g.bands.reduce((sum, b) => sum + b.setlist.length, 0);
+                return g;
+            });
         }
 
         function filterGrouped(list) {
