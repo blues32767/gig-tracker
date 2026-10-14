@@ -174,6 +174,54 @@
       "name": "F.F.O",
       "short": "F.",
       "color": "#00b4d8"
+    },
+    {
+      "id": "band_drsiw0_15",
+      "name": "洪安妮",
+      "short": "洪安",
+      "color": "#2ec4b6"
+    },
+    {
+      "id": "band_drsiw0_16",
+      "name": "好樂團",
+      "short": "好樂",
+      "color": "#ef476f"
+    },
+    {
+      "id": "band_drsiw0_17",
+      "name": "甜約翰",
+      "short": "甜約",
+      "color": "#ffd166"
+    },
+    {
+      "id": "band_6u8lrj",
+      "name": "溫蒂漫步",
+      "short": "溫蒂",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "band_6u8lrj_1",
+      "name": "南西肯恩",
+      "short": "南西",
+      "color": "#118ab2"
+    },
+    {
+      "id": "band_6u8lrj_2",
+      "name": "溫室雜草",
+      "short": "溫室",
+      "color": "#8338ec"
+    },
+    {
+      "id": "joyce",
+      "name": "JOYCE 就以斯",
+      "short": "JO",
+      "color": "#ff006e"
+    },
+    {
+      "id": "pia",
+      "name": "PiA 吳蓓雅",
+      "short": "Pi",
+      "color": "#fb5607"
     }
   ],
   "events": [
@@ -3399,6 +3447,56 @@
       "note": "免費 活動日期10/31-11/1\n溫蒂漫步、就以斯、公館青少年、洪安妮、溫室雜草\n時間表：https://www.threads.com/share/GCQ2l2TTz/\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
+      "id": "upcoming-row-67",
+      "date": "20261031",
+      "band": "band_drsiw0_15",
+      "time": "13:00-13:30",
+      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山1914文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。"
+    },
+    {
+      "id": "upcoming-row-68",
+      "date": "20261031",
+      "band": "gongguan",
+      "time": "14:30-15:00",
+      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山1914文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。"
+    },
+    {
+      "id": "upcoming-row-69",
+      "date": "20261031",
+      "band": "band_drsiw0_16",
+      "time": "16:00-16:30",
+      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山1914文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。"
+    },
+    {
+      "id": "upcoming-row-70",
+      "date": "20261031",
+      "band": "band_drsiw0_17",
+      "time": "17:30-18:00",
+      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山1914文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。"
+    },
+    {
+      "id": "upcoming-row-71",
+      "date": "20261031",
+      "band": "band_6u8lrj",
+      "time": "19:00-19:30",
+      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山1914文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。"
+    },
+    {
       "id": "upcoming-row-12",
       "date": "20261101",
       "band": "gongguan",
@@ -3437,6 +3535,56 @@
       "location": "臺中文心森林公園",
       "mapLink": "",
       "note": "免費\n時間表：https://www.facebook.com/share/p/1CEh1yvtJd/\n活動貼文：https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專：https://www.facebook.com/RockInTaichungMusicFestival/"
+    },
+    {
+      "id": "upcoming-row-72",
+      "date": "20261101",
+      "band": "band_6u8lrj_1",
+      "time": "13:00-13:30",
+      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山1914文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。"
+    },
+    {
+      "id": "upcoming-row-73",
+      "date": "20261101",
+      "band": "band_6u8lrj_2",
+      "time": "14:30-15:00",
+      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山1914文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。"
+    },
+    {
+      "id": "upcoming-row-74",
+      "date": "20261101",
+      "band": "joyce",
+      "time": "16:00-16:30",
+      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山1914文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。"
+    },
+    {
+      "id": "upcoming-row-75",
+      "date": "20261101",
+      "band": "pia",
+      "time": "17:30-18:00",
+      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山1914文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。"
+    },
+    {
+      "id": "upcoming-row-76",
+      "date": "20261101",
+      "band": "band_nmq1yt",
+      "time": "19:00-19:30",
+      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山1914文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。"
     },
     {
       "id": "upcoming-row-17",
@@ -3984,6 +4132,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "918e16ae-e16c-4e64-952d-48a9660aa892",
-  "updatedAt": "2026-10-14T04:12:57.645Z"
+  "revision": "20692c88-a04f-4399-a34e-05b98d57f30c",
+  "updatedAt": "2026-10-14T04:13:43.586Z"
 }
