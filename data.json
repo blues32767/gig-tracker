@@ -400,6 +400,22 @@
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
+    },
+    {
+      "id": "band",
+      "name": "粗大Band",
+      "short": "粗大",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_5",
+      "name": "安吉",
+      "short": "安吉",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
     }
   ],
   "events": [
@@ -3662,7 +3678,7 @@
       "name": "桃園萬聖城・開城演唱會",
       "location": "桃園市桃園藝文廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動時間：18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀；主持人：寶賤。"
+      "note": "［免費］\n活動時間：18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀；主持人：寶賤。\n卡司：黃偉晉、粗大Band、安吉；派偉俊、金琳 & 裴晟秀。主持：寶賤。活動時間：18:30-21:00。"
     },
     {
       "id": "upcoming-row-85",
@@ -3672,7 +3688,27 @@
       "name": "桃園萬聖城・開城演唱會",
       "location": "桃園市桃園藝文廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動時間：18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀；主持人：寶賤。"
+      "note": "［免費］\n活動時間：18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀；主持人：寶賤。\n卡司：黃偉晉、粗大Band、安吉；派偉俊、金琳 & 裴晟秀。主持：寶賤。活動時間：18:30-21:00。"
+    },
+    {
+      "id": "upcoming-row-93",
+      "date": "20261024",
+      "band": "band",
+      "time": "未公布",
+      "name": "桃園萬聖城・開城演唱會",
+      "location": "桃園市桃園藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間：18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀；主持人：寶賤。\n卡司：黃偉晉、粗大Band、安吉；派偉俊、金琳 & 裴晟秀。主持：寶賤。活動時間：18:30-21:00。"
+    },
+    {
+      "id": "upcoming-row-94",
+      "date": "20261024",
+      "band": "band_6gp8um_5",
+      "time": "未公布",
+      "name": "桃園萬聖城・開城演唱會",
+      "location": "桃園市桃園藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間：18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀；主持人：寶賤。\n卡司：黃偉晉、粗大Band、安吉；派偉俊、金琳 & 裴晟秀。主持：寶賤。活動時間：18:30-21:00。"
     },
     {
       "id": "upcoming-row-8",
@@ -4470,6 +4506,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "285912b9-46b9-4372-b526-e71c8ef59eb1",
-  "updatedAt": "2026-10-14T05:34:20.975Z"
+  "revision": "118ed1a8-f6ea-474d-a645-a8ae4512d931",
+  "updatedAt": "2026-10-14T05:42:35.132Z"
 }
