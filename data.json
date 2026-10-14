@@ -736,6 +736,78 @@
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_4",
+      "name": "展榮展瑞",
+      "short": "展榮",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_40",
+      "name": "洪言翔",
+      "short": "洪言",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_41",
+      "name": "木星人",
+      "short": "木星",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_42",
+      "name": "詹仕偉",
+      "short": "詹仕",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_43",
+      "name": "吳承恩",
+      "short": "吳承",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_9",
+      "name": "范范",
+      "short": "范范",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_10",
+      "name": "瑋弟",
+      "short": "瑋弟",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "smiledash",
+      "name": "SmileDash",
+      "short": "Sm",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "wnky",
+      "name": "W!nky",
+      "short": "W!",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
     }
   ],
   "events": [
@@ -4281,6 +4353,96 @@
       "note": "［免費］\n活動時間:2026年10月24日 18:30-21:00。卡司包含黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀;主持人為寶賤。\n活動日期為 2026 年 10 月 24 日。"
     },
     {
+      "id": "upcoming-row-143",
+      "date": "20261024",
+      "band": "band_6u8lrj_4",
+      "time": "未公布",
+      "name": "GIOLLA 香揪・你來搗蛋",
+      "location": "板橋中山遠百1F大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE1F%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：展榮展瑞、洪言翔、木星人、詹仕偉、吳承恩、范范、瑋弟、SmileDash、W!nky。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-144",
+      "date": "20261024",
+      "band": "band_drsiw0_40",
+      "time": "未公布",
+      "name": "GIOLLA 香揪・你來搗蛋",
+      "location": "板橋中山遠百1F大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE1F%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：展榮展瑞、洪言翔、木星人、詹仕偉、吳承恩、范范、瑋弟、SmileDash、W!nky。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-145",
+      "date": "20261024",
+      "band": "band_drsiw0_41",
+      "time": "未公布",
+      "name": "GIOLLA 香揪・你來搗蛋",
+      "location": "板橋中山遠百1F大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE1F%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：展榮展瑞、洪言翔、木星人、詹仕偉、吳承恩、范范、瑋弟、SmileDash、W!nky。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-146",
+      "date": "20261024",
+      "band": "band_drsiw0_42",
+      "time": "未公布",
+      "name": "GIOLLA 香揪・你來搗蛋",
+      "location": "板橋中山遠百1F大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE1F%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：展榮展瑞、洪言翔、木星人、詹仕偉、吳承恩、范范、瑋弟、SmileDash、W!nky。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-147",
+      "date": "20261024",
+      "band": "band_drsiw0_43",
+      "time": "未公布",
+      "name": "GIOLLA 香揪・你來搗蛋",
+      "location": "板橋中山遠百1F大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE1F%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：展榮展瑞、洪言翔、木星人、詹仕偉、吳承恩、范范、瑋弟、SmileDash、W!nky。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-148",
+      "date": "20261024",
+      "band": "band_6gp8um_9",
+      "time": "未公布",
+      "name": "GIOLLA 香揪・你來搗蛋",
+      "location": "板橋中山遠百1F大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE1F%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：展榮展瑞、洪言翔、木星人、詹仕偉、吳承恩、范范、瑋弟、SmileDash、W!nky。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-149",
+      "date": "20261024",
+      "band": "band_6gp8um_10",
+      "time": "未公布",
+      "name": "GIOLLA 香揪・你來搗蛋",
+      "location": "板橋中山遠百1F大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE1F%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：展榮展瑞、洪言翔、木星人、詹仕偉、吳承恩、范范、瑋弟、SmileDash、W!nky。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-150",
+      "date": "20261024",
+      "band": "smiledash",
+      "time": "未公布",
+      "name": "GIOLLA 香揪・你來搗蛋",
+      "location": "板橋中山遠百1F大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE1F%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：展榮展瑞、洪言翔、木星人、詹仕偉、吳承恩、范范、瑋弟、SmileDash、W!nky。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-151",
+      "date": "20261024",
+      "band": "wnky",
+      "time": "未公布",
+      "name": "GIOLLA 香揪・你來搗蛋",
+      "location": "板橋中山遠百1F大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE1F%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：展榮展瑞、洪言翔、木星人、詹仕偉、吳承恩、范范、瑋弟、SmileDash、W!nky。活動日期為 2026/10/24。"
+    },
+    {
       "id": "upcoming-row-8",
       "date": "20261025",
       "band": "papunband",
@@ -5306,6 +5468,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "2d209834-2a08-479b-9027-f82560663aa9",
-  "updatedAt": "2026-10-14T12:58:53.446Z"
+  "revision": "7df2dae1-77cf-4ae7-b546-c0b14cb51559",
+  "updatedAt": "2026-10-14T12:59:32.427Z"
 }
