@@ -3866,21 +3866,21 @@
       "id": "upcoming-row-86",
       "date": "20261107",
       "band": "163braces",
-      "time": "未公布",
+      "time": "14:30-15:00",
       "name": "HINO GO潮派",
       "location": "高雄市駁二藝術特區B4蓬萊館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
-      "note": "［免費］\n活動時間表：11/07 163braces (14:30)；FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。"
+      "note": "［免費］\n活動時間表：11/07 163braces (14:30)；FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。\n卡司：163braces、FEniX、安芝儇 × Mingo。活動日期為 2026/11/07-11/08，演出時間表已列出。"
     },
     {
       "id": "upcoming-row-87",
       "date": "20261107",
       "band": "fenix",
-      "time": "未公布",
+      "time": "17:00-17:30",
       "name": "HINO GO潮派",
       "location": "高雄市駁二藝術特區B4蓬萊館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
-      "note": "［免費］\n活動時間表：11/07 163braces (14:30)；FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。"
+      "note": "［免費］\n活動時間表：11/07 163braces (14:30)；FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。\n卡司：163braces、FEniX、安芝儇 × Mingo。活動日期為 2026/11/07-11/08，演出時間表已列出。"
     },
     {
       "id": "upcoming-row-21",
@@ -3906,11 +3906,11 @@
       "id": "upcoming-row-88",
       "date": "20261108",
       "band": "mingo",
-      "time": "未公布",
+      "time": "15:00-15:30",
       "name": "HINO GO潮派",
       "location": "高雄市駁二藝術特區B4蓬萊館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
-      "note": "［免費］\n活動時間表：11/07 163braces (14:30)；FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。"
+      "note": "［免費］\n活動時間表：11/07 163braces (14:30)；FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。\n卡司：163braces、FEniX、安芝儇 × Mingo。活動日期為 2026/11/07-11/08，演出時間表已列出。"
     },
     {
       "id": "upcoming-row-38",
@@ -4398,6 +4398,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e2ca606c-82ea-4183-a280-e8284202e315",
-  "updatedAt": "2026-10-14T05:30:10.317Z"
+  "revision": "f29668f1-b199-4f21-9ba2-1e9633534f56",
+  "updatedAt": "2026-10-14T05:31:06.481Z"
 }
