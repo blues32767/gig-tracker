@@ -7,7 +7,7 @@
       "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
-      "eventCount": 59
+      "eventCount": 58
     },
     {
       "id": "gongguan",
@@ -846,6 +846,30 @@
       "name": "八青哥",
       "short": "八青",
       "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_11",
+      "name": "艾薇",
+      "short": "艾薇",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "cholly",
+      "name": "C.HOLLY",
+      "short": "C.",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "djekmc",
+      "name": "DJ EK + MC 阿蛋",
+      "short": "DJ",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
     }
@@ -4103,7 +4127,7 @@
       "note": "［免費］\n活動時間:18:15-20:45。主持:鄭尹翔。\n演出陣容包含李愛綺、李炳輝、許富凱、陳芳語、THE phoenix、Saturnday、ARKis、玖壹壹。"
     },
     {
-      "id": "upcoming-row-165",
+      "id": "upcoming-row-164",
       "date": "20261017",
       "band": "yoyo",
       "time": "13:00-13:30",
@@ -4113,7 +4137,7 @@
       "note": "［免費］\n卡司：YOYO 家族、Alisa 國風樂團、八青哥"
     },
     {
-      "id": "upcoming-row-166",
+      "id": "upcoming-row-165",
       "date": "20261017",
       "band": "alisa",
       "time": "14:00-14:40",
@@ -4123,7 +4147,7 @@
       "note": "［免費］\n卡司：YOYO 家族、Alisa 國風樂團、八青哥"
     },
     {
-      "id": "upcoming-row-167",
+      "id": "upcoming-row-166",
       "date": "20261017",
       "band": "band_drsiw0_44",
       "time": "16:00-16:40",
@@ -4546,11 +4570,11 @@
       "id": "upcoming-row-9",
       "date": "20261029",
       "band": "mango",
-      "time": "未定",
+      "time": "未公布",
       "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
-      "location": "桃園萬能科大活動中心 2 樓",
+      "location": "桃園市萬能科技大學活動中心2樓",
       "mapLink": "https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
-      "note": "［售票］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n🌟 演出完全公佈:艾薇、CHOLLY、芒果醬、粗大BAND、中壢MEET夜店王牌DJ+MC「阿蛋+EK」\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。"
+      "note": "［售票］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n🌟 演出完全公佈:艾薇、CHOLLY、芒果醬、粗大BAND、中壢MEET夜店王牌DJ+MC「阿蛋+EK」\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n卡司：芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50，開唱時間為 18:30。"
     },
     {
       "id": "upcoming-row-10",
@@ -4565,32 +4589,52 @@
     {
       "id": "upcoming-row-162",
       "date": "20261029",
-      "band": "mango",
+      "band": "band_drsiw0_1",
       "time": "未公布",
-      "name": "萬新音浪 萬能科技大學迎新演唱會",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
       "location": "桃園市萬能科技大學活動中心2樓",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832%E6%A8%93",
-      "note": "［售票］\n卡司：芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。開場時間為 17:50，演唱會於 18:30 開唱。"
+      "mapLink": "https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "note": "［售票］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n🌟 演出完全公佈:艾薇、CHOLLY、芒果醬、粗大BAND、中壢MEET夜店王牌DJ+MC「阿蛋+EK」\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n卡司：芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50，開唱時間為 18:30。"
     },
     {
       "id": "upcoming-row-163",
       "date": "20261029",
-      "band": "band_drsiw0_1",
-      "time": "未公布",
-      "name": "萬新音浪 萬能科技大學迎新演唱會",
-      "location": "桃園市萬能科技大學活動中心2樓",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832%E6%A8%93",
-      "note": "［售票］\n卡司：芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。開場時間為 17:50，演唱會於 18:30 開唱。"
-    },
-    {
-      "id": "upcoming-row-164",
-      "date": "20261029",
       "band": "band",
       "time": "未公布",
-      "name": "萬新音浪 萬能科技大學迎新演唱會",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
       "location": "桃園市萬能科技大學活動中心2樓",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832%E6%A8%93",
-      "note": "［售票］\n卡司：芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。開場時間為 17:50，演唱會於 18:30 開唱。"
+      "mapLink": "https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "note": "［售票］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n🌟 演出完全公佈:艾薇、CHOLLY、芒果醬、粗大BAND、中壢MEET夜店王牌DJ+MC「阿蛋+EK」\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n卡司：芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50，開唱時間為 18:30。"
+    },
+    {
+      "id": "upcoming-row-167",
+      "date": "20261029",
+      "band": "band_6gp8um_11",
+      "time": "未公布",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
+      "location": "桃園市萬能科技大學活動中心2樓",
+      "mapLink": "https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "note": "［售票］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n🌟 演出完全公佈:艾薇、CHOLLY、芒果醬、粗大BAND、中壢MEET夜店王牌DJ+MC「阿蛋+EK」\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n卡司：芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50，開唱時間為 18:30。"
+    },
+    {
+      "id": "upcoming-row-168",
+      "date": "20261029",
+      "band": "cholly",
+      "time": "未公布",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
+      "location": "桃園市萬能科技大學活動中心2樓",
+      "mapLink": "https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "note": "［售票］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n🌟 演出完全公佈:艾薇、CHOLLY、芒果醬、粗大BAND、中壢MEET夜店王牌DJ+MC「阿蛋+EK」\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n卡司：芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50，開唱時間為 18:30。"
+    },
+    {
+      "id": "upcoming-row-169",
+      "date": "20261029",
+      "band": "djekmc",
+      "time": "未公布",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
+      "location": "桃園市萬能科技大學活動中心2樓",
+      "mapLink": "https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "note": "［售票］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n🌟 演出完全公佈:艾薇、CHOLLY、芒果醬、粗大BAND、中壢MEET夜店王牌DJ+MC「阿蛋+EK」\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n卡司：芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50，開唱時間為 18:30。"
     },
     {
       "id": "upcoming-row-11",
@@ -5668,6 +5712,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "1900eee1-c337-4de8-a1e9-fe8a642bf754",
-  "updatedAt": "2026-10-14T13:15:02.174Z"
+  "revision": "3347a692-4375-42be-bc12-4a4251f2d3d4",
+  "updatedAt": "2026-10-14T13:15:42.314Z"
 }
