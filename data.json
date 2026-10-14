@@ -82,6 +82,14 @@
       "eventCount": 2
     },
     {
+      "id": "ffo",
+      "name": "F.F.O",
+      "short": "F.",
+      "color": "#00b4d8",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0",
       "name": "婁峻碩",
       "short": "婁峻",
@@ -223,14 +231,6 @@
       "short": "Bu",
       "color": "#3a86ff",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "ffo",
-      "name": "F.F.O",
-      "short": "F.",
-      "color": "#00b4d8",
-      "category": "團體",
       "eventCount": 1
     },
     {
@@ -415,6 +415,86 @@
       "short": "安吉",
       "color": "#ffd166",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "saturnday",
+      "name": "Saturnday",
+      "short": "Sa",
+      "color": "#06d6a0",
+      "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "lcy",
+      "name": "LCY 呂植宇",
+      "short": "LC",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "arkis",
+      "name": "ARKis",
+      "short": "AR",
+      "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "kimi",
+      "name": "禾羽 Kimi",
+      "short": "禾羽",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "howz",
+      "name": "How Z",
+      "short": "Ho",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "djbbomi",
+      "name": "DJ BBOMI",
+      "short": "DJ",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "amow",
+      "name": "AMOW",
+      "short": "AM",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_20",
+      "name": "梁河懸",
+      "short": "梁河",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec",
+      "name": "無妄合作社",
+      "short": "無妄",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "ktv",
+      "name": "慶記KTV 羅曼迪克",
+      "short": "慶記",
+      "color": "#ffd166",
+      "category": "團體",
       "eventCount": 1
     }
   ],
@@ -3614,11 +3694,11 @@
       "id": "upcoming-row-41",
       "date": "20261024",
       "band": "papunband",
-      "time": "台北市ATT4FUN1F東側廣場",
+      "time": "21:20-22:00",
       "name": "台北FUN肆音樂節",
-      "location": "台北",
+      "location": "台北市ATT4FUN1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-76",
@@ -3709,6 +3789,116 @@
       "location": "桃園市桃園藝文廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
       "note": "［免費］\n活動時間：18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀；主持人：寶賤。"
+    },
+    {
+      "id": "upcoming-row-94",
+      "date": "20261024",
+      "band": "saturnday",
+      "time": "14:00-14:25",
+      "name": "台北FUN肆音樂節",
+      "location": "台北市ATT4FUN1F東側廣場",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "［免費］\n（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+    },
+    {
+      "id": "upcoming-row-95",
+      "date": "20261024",
+      "band": "lcy",
+      "time": "14:30-14:55",
+      "name": "台北FUN肆音樂節",
+      "location": "台北市ATT4FUN1F東側廣場",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "［免費］\n（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+    },
+    {
+      "id": "upcoming-row-96",
+      "date": "20261024",
+      "band": "arkis",
+      "time": "15:00-15:25",
+      "name": "台北FUN肆音樂節",
+      "location": "台北市ATT4FUN1F東側廣場",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "［免費］\n（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+    },
+    {
+      "id": "upcoming-row-97",
+      "date": "20261024",
+      "band": "ffo",
+      "time": "15:30-15:55",
+      "name": "台北FUN肆音樂節",
+      "location": "台北市ATT4FUN1F東側廣場",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "［免費］\n（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+    },
+    {
+      "id": "upcoming-row-98",
+      "date": "20261024",
+      "band": "kimi",
+      "time": "16:00-16:25",
+      "name": "台北FUN肆音樂節",
+      "location": "台北市ATT4FUN1F東側廣場",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "［免費］\n（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+    },
+    {
+      "id": "upcoming-row-99",
+      "date": "20261024",
+      "band": "howz",
+      "time": "16:30-16:55",
+      "name": "台北FUN肆音樂節",
+      "location": "台北市ATT4FUN1F東側廣場",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "［免費］\n（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+    },
+    {
+      "id": "upcoming-row-100",
+      "date": "20261024",
+      "band": "djbbomi",
+      "time": "17:00-18:00",
+      "name": "台北FUN肆音樂節",
+      "location": "台北市ATT4FUN1F東側廣場",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "［免費］\n（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+    },
+    {
+      "id": "upcoming-row-101",
+      "date": "20261024",
+      "band": "amow",
+      "time": "18:00-18:30",
+      "name": "台北FUN肆音樂節",
+      "location": "台北市ATT4FUN1F東側廣場",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "［免費］\n（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+    },
+    {
+      "id": "upcoming-row-102",
+      "date": "20261024",
+      "band": "band_drsiw0_20",
+      "time": "19:20-20:00",
+      "name": "台北FUN肆音樂節",
+      "location": "台北市ATT4FUN1F東側廣場",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "［免費］\n（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+    },
+    {
+      "id": "upcoming-row-103",
+      "date": "20261024",
+      "band": "band_qqiyec",
+      "time": "20:20-21:00",
+      "name": "台北FUN肆音樂節",
+      "location": "台北市ATT4FUN1F東側廣場",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "［免費］\n（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+    },
+    {
+      "id": "upcoming-row-104",
+      "date": "20261024",
+      "band": "ktv",
+      "time": "22:00-23:00",
+      "name": "台北FUN肆音樂節",
+      "location": "台北市ATT4FUN1F東側廣場",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "［免費］\n（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-8",
@@ -4496,6 +4686,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "6108a5c8-fa3c-4dcb-8322-8818d3178e71",
-  "updatedAt": "2026-10-14T07:11:31.691Z"
+  "revision": "09c22ecc-a910-440e-adf4-e2a193a2a128",
+  "updatedAt": "2026-10-14T07:12:46.809Z"
 }
