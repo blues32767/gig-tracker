@@ -39,7 +39,7 @@
       "short": "冰球",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 4
+      "eventCount": 5
     },
     {
       "id": "captainlu",
@@ -55,6 +55,14 @@
       "short": "鼓鼓 呂思緯",
       "color": "#2ec4b6",
       "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "unus",
+      "name": "U:NUS",
+      "short": "U:NUS",
+      "color": "#2ec4b6",
+      "category": "團體",
       "eventCount": 3
     },
     {
@@ -90,11 +98,11 @@
       "eventCount": 2
     },
     {
-      "id": "unus",
-      "name": "U:NUS",
-      "short": "U:NUS",
-      "color": "#2ec4b6",
-      "category": "團體",
+      "id": "band_drsiw0_17",
+      "name": "甜約翰",
+      "short": "甜約翰",
+      "color": "#ffd166",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -118,6 +126,14 @@
       "name": "寶賤",
       "short": "寶賤",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_32",
+      "name": "李翊君",
+      "short": "李翊",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 2
     },
@@ -278,14 +294,6 @@
       "name": "好樂團",
       "short": "好樂團",
       "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_17",
-      "name": "甜約翰",
-      "short": "甜約翰",
-      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
     },
@@ -626,14 +634,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_32",
-      "name": "李翊君",
-      "short": "李翊",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "xurbanband",
       "name": "林希子 x URBAN BAND",
       "short": "林希",
@@ -655,6 +655,78 @@
       "short": "Oz",
       "color": "#ffd166",
       "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_33",
+      "name": "韋禮安",
+      "short": "韋禮",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_34",
+      "name": "羅文裕",
+      "short": "羅文",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_35",
+      "name": "黑旋風",
+      "short": "黑旋",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_36",
+      "name": "陳以諾",
+      "short": "陳以",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "jhall",
+      "name": "J Hall樂團",
+      "short": "JH",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_8",
+      "name": "周蕙",
+      "short": "周蕙",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_37",
+      "name": "羅時豐",
+      "short": "羅時",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_38",
+      "name": "吳汶芳",
+      "short": "吳汶",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_1",
+      "name": "火焰蟲樂團",
+      "short": "火焰",
+      "color": "#ef476f",
+      "category": "樂團",
       "eventCount": 1
     }
   ],
@@ -4561,6 +4633,76 @@
       "note": "［免費］\n活動時間表:11/07 163braces (14:30);FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。\n活動日期:2026/11/07 (周五) 與 2026/11/08 (周六)。"
     },
     {
+      "id": "upcoming-row-129",
+      "date": "20261107",
+      "band": "band_drsiw0_33",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
+    },
+    {
+      "id": "upcoming-row-130",
+      "date": "20261107",
+      "band": "icyball",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
+    },
+    {
+      "id": "upcoming-row-131",
+      "date": "20261107",
+      "band": "band_drsiw0_34",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
+    },
+    {
+      "id": "upcoming-row-132",
+      "date": "20261107",
+      "band": "band_drsiw0_32",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
+    },
+    {
+      "id": "upcoming-row-133",
+      "date": "20261107",
+      "band": "band_drsiw0_35",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
+    },
+    {
+      "id": "upcoming-row-134",
+      "date": "20261107",
+      "band": "band_drsiw0_36",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
+    },
+    {
+      "id": "upcoming-row-135",
+      "date": "20261107",
+      "band": "jhall",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
+    },
+    {
       "id": "upcoming-row-21",
       "date": "20261108",
       "band": "bisiugroup",
@@ -4589,6 +4731,66 @@
       "location": "高雄市駁二藝術特區B4蓬萊館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
       "note": "［免費］\n活動時間表:11/07 163braces (14:30);FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。\n活動日期:2026/11/07 (周五) 與 2026/11/08 (周六)。"
+    },
+    {
+      "id": "upcoming-row-136",
+      "date": "20261108",
+      "band": "band_6gp8um_8",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
+    },
+    {
+      "id": "upcoming-row-137",
+      "date": "20261108",
+      "band": "band_drsiw0_37",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
+    },
+    {
+      "id": "upcoming-row-138",
+      "date": "20261108",
+      "band": "band_drsiw0_38",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
+    },
+    {
+      "id": "upcoming-row-139",
+      "date": "20261108",
+      "band": "unus",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
+    },
+    {
+      "id": "upcoming-row-140",
+      "date": "20261108",
+      "band": "band_drsiw0_17",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
+    },
+    {
+      "id": "upcoming-row-141",
+      "date": "20261108",
+      "band": "band_qqiyec_1",
+      "time": "未公布",
+      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "location": "屏東六堆紀念公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日，11/07與11/08。卡司包含：韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團（11/07）；周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團（11/08）。"
     },
     {
       "id": "upcoming-row-38",
@@ -5086,6 +5288,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "1691be4b-82d5-4d87-b619-bbbe809ea6e2",
-  "updatedAt": "2026-10-14T12:56:32.313Z"
+  "revision": "a5f272d4-f1ba-4501-94d6-753cda6b5161",
+  "updatedAt": "2026-10-14T12:57:21.725Z"
 }
