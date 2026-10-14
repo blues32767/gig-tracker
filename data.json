@@ -90,6 +90,22 @@
       "eventCount": 2
     },
     {
+      "id": "saturnday",
+      "name": "Saturnday",
+      "short": "Saturnday",
+      "color": "#06d6a0",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "arkis",
+      "name": "ARKis",
+      "short": "ARKis",
+      "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0",
       "name": "婁峻碩",
       "short": "婁峻碩",
@@ -418,27 +434,11 @@
       "eventCount": 1
     },
     {
-      "id": "saturnday",
-      "name": "Saturnday",
-      "short": "Saturnday",
-      "color": "#06d6a0",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "lcy",
       "name": "LCY 呂植宇",
       "short": "呂植宇",
       "color": "#118ab2",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "arkis",
-      "name": "ARKis",
-      "short": "ARKis",
-      "color": "#8338ec",
-      "category": "團體",
       "eventCount": 1
     },
     {
@@ -543,6 +543,54 @@
       "short": "未公布",
       "color": "#3a86ff",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_23",
+      "name": "李愛綺",
+      "short": "李愛",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_24",
+      "name": "李炳輝",
+      "short": "李炳",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_26",
+      "name": "陳芳語",
+      "short": "陳芳",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "thephoenix",
+      "name": "THE phoenix",
+      "short": "TH",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_27",
+      "name": "玖壹壹",
+      "short": "玖壹",
+      "color": "#118ab2",
+      "category": "團體",
       "eventCount": 1
     }
   ],
@@ -3719,6 +3767,86 @@
       "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司:羊駝小姐 Malpaca、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。"
     },
     {
+      "id": "upcoming-row-111",
+      "date": "20261017",
+      "band": "band_drsiw0_23",
+      "time": "18:15-18:35",
+      "name": "出口音樂節",
+      "location": "台北市臺北表演藝術中心南極座廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E4%B8%AD%E5%BF%83%E5%8D%97%E6%A5%B5%E5%BA%A7%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間：18:15-20:45。主持：鄭尹翔。\n演出陣容包含李愛綺、李炳輝、許富凱、陳芳語、THE phoenix、Saturnday、ARKis、玖壹壹。"
+    },
+    {
+      "id": "upcoming-row-112",
+      "date": "20261017",
+      "band": "band_drsiw0_24",
+      "time": "18:35-18:50",
+      "name": "出口音樂節",
+      "location": "台北市臺北表演藝術中心南極座廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E4%B8%AD%E5%BF%83%E5%8D%97%E6%A5%B5%E5%BA%A7%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間：18:15-20:45。主持：鄭尹翔。\n演出陣容包含李愛綺、李炳輝、許富凱、陳芳語、THE phoenix、Saturnday、ARKis、玖壹壹。"
+    },
+    {
+      "id": "upcoming-row-113",
+      "date": "20261017",
+      "band": "band_drsiw0_25",
+      "time": "18:50-19:10",
+      "name": "出口音樂節",
+      "location": "台北市臺北表演藝術中心南極座廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E4%B8%AD%E5%BF%83%E5%8D%97%E6%A5%B5%E5%BA%A7%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間：18:15-20:45。主持：鄭尹翔。\n演出陣容包含李愛綺、李炳輝、許富凱、陳芳語、THE phoenix、Saturnday、ARKis、玖壹壹。"
+    },
+    {
+      "id": "upcoming-row-114",
+      "date": "20261017",
+      "band": "band_drsiw0_26",
+      "time": "19:10-19:30",
+      "name": "出口音樂節",
+      "location": "台北市臺北表演藝術中心南極座廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E4%B8%AD%E5%BF%83%E5%8D%97%E6%A5%B5%E5%BA%A7%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間：18:15-20:45。主持：鄭尹翔。\n演出陣容包含李愛綺、李炳輝、許富凱、陳芳語、THE phoenix、Saturnday、ARKis、玖壹壹。"
+    },
+    {
+      "id": "upcoming-row-115",
+      "date": "20261017",
+      "band": "thephoenix",
+      "time": "19:30-19:35",
+      "name": "出口音樂節",
+      "location": "台北市臺北表演藝術中心南極座廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E4%B8%AD%E5%BF%83%E5%8D%97%E6%A5%B5%E5%BA%A7%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間：18:15-20:45。主持：鄭尹翔。\n演出陣容包含李愛綺、李炳輝、許富凱、陳芳語、THE phoenix、Saturnday、ARKis、玖壹壹。"
+    },
+    {
+      "id": "upcoming-row-116",
+      "date": "20261017",
+      "band": "saturnday",
+      "time": "19:35-19:45",
+      "name": "出口音樂節",
+      "location": "台北市臺北表演藝術中心南極座廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E4%B8%AD%E5%BF%83%E5%8D%97%E6%A5%B5%E5%BA%A7%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間：18:15-20:45。主持：鄭尹翔。\n演出陣容包含李愛綺、李炳輝、許富凱、陳芳語、THE phoenix、Saturnday、ARKis、玖壹壹。"
+    },
+    {
+      "id": "upcoming-row-117",
+      "date": "20261017",
+      "band": "arkis",
+      "time": "19:45-20:05",
+      "name": "出口音樂節",
+      "location": "台北市臺北表演藝術中心南極座廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E4%B8%AD%E5%BF%83%E5%8D%97%E6%A5%B5%E5%BA%A7%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間：18:15-20:45。主持：鄭尹翔。\n演出陣容包含李愛綺、李炳輝、許富凱、陳芳語、THE phoenix、Saturnday、ARKis、玖壹壹。"
+    },
+    {
+      "id": "upcoming-row-118",
+      "date": "20261017",
+      "band": "band_drsiw0_27",
+      "time": "20:10-20:45",
+      "name": "出口音樂節",
+      "location": "台北市臺北表演藝術中心南極座廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E4%B8%AD%E5%BF%83%E5%8D%97%E6%A5%B5%E5%BA%A7%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間：18:15-20:45。主持：鄭尹翔。\n演出陣容包含李愛綺、李炳輝、許富凱、陳芳語、THE phoenix、Saturnday、ARKis、玖壹壹。"
+    },
+    {
       "id": "upcoming-row-4",
       "date": "20261018",
       "band": "papunband",
@@ -4794,6 +4922,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "5e7296c5-7242-4ca2-a1a0-49f8581c5fd9",
-  "updatedAt": "2026-10-14T12:50:09.761Z"
+  "revision": "816331f7-f463-4896-b70b-5fc0fb161e44",
+  "updatedAt": "2026-10-14T12:50:52.846Z"
 }
