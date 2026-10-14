@@ -824,6 +824,30 @@
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
+    },
+    {
+      "id": "yoyo",
+      "name": "YOYO 家族",
+      "short": "YO",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "alisa",
+      "name": "Alisa 國風樂團",
+      "short": "Al",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_44",
+      "name": "八青哥",
+      "short": "八青",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
     }
   ],
   "events": [
@@ -4079,6 +4103,36 @@
       "note": "［免費］\n活動時間:18:15-20:45。主持:鄭尹翔。\n演出陣容包含李愛綺、李炳輝、許富凱、陳芳語、THE phoenix、Saturnday、ARKis、玖壹壹。"
     },
     {
+      "id": "upcoming-row-165",
+      "date": "20261017",
+      "band": "yoyo",
+      "time": "13:00-13:30",
+      "name": "《WOW!夢想實驗樂園》南投青連節",
+      "location": "南投縣草屯酷比親子運動公園旁綠地",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E8%8D%89%E5%B1%AF%E9%85%B7%E6%AF%94%E8%A6%AA%E5%AD%90%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E6%97%81%E7%B6%A0%E5%9C%B0",
+      "note": "［免費］\n卡司：YOYO 家族、Alisa 國風樂團、八青哥"
+    },
+    {
+      "id": "upcoming-row-166",
+      "date": "20261017",
+      "band": "alisa",
+      "time": "14:00-14:40",
+      "name": "《WOW!夢想實驗樂園》南投青連節",
+      "location": "南投縣草屯酷比親子運動公園旁綠地",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E8%8D%89%E5%B1%AF%E9%85%B7%E6%AF%94%E8%A6%AA%E5%AD%90%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E6%97%81%E7%B6%A0%E5%9C%B0",
+      "note": "［免費］\n卡司：YOYO 家族、Alisa 國風樂團、八青哥"
+    },
+    {
+      "id": "upcoming-row-167",
+      "date": "20261017",
+      "band": "band_drsiw0_44",
+      "time": "16:00-16:40",
+      "name": "《WOW!夢想實驗樂園》南投青連節",
+      "location": "南投縣草屯酷比親子運動公園旁綠地",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E8%8D%89%E5%B1%AF%E9%85%B7%E6%AF%94%E8%A6%AA%E5%AD%90%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E6%97%81%E7%B6%A0%E5%9C%B0",
+      "note": "［免費］\n卡司：YOYO 家族、Alisa 國風樂團、八青哥"
+    },
+    {
       "id": "upcoming-row-4",
       "date": "20261018",
       "band": "papunband",
@@ -5614,6 +5668,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "fb5cc8a3-63d9-43a5-850e-93354f16b9e3",
-  "updatedAt": "2026-10-14T13:14:22.225Z"
+  "revision": "1900eee1-c337-4de8-a1e9-fe8a642bf754",
+  "updatedAt": "2026-10-14T13:15:02.174Z"
 }
