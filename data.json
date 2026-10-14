@@ -15,7 +15,7 @@
       "short": "公館",
       "color": "#2a9d8f",
       "category": "樂團",
-      "eventCount": 14
+      "eventCount": 12
     },
     {
       "id": "papunband",
@@ -55,7 +55,7 @@
       "short": "鼓鼓",
       "color": "#2ec4b6",
       "category": "個人",
-      "eventCount": 4
+      "eventCount": 3
     },
     {
       "id": "WhoCares",
@@ -78,70 +78,6 @@
       "name": "163braces",
       "short": "16",
       "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_15",
-      "name": "洪安妮",
-      "short": "洪安",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_16",
-      "name": "好樂團",
-      "short": "好樂",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_17",
-      "name": "甜約翰",
-      "short": "甜約",
-      "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6u8lrj",
-      "name": "溫蒂漫步",
-      "short": "溫蒂",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6u8lrj_1",
-      "name": "南西肯恩",
-      "short": "南西",
-      "color": "#118ab2",
-      "category": "團體",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6u8lrj_2",
-      "name": "溫室雜草",
-      "short": "溫室",
-      "color": "#8338ec",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "joyce",
-      "name": "JOYCE 就以斯",
-      "short": "JO",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "pia",
-      "name": "PiA 吳蓓雅",
-      "short": "Pi",
-      "color": "#fb5607",
       "category": "個人",
       "eventCount": 2
     },
@@ -298,6 +234,70 @@
       "eventCount": 1
     },
     {
+      "id": "band_drsiw0_15",
+      "name": "洪安妮",
+      "short": "洪安",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_16",
+      "name": "好樂團",
+      "short": "好樂",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_17",
+      "name": "甜約翰",
+      "short": "甜約",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj",
+      "name": "溫蒂漫步",
+      "short": "溫蒂",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_1",
+      "name": "南西肯恩",
+      "short": "南西",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_2",
+      "name": "溫室雜草",
+      "short": "溫室",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "joyce",
+      "name": "JOYCE 就以斯",
+      "short": "JO",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "pia",
+      "name": "PiA 吳蓓雅",
+      "short": "Pi",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "band_6gp8um_2",
       "name": "黃妃",
       "short": "黃妃",
@@ -442,7 +442,7 @@
       "date": "20261004",
       "band": "papunband",
       "name": "17:40-18:20",
-      "location": "台中 𝟮𝟬𝟮𝟲 嗨安祭 𝙃𝙞𝘼𝙣 𝙁𝙚𝙨𝙩𝙞𝙫𝙖𝙡",
+      "location": "台中 2026 嗨安祭 HiAn Festival",
       "note": "大安港媽祖文化園區",
       "setlist": []
     },
@@ -451,7 +451,7 @@
       "date": "20261004",
       "band": "bisiugroup",
       "name": "19:20-20:00",
-      "location": "台中 𝟮𝟬𝟮𝟲 嗨安祭 𝙃𝙞𝘼𝙣 𝙁𝙚𝙨𝙩𝙞𝙫𝙖𝙡",
+      "location": "台中 2026 嗨安祭 HiAn Festival",
       "note": "大安港媽祖文化園區",
       "setlist": []
     },
@@ -605,7 +605,7 @@
       "date": "20260822",
       "band": "mango",
       "name": "苗栗 好望角施工中音樂節",
-      "location": "後龍新港國中小大操場（苗栗好望角施工中音樂節）",
+      "location": "後龍新港國中小大操場(苗栗好望角施工中音樂節)",
       "note": "https://maps.google.com/?q=後龍新港國中小",
       "setlist": [
         {
@@ -664,7 +664,7 @@
       "date": "20260819",
       "band": "mango",
       "name": "新竹 竹塹七夕成年禮《織光璀璨》",
-      "location": "新竹竹蓮寺（竹塹七夕成年禮）",
+      "location": "新竹竹蓮寺(竹塹七夕成年禮)",
       "note": "https://maps.google.com/?q=新竹竹蓮寺",
       "setlist": [
         {
@@ -723,7 +723,7 @@
       "date": "20260816",
       "band": "mango",
       "name": "台東 最美星空音樂節-大武場 9420濱海公園",
-      "location": "大武9420濱海休憩區（最美星空音樂節-大武場）",
+      "location": "大武9420濱海休憩區(最美星空音樂節-大武場)",
       "note": "https://maps.google.com/?q=9420濱海休憩區",
       "setlist": [
         {
@@ -796,7 +796,7 @@
       "date": "20260802",
       "band": "mango",
       "name": "高雄 台日大港水果祭",
-      "location": "高雄流行音樂中心海風廣場與堤岸廊道（台日大港水果祭）",
+      "location": "高雄流行音樂中心海風廣場與堤岸廊道(台日大港水果祭)",
       "note": "https://maps.google.com/?q=高雄流行音樂中心海風廣場",
       "setlist": [
         {
@@ -862,7 +862,7 @@
       "date": "20260801",
       "band": "mango",
       "name": "桃園 珍珠海岸國際音樂節",
-      "location": "竹圍漁港（珍珠海岸國際音樂節）",
+      "location": "竹圍漁港(珍珠海岸國際音樂節)",
       "note": "https://maps.google.com/?q=竹圍漁港",
       "setlist": [
         {
@@ -921,7 +921,7 @@
       "date": "20260727",
       "band": "mango",
       "name": "一生弦命吉他營講座",
-      "location": "一生弦命音樂工作室中西區總部（一生弦命吉他營講座）",
+      "location": "一生弦命音樂工作室中西區總部(一生弦命吉他營講座)",
       "note": "https://maps.google.com/?q=台南市中西區友愛街128號",
       "setlist": [
         {
@@ -952,7 +952,7 @@
       "date": "20260726",
       "band": "mango",
       "name": "新北 河海音樂季 貢寮場",
-      "location": "福隆大草坪及福隆海水浴場（河海音樂季 貢寮場）",
+      "location": "福隆大草坪及福隆海水浴場(河海音樂季 貢寮場)",
       "note": "https://maps.google.com/?q=福隆海水浴場",
       "setlist": [
         {
@@ -1025,7 +1025,7 @@
       "date": "20260725",
       "band": "mango",
       "name": "台北 青年理想生活節",
-      "location": "信義香堤大道廣場（青年理想生活節）",
+      "location": "信義香堤大道廣場(青年理想生活節)",
       "note": "https://maps.google.com/?q=信義香堤大道廣場",
       "setlist": [
         {
@@ -1084,7 +1084,7 @@
       "date": "20260725",
       "band": "mango",
       "name": "雲林 雲西海洋音樂季",
-      "location": "四湖三條崙海水浴場（雲西海洋音樂季）",
+      "location": "四湖三條崙海水浴場(雲西海洋音樂季)",
       "note": "https://maps.google.com/?q=三條崙海水浴場",
       "setlist": [
         {
@@ -1143,7 +1143,7 @@
       "date": "20260718",
       "band": "mango",
       "name": "台北 天母啤酒節",
-      "location": "天母運動公園（天母啤酒節）",
+      "location": "天母運動公園(天母啤酒節)",
       "note": "https://maps.google.com/?q=天母運動公園",
       "setlist": [
         {
@@ -1216,7 +1216,7 @@
       "date": "20260705",
       "band": "mango",
       "name": "澳門 《心跳保衛戰<3‎搶救你個心》Live in Macau",
-      "location": "澳門銀河綜合度假城（心跳保衛戰 Macau）",
+      "location": "澳門銀河綜合度假城(心跳保衛戰 Macau)",
       "note": "https://maps.google.com/?q=澳門銀河綜合度假城",
       "setlist": [
         {
@@ -1394,7 +1394,7 @@
       "date": "20260704",
       "band": "mango",
       "name": "香港 心跳保衛戰<3‎搶救你個心》Live in Hong Kong",
-      "location": "黃埔TIDES（心跳保衛戰 Hong Kong）",
+      "location": "黃埔TIDES(心跳保衛戰 Hong Kong)",
       "note": "https://maps.google.com/?q=黃埔TIDES",
       "setlist": [
         {
@@ -1572,7 +1572,7 @@
       "date": "20260628",
       "band": "mango",
       "name": "台中 春浪音樂節",
-      "location": "水渼渼綜合休閒農牧場（春浪音樂節）",
+      "location": "水渼渼綜合休閒農牧場(春浪音樂節)",
       "note": "https://maps.google.com/?q=水渼渼綜合休閒農牧場",
       "setlist": [
         {
@@ -1652,7 +1652,7 @@
       "date": "20260619",
       "band": "mango",
       "name": "彰化 鹿港慶端陽",
-      "location": "鹿港鎮各活動場域/龍山寺/福鹿溪等（鹿港慶端陽）",
+      "location": "鹿港鎮各活動場域/龍山寺/福鹿溪等(鹿港慶端陽)",
       "note": "https://maps.google.com/?q=鹿港龍山寺",
       "setlist": [
         {
@@ -1710,8 +1710,8 @@
       "id": "EV_20260606_M",
       "date": "20260606",
       "band": "mango",
-      "name": "金門 6.6Hz：初夏共振",
-      "location": "金門后湖海濱公園（6.6Hz：初夏共振）",
+      "name": "金門 6.6Hz:初夏共振",
+      "location": "金門后湖海濱公園(6.6Hz:初夏共振)",
       "note": "https://maps.google.com/?q=金門后湖海濱公園",
       "setlist": [
         {
@@ -1784,7 +1784,7 @@
       "date": "20260531",
       "band": "mango",
       "name": "新竹 漫人祭",
-      "location": "新竹市影像博物館（漫人祭）",
+      "location": "新竹市影像博物館(漫人祭)",
       "note": "https://maps.google.com/?q=新竹市影像博物館",
       "setlist": [
         {
@@ -1843,7 +1843,7 @@
       "date": "20260530",
       "band": "mango",
       "name": "台中 赤聲躁動",
-      "location": "豐原體育場（赤聲躁動）",
+      "location": "豐原體育場(赤聲躁動)",
       "note": "https://maps.google.com/?q=豐原體育場",
       "setlist": [
         {
@@ -1916,7 +1916,7 @@
       "date": "20260523",
       "band": "mango",
       "name": "苗栗 頭份四月八庄神搖滾",
-      "location": "頭份六合綜合運動場（頭份四月八庄神搖滾）",
+      "location": "頭份六合綜合運動場(頭份四月八庄神搖滾)",
       "note": "https://maps.google.com/?q=頭份六合綜合運動場",
       "setlist": [
         {
@@ -1968,7 +1968,7 @@
       "date": "20260522",
       "band": "mango",
       "name": "屏東 鹽琉趴",
-      "location": "TAIWAN HI新園海洋航運園區（鹽琉趴）",
+      "location": "TAIWAN HI新園海洋航運園區(鹽琉趴)",
       "note": "https://maps.google.com/?q=新園海洋航運園區",
       "setlist": [
         {
@@ -2027,7 +2027,7 @@
       "date": "20260509",
       "band": "mango",
       "name": "台北 101公益馬拉松",
-      "location": "台北101大樓（101公益馬拉松）",
+      "location": "台北101大樓(101公益馬拉松)",
       "note": "https://maps.google.com/?q=台北101大樓",
       "setlist": [
         {
@@ -2086,7 +2086,7 @@
       "date": "20260502",
       "band": "mango",
       "name": "台南 西拉雅森活節",
-      "location": "臺南市官田遊客中心（西拉雅森活節）",
+      "location": "臺南市官田遊客中心(西拉雅森活節)",
       "note": "https://maps.google.com/?q=官田遊客中心",
       "setlist": [
         {
@@ -2159,7 +2159,7 @@
       "date": "20260501",
       "band": "mango",
       "name": "南投 嶄露頭角音樂節",
-      "location": "南投縣農工商會展中心（嶄露頭角音樂節）",
+      "location": "南投縣農工商會展中心(嶄露頭角音樂節)",
       "note": "https://maps.google.com/?q=南投縣農工商會展中心",
       "setlist": [
         {
@@ -2232,7 +2232,7 @@
       "date": "20260426",
       "band": "mango",
       "name": "台北《JMFinAsia》楓糖愛玉共演",
-      "location": "華山1914文化創意產業園區（JMFinAsia楓糖愛玉共演）",
+      "location": "華山1914文化創意產業園區(JMFinAsia楓糖愛玉共演)",
       "note": "https://maps.google.com/?q=華山1914文化創意產業園區",
       "setlist": [
         {
@@ -2305,7 +2305,7 @@
       "date": "20260425",
       "band": "mango",
       "name": "台北 好朋友來瞧橋—淡江大橋健行活動",
-      "location": "淡水漁人碼頭與淡江大橋（淡江大橋健行活動）",
+      "location": "淡水漁人碼頭與淡江大橋(淡江大橋健行活動)",
       "note": "https://maps.google.com/?q=淡水漁人碼頭",
       "setlist": [
         {
@@ -2364,7 +2364,7 @@
       "date": "20260412",
       "band": "mango",
       "name": "屏東 南國生活節",
-      "location": "恆春古城北門廣場（南國生活節）",
+      "location": "恆春古城北門廣場(南國生活節)",
       "note": "https://maps.google.com/?q=恆春古城北門",
       "setlist": [
         {
@@ -2437,7 +2437,7 @@
       "date": "20260406",
       "band": "mango",
       "name": "台北新北 芒果醬 9 歲慶生",
-      "location": "高雄駁二藝術特區（大港開唱）",
+      "location": "高雄駁二藝術特區(大港開唱)",
       "note": "https://maps.google.com/?q=駁二藝術特區",
       "setlist": [
         {
@@ -2552,7 +2552,7 @@
       "date": "20260322",
       "band": "mango",
       "name": "高雄 大港開唱",
-      "location": "台北美堤河濱公園（國泰金控健康走）",
+      "location": "台北美堤河濱公園(國泰金控健康走)",
       "note": "https://maps.google.com/?q=美堤河濱公園",
       "setlist": [
         {
@@ -2625,7 +2625,7 @@
       "date": "20260321",
       "band": "mango",
       "name": "台北 國泰金控健康走",
-      "location": "高雄中央公園（日光海島生活節）",
+      "location": "高雄中央公園(日光海島生活節)",
       "note": "https://maps.google.com/?q=高雄中央公園",
       "setlist": [
         {
@@ -2684,7 +2684,7 @@
       "date": "20260307",
       "band": "mango",
       "name": "高雄 2026日光海島生活節",
-      "location": "墾丁大灣草地（南國趴）",
+      "location": "墾丁大灣草地(南國趴)",
       "note": "https://maps.google.com/?q=墾丁大灣草地",
       "setlist": [
         {
@@ -2750,7 +2750,7 @@
       "date": "20260228",
       "band": "mango",
       "name": "墾丁 南國趴",
-      "location": "鰲峰山運動公園/台中市自由車場（浮現祭）",
+      "location": "鰲峰山運動公園/台中市自由車場(浮現祭)",
       "note": "https://maps.google.com/?q=鰲峰山運動公園",
       "setlist": [
         {
@@ -2830,7 +2830,7 @@
       "date": "20260228",
       "band": "mango",
       "name": "台中 浮現祭",
-      "location": "員林公園（員林元宵晚會）",
+      "location": "員林公園(員林元宵晚會)",
       "note": "https://maps.google.com/?q=員林公園",
       "setlist": [
         {
@@ -2910,7 +2910,7 @@
       "date": "20260227",
       "band": "mango",
       "name": "員林 元宵晚會",
-      "location": "臺南市新市區迎曦湖南側草坪區（南科迎曦音樂節）",
+      "location": "臺南市新市區迎曦湖南側草坪區(南科迎曦音樂節)",
       "note": "https://maps.google.com/?q=迎曦湖",
       "setlist": [
         {
@@ -2969,7 +2969,7 @@
       "date": "20260124",
       "band": "mango",
       "name": "台南 南科迎曦音樂節",
-      "location": "岡山樂購廣場（岡山JINS GO）",
+      "location": "岡山樂購廣場(岡山JINS GO)",
       "note": "https://maps.google.com/?q=岡山樂購廣場",
       "setlist": [
         {
@@ -3028,7 +3028,7 @@
       "date": "20260110",
       "band": "mango",
       "name": "高雄 岡山JINS GO",
-      "location": "台南應用科技大學（校園演唱會）",
+      "location": "台南應用科技大學(校園演唱會)",
       "note": "https://maps.google.com/?q=台南應用科技大學",
       "setlist": [
         {
@@ -3082,7 +3082,7 @@
       "date": "20260918",
       "band": "mango",
       "name": "彰化 月光溪湖 潮玩好物祭",
-      "location": "溪湖鎮廣停六用地（湖西國小旁停車場）",
+      "location": "溪湖鎮廣停六用地(湖西國小旁停車場)",
       "note": "https://maps.app.goo.gl/oFTfrmxJ3DsRkXMo9?g_st=ac",
       "setlist": [
         {
@@ -3279,7 +3279,7 @@
       "id": "EV_f5fc1a6d-b8ff-4faa-88ce-309e072b8067",
       "date": "20261008",
       "band": "bisiugroup",
-      "name": "金門 𝟐𝟎𝟐𝟔 搖擺-金各演音樂祭 𝑳𝑰𝑽𝑬 𝑰𝑵 𝑯𝑶𝑷𝑬",
+      "name": "金門 2026 搖擺-金各演音樂祭 LIVE IN HOPE",
       "location": "金門縣金城鎮莒光公園",
       "note": "免費\n停車指引：https://www.facebook.com/share/p/19hGMJfisg/\n地圖：https://maps.app.goo.gl/ZHYBne16V2krQ2Y69",
       "setlist": []
@@ -3288,7 +3288,7 @@
       "id": "EV_9c0a7310-3afe-48a8-bef7-a8097de8a387",
       "date": "20261008",
       "band": "icyball",
-      "name": "金門 𝟐𝟎𝟐𝟔 搖擺-金各演音樂祭 𝑳𝑰𝑽𝑬 𝑰𝑵 𝑯𝑶𝑷𝑬",
+      "name": "金門 2026 搖擺-金各演音樂祭 LIVE IN HOPE",
       "location": "金門縣金城鎮莒光公園",
       "note": "免費\n停車指引：https://www.facebook.com/share/p/19hGMJfisg/\n地圖：https://maps.app.goo.gl/ZHYBne16V2krQ2Y69",
       "setlist": []
@@ -3297,7 +3297,7 @@
       "id": "EV_2ac40358-4382-48cf-80ef-fc607d8fb7ed",
       "date": "20261008",
       "band": "papunband",
-      "name": "金門 𝟐𝟎𝟐𝟔 搖擺-金各演音樂祭 𝑳𝑰𝑽𝑬 𝑰𝑵 𝑯𝑶𝑷𝑬",
+      "name": "金門 2026 搖擺-金各演音樂祭 LIVE IN HOPE",
       "location": "金門縣金城鎮莒光公園",
       "note": "免費\n停車指引：https://www.facebook.com/share/p/19hGMJfisg/\n地圖：https://maps.app.goo.gl/ZHYBne16V2krQ2Y69",
       "setlist": []
@@ -3521,7 +3521,7 @@
       "note": "來源：https://www.threads.com/share/BADACNflBv/"
     },
     {
-      "id": "upcoming-row-89",
+      "id": "upcoming-row-88",
       "date": "20261017",
       "band": "band_6u8lrj_3",
       "time": "未公布",
@@ -3531,7 +3531,7 @@
       "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司：羊駝小姐 Malpaca、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。\n活動日期：2026/10/17 - 10/18。卡司：羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。"
     },
     {
-      "id": "upcoming-row-90",
+      "id": "upcoming-row-89",
       "date": "20261017",
       "band": "atempoquarte",
       "time": "未公布",
@@ -3541,7 +3541,7 @@
       "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司：羊駝小姐 Malpaca、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。\n活動日期：2026/10/17 - 10/18。卡司：羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。"
     },
     {
-      "id": "upcoming-row-91",
+      "id": "upcoming-row-90",
       "date": "20261017",
       "band": "band_drsiw0_19",
       "time": "未公布",
@@ -3551,7 +3551,7 @@
       "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司：羊駝小姐 Malpaca、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。\n活動日期：2026/10/17 - 10/18。卡司：羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。"
     },
     {
-      "id": "upcoming-row-92",
+      "id": "upcoming-row-91",
       "date": "20261017",
       "band": "yamonsocialc",
       "time": "未公布",
@@ -3586,7 +3586,7 @@
       "band": "mango",
       "time": "未定",
       "name": "南投 《三一璀璨・暨創新章》暨南國際大學校慶演唱會(不開放校外人士)",
-      "location": "南投　國立暨南國際大學體育館",
+      "location": "南投 國立暨南國際大學體育館",
       "mapLink": "https://maps.app.goo.gl/vVP7bNThHZSGmXAy5",
       "note": "注意：【本活動不開方校外人士】\n活動時間：18:00開始\n資訊來源(國立暨南國際大學學生會)：https://www.instagram.com/p/DeUK7mHPXqt/"
     },
@@ -3621,7 +3621,7 @@
       "note": "（免費）\n➤卡司：\n｜怕胖團｜梁河懸｜禾羽 Kimi\n｜LCY呂植宇｜無妄合作社\n｜慶記KTV 羅曼迪克\n｜ARKis｜Saturnday｜How Z\n｜F.F.O｜DJ BBOMI｜AMOW\n➤主持：｜聖恩\n❑台北市ATT4FUN1F東側廣場❑\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
-      "id": "upcoming-row-77",
+      "id": "upcoming-row-76",
       "date": "20261024",
       "band": "band_6gp8um_2",
       "time": "未公布",
@@ -3631,7 +3631,7 @@
       "note": "［免費］\n活動時間為 10:00-18:00。24日卡司：黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團。25日卡司：品冠、馬太鞍部落青年 Laniyaro’及更多表演者。"
     },
     {
-      "id": "upcoming-row-78",
+      "id": "upcoming-row-77",
       "date": "20261024",
       "band": "band_6gp8um_3",
       "time": "未公布",
@@ -3641,7 +3641,7 @@
       "note": "［免費］\n活動時間為 10:00-18:00。24日卡司：黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團。25日卡司：品冠、馬太鞍部落青年 Laniyaro’及更多表演者。"
     },
     {
-      "id": "upcoming-row-79",
+      "id": "upcoming-row-78",
       "date": "20261024",
       "band": "band_nmq1yt",
       "time": "未公布",
@@ -3651,7 +3651,7 @@
       "note": "［免費］\n活動時間為 10:00-18:00。24日卡司：黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團。25日卡司：品冠、馬太鞍部落青年 Laniyaro’及更多表演者。"
     },
     {
-      "id": "upcoming-row-80",
+      "id": "upcoming-row-79",
       "date": "20261024",
       "band": "unus",
       "time": "未公布",
@@ -3661,7 +3661,7 @@
       "note": "［免費］\n活動時間為 10:00-18:00。24日卡司：黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團。25日卡司：品冠、馬太鞍部落青年 Laniyaro’及更多表演者。"
     },
     {
-      "id": "upcoming-row-81",
+      "id": "upcoming-row-80",
       "date": "20261024",
       "band": "band_maaxir",
       "time": "未公布",
@@ -3671,7 +3671,7 @@
       "note": "［免費］\n活動時間為 10:00-18:00。24日卡司：黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團。25日卡司：品冠、馬太鞍部落青年 Laniyaro’及更多表演者。"
     },
     {
-      "id": "upcoming-row-84",
+      "id": "upcoming-row-83",
       "date": "20261024",
       "band": "band_drsiw0_18",
       "time": "18:30-21:00",
@@ -3681,7 +3681,7 @@
       "note": "［免費］\n活動時間：18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀；主持人：寶賤。\n卡司：黃偉晉、粗大Band、安吉；派偉俊、金琳 & 裴晟秀。主持：寶賤。活動時間：18:30-21:00。\n活動時間為 18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀助陣。主持人為寶賤。\n活動時間為 18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊，以及金琳 & 裴晟秀。主持人為寶賤。\n卡司：黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀參與；主持人為寶賤。活動時間為 18:30-21:00。\n活動時間為 18:30-21:00。卡司包含黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀參與，主持人為寶賤。"
     },
     {
-      "id": "upcoming-row-85",
+      "id": "upcoming-row-84",
       "date": "20261024",
       "band": "band_drsiw0_2",
       "time": "18:30-21:00",
@@ -3691,7 +3691,7 @@
       "note": "［免費］\n活動時間：18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀；主持人：寶賤。\n卡司：黃偉晉、粗大Band、安吉；派偉俊、金琳 & 裴晟秀。主持：寶賤。活動時間：18:30-21:00。\n活動時間為 18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀助陣。主持人為寶賤。\n活動時間為 18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊，以及金琳 & 裴晟秀。主持人為寶賤。\n卡司：黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀參與；主持人為寶賤。活動時間為 18:30-21:00。\n活動時間為 18:30-21:00。卡司包含黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀參與，主持人為寶賤。"
     },
     {
-      "id": "upcoming-row-93",
+      "id": "upcoming-row-92",
       "date": "20261024",
       "band": "band",
       "time": "18:30-21:00",
@@ -3701,7 +3701,7 @@
       "note": "［免費］\n活動時間：18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀；主持人：寶賤。\n卡司：黃偉晉、粗大Band、安吉；派偉俊、金琳 & 裴晟秀。主持：寶賤。活動時間：18:30-21:00。\n活動時間為 18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀助陣。主持人為寶賤。\n活動時間為 18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊，以及金琳 & 裴晟秀。主持人為寶賤。\n卡司：黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀參與；主持人為寶賤。活動時間為 18:30-21:00。\n活動時間為 18:30-21:00。卡司包含黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀參與，主持人為寶賤。"
     },
     {
-      "id": "upcoming-row-94",
+      "id": "upcoming-row-93",
       "date": "20261024",
       "band": "band_6gp8um_5",
       "time": "18:30-21:00",
@@ -3721,7 +3721,7 @@
       "note": "免費\n時間表：https://www.threads.com/share/HuyUrzFYN/"
     },
     {
-      "id": "upcoming-row-82",
+      "id": "upcoming-row-81",
       "date": "20261025",
       "band": "band_6gp8um_4",
       "time": "未公布",
@@ -3731,7 +3731,7 @@
       "note": "［免費］\n活動時間為 10:00-18:00。24日卡司：黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團。25日卡司：品冠、馬太鞍部落青年 Laniyaro’及更多表演者。"
     },
     {
-      "id": "upcoming-row-83",
+      "id": "upcoming-row-82",
       "date": "20261025",
       "band": "laniyaro",
       "time": "未公布",
@@ -3745,7 +3745,7 @@
       "date": "20261029",
       "band": "mango",
       "time": "未定",
-      "name": "桃園 2026萬能科技大學迎新演唱會｜萬新音浪",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
       "location": "桃園萬能科大活動中心 2 樓",
       "mapLink": "https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
       "note": "• 時間：17:50 入場 / 18:30 開唱\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元／人購票入場\n🌟 演出完全公佈：艾薇、CHOLLY、芒果醬、粗大BAND、中壢MEET夜店王牌DJ＋MC「阿蛋+EK」\n⏰ 拿號碼牌| 17:00 🚪 入場｜17:50 🎶 開唱｜18:30\n🎫 🎫🎫校內購票＆領票🎫🎫🎫\n📆 日期：10/19～10/23、10/27～10/29\n⏰ 時間：10:00～16:00\n📍地點： 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題！\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後，請於上述領票時間至中山堂1樓領票。"
@@ -3785,110 +3785,50 @@
       "date": "20261031",
       "band": "gongguan",
       "time": "14:30-15:00",
-      "name": "2026 Chill日好時光音樂祭",
-      "location": "台北市華山 1914 文創園區_華山劇場",
+      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "免費 活動日期10/31-11/1\n溫蒂漫步、就以斯、公館青少年、洪安妮、溫室雜草\n時間表：https://www.threads.com/share/GCQ2l2TTz/\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n溫蒂漫步、就以斯、公館青少年、洪安妮、溫室雜草\n時間表：https://www.threads.com/share/GCQ2l2TTz/\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-67",
       "date": "20261031",
       "band": "band_drsiw0_15",
       "time": "13:00-13:30",
-      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
+      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。"
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
     },
     {
       "id": "upcoming-row-68",
       "date": "20261031",
-      "band": "gongguan",
-      "time": "14:30-15:00",
-      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
+      "band": "band_drsiw0_16",
+      "time": "16:00-16:30",
+      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。"
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
     },
     {
       "id": "upcoming-row-69",
       "date": "20261031",
-      "band": "band_drsiw0_16",
-      "time": "16:00-16:30",
-      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
+      "band": "band_drsiw0_17",
+      "time": "17:30-18:00",
+      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。"
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
     },
     {
       "id": "upcoming-row-70",
       "date": "20261031",
-      "band": "band_drsiw0_17",
-      "time": "17:30-18:00",
-      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。"
-    },
-    {
-      "id": "upcoming-row-71",
-      "date": "20261031",
-      "band": "band_6u8lrj",
-      "time": "19:00-19:30",
-      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。"
-    },
-    {
-      "id": "upcoming-row-95",
-      "date": "20261031",
-      "band": "band_drsiw0_15",
-      "time": "13:00-13:30",
-      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
-    },
-    {
-      "id": "upcoming-row-96",
-      "date": "20261031",
-      "band": "gongguan",
-      "time": "14:30-15:00",
-      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
-    },
-    {
-      "id": "upcoming-row-97",
-      "date": "20261031",
-      "band": "band_drsiw0_16",
-      "time": "16:00-16:30",
-      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
-    },
-    {
-      "id": "upcoming-row-98",
-      "date": "20261031",
-      "band": "band_drsiw0_17",
-      "time": "17:30-18:00",
-      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
-    },
-    {
-      "id": "upcoming-row-99",
-      "date": "20261031",
       "band": "band_6u8lrj",
       "time": "19:00-19:30",
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
+      "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
     },
     {
       "id": "upcoming-row-12",
@@ -3931,104 +3871,54 @@
       "note": "免費\n時間表：https://www.facebook.com/share/p/1CEh1yvtJd/\n活動貼文：https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專：https://www.facebook.com/RockInTaichungMusicFestival/"
     },
     {
-      "id": "upcoming-row-72",
+      "id": "upcoming-row-71",
       "date": "20261101",
       "band": "band_6u8lrj_1",
       "time": "13:00-13:30",
-      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
+      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。"
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
+    },
+    {
+      "id": "upcoming-row-72",
+      "date": "20261101",
+      "band": "band_6u8lrj_2",
+      "time": "14:30-15:00",
+      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山 1914 文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
     },
     {
       "id": "upcoming-row-73",
       "date": "20261101",
-      "band": "band_6u8lrj_2",
-      "time": "14:30-15:00",
-      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
+      "band": "joyce",
+      "time": "16:00-16:30",
+      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。"
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
     },
     {
       "id": "upcoming-row-74",
       "date": "20261101",
-      "band": "joyce",
-      "time": "16:00-16:30",
-      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
+      "band": "pia",
+      "time": "17:30-18:00",
+      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。"
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
     },
     {
       "id": "upcoming-row-75",
       "date": "20261101",
-      "band": "pia",
-      "time": "17:30-18:00",
-      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。"
-    },
-    {
-      "id": "upcoming-row-76",
-      "date": "20261101",
-      "band": "band_nmq1yt",
-      "time": "19:00-19:30",
-      "name": "《𝗖𝗵𝗶𝗹𝗹日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。"
-    },
-    {
-      "id": "upcoming-row-100",
-      "date": "20261101",
-      "band": "band_6u8lrj_1",
-      "time": "13:00-13:30",
-      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
-    },
-    {
-      "id": "upcoming-row-101",
-      "date": "20261101",
-      "band": "band_6u8lrj_2",
-      "time": "14:30-15:00",
-      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
-    },
-    {
-      "id": "upcoming-row-102",
-      "date": "20261101",
-      "band": "joyce",
-      "time": "16:00-16:30",
-      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
-    },
-    {
-      "id": "upcoming-row-103",
-      "date": "20261101",
-      "band": "pia",
-      "time": "17:30-18:00",
-      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
-    },
-    {
-      "id": "upcoming-row-104",
-      "date": "20261101",
       "band": "band_nmq1yt",
       "time": "19:00-19:30",
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
-      "location": "台北市華山1914文創園區華山劇場",
+      "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B11914%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
+      "note": "［免費］\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。活動時間為 10/31 至 11/01，每日場次詳見演出陣列。\n卡司：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。主持人：怡岑。活動時間為 10/31 至 11/01，每日 12:00-20:30。\n活動期間為 10/31 至 11/01。卡司包含：洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯。"
     },
     {
       "id": "upcoming-row-17",
@@ -4036,7 +3926,7 @@
       "band": "mango",
       "time": "未定",
       "name": "溫哥華 Jade Music Fest",
-      "location": "溫哥華　Performance Works  1218 Cartwright St, Vancouver",
+      "location": "溫哥華 Performance Works  1218 Cartwright St, Vancouver",
       "mapLink": "https://maps.app.goo.gl/fAdSYMstP4K6XFQt5?g_st=ac",
       "note": "*售票場。\n活動時間 7:00 PM-9:15 PM PT\n售票網址：https://share.google/iWIsmIy9sIgkjGo9C"
     },
@@ -4071,7 +3961,7 @@
       "note": "售票 日期未定"
     },
     {
-      "id": "upcoming-row-86",
+      "id": "upcoming-row-85",
       "date": "20261107",
       "band": "163braces",
       "time": "14:30-15:00",
@@ -4081,7 +3971,7 @@
       "note": "［免費］\n活動時間表：11/07 163braces (14:30)；FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。\n卡司：163braces、FEniX、安芝儇 × Mingo。活動日期為 2026/11/07-11/08，演出時間表已列出。\n活動日期為 2026/11/07-11/08。卡司：163braces、FEniX、安芝儇 × Mingo。\n卡司：163braces、FEniX、安芝儇 × Mingo。活動日期為 2026/11/07-11/08。"
     },
     {
-      "id": "upcoming-row-87",
+      "id": "upcoming-row-86",
       "date": "20261107",
       "band": "fenix",
       "time": "17:00-17:30",
@@ -4111,7 +4001,7 @@
       "note": "售票"
     },
     {
-      "id": "upcoming-row-88",
+      "id": "upcoming-row-87",
       "date": "20261108",
       "band": "mingo",
       "time": "15:00-15:30",
@@ -4124,8 +4014,8 @@
       "id": "upcoming-row-38",
       "date": "20261112",
       "band": "WhoCares",
-      "time": "",
-      "name": "2026 CR造星計畫：中科大場",
+      "time": "未公布",
+      "name": "2026 CR造星計畫:中科大場",
       "location": "國立台中科技大學體育館",
       "mapLink": "",
       "note": "2026 CR造星計畫：中科大場\n2026/11/12 中科大體育館\n卡司：\n脆樂團、胡凱兒\n來源：https://www.threads.com/share/GUHyhipLh/"
@@ -4274,9 +4164,9 @@
       "id": "upcoming-row-39",
       "date": "20261125",
       "band": "gongguan",
-      "time": "",
-      "name": "2026 叱吒風雲校慶演唱會（中國科技大學臺北校區）",
-      "location": "臺北－中國科技大學臺北校區中山育樂館",
+      "time": "未公布",
+      "name": "2026 叱吒風雲校慶演唱會(中國科技大學臺北校區)",
+      "location": "臺北-中國科技大學臺北校區中山育樂館",
       "mapLink": "https://maps.app.goo.gl/Jv2bxAxT3yNq9P2t8",
       "note": "卡司：\n李浩瑋、JUICE BOY、9M88、公館青少年、TRASH、閻奕格\n主持：木木\n.\n📍入場時間：11/25(週三)15:00-15:30\n🍀10月20日起在校生有繳交‘’學生活動費‘’可至學生會登記領取‘’優先席“號碼牌，數量有限。🍀\n🍀學生活動費可至學生會或學務處課外組補繳費🍀\n📍入場方式：✨️免費入場✨️\n在校生：\n1.須出示有效學生證(須蓋當學期註冊章)及學生資訊系統登入畫面(須查驗身分證)。\n或是\n2.在學證明(格致樓一樓大廳可以列印)及學生資訊系統登入畫面(須查驗身分證)。\n📍排隊區(於中山育樂館)：\n🌟本校學生→二樓天橋\n🌟校外人士→三樓天橋(雨備另行公告)\n🔸本次活動因參與者眾多，入場時建議配戴口罩。\n-\n來源：https://www.threads.com/share/QKAQgxo8C/"
     },
@@ -4296,7 +4186,7 @@
       "band": "mango",
       "time": "未定",
       "name": "未公布",
-      "location": "",
+      "location": "未公布",
       "mapLink": "",
       "note": ""
     },
@@ -4306,7 +4196,7 @@
       "band": "mango",
       "time": "未定",
       "name": "未公布",
-      "location": "",
+      "location": "未公布",
       "mapLink": "",
       "note": ""
     },
@@ -4315,8 +4205,8 @@
       "date": "20261212",
       "band": "mango",
       "time": "未定",
-      "name": "苗栗 𝗖𝗥𝗔𝗕 𝗣𝗟𝗔𝗬 𝟮𝟬𝟮𝟲 蟹逅小聚場12/12-12/13",
-      "location": "",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "未公布",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=",
       "note": "收費　苗栗 𝗖𝗥𝗔𝗕 𝗣𝗟𝗔𝗬 𝟮𝟬𝟮𝟲 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文：https://www.instagram.com/p/DdDWlcKiMnU/"
     },
@@ -4324,9 +4214,9 @@
       "id": "upcoming-row-35",
       "date": "20261212",
       "band": "captainlu",
-      "time": "",
-      "name": "台北 條通祭 𝟐𝟎𝟐𝟔 𝑻𝒊𝒂𝒐𝒕𝒐𝒏𝒈 𝑭𝒆𝒔𝒕𝒊𝒗𝒂𝒍",
-      "location": "台北林森公園（台北市中山區林森北路 & 南京東路交叉口）",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
       "mapLink": "",
       "note": "表演日期未定\n資訊來源：https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 𝟐𝟎𝟐𝟔 𝑻𝒊𝒂𝒐𝒕𝒐𝒏𝒈 𝑭𝒆𝒔𝒕𝒊𝒗𝒂𝒍 ✴\n↪ 條音派對 𝑇𝑖𝑎𝑜𝑡𝑜𝑛𝑔 𝑀𝑢𝑠𝑖𝑐 𝑃𝑎𝑟𝑡𝑦\n　 日　　期 ⌇ 2026.12.12 - 13\n　 地　　點 ⌇ 林森公園（台北市中山區林森北路 & 南京東路交叉口）\n　 演出陣容 ⌇\n　　 盧廣仲｜陸續公布中..."
     },
@@ -4335,8 +4225,8 @@
       "date": "20261213",
       "band": "mango",
       "time": "未定",
-      "name": "苗栗 𝗖𝗥𝗔𝗕 𝗣𝗟𝗔𝗬 𝟮𝟬𝟮𝟲 蟹逅小聚場12/12-12/13",
-      "location": "",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "未公布",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=",
       "note": "收費　苗栗 𝗖𝗥𝗔𝗕 𝗣𝗟𝗔𝗬 𝟮𝟬𝟮𝟲 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文：https://www.instagram.com/p/DdDWlcKiMnU/"
     },
@@ -4346,7 +4236,7 @@
       "band": "mango",
       "time": "未定",
       "name": "未公布",
-      "location": "",
+      "location": "未公布",
       "mapLink": "",
       "note": ""
     },
@@ -4356,7 +4246,7 @@
       "band": "mango",
       "time": "未定",
       "name": "未公布",
-      "location": "",
+      "location": "未公布",
       "mapLink": "",
       "note": ""
     },
@@ -4366,7 +4256,7 @@
       "band": "mango",
       "time": "未定",
       "name": "未公布",
-      "location": "",
+      "location": "未公布",
       "mapLink": "",
       "note": ""
     }
@@ -4606,6 +4496,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3b4fa36e-3aac-4c43-abd3-04536c87f1a4",
-  "updatedAt": "2026-10-14T06:45:36.512Z"
+  "revision": "6108a5c8-fa3c-4dcb-8322-8818d3178e71",
+  "updatedAt": "2026-10-14T06:51:36.259Z"
 }
