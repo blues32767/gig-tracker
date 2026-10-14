@@ -66,7 +66,7 @@
         .clear-filter-btn { font-size: 0.75rem; font-weight: 800; padding: 5px 12px; border: 2px dashed var(--text-main); background: transparent; color: var(--text-main); cursor: pointer; border-radius: 99px; transition: background 0.2s; }
         .clear-filter-btn:hover { background: var(--bg-subtle); }
 
-        /* Awwwards 級別：陣容探索抽屜視窗 (Artist Explorer Modal) */
+        /* 陣容探索抽屜視窗 (Artist Explorer Modal) */
         .modal-backdrop { position: fixed; inset: 0; background: rgba(12, 12, 14, 0.68); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); z-index: 2500; display: none; align-items: center; justify-content: center; padding: 14px; animation: fadeIn 0.18s ease-out; }
         .modal-backdrop.open { display: flex; }
         @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
@@ -259,7 +259,6 @@
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/locales/zh-tw.js"></script>
 
     <script>
-        // ★ 已更新為你正式的 GAS 部署網址，徹底消除 Console 404 與 CORS 報錯 ★
         const GAS_URL = 'https://script.google.com/macros/s/AKfycbwR49SJXjZM55RzbhpQyDv39sVM2J91U8BSs7gKlATQihm_QC60HOHH6FQtiA4CvLJexg/exec';
         const DATA_URL = './data.json';
         const TOP_PINNED_LIMIT = 10; // 首頁預設顯示前 10 名最常出現的藝人
@@ -294,6 +293,48 @@
             lastScrollY = currentScrollY;
         }, { passive: true });
 
+        // ★ 使用標準具名函式宣告 (Function Declaration)，確保全域 Hoisting 零報錯 ★
+        function openArtistModal() {
+            $('#artist-modal-backdrop').classList.add('open');
+            renderArtistModalContent();
+            setTimeout(() => $('#am-search').focus(), 60);
+        }
+
+        function closeArtistModal() {
+            $('#artist-modal-backdrop').classList.remove('open');
+        }
+
+        function setModalCategory(cat) {
+            modalCategory = cat;
+            renderArtistModalContent();
+        }
+
+        function resetBandFilter() {
+            selectedBands.clear();
+            selectedBands.add('all');
+            renderFilters();
+            if ($('#artist-modal-backdrop').classList.contains('open')) {
+                renderArtistModalContent();
+            }
+            limit = 24;
+            if (tab === 'calendar') renderCalendar();
+            else render();
+        }
+
+        function toggleFootprint(idsStr, btn) {
+            const ids = idsStr.split(','), isActive = btn.classList.contains('active');
+            ids.forEach(id => { if (isActive) footprints.delete(id); else footprints.add(id); });
+            storage.set('ting-footprints', [...footprints]);
+            btn.classList.toggle('active'); btn.innerText = isActive ? '＋ 足跡' : '✓ 足跡';
+            if(tab === 'footprints') render();
+        }
+
+        function toggleContent(el) {
+            const content = el.nextElementSibling;
+            content.classList.toggle('open');
+            el.innerText = content.classList.contains('open') ? el.innerText.replace('▶', '▼') : el.innerText.replace('▼', '▶');
+        }
+
         // 支援 Ctrl+K / Cmd+K 快速開啟藝人探索面板，ESC 關閉
         window.addEventListener('keydown', e => {
             if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
@@ -309,9 +350,6 @@
         function dateKey(s) { return String(s || '').replace(/[-/]/g, '').replace(/\.0$/, ''); }
         function getDayOfWeek(dStr) { if (!dStr || dStr.length !== 8) return ''; return DAY_NAMES[new Date(dStr.slice(0,4), parseInt(dStr.slice(4,6))-1, dStr.slice(6,8)).getDay()]; }
 
-        /**
-         * 智慧型藝人分類推論器（若 data.json 或試算表尚未標註 category 時，前端自動精準歸類為：樂團 / 個人 / 團體）
-         */
         function inferArtistCategory(name, existingCat) {
             const validCats = ['樂團', '個人', '團體'];
             if (existingCat && validCats.includes(existingCat.trim())) return existingCat.trim();
@@ -367,9 +405,6 @@
             $('#cloud-sync').innerText = '同步到雲端';
         }
 
-        /**
-         * 計算每位藝人的活動出現次數（近期預告 + 歷史場次），並由高至低排序 rawBands
-         */
         function enrichAndSortBands(bandsData, upcomingList, eventsList) {
             if(!bandsData || bandsData.length === 0) return [];
             const upcomingCounts = new Map();
@@ -401,7 +436,6 @@
                 };
             });
 
-            // 依照總出現次數由大到小排序；若總次數相同，預告場次多者優先；再相同則維持原順序
             enriched.sort((a, b) => {
                 if (b.totalCount !== a.totalCount) return b.totalCount - a.totalCount;
                 if (b.upcomingCount !== a.upcomingCount) return b.upcomingCount - a.upcomingCount;
@@ -475,14 +509,10 @@
             }
         }
 
-        /**
-         * 渲染首頁頂部「智慧精簡列」：僅顯示 Top 10 熱門藝人 + 額外選中的藝人 + 探索全部按鈕
-         */
         function renderFilters() {
             const topBands = rawBands.slice(0, TOP_PINNED_LIMIT);
             const topIds = new Set(topBands.map(b => b.id));
 
-            // 若使用者在探索視窗選中了第 11 名以後的藝人，動態釘選在首頁列上，避免迷失狀態
             const extraSelectedBands = rawBands.filter(b => !selectedBands.has('all') && selectedBands.has(b.id) && !topIds.has(b.id));
             const visibleBands = [...topBands, ...extraSelectedBands];
 
@@ -534,35 +564,12 @@
             else render();
         }
 
-        window.resetBandFilter = function() {
-            selectedBands.clear();
-            selectedBands.add('all');
-            renderFilters();
-            if ($('#artist-modal-backdrop').classList.contains('open')) {
-                renderArtistModalContent();
-            }
-            limit = 24;
-            if (tab === 'calendar') renderCalendar();
-            else render();
-        };
-
         $('#filters').addEventListener('click', e => {
             const btn = e.target.closest('.filter-btn');
             if (btn && btn.dataset.band) {
                 toggleBandSelection(btn.dataset.band);
             }
         });
-
-        // 打開與渲染「陣容探索抽屜視窗」
-        window.openArtistModal = function() {
-            $('#artist-modal-backdrop').classList.add('open');
-            renderArtistModalContent();
-            setTimeout(() => $('#am-search').focus(), 60);
-        };
-
-        window.closeArtistModal = function() {
-            $('#artist-modal-backdrop').classList.remove('open');
-        };
 
         $('#am-search').addEventListener('input', e => {
             modalSearchQuery = e.target.value.trim().toLowerCase();
@@ -627,11 +634,6 @@
             }
         }
 
-        window.setModalCategory = function(cat) {
-            modalCategory = cat;
-            renderArtistModalContent();
-        };
-
         document.querySelectorAll('.nav-item').forEach(el => {
             el.addEventListener('click', e => {
                 document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active')); e.target.classList.add('active');
@@ -685,16 +687,6 @@
                 return true;
             });
         }
-
-        window.toggleFootprint = function(idsStr, btn) {
-            const ids = idsStr.split(','), isActive = btn.classList.contains('active');
-            ids.forEach(id => { if (isActive) footprints.delete(id); else footprints.add(id); });
-            storage.set('ting-footprints', [...footprints]);
-            btn.classList.toggle('active'); btn.innerText = isActive ? '＋ 足跡' : '✓ 足跡';
-            if(tab === 'footprints') render();
-        };
-
-        window.toggleContent = function(el) { const content = el.nextElementSibling; content.classList.toggle('open'); el.innerText = content.classList.contains('open') ? el.innerText.replace('▶', '▼') : el.innerText.replace('▼', '▶'); };
 
         function buildCard(g, historical, idx = 0) {
             const k = dateKey(g.date), map = safeUrl(g.mapLink), ticket = safeUrl(g.ticketUrl), dayStr = getDayOfWeek(k);
@@ -774,7 +766,6 @@
             let counts = new Map(); shows.forEach(e => new Set(e.setlist.map(s => s.songName)).forEach(name => counts.set(name, (counts.get(name) || 0) + 1)));
             const songs = [...counts].sort((a, b) => b[1] - a[1]);
 
-            // 依類別分組且依出現次數排序的下拉選單
             const groupedOpts = ['樂團', '團體', '個人'].map(cat => {
                 const items = rawBands.filter(b => b.category === cat);
                 if (items.length === 0) return '';
