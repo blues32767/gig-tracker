@@ -50,6 +50,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_2",
+      "name": "派偉俊",
+      "short": "派偉俊",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
@@ -74,6 +82,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6gp8um",
+      "name": "呂允",
+      "short": "呂允",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "juiceboy",
       "name": "Juice Boy",
       "short": "Juice Boy",
@@ -86,14 +102,6 @@
       "name": "李浩瑋",
       "short": "李浩瑋",
       "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_2",
-      "name": "派偉俊",
-      "short": "派偉俊",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 2
     },
@@ -122,6 +130,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6u8lrj_1",
+      "name": "南西肯恩",
+      "short": "南西肯恩",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
       "id": "saturnday",
       "name": "Saturnday",
       "short": "Saturnday",
@@ -138,11 +154,27 @@
       "eventCount": 2
     },
     {
+      "id": "pizzali",
+      "name": "PIZZALI",
+      "short": "PIZZALI",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_6gp8um_7",
       "name": "寶賤",
       "short": "寶賤",
       "color": "#fb5607",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_27",
+      "name": "玖壹壹",
+      "short": "玖壹",
+      "color": "#118ab2",
+      "category": "團體",
       "eventCount": 2
     },
     {
@@ -154,18 +186,18 @@
       "eventCount": 2
     },
     {
+      "id": "trash",
+      "name": "TRASH",
+      "short": "TR",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0",
       "name": "婁峻碩",
       "short": "婁峻碩",
       "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um",
-      "name": "呂允",
-      "short": "呂允",
-      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
     },
@@ -303,14 +335,6 @@
       "short": "溫蒂漫步",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6u8lrj_1",
-      "name": "南西肯恩",
-      "short": "南西肯恩",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 1
     },
     {
@@ -514,14 +538,6 @@
       "eventCount": 1
     },
     {
-      "id": "pizzali",
-      "name": "PIZZALI",
-      "short": "PIZZALI",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_21",
       "name": "林可綸",
       "short": "林可綸",
@@ -591,14 +607,6 @@
       "short": "TH",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_27",
-      "name": "玖壹壹",
-      "short": "玖壹",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 1
     },
     {
@@ -815,14 +823,6 @@
       "short": "9M",
       "color": "#ffd166",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "trash",
-      "name": "TRASH",
-      "short": "TR",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 1
     }
   ],
@@ -5049,6 +5049,66 @@
       "note": "［售票］"
     },
     {
+      "id": "upcoming-row-156",
+      "date": "20261120",
+      "band": "band_drsiw0_27",
+      "time": "未公布",
+      "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
+      "location": "雲林虎尾科大第一校區大草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司：玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定：17:30虎尾科大在校生、教職員優先入場；17:50全面開放進場。"
+    },
+    {
+      "id": "upcoming-row-157",
+      "date": "20261120",
+      "band": "trash",
+      "time": "未公布",
+      "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
+      "location": "雲林虎尾科大第一校區大草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司：玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定：17:30虎尾科大在校生、教職員優先入場；17:50全面開放進場。"
+    },
+    {
+      "id": "upcoming-row-158",
+      "date": "20261120",
+      "band": "band_drsiw0_2",
+      "time": "未公布",
+      "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
+      "location": "雲林虎尾科大第一校區大草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司：玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定：17:30虎尾科大在校生、教職員優先入場；17:50全面開放進場。"
+    },
+    {
+      "id": "upcoming-row-159",
+      "date": "20261120",
+      "band": "pizzali",
+      "time": "未公布",
+      "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
+      "location": "雲林虎尾科大第一校區大草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司：玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定：17:30虎尾科大在校生、教職員優先入場；17:50全面開放進場。"
+    },
+    {
+      "id": "upcoming-row-160",
+      "date": "20261120",
+      "band": "band_6u8lrj_1",
+      "time": "未公布",
+      "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
+      "location": "雲林虎尾科大第一校區大草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司：玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定：17:30虎尾科大在校生、教職員優先入場；17:50全面開放進場。"
+    },
+    {
+      "id": "upcoming-row-161",
+      "date": "20261120",
+      "band": "band_6gp8um",
+      "time": "未公布",
+      "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
+      "location": "雲林虎尾科大第一校區大草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司：玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定：17:30虎尾科大在校生、教職員優先入場；17:50全面開放進場。"
+    },
+    {
       "id": "upcoming-row-40",
       "date": "20261121",
       "band": "WhoCares",
@@ -5524,6 +5584,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "66a7bf18-7b30-4b7f-91d2-234e9c04198e",
-  "updatedAt": "2026-10-14T13:01:35.121Z"
+  "revision": "f8020ec6-92f8-4da8-9899-a4afb20b9e95",
+  "updatedAt": "2026-10-14T13:02:09.171Z"
 }
