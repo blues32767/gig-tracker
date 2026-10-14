@@ -358,7 +358,7 @@
       "name": "FEniX",
       "short": "FEniX",
       "color": "#8338ec",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -462,7 +462,7 @@
       "name": "DJ BBOMI",
       "short": "DJ BBOMI",
       "color": "#3a86ff",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -470,7 +470,7 @@
       "name": "AMOW",
       "short": "AMOW",
       "color": "#00b4d8",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -502,7 +502,7 @@
       "name": "PIZZALI",
       "short": "PIZZALI",
       "color": "#06d6a0",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -526,7 +526,7 @@
       "name": "金琳 & 裴晟秀",
       "short": "金琳",
       "color": "#ff006e",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -540,7 +540,7 @@
     {
       "id": "band_drsiw0_22",
       "name": "未公布",
-      "short": "未公",
+      "short": "未公布",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -4795,5 +4795,5 @@
   },
   "schemaVersion": 2,
   "revision": "faf0d9ef-b789-4134-8974-412333434757",
-  "updatedAt": "2026-10-14T12:16:32.444Z"
+  "updatedAt": "2026-10-14T12:41:31.360Z"
 }
