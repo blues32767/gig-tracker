@@ -4,7 +4,7 @@
     {
       "id": "mango",
       "name": "芒果醬",
-      "short": "芒",
+      "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
       "eventCount": 58
@@ -12,7 +12,7 @@
     {
       "id": "gongguan",
       "name": "公館青少年",
-      "short": "公館",
+      "short": "館青",
       "color": "#2a9d8f",
       "category": "樂團",
       "eventCount": 12
@@ -44,7 +44,7 @@
     {
       "id": "captainlu",
       "name": "盧廣仲",
-      "short": "廣眾",
+      "short": "盧廣仲",
       "color": "#36cc00",
       "category": "個人",
       "eventCount": 4
@@ -52,7 +52,7 @@
     {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
-      "short": "鼓鼓",
+      "short": "鼓鼓 呂思緯",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 3
@@ -60,7 +60,7 @@
     {
       "id": "WhoCares",
       "name": "胡凱兒",
-      "short": "胡凱",
+      "short": "胡凱兒",
       "color": "#385c6e",
       "category": "樂團",
       "eventCount": 2
@@ -68,7 +68,7 @@
     {
       "id": "band_drsiw0_2",
       "name": "派偉俊",
-      "short": "派偉",
+      "short": "派偉俊",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 2
@@ -76,7 +76,7 @@
     {
       "id": "163braces",
       "name": "163braces",
-      "short": "16",
+      "short": "163braces",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
@@ -84,7 +84,7 @@
     {
       "id": "ffo",
       "name": "F.F.O",
-      "short": "F.",
+      "short": "F.F.O",
       "color": "#00b4d8",
       "category": "團體",
       "eventCount": 2
@@ -92,7 +92,7 @@
     {
       "id": "band_drsiw0",
       "name": "婁峻碩",
-      "short": "婁峻",
+      "short": "婁峻碩",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -108,7 +108,7 @@
     {
       "id": "juiceboy",
       "name": "Juice Boy",
-      "short": "Ju",
+      "short": "Juice Boy",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -116,7 +116,7 @@
     {
       "id": "band_drsiw0_1",
       "name": "李浩瑋",
-      "short": "李浩",
+      "short": "李浩瑋",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -132,7 +132,7 @@
     {
       "id": "band_drsiw0_3",
       "name": "許效舜",
-      "short": "許效",
+      "short": "許效舜",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -140,7 +140,7 @@
     {
       "id": "band_drsiw0_4",
       "name": "苗可麗",
-      "short": "苗可",
+      "short": "苗可麗",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -148,7 +148,7 @@
     {
       "id": "band_drsiw0_5",
       "name": "澎恰恰",
-      "short": "澎恰",
+      "short": "澎恰恰",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -156,7 +156,7 @@
     {
       "id": "band_drsiw0_6",
       "name": "王彩樺",
-      "short": "王彩",
+      "short": "王彩樺",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -164,7 +164,7 @@
     {
       "id": "band_drsiw0_7",
       "name": "蔡旻佑",
-      "short": "蔡旻",
+      "short": "蔡旻佑",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -172,7 +172,7 @@
     {
       "id": "band_drsiw0_8",
       "name": "吳淑敏",
-      "short": "吳淑",
+      "short": "吳淑敏",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -180,7 +180,7 @@
     {
       "id": "band_drsiw0_9",
       "name": "羅巧倫",
-      "short": "羅巧",
+      "short": "羅巧倫",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -188,7 +188,7 @@
     {
       "id": "band_drsiw0_10",
       "name": "邵大倫",
-      "short": "邵大",
+      "short": "邵大倫",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -196,7 +196,7 @@
     {
       "id": "band_drsiw0_11",
       "name": "許志豪",
-      "short": "許志",
+      "short": "許志豪",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -204,7 +204,7 @@
     {
       "id": "band_drsiw0_12",
       "name": "沈建豪",
-      "short": "沈建",
+      "short": "沈建豪",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -212,7 +212,7 @@
     {
       "id": "band_drsiw0_13",
       "name": "黃新皓",
-      "short": "黃新",
+      "short": "黃新皓",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -220,7 +220,7 @@
     {
       "id": "band_drsiw0_14",
       "name": "翁鈺鈞",
-      "short": "翁鈺",
+      "short": "翁鈺鈞",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -228,7 +228,7 @@
     {
       "id": "buy",
       "name": "Bu$y",
-      "short": "Bu",
+      "short": "Bu$y",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -236,7 +236,7 @@
     {
       "id": "band_drsiw0_15",
       "name": "洪安妮",
-      "short": "洪安",
+      "short": "洪安妮",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -244,7 +244,7 @@
     {
       "id": "band_drsiw0_16",
       "name": "好樂團",
-      "short": "好樂",
+      "short": "好樂團",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -252,7 +252,7 @@
     {
       "id": "band_drsiw0_17",
       "name": "甜約翰",
-      "short": "甜約",
+      "short": "甜約翰",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -260,7 +260,7 @@
     {
       "id": "band_6u8lrj",
       "name": "溫蒂漫步",
-      "short": "溫蒂",
+      "short": "溫蒂漫步",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -268,7 +268,7 @@
     {
       "id": "band_6u8lrj_1",
       "name": "南西肯恩",
-      "short": "南西",
+      "short": "南西肯恩",
       "color": "#118ab2",
       "category": "團體",
       "eventCount": 1
@@ -276,7 +276,7 @@
     {
       "id": "band_6u8lrj_2",
       "name": "溫室雜草",
-      "short": "溫室",
+      "short": "溫室雜草",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -284,7 +284,7 @@
     {
       "id": "joyce",
       "name": "JOYCE 就以斯",
-      "short": "JO",
+      "short": "就以斯",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -292,7 +292,7 @@
     {
       "id": "pia",
       "name": "PiA 吳蓓雅",
-      "short": "Pi",
+      "short": "吳蓓雅",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -316,7 +316,7 @@
     {
       "id": "unus",
       "name": "U:NUS",
-      "short": "U:",
+      "short": "U:NUS",
       "color": "#2ec4b6",
       "category": "團體",
       "eventCount": 1
@@ -340,7 +340,7 @@
     {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
-      "short": "馬太",
+      "short": "馬太鞍部落青年 Laniyaro’",
       "color": "#06d6a0",
       "category": "團體",
       "eventCount": 1
@@ -348,7 +348,7 @@
     {
       "id": "band_drsiw0_18",
       "name": "黃偉晉",
-      "short": "黃偉",
+      "short": "黃偉晉",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -356,7 +356,7 @@
     {
       "id": "fenix",
       "name": "FEniX",
-      "short": "FE",
+      "short": "FEniX",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -364,7 +364,7 @@
     {
       "id": "mingo",
       "name": "安芝儇 × Mingo",
-      "short": "安芝",
+      "short": "安芝儇 × Mingo",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -372,7 +372,7 @@
     {
       "id": "band_6u8lrj_3",
       "name": "羊駝小姐",
-      "short": "羊駝",
+      "short": "羊駝小姐",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -380,7 +380,7 @@
     {
       "id": "atempoquarte",
       "name": "A Tempo Quartet",
-      "short": "AT",
+      "short": "A Tempo Quartet",
       "color": "#3a86ff",
       "category": "團體",
       "eventCount": 1
@@ -388,7 +388,7 @@
     {
       "id": "band_drsiw0_19",
       "name": "邱淑蟬",
-      "short": "邱淑",
+      "short": "邱淑蟬",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -396,7 +396,7 @@
     {
       "id": "yamonsocialc",
       "name": "壓滿俱樂部 YaMon Social Club",
-      "short": "壓滿",
+      "short": "壓滿俱樂部",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -404,7 +404,7 @@
     {
       "id": "band",
       "name": "粗大Band",
-      "short": "粗大",
+      "short": "粗大Band",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -420,7 +420,7 @@
     {
       "id": "saturnday",
       "name": "Saturnday",
-      "short": "Sa",
+      "short": "Saturnday",
       "color": "#06d6a0",
       "category": "團體",
       "eventCount": 1
@@ -428,7 +428,7 @@
     {
       "id": "lcy",
       "name": "LCY 呂植宇",
-      "short": "LC",
+      "short": "呂植宇",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -436,7 +436,7 @@
     {
       "id": "arkis",
       "name": "ARKis",
-      "short": "AR",
+      "short": "ARKis",
       "color": "#8338ec",
       "category": "團體",
       "eventCount": 1
@@ -452,7 +452,7 @@
     {
       "id": "howz",
       "name": "How Z",
-      "short": "Ho",
+      "short": "How Z",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -460,7 +460,7 @@
     {
       "id": "djbbomi",
       "name": "DJ BBOMI",
-      "short": "DJ",
+      "short": "DJ BBOMI",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -468,7 +468,7 @@
     {
       "id": "amow",
       "name": "AMOW",
-      "short": "AM",
+      "short": "AMOW",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -476,7 +476,7 @@
     {
       "id": "band_drsiw0_20",
       "name": "梁河懸",
-      "short": "梁河",
+      "short": "梁河懸",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -484,7 +484,7 @@
     {
       "id": "band_qqiyec",
       "name": "無妄合作社",
-      "short": "無妄",
+      "short": "無妄合作社",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -4687,5 +4687,5 @@
   },
   "schemaVersion": 2,
   "revision": "30643936-d1e3-4ba9-8d75-ed31680e68ea",
-  "updatedAt": "2026-10-14T07:35:11.309Z"
+  "updatedAt": "2026-10-14T07:40:31.305Z"
 }
