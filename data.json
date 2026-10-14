@@ -66,6 +66,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_2",
+      "name": "派偉俊",
+      "short": "派偉",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0",
       "name": "婁峻碩",
       "short": "婁峻",
@@ -102,14 +110,6 @@
       "name": "王謙",
       "short": "王謙",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_2",
-      "name": "派偉俊",
-      "short": "派偉",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
     },
@@ -343,6 +343,14 @@
       "short": "馬太",
       "color": "#06d6a0",
       "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_18",
+      "name": "黃偉晉",
+      "short": "黃偉",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 1
     }
   ],
@@ -3559,6 +3567,26 @@
       "note": "［免費］\n活動時間為 10:00-18:00。24日卡司：黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團。25日卡司：品冠、馬太鞍部落青年 Laniyaro’及更多表演者。"
     },
     {
+      "id": "upcoming-row-84",
+      "date": "20261024",
+      "band": "band_drsiw0_18",
+      "time": "未公布",
+      "name": "桃園萬聖城・開城演唱會",
+      "location": "桃園市桃園藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間：18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀；主持人：寶賤。"
+    },
+    {
+      "id": "upcoming-row-85",
+      "date": "20261024",
+      "band": "band_drsiw0_2",
+      "time": "未公布",
+      "name": "桃園萬聖城・開城演唱會",
+      "location": "桃園市桃園藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間：18:30-21:00。卡司包含：黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀；主持人：寶賤。"
+    },
+    {
       "id": "upcoming-row-8",
       "date": "20261025",
       "band": "papunband",
@@ -4324,6 +4352,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "713a75d3-624e-4eb3-b8e9-71265ed441a4",
-  "updatedAt": "2026-10-14T04:41:49.305Z"
+  "revision": "7d2aeea1-2643-4c84-892a-edfd5b7ae03a",
+  "updatedAt": "2026-10-14T05:29:37.359Z"
 }
