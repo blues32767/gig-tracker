@@ -500,7 +500,7 @@
     {
       "id": "pizzali",
       "name": "PIZZALI",
-      "short": "PI",
+      "short": "PIZZALI",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -508,7 +508,7 @@
     {
       "id": "band_drsiw0_21",
       "name": "林可綸",
-      "short": "林可",
+      "short": "林可綸",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -4741,5 +4741,5 @@
   },
   "schemaVersion": 2,
   "revision": "a5eeba27-8e0a-4ca6-a134-b0157ed8c706",
-  "updatedAt": "2026-10-14T09:24:46.724Z"
+  "updatedAt": "2026-10-14T09:31:38.717Z"
 }
