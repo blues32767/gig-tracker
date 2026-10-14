@@ -4945,21 +4945,21 @@
       "id": "upcoming-row-85",
       "date": "20261107",
       "band": "163braces",
-      "time": "14:30-14:30",
+      "time": "14:30-未公布",
       "name": "《HINO GO潮派》",
       "location": "高雄市駁二藝術特區B4蓬萊館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
-      "note": "［免費］\n活動時間表:11/07 163braces (14:30);FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。\n活動日期:2026/11/07 (周五) 與 2026/11/08 (周六)。"
+      "note": "［免費］\n活動時間表:11/07 163braces (14:30);FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。\n活動日期:2026/11/07 (周五) 與 2026/11/08 (周六)。\n卡司：163braces、FEniX、安芝儇 × Mingo。活動時間表：11/07 14:30-17:00，11/08 15:00。"
     },
     {
       "id": "upcoming-row-86",
       "date": "20261107",
       "band": "fenix",
-      "time": "17:00-17:00",
+      "time": "17:00-未公布",
       "name": "《HINO GO潮派》",
       "location": "高雄市駁二藝術特區B4蓬萊館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
-      "note": "［免費］\n活動時間表:11/07 163braces (14:30);FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。\n活動日期:2026/11/07 (周五) 與 2026/11/08 (周六)。"
+      "note": "［免費］\n活動時間表:11/07 163braces (14:30);FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。\n活動日期:2026/11/07 (周五) 與 2026/11/08 (周六)。\n卡司：163braces、FEniX、安芝儇 × Mingo。活動時間表：11/07 14:30-17:00，11/08 15:00。"
     },
     {
       "id": "upcoming-row-126",
@@ -5055,11 +5055,11 @@
       "id": "upcoming-row-87",
       "date": "20261108",
       "band": "mingo",
-      "time": "15:00-15:00",
+      "time": "15:00-未公布",
       "name": "《HINO GO潮派》",
       "location": "高雄市駁二藝術特區B4蓬萊館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
-      "note": "［免費］\n活動時間表:11/07 163braces (14:30);FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。\n活動日期:2026/11/07 (周五) 與 2026/11/08 (周六)。"
+      "note": "［免費］\n活動時間表:11/07 163braces (14:30);FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。\n活動日期:2026/11/07 (周五) 與 2026/11/08 (周六)。\n卡司：163braces、FEniX、安芝儇 × Mingo。活動時間表：11/07 14:30-17:00，11/08 15:00。"
     },
     {
       "id": "upcoming-row-133",
@@ -5727,6 +5727,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "64533124-050a-4e7c-bae2-74a4adea661a",
-  "updatedAt": "2026-10-14T16:45:56.205Z"
+  "revision": "31061b02-18e5-412c-97d4-7f193cf1086c",
+  "updatedAt": "2026-10-14T16:46:31.365Z"
 }
