@@ -148,7 +148,9 @@
         .cc-meta { font-size: 12.5px; color: var(--text-secondary); font-weight: 700; margin-bottom: 7px; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
         .cc-bands { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 6px; }
         
-        .band-tag { font-size: 10.5px; font-weight: 800; padding: 2px 7px; border: 1.5px solid var(--text-main); border-radius: 4px; display: inline-flex; align-items: center; white-space: nowrap; box-shadow: 1px 1px 0px rgba(0,0,0,0.1);}
+        .band-tag { font-size: 10.5px; font-weight: 800; padding: 2px 7px; border: 1.5px solid var(--text-main); border-radius: 4px; display: inline-flex; align-items: center; white-space: nowrap; box-shadow: 1px 1px 0px rgba(0,0,0,0.1); transition: transform 0.15s;}
+        /* 使用者選中的關注藝人色塊加上立體強調邊框 */
+        .band-tag.is-picked { border: 2px solid var(--text-main); box-shadow: 2px 2px 0px var(--text-main); transform: translateY(-1px); font-weight: 900; }
         .b-default { background: var(--text-main); color: var(--bg-main); border-color: var(--text-main); }
         
         .cc-actions { display: flex; gap: 8px; margin-top: auto; flex-wrap: wrap; }
@@ -572,7 +574,7 @@
             if (id.length > 2) {
                 shortName = /^[a-zA-Z0-9_-]+$/.test(id) ? id.charAt(0).toUpperCase() : id.substring(0, 2);
             }
-            return { name: id, short: shortName, color: 'var(--text-main)', class: 'b-default', category: '樂團', totalCount: 0 }; 
+            return { name: id, short: shortName, color: 'var(--text-main)', class: 'b-default', category: '樂團', totalCount: 0, sortRank: 9999 }; 
         }
         
         function safeUrl(u) { try { const x = new URL(u); return x.protocol === 'https:' ? x.href : '' } catch { return '' } }
@@ -748,7 +750,7 @@
             });
 
             BANDS_MAP = {};
-            enriched.forEach(b => {
+            enriched.forEach((b, rankIdx) => {
                 BANDS_MAP[b.id] = {
                     name: b.name,
                     short: b.short,
@@ -757,6 +759,7 @@
                     upcomingCount: b.upcomingCount,
                     historyCount: b.historyCount,
                     totalCount: b.totalCount,
+                    sortRank: rankIdx,
                     class: 'b-' + b.id
                 };
             });
@@ -988,7 +991,6 @@
         }
         if (storage.get('ting-theme') === 'dark') document.documentElement.classList.add('dark');
 
-        // ★ 前端智慧分組：即使舊快取中場地或活動名稱有些微差異，只要同日且同場地/同核心名稱即自動合併為同一張卡片 ★
         function groupEvents(list) {
             const groups = [];
             list.forEach(e => {
@@ -1042,11 +1044,36 @@
             });
         }
 
+        /**
+         * ★ 修正重點 1：在活動卡片內，將「使用者勾選的關注藝人」永遠排在「藝人色塊列」與「藝人時間列」的最前面！
+         */
         function buildCard(g, historical, idx = 0) {
             const k = dateKey(g.date), map = safeUrl(g.mapLink), ticket = safeUrl(g.ticketUrl), dayStr = getDayOfWeek(k);
-            const bandsHtml = g.bands.map(b => `<span class="band-tag ${bandInfo(b.id).class}" title="${esc(bandInfo(b.id).name)} (${esc(bandInfo(b.id).category)})">${esc(bandInfo(b.id).short)}</span>`).join('');
+            const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
+
+            // 將有被使用者選中的藝人優先排在最前面；同為選中或同為未選中時，依熱門度 sortRank 排序
+            const sortedBands = [...g.bands].sort((a, b) => {
+                if (isCustomFilter) {
+                    const aPicked = selectedBands.has(a.id) ? 1 : 0;
+                    const bPicked = selectedBands.has(b.id) ? 1 : 0;
+                    if (aPicked !== bPicked) return bPicked - aPicked;
+                }
+                return (bandInfo(a.id).sortRank ?? 9999) - (bandInfo(b.id).sortRank ?? 9999);
+            });
+
+            const bandsHtml = sortedBands.map(b => {
+                const isPicked = isCustomFilter && selectedBands.has(b.id);
+                return `<span class="band-tag ${bandInfo(b.id).class} ${isPicked ? 'is-picked' : ''}" title="${esc(bandInfo(b.id).name)} (${esc(bandInfo(b.id).category)})">${isPicked ? '★ ' : ''}${esc(bandInfo(b.id).short)}</span>`;
+            }).join('');
             
-            let combinedNotes = []; g.bands.forEach(b => { if(b.time && b.time !== '未定' && b.time !== '未公布') combinedNotes.push(`[${bandInfo(b.id).short}] 時間：${b.time}`); });
+            // 藝人演出時間同樣依照 sortedBands 順序（使用者選中的藝人時間永遠排在最前面）
+            let combinedNotes = [];
+            sortedBands.forEach(b => {
+                if(b.time && b.time !== '未定' && b.time !== '未公布') {
+                    const isPicked = isCustomFilter && selectedBands.has(b.id);
+                    combinedNotes.push(`${isPicked ? '★ ' : ''}[${bandInfo(b.id).short}] 時間：${b.time}`);
+                }
+            });
             combinedNotes = combinedNotes.concat(g.notes);
             
             let notesHtml = '';
@@ -1062,7 +1089,7 @@
             let setlistsHtml = '';
             if (historical && g.totalSongs > 0) {
                 setlistsHtml = `<div class="setlists-wrap"><div class="setlist-summary" onclick="toggleContent(this)">▶ 展開歷史歌單 (${g.totalSongs} 首)</div><div class="setlist-content">`;
-                g.bands.forEach(b => {
+                sortedBands.forEach(b => {
                     if (b.setlist && b.setlist.length > 0) {
                         setlistsHtml += `<div class="sl-band-title">${esc(bandInfo(b.id).name)}</div>`;
                         b.setlist.forEach(s => { setlistsHtml += `<div class="sl-song">${s.isEncore ? '<span style="background:var(--text-main);color:var(--bg-main);padding:1px 5px;font-size:10px;border-radius:4px;font-weight:900;box-shadow:1px 1px 0px rgba(0,0,0,0.2);">安可</span>' : ''} ${esc(s.songName)}</div>`; });
@@ -1154,15 +1181,31 @@
             $('#calendar-events-list').scrollIntoView({ behavior: 'smooth' });
         }
         
+        /**
+         * ★ 修正重點 2：當使用者只篩選特定藝人時，行事曆格子上「只會出現使用者選的藝人色塊」，不再出現同場未選中的藝人！
+         */
         function renderCalendar() {
             if (calendar) calendar.destroy();
             let calEvents = [];
+            const isAllMode = selectedBands.has('all') || selectedBands.size === 0;
+
             filterGrouped(groupEvents([...data.upcoming, ...data.events])).forEach(g => {
                 if(g.date.length === 8) {
                     const isoDate = `${g.date.substring(0,4)}-${g.date.substring(4,6)}-${g.date.substring(6,8)}`;
-                    g.bands.forEach(b => {
+                    // 在行事曆格子上，只渲染使用者有選中的藝人（若為全部模式則全部渲染）
+                    const bandsForCalendar = isAllMode
+                        ? g.bands
+                        : g.bands.filter(b => selectedBands.has(b.id));
+
+                    bandsForCalendar.forEach(b => {
                         const bi = bandInfo(b.id);
-                        calEvents.push({ title: `${(g.location || '').substring(0, 2) || '未定'}\n[${bi.short}]`, start: isoDate, backgroundColor: bi.color, borderColor: bi.color, textColor: '#fff' });
+                        calEvents.push({
+                            title: `${(g.location || '').substring(0, 2) || '未定'}\n[${bi.short}]`,
+                            start: isoDate,
+                            backgroundColor: bi.color,
+                            borderColor: bi.color,
+                            textColor: '#fff'
+                        });
                     });
                 }
             });
