@@ -368,6 +368,38 @@
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_3",
+      "name": "羊駝小姐",
+      "short": "羊駝",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "atempoquarte",
+      "name": "A Tempo Quartet",
+      "short": "AT",
+      "color": "#3a86ff",
+      "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_19",
+      "name": "邱淑蟬",
+      "short": "邱淑",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "yamonsocialc",
+      "name": "壓滿俱樂部 YaMon Social Club",
+      "short": "壓滿",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
     }
   ],
   "events": [
@@ -3473,6 +3505,46 @@
       "note": "來源：https://www.threads.com/share/BADACNflBv/"
     },
     {
+      "id": "upcoming-row-89",
+      "date": "20261017",
+      "band": "band_6u8lrj_3",
+      "time": "未公布",
+      "name": "吹狗螺音樂生活節",
+      "location": "衛武營藝術村旁草地",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%A1%9B%E6%AD%A6%E7%87%9F%E8%97%9D%E8%A1%93%E6%9D%91%E6%97%81%E8%8D%89%E5%9C%B0",
+      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司：羊駝小姐 Malpaca、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。"
+    },
+    {
+      "id": "upcoming-row-90",
+      "date": "20261017",
+      "band": "atempoquarte",
+      "time": "未公布",
+      "name": "吹狗螺音樂生活節",
+      "location": "衛武營藝術村旁草地",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%A1%9B%E6%AD%A6%E7%87%9F%E8%97%9D%E8%A1%93%E6%9D%91%E6%97%81%E8%8D%89%E5%9C%B0",
+      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司：羊駝小姐 Malpaca、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。"
+    },
+    {
+      "id": "upcoming-row-91",
+      "date": "20261017",
+      "band": "band_drsiw0_19",
+      "time": "未公布",
+      "name": "吹狗螺音樂生活節",
+      "location": "衛武營藝術村旁草地",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%A1%9B%E6%AD%A6%E7%87%9F%E8%97%9D%E8%A1%93%E6%9D%91%E6%97%81%E8%8D%89%E5%9C%B0",
+      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司：羊駝小姐 Malpaca、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。"
+    },
+    {
+      "id": "upcoming-row-92",
+      "date": "20261017",
+      "band": "yamonsocialc",
+      "time": "未公布",
+      "name": "吹狗螺音樂生活節",
+      "location": "衛武營藝術村旁草地",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%A1%9B%E6%AD%A6%E7%87%9F%E8%97%9D%E8%A1%93%E6%9D%91%E6%97%81%E8%8D%89%E5%9C%B0",
+      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司：羊駝小姐 Malpaca、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。"
+    },
+    {
       "id": "upcoming-row-4",
       "date": "20261018",
       "band": "papunband",
@@ -4398,6 +4470,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "a74b4097-866f-4ff2-a054-d73b86ada0a8",
-  "updatedAt": "2026-10-14T05:32:13.833Z"
+  "revision": "dec77367-3cb8-45ba-a8d2-2f0eb1523b64",
+  "updatedAt": "2026-10-14T05:33:25.425Z"
 }
