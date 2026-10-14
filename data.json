@@ -496,6 +496,30 @@
       "color": "#ffd166",
       "category": "團體",
       "eventCount": 1
+    },
+    {
+      "id": "pizzali",
+      "name": "PIZZALI",
+      "short": "PI",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_21",
+      "name": "林可綸",
+      "short": "林可",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_6",
+      "name": "楊琳",
+      "short": "楊琳",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
     }
   ],
   "events": [
@@ -3421,6 +3445,36 @@
   ],
   "upcoming": [
     {
+      "id": "upcoming-row-105",
+      "date": "20261014",
+      "band": "pizzali",
+      "time": "18:00-20:00",
+      "name": "中信科大聯合迎新",
+      "location": "台南市中信科大學餐前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E4%BF%A1%E7%A7%91%E5%A4%A7%E5%AD%B8%E9%A4%90%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：PIZZALI、林可綸、楊琳；活動時間：18:00-20:00。"
+    },
+    {
+      "id": "upcoming-row-106",
+      "date": "20261014",
+      "band": "band_drsiw0_21",
+      "time": "18:00-20:00",
+      "name": "中信科大聯合迎新",
+      "location": "台南市中信科大學餐前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E4%BF%A1%E7%A7%91%E5%A4%A7%E5%AD%B8%E9%A4%90%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：PIZZALI、林可綸、楊琳；活動時間：18:00-20:00。"
+    },
+    {
+      "id": "upcoming-row-107",
+      "date": "20261014",
+      "band": "band_6gp8um_6",
+      "time": "18:00-20:00",
+      "name": "中信科大聯合迎新",
+      "location": "台南市中信科大學餐前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E4%BF%A1%E7%A7%91%E5%A4%A7%E5%AD%B8%E9%A4%90%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：PIZZALI、林可綸、楊琳；活動時間：18:00-20:00。"
+    },
+    {
       "id": "upcoming-row-52",
       "date": "20261016",
       "band": "band_drsiw0_3",
@@ -4686,6 +4740,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "571c1377-70d7-41c7-bd4e-6f775a7501e2",
-  "updatedAt": "2026-10-14T08:08:39.536Z"
+  "revision": "a77a4c14-d239-457e-b777-05ae0d07b87d",
+  "updatedAt": "2026-10-14T08:12:33.542Z"
 }
