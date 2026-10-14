@@ -74,6 +74,14 @@
       "eventCount": 2
     },
     {
+      "id": "163braces",
+      "name": "163braces",
+      "short": "16",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0",
       "name": "婁峻碩",
       "short": "婁峻",
@@ -110,14 +118,6 @@
       "name": "王謙",
       "short": "王謙",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "163braces",
-      "name": "163braces",
-      "short": "16",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
     },
@@ -350,6 +350,22 @@
       "name": "黃偉晉",
       "short": "黃偉",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "fenix",
+      "name": "FEniX",
+      "short": "FE",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "mingo",
+      "name": "安芝儇 × Mingo",
+      "short": "安芝",
+      "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
     }
@@ -3847,6 +3863,26 @@
       "note": "售票 日期未定"
     },
     {
+      "id": "upcoming-row-86",
+      "date": "20261107",
+      "band": "163braces",
+      "time": "未公布",
+      "name": "HINO GO潮派",
+      "location": "高雄市駁二藝術特區B4蓬萊館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
+      "note": "［免費］\n活動時間表：11/07 163braces (14:30)；FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。"
+    },
+    {
+      "id": "upcoming-row-87",
+      "date": "20261107",
+      "band": "fenix",
+      "time": "未公布",
+      "name": "HINO GO潮派",
+      "location": "高雄市駁二藝術特區B4蓬萊館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
+      "note": "［免費］\n活動時間表：11/07 163braces (14:30)；FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。"
+    },
+    {
       "id": "upcoming-row-21",
       "date": "20261108",
       "band": "bisiugroup",
@@ -3865,6 +3901,16 @@
       "location": "台南市安平觀夕平台旁大草皮",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
       "note": "售票"
+    },
+    {
+      "id": "upcoming-row-88",
+      "date": "20261108",
+      "band": "mingo",
+      "time": "未公布",
+      "name": "HINO GO潮派",
+      "location": "高雄市駁二藝術特區B4蓬萊館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
+      "note": "［免費］\n活動時間表：11/07 163braces (14:30)；FEniX (17:00)。11/08 安芝儇 × Mingo (15:00)。"
     },
     {
       "id": "upcoming-row-38",
@@ -4352,6 +4398,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7d2aeea1-2643-4c84-892a-edfd5b7ae03a",
-  "updatedAt": "2026-10-14T05:29:37.359Z"
+  "revision": "e2ca606c-82ea-4183-a280-e8284202e315",
+  "updatedAt": "2026-10-14T05:30:10.317Z"
 }
