@@ -520,6 +520,22 @@
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
+    },
+    {
+      "id": "band_vymqhy",
+      "name": "金琳 & 裴晟秀",
+      "short": "金琳",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_7",
+      "name": "寶賤",
+      "short": "寶賤",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
     }
   ],
   "events": [
@@ -3812,7 +3828,7 @@
       "name": "桃園萬聖城・開城演唱會",
       "location": "桃園市桃園藝文廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動時間:18:30-21:00。卡司包含:黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀;主持人:寶賤。"
+      "note": "［免費］\n活動時間:18:30-21:00。卡司包含:黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀;主持人:寶賤。\n卡司：黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀參與；主持：寶賤。活動時間為 18:30-21:00。"
     },
     {
       "id": "upcoming-row-84",
@@ -3822,7 +3838,7 @@
       "name": "桃園萬聖城・開城演唱會",
       "location": "桃園市桃園藝文廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動時間:18:30-21:00。卡司包含:黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀;主持人:寶賤。"
+      "note": "［免費］\n活動時間:18:30-21:00。卡司包含:黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀;主持人:寶賤。\n卡司：黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀參與；主持：寶賤。活動時間為 18:30-21:00。"
     },
     {
       "id": "upcoming-row-92",
@@ -3832,7 +3848,7 @@
       "name": "桃園萬聖城・開城演唱會",
       "location": "桃園市桃園藝文廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動時間:18:30-21:00。卡司包含:黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀;主持人:寶賤。"
+      "note": "［免費］\n活動時間:18:30-21:00。卡司包含:黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀;主持人:寶賤。\n卡司：黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀參與；主持：寶賤。活動時間為 18:30-21:00。"
     },
     {
       "id": "upcoming-row-93",
@@ -3842,7 +3858,7 @@
       "name": "桃園萬聖城・開城演唱會",
       "location": "桃園市桃園藝文廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動時間:18:30-21:00。卡司包含:黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀;主持人:寶賤。"
+      "note": "［免費］\n活動時間:18:30-21:00。卡司包含:黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀;主持人:寶賤。\n卡司：黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀參與；主持：寶賤。活動時間為 18:30-21:00。"
     },
     {
       "id": "upcoming-row-94",
@@ -3953,6 +3969,26 @@
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
       "note": "［免費］\n活動時間:14:00-23:00。卡司包含:Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團、慶記KTV 羅曼迪克,並有聖恩擔任主持人。\n❑台北市ATT4FUN1F東側廣場❑\n活動時間：14:00-23:00。卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團，以及慶記KTV 羅曼迪克等。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+    },
+    {
+      "id": "upcoming-row-108",
+      "date": "20261024",
+      "band": "band_vymqhy",
+      "time": "未公布",
+      "name": "桃園萬聖城・開城演唱會",
+      "location": "桃園市桃園藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間:18:30-21:00。卡司包含:黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀;主持人:寶賤。\n卡司：黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀參與；主持：寶賤。活動時間為 18:30-21:00。"
+    },
+    {
+      "id": "upcoming-row-109",
+      "date": "20261024",
+      "band": "band_6gp8um_7",
+      "time": "未公布",
+      "name": "桃園萬聖城・開城演唱會",
+      "location": "桃園市桃園藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間:18:30-21:00。卡司包含:黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀;主持人:寶賤。\n卡司：黃偉晉、粗大Band、安吉、派偉俊，並有金琳 & 裴晟秀參與；主持：寶賤。活動時間為 18:30-21:00。"
     },
     {
       "id": "upcoming-row-8",
@@ -4740,6 +4776,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "026ea4f2-79f8-4e06-99bf-f242ceca3685",
-  "updatedAt": "2026-10-14T09:43:11.962Z"
+  "revision": "c978c6c3-5fca-4136-99cd-730affc6cf45",
+  "updatedAt": "2026-10-14T09:43:57.750Z"
 }
