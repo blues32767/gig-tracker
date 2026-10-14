@@ -40,7 +40,7 @@
         .nav-item { font-size: 0.75rem; font-weight: 800; text-align: center; padding: 6px 0; border: 2px solid var(--border); background: var(--bg-subtle); color: var(--text-secondary); cursor: pointer; white-space: nowrap; transition: all 0.2s;}
         .nav-item:hover { background: var(--text-main); color: var(--bg-main); }
         .nav-item.active { background: var(--text-main); color: var(--bg-main); border-color: var(--text-main); transform: translateY(-1px); box-shadow: 2px 2px 0px var(--accent);}
-        .theme-btn { font-size: 0.8rem; font-weight: 900; background: var(--bg-subtle); border: 2px solid var(--text-main); padding: 4px 10px; cursor: pointer; box-shadow: 2px 2px 0px var(--text-main); transition: transform 0.1s; }
+        .theme-btn { font-size: 0.8rem; font-weight: 900; background: var(--bg-subtle); border: 2px solid var(--text-main); padding: 4px 10px; cursor: pointer; box-shadow: 2px 2px 0px var(--text-main); transition: transform 0.1s; color: var(--text-main); }
         .theme-btn:active { transform: translate(2px,2px); box-shadow: none; }
         
         @media (min-width: 768px) {
@@ -51,10 +51,57 @@
 
         .container { max-width: 1200px; margin: 0 auto 2rem auto; padding: 0 1rem; width: 100%; overflow-x: hidden; }
         
-        .filter-bar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; align-items: center; }
-        .filter-btn { font-size: 0.8rem; font-weight: 800; padding: 6px 16px; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); cursor: pointer; border-radius: 20px; box-shadow: 2px 2px 0px var(--text-main); transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.2s, background 0.3s; white-space: nowrap; }
+        /* 智慧型頂部熱門篩選列 */
+        .filter-section { margin-bottom: 20px; }
+        .filter-bar { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+        .filter-btn { font-size: 0.8rem; font-weight: 800; padding: 6px 14px; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); cursor: pointer; border-radius: 99px; box-shadow: 2px 2px 0px var(--text-main); transition: transform 0.15s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.15s, background 0.2s; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; }
+        .filter-btn:hover { transform: translate(-1px, -1px); box-shadow: 3px 3px 0px var(--text-main); }
         .filter-btn:active { transform: translate(2px, 2px); box-shadow: none; }
+        .filter-count-pill { font-size: 0.68rem; font-weight: 900; padding: 1px 6px; border-radius: 99px; background: var(--bg-subtle); color: var(--text-secondary); border: 1px solid var(--border); }
+        .filter-btn.active .filter-count-pill { background: rgba(0, 0, 0, 0.28); color: #fff; border-color: rgba(255, 255, 255, 0.4); }
         
+        .explore-trigger-btn { font-size: 0.8rem; font-weight: 900; padding: 6px 16px; border: 2px solid var(--text-main); background: var(--accent); color: #111; cursor: pointer; border-radius: 99px; box-shadow: 3px 3px 0px var(--text-main); display: inline-flex; align-items: center; gap: 6px; transition: transform 0.15s, box-shadow 0.15s; white-space: nowrap; }
+        .explore-trigger-btn:hover { transform: translate(-2px, -2px); box-shadow: 5px 5px 0px var(--text-main); }
+        .explore-trigger-btn:active { transform: translate(2px, 2px); box-shadow: none; }
+        .clear-filter-btn { font-size: 0.75rem; font-weight: 800; padding: 5px 12px; border: 2px dashed var(--text-main); background: transparent; color: var(--text-main); cursor: pointer; border-radius: 99px; transition: background 0.2s; }
+        .clear-filter-btn:hover { background: var(--bg-subtle); }
+
+        /* Awwwards 級別：陣容探索抽屜視窗 (Artist Explorer Modal) */
+        .modal-backdrop { position: fixed; inset: 0; background: rgba(12, 12, 14, 0.68); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); z-index: 2500; display: none; align-items: center; justify-content: center; padding: 14px; animation: fadeIn 0.18s ease-out; }
+        .modal-backdrop.open { display: flex; }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+        .artist-modal { width: 100%; max-width: 780px; max-height: 86vh; background: var(--bg-card); border: 3px solid var(--text-main); border-radius: 16px; box-shadow: 8px 8px 0px var(--text-main); display: flex; flex-direction: column; overflow: hidden; animation: slideUp 0.22s cubic-bezier(0.16, 1, 0.3, 1); }
+        .am-header { padding: 16px 20px; background: var(--text-main); color: var(--bg-main); display: flex; justify-content: space-between; align-items: center; gap: 12px; border-bottom: 2px solid var(--text-main); }
+        .am-title-wrap h3 { font-size: 1.1rem; font-weight: 900; letter-spacing: -0.5px; display: flex; align-items: center; gap: 8px; }
+        .am-title-wrap p { font-size: 0.75rem; opacity: 0.8; font-weight: 600; margin-top: 2px; }
+        .am-close-btn { background: var(--bg-card); color: var(--text-main); border: 2px solid var(--bg-main); border-radius: 8px; padding: 4px 10px; font-weight: 900; font-size: 0.85rem; cursor: pointer; box-shadow: 2px 2px 0px var(--accent); }
+        
+        .am-controls { padding: 14px 20px; background: var(--bg-subtle); border-bottom: 2px dashed var(--text-main); display: flex; flex-direction: column; gap: 10px; }
+        .am-search-wrap { position: relative; width: 100%; }
+        .am-search-input { width: 100%; padding: 10px 14px; border: 2px solid var(--text-main); border-radius: 8px; background: var(--bg-card); color: var(--text-main); font-size: 0.9rem; font-weight: 700; box-shadow: 3px 3px 0px var(--text-main); }
+        .am-search-input:focus { outline: none; box-shadow: 4px 4px 0px var(--accent); }
+        
+        .am-cat-tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+        .am-cat-btn { font-size: 0.78rem; font-weight: 800; padding: 6px 12px; border: 2px solid var(--text-main); border-radius: 8px; background: var(--bg-card); color: var(--text-secondary); cursor: pointer; display: inline-flex; align-items: center; gap: 5px; transition: all 0.15s; }
+        .am-cat-btn:hover { color: var(--text-main); transform: translateY(-1px); }
+        .am-cat-btn.active { background: var(--text-main); color: var(--bg-main); box-shadow: 2px 2px 0px var(--accent); }
+
+        .am-list { padding: 16px 20px; overflow-y: auto; display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 10px; flex: 1; }
+        .am-item { display: flex; align-items: center; justify-content: space-between; padding: 10px 12px; border: 2px solid var(--text-main); border-radius: 10px; background: var(--bg-card); cursor: pointer; transition: transform 0.12s, box-shadow 0.12s, background 0.15s; box-shadow: 2px 2px 0px var(--text-main); gap: 8px; user-select: none; }
+        .am-item:hover { transform: translate(-2px, -2px); box-shadow: 4px 4px 0px var(--text-main); }
+        .am-item.selected { background: var(--accent); color: #111; box-shadow: 3px 3px 0px var(--text-main); }
+        .am-item-left { display: flex; align-items: center; gap: 8px; min-width: 0; flex: 1; }
+        .am-dot { width: 14px; height: 14px; border-radius: 50%; border: 2px solid #111; flex-shrink: 0; }
+        .am-name-box { min-width: 0; flex: 1; }
+        .am-name { font-size: 0.86rem; font-weight: 900; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .am-sub { font-size: 0.68rem; font-weight: 700; opacity: 0.72; display: flex; align-items: center; gap: 4px; margin-top: 1px; }
+        .am-badge { font-size: 0.72rem; font-weight: 900; padding: 2px 8px; border-radius: 99px; border: 1.5px solid var(--text-main); background: var(--bg-subtle); color: var(--text-main); white-space: nowrap; flex-shrink: 0; }
+        .am-item.selected .am-badge { background: #111; color: var(--accent); border-color: #111; }
+
+        .am-footer { padding: 12px 20px; background: var(--bg-card); border-top: 2px solid var(--text-main); display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+        .am-selected-status { font-size: 0.8rem; font-weight: 800; color: var(--text-secondary); }
+
         .search-container { display: flex; flex-direction: column; gap: 8px; margin-bottom: 24px; width: 100%; max-width: 100%; }
         @media (min-width: 768px) { .search-container { flex-direction: row; justify-content: space-between; align-items: center; } }
         .search-input { width: 100%; max-width: 100%; padding: 10px 14px; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); font-size: 0.9rem; font-weight: 700; box-shadow: 3px 3px 0px var(--text-main); transition: box-shadow 0.2s;}
@@ -81,14 +128,12 @@
         .cc-bands { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
         
         .band-tag { font-size: 11px; font-weight: 800; padding: 3px 8px; border: 2px solid var(--text-main); border-radius: 4px; display: inline-flex; align-items: center; white-space: nowrap; box-shadow: 1px 1px 0px rgba(0,0,0,0.1);}
-        
-        /* 針對尚未建立設定檔的樂團，提供高質感預設樣式 */
         .b-default { background: var(--text-main); color: var(--bg-main); border-color: var(--text-main); }
         
         .cc-actions { display: flex; gap: 8px; margin-top: auto; flex-wrap: wrap; }
         .cc-btn { font-size: 12px; font-weight: 800; padding: 5px 12px; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); text-decoration: none; border-radius: 4px; cursor: pointer; box-shadow: 2px 2px 0px var(--text-main); transition: transform 0.1s, box-shadow 0.1s, background 0.2s; white-space: nowrap; }
         .cc-btn:hover { background: var(--text-main); color: var(--bg-main); }
-        .cc-btn.active { background: var(--accent); color: var(--text-main); box-shadow: none; transform: translate(2px, 2px); border-color: var(--text-main); }
+        .cc-btn.active { background: var(--accent); color: #111; box-shadow: none; transform: translate(2px, 2px); border-color: var(--text-main); }
 
         .cc-note-wrap, .setlists-wrap { width: 100%; margin-top: 10px; }
         .cc-note-toggle, .setlist-summary { font-size: 12px; font-weight: 800; cursor: pointer; color: var(--text-main); padding: 4px 0; display: inline-block; text-decoration: underline; text-decoration-style: dashed; transition: color 0.2s;}
@@ -118,7 +163,7 @@
         html.dark .fc .fc-button-primary:hover { background-color: var(--text-main); color: var(--bg-main); }
         html.dark .fc-event { color: #111 !important; }
         
-        .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text-main); color: var(--bg-main); padding: 10px 20px; font-size: 13px; font-weight: 800; border-radius: 8px; z-index: 2000; box-shadow: 5px 5px 0px var(--accent); max-width: 90vw; text-align: center;}
+        .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text-main); color: var(--bg-main); padding: 10px 20px; font-size: 13px; font-weight: 800; border-radius: 8px; z-index: 3000; box-shadow: 5px 5px 0px var(--accent); max-width: 90vw; text-align: center;}
     </style>
     <style id="dynamic-styles"></style>
 </head>
@@ -139,10 +184,12 @@
     </nav>
 
     <div class="container">
-        <div class="filter-bar" id="filters"></div>
+        <div class="filter-section" id="filter-section">
+            <div class="filter-bar" id="filters"></div>
+        </div>
         
         <div class="search-container" id="search-bar-wrapper">
-            <input type="text" id="search" class="search-input" placeholder="搜尋活動、地點、歌曲...">
+            <input type="text" id="search" class="search-input" placeholder="搜尋活動、地點、藝人或歌曲...">
             <div id="status" style="font-size:11px; font-weight:800; color:var(--text-secondary); text-align:right;"></div>
         </div>
         
@@ -178,6 +225,33 @@
             <div id="calendar-events-list"></div>
         </div>
     </div>
+
+    <!-- 陣容探索與分類篩選視窗 (Artist Explorer Modal) -->
+    <div id="artist-modal-backdrop" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="am-modal-title">
+        <div class="artist-modal" onclick="event.stopPropagation()">
+            <div class="am-header">
+                <div class="am-title-wrap">
+                    <h3 id="am-modal-title">🎸 藝人陣容探索與分類篩選</h3>
+                    <p>依活動出現總次數由高至低排列 · 支援多選篩選 (快捷鍵 Ctrl+K)</p>
+                </div>
+                <button class="am-close-btn" onclick="closeArtistModal()">✕ 關閉</button>
+            </div>
+            <div class="am-controls">
+                <div class="am-search-wrap">
+                    <input type="search" id="am-search" class="am-search-input" placeholder="🔍 輸入藝人名稱、簡稱或英文快速篩選...">
+                </div>
+                <div class="am-cat-tabs" id="am-cat-tabs"></div>
+            </div>
+            <div class="am-list" id="am-list"></div>
+            <div class="am-footer">
+                <span class="am-selected-status" id="am-selected-status">目前顯示：全部藝人</span>
+                <div style="display:flex; gap:8px;">
+                    <button class="cc-btn" onclick="resetBandFilter()">重設為全部</button>
+                    <button class="cc-btn active" onclick="closeArtistModal()">完成套用 →</button>
+                </div>
+            </div>
+        </div>
+    </div>
     
     <div id="toast" class="toast" style="display:none;"></div>
 
@@ -185,9 +259,10 @@
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/locales/zh-tw.js"></script>
 
     <script>
-        // ★★★ 請替換成您的 GAS Web App 網址 ★★★
-        const GAS_URL = 'https://script.google.com/macros/s/AKfycbyC4LOMd6T4z4Wb2cQ_R8wJ2G9oKxVj6f9pYV3x-x1_1pM5/exec';
+        // ★ 已更新為你正式的 GAS 部署網址，徹底消除 Console 404 與 CORS 報錯 ★
+        const GAS_URL = 'https://script.google.com/macros/s/AKfycbwR49SJXjZM55RzbhpQyDv39sVM2J91U8BSs7gKlATQihm_QC60HOHH6FQtiA4CvLJexg/exec';
         const DATA_URL = './data.json';
+        const TOP_PINNED_LIMIT = 10; // 首頁預設顯示前 10 名最常出現的藝人
         
         let BANDS_MAP = {}; 
         let rawBands = [];
@@ -200,6 +275,8 @@
         let data = { upcoming: [], events: [], bands: [] };
         let tab = 'upcoming', query = '', limit = 24, statsBand = 'all';
         let selectedBands = new Set(['all']);
+        let modalCategory = 'all';
+        let modalSearchQuery = '';
         
         let footprints = new Set(storage.get('ting-footprints', []));
         let userId = storage.get('ting-user-id', '');
@@ -217,22 +294,56 @@
             lastScrollY = currentScrollY;
         }, { passive: true });
 
+        // 支援 Ctrl+K / Cmd+K 快速開啟藝人探索面板，ESC 關閉
+        window.addEventListener('keydown', e => {
+            if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
+                e.preventDefault();
+                if ($('#artist-modal-backdrop').classList.contains('open')) closeArtistModal();
+                else openArtistModal();
+            } else if (e.key === 'Escape' && $('#artist-modal-backdrop').classList.contains('open')) {
+                closeArtistModal();
+            }
+        });
+        $('#artist-modal-backdrop').addEventListener('click', closeArtistModal);
+
         function dateKey(s) { return String(s || '').replace(/[-/]/g, '').replace(/\.0$/, ''); }
         function getDayOfWeek(dStr) { if (!dStr || dStr.length !== 8) return ''; return DAY_NAMES[new Date(dStr.slice(0,4), parseInt(dStr.slice(4,6))-1, dStr.slice(6,8)).getDay()]; }
-        
-        // 【修正 1】更聰明的防呆機制：針對尚未出現在 BANDS_MAP 的樂團，智能擷取簡稱並統一風格
+
+        /**
+         * 智慧型藝人分類推論器（若 data.json 或試算表尚未標註 category 時，前端自動精準歸類為：樂團 / 個人 / 團體）
+         */
+        function inferArtistCategory(name, existingCat) {
+            const validCats = ['樂團', '個人', '團體'];
+            if (existingCat && validCats.includes(existingCat.trim())) return existingCat.trim();
+            const n = String(name || '').trim();
+
+            const knownBands = ['芒果醬', '美秀集團', '怕胖團', '冰球樂團', '公館青少年', '胡凱兒', '甜約翰', '溫蒂漫步', '好樂團', '溫室雜草', '無妄合作社', '康士坦的變化球', '血肉果汁機', '滅火器', '拍謝少年', '麋先生', '宇宙人', '告五人', '八三夭', '理想混蛋', '傻子與白痴', '草東沒有派對', '老王樂隊', '落日飛車', '傷心欲絕', '當代電影大師', '脆樂團', '庸俗救星', '福爾摩沙任務爵士樂團', '董事長樂團', '粗大BAND', '粹垢', '黑旋風', '火焰蟲樂團', '羊駝小姐', '壓滿俱樂部', '火星混蛋', '東部壞男孩', '眠氣', 'J Hall樂團', 'Control T', 'VH', 'TRASH'];
+            const knownGroups = ['南西肯恩', 'U:NUS', 'F.F.O', 'Ozone', 'GX', 'ARKis', 'Saturnday', 'HUR+', '玖壹壹', 'TPE48', 'YOYO家族', 'A Tempo Quartet', '慶記KTV', '米棧不一樣舞團', '馬太鞍部落青年'];
+            const knownSolos = ['盧廣仲', '婁峻碩', '呂允', '李浩瑋', '王謙', '派偉俊', '洪安妮', '吳蓓雅', '呂思緯', '鼓鼓', '白安', '黃妃', '品冠', '韋禮安', '周蕙', '羅時豐', '吳汶芳', '持修', '鄒序', '9M88', '閻奕格', '陳華', '曾瑋中', '呂士軒', '黃偉晉', '艾薇', '許效舜', '苗可麗', '澎恰恰', '王彩樺', '蔡旻佑', '吳淑敏', '羅巧倫', '邵大倫', '許志豪', '沈建豪', '黃新皓', '翁鈺鈞', '邱淑蟬', '林希子', '羅文裕', '李翊君', '陳以諾', '就以斯'];
+
+            if (knownBands.some(k => n.toLowerCase().includes(k.toLowerCase()))) return '樂團';
+            if (knownGroups.some(k => n.toLowerCase().includes(k.toLowerCase()))) return '團體';
+            if (knownSolos.some(k => n.toLowerCase().includes(k.toLowerCase()))) return '個人';
+
+            if (/樂團|樂隊|集團|團|Band|Club|社/i.test(n)) {
+                if (/舞團|青年|家族|男團|女團|Quartet/i.test(n)) return '團體';
+                return '樂團';
+            }
+            if (/[\u4e00-\u9fa5]/.test(n) && n.replace(/[A-Za-z\s.]/g, '').length <= 4) return '個人';
+            if (/^(Juice Boy|163braces|Bu\$y|How Z|CHOLLY)$/i.test(n)) return '個人';
+            return '樂團';
+        }
+
         function bandInfo(id) { 
             if (BANDS_MAP[id]) return BANDS_MAP[id];
             let shortName = id;
             if (id.length > 2) {
-                // 如果全是英數字，取首字大寫；若是中文，取前兩字
                 shortName = /^[a-zA-Z0-9_-]+$/.test(id) ? id.charAt(0).toUpperCase() : id.substring(0, 2);
             }
-            return { name: id, short: shortName, color: 'var(--text-main)', class: 'b-default' }; 
+            return { name: id, short: shortName, color: 'var(--text-main)', class: 'b-default', category: '樂團', totalCount: 0 }; 
         }
         
         function safeUrl(u) { try { const x = new URL(u); return x.protocol === 'https:' ? x.href : '' } catch { return '' } }
-
         function showToast(msg) { $('#toast').innerText = msg; $('#toast').style.display = 'block'; setTimeout(() => $('#toast').style.display = 'none', 3000); }
 
         if(userId) $('#user-id-input').value = userId;
@@ -244,11 +355,11 @@
             if(!uid) { showToast('請輸入或產生 ID'); return; }
             $('#cloud-sync').innerText = '同步中...';
             try {
-                const getRes = await fetch(`${GAS_URL}?action=getUser&userId=${encodeURIComponent(uid)}`);
+                const getRes = await fetch(`${GAS_URL}?action=getUser&userId=${encodeURIComponent(uid)}`, { credentials: 'omit' });
                 const getJson = await getRes.json();
                 if(getJson.success && getJson.data) { JSON.parse(getJson.data).forEach(id => footprints.add(id)); }
                 
-                await fetch(GAS_URL, { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: new URLSearchParams({ action: 'syncUser', userId: uid, data: JSON.stringify([...footprints]) }) });
+                await fetch(GAS_URL, { method: 'POST', credentials: 'omit', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: new URLSearchParams({ action: 'syncUser', userId: uid, data: JSON.stringify([...footprints]) }) });
                 
                 storage.set('ting-footprints', [...footprints]); storage.set('ting-user-id', uid);
                 showToast('雲端同步成功！'); if(tab === 'footprints') render();
@@ -256,33 +367,84 @@
             $('#cloud-sync').innerText = '同步到雲端';
         }
 
-        function initDynamicBands(bandsData) {
-            if(!bandsData || bandsData.length === 0) return;
+        /**
+         * 計算每位藝人的活動出現次數（近期預告 + 歷史場次），並由高至低排序 rawBands
+         */
+        function enrichAndSortBands(bandsData, upcomingList, eventsList) {
+            if(!bandsData || bandsData.length === 0) return [];
+            const upcomingCounts = new Map();
+            const historyCounts = new Map();
+
+            (upcomingList || []).forEach(e => {
+                if (dateKey(e.date) >= taipeiToday && e.band) {
+                    upcomingCounts.set(e.band, (upcomingCounts.get(e.band) || 0) + 1);
+                }
+            });
+            (eventsList || []).forEach(e => {
+                if (e.band) {
+                    historyCounts.set(e.band, (historyCounts.get(e.band) || 0) + 1);
+                }
+            });
+
+            const enriched = bandsData.map((b, index) => {
+                const uCount = upcomingCounts.get(b.id) || 0;
+                const hCount = historyCounts.get(b.id) || 0;
+                const totalCount = uCount + hCount;
+                const category = inferArtistCategory(b.name, b.category);
+                return {
+                    ...b,
+                    category,
+                    upcomingCount: uCount,
+                    historyCount: hCount,
+                    totalCount,
+                    originalOrder: index
+                };
+            });
+
+            // 依照總出現次數由大到小排序；若總次數相同，預告場次多者優先；再相同則維持原順序
+            enriched.sort((a, b) => {
+                if (b.totalCount !== a.totalCount) return b.totalCount - a.totalCount;
+                if (b.upcomingCount !== a.upcomingCount) return b.upcomingCount - a.upcomingCount;
+                return a.originalOrder - b.originalOrder;
+            });
+
             BANDS_MAP = {};
-            bandsData.forEach(b => { BANDS_MAP[b.id] = { name: b.name, short: b.short, color: b.color, class: 'b-'+b.id }; });
-            
+            enriched.forEach(b => {
+                BANDS_MAP[b.id] = {
+                    name: b.name,
+                    short: b.short,
+                    color: b.color,
+                    category: b.category,
+                    upcomingCount: b.upcomingCount,
+                    historyCount: b.historyCount,
+                    totalCount: b.totalCount,
+                    class: 'b-' + b.id
+                };
+            });
+
+            const gradientColors = enriched.slice(0, 7).map(b => b.color);
             let css = `
                 @keyframes gradient-flow { 0% { background-position: 0% 50%; } 100% { background-position: 100% 50%; } }
                 .filter-btn.active.fb-all { 
-                    background: linear-gradient(90deg, ${bandsData.map(b=>b.color).join(', ')}, ${bandsData[0].color}); 
-                    background-size: ${bandsData.length * 100}% 100%; 
-                    animation: gradient-flow ${bandsData.length}s linear infinite; 
-                    color: #fff; border-color: transparent; 
+                    background: linear-gradient(90deg, ${gradientColors.join(', ')}, ${gradientColors[0] || '#111'}); 
+                    background-size: ${gradientColors.length * 100}% 100%; 
+                    animation: gradient-flow ${Math.max(3, gradientColors.length)}s linear infinite; 
+                    color: #fff; border-color: var(--text-main); 
                 }
             `;
-            bandsData.forEach(b => {
+            enriched.forEach(b => {
                 css += `
-                .filter-btn.active.fb-${b.id} { background: ${b.color}; border-color: ${b.color}; color: #fff; transform: translate(2px, 2px); box-shadow: none; }
+                .filter-btn.active.fb-${b.id} { background: ${b.color}; border-color: var(--text-main); color: #fff; transform: translate(2px, 2px); box-shadow: none; }
                 .b-${b.id} { background: ${b.color}; border-color: transparent; color: #fff; }
                 `;
             });
             $('#dynamic-styles').innerHTML = css;
+            return enriched;
         }
 
         async function load() {
             $('#status').innerText = "讀取中...";
             try {
-                // 【修正 2】加上時間戳記徹底打破瀏覽器快取 (Cache Busting)
                 const cacheBusterUrl = `${DATA_URL}?v=${new Date().getTime()}`;
                 const response = await fetch(cacheBusterUrl, { cache: 'no-store' });
                 
@@ -291,11 +453,10 @@
                 data = d; storage.set('ting-data-v2', d);
                 $('#status').innerText = `已同步 (更新於 ${new Date(d.updatedAt || Date.now()).toLocaleTimeString()})`;
                 
-                rawBands = d.bands || [];
-                initDynamicBands(rawBands);
+                rawBands = enrichAndSortBands(d.bands || [], d.upcoming || [], d.events || []);
                 
-                if(userId && GAS_URL !== '你的_GAS_網址_請替換') {
-                    fetch(`${GAS_URL}?action=getUser&userId=${encodeURIComponent(userId)}`).then(r => r.json()).then(j => {
+                if(userId && GAS_URL.startsWith('https://script.google.com/')) {
+                    fetch(`${GAS_URL}?action=getUser&userId=${encodeURIComponent(userId)}`, { credentials: 'omit' }).then(r => r.json()).then(j => {
                         if(j.success && j.data) { JSON.parse(j.data).forEach(id => footprints.add(id)); storage.set('ting-footprints', [...footprints]); }
                     }).catch(e=>{});
                 }
@@ -304,7 +465,8 @@
             } catch (e) {
                 const cached = storage.get('ting-data-v2', null);
                 if (cached) {
-                    data = cached; rawBands = cached.bands || []; initDynamicBands(rawBands);
+                    data = cached;
+                    rawBands = enrichAndSortBands(cached.bands || [], cached.upcoming || [], cached.events || []);
                     $('#status').innerText = "離線模式 (載入快取)";
                     renderFilters(); render();
                 } else {
@@ -313,32 +475,162 @@
             }
         }
 
+        /**
+         * 渲染首頁頂部「智慧精簡列」：僅顯示 Top 10 熱門藝人 + 額外選中的藝人 + 探索全部按鈕
+         */
         function renderFilters() {
+            const topBands = rawBands.slice(0, TOP_PINNED_LIMIT);
+            const topIds = new Set(topBands.map(b => b.id));
+
+            // 若使用者在探索視窗選中了第 11 名以後的藝人，動態釘選在首頁列上，避免迷失狀態
+            const extraSelectedBands = rawBands.filter(b => !selectedBands.has('all') && selectedBands.has(b.id) && !topIds.has(b.id));
+            const visibleBands = [...topBands, ...extraSelectedBands];
+
             let html = `<button class="filter-btn fb-all ${selectedBands.has('all') ? 'active' : ''}" data-band="all">全部</button>`;
-            rawBands.forEach(b => {
-                const isActive = selectedBands.has(b.id) || selectedBands.has('all');
-                html += `<button class="filter-btn fb-${b.id} ${isActive ? 'active' : ''}" data-band="${b.id}">${b.name}</button>`;
+            
+            visibleBands.forEach(b => {
+                const isActive = !selectedBands.has('all') && selectedBands.has(b.id);
+                html += `
+                <button class="filter-btn fb-${esc(b.id)} ${isActive ? 'active' : ''}" data-band="${esc(b.id)}" title="${esc(b.category)} · 共 ${b.totalCount} 場演出">
+                    <span>${esc(b.name)}</span>
+                    ${b.totalCount > 0 ? `<span class="filter-count-pill">${b.totalCount}</span>` : ''}
+                </button>`;
             });
+
+            const hiddenCount = Math.max(0, rawBands.length - topBands.length);
+            const selectedCount = selectedBands.has('all') ? 0 : selectedBands.size;
+            const triggerLabel = selectedCount > 0
+                ? `🔍 藝人分類與搜尋 (已選 ${selectedCount} / 共 ${rawBands.length} 組)`
+                : `🔍 探索全部藝人 (${rawBands.length} 組 · 含 +${hiddenCount} 更多)`;
+
+            html += `<button type="button" class="explore-trigger-btn" onclick="openArtistModal()">${triggerLabel}</button>`;
+
+            if (!selectedBands.has('all') && selectedBands.size > 0) {
+                html += `<button type="button" class="clear-filter-btn" onclick="resetBandFilter()">✕ 清除篩選</button>`;
+            }
+
             $('#filters').innerHTML = html;
         }
 
+        function toggleBandSelection(id) {
+            if (id === 'all') {
+                selectedBands.clear();
+                selectedBands.add('all');
+            } else {
+                selectedBands.delete('all');
+                if (selectedBands.has(id)) {
+                    selectedBands.delete(id);
+                    if (selectedBands.size === 0) selectedBands.add('all');
+                } else {
+                    selectedBands.add(id);
+                }
+            }
+            renderFilters();
+            if ($('#artist-modal-backdrop').classList.contains('open')) {
+                renderArtistModalContent();
+            }
+            limit = 24;
+            if (tab === 'calendar') renderCalendar();
+            else render();
+        }
+
+        window.resetBandFilter = function() {
+            selectedBands.clear();
+            selectedBands.add('all');
+            renderFilters();
+            if ($('#artist-modal-backdrop').classList.contains('open')) {
+                renderArtistModalContent();
+            }
+            limit = 24;
+            if (tab === 'calendar') renderCalendar();
+            else render();
+        };
+
         $('#filters').addEventListener('click', e => {
             const btn = e.target.closest('.filter-btn');
-            if (btn) {
-                const id = btn.dataset.band;
-                if (id === 'all') {
-                    selectedBands.clear(); selectedBands.add('all');
-                } else {
-                    selectedBands.delete('all');
-                    if (selectedBands.has(id)) { selectedBands.delete(id); if (selectedBands.size === 0) selectedBands.add('all'); }
-                    else selectedBands.add(id);
-                }
-                renderFilters();
-                limit = 24;
-                if (tab === 'calendar') renderCalendar();
-                else render();
+            if (btn && btn.dataset.band) {
+                toggleBandSelection(btn.dataset.band);
             }
         });
+
+        // 打開與渲染「陣容探索抽屜視窗」
+        window.openArtistModal = function() {
+            $('#artist-modal-backdrop').classList.add('open');
+            renderArtistModalContent();
+            setTimeout(() => $('#am-search').focus(), 60);
+        };
+
+        window.closeArtistModal = function() {
+            $('#artist-modal-backdrop').classList.remove('open');
+        };
+
+        $('#am-search').addEventListener('input', e => {
+            modalSearchQuery = e.target.value.trim().toLowerCase();
+            renderArtistModalContent();
+        });
+
+        function renderArtistModalContent() {
+            const catCounts = { all: rawBands.length, '樂團': 0, '個人': 0, '團體': 0 };
+            rawBands.forEach(b => {
+                if (catCounts[b.category] !== undefined) catCounts[b.category]++;
+                else catCounts['樂團']++;
+            });
+
+            const cats = [
+                { key: 'all', label: '全部陣容', icon: '✨' },
+                { key: '樂團', label: '樂團', icon: '🎸' },
+                { key: '個人', label: '個人', icon: '🎤' },
+                { key: '團體', label: '團體', icon: '👥' }
+            ];
+
+            $('#am-cat-tabs').innerHTML = cats.map(c => `
+                <button type="button" class="am-cat-btn ${modalCategory === c.key ? 'active' : ''}" onclick="setModalCategory('${c.key}')">
+                    <span>${c.icon} ${c.label}</span>
+                    <span style="opacity:0.75;font-size:0.7rem;">(${catCounts[c.key] || 0})</span>
+                </button>
+            `).join('');
+
+            const filtered = rawBands.filter(b => {
+                if (modalCategory !== 'all' && b.category !== modalCategory) return false;
+                if (modalSearchQuery) {
+                    const hay = `${b.name} ${b.short} ${b.id} ${b.category}`.toLowerCase();
+                    return hay.includes(modalSearchQuery);
+                }
+                return true;
+            });
+
+            if (filtered.length === 0) {
+                $('#am-list').innerHTML = `<div class="empty-state" style="padding:2rem 1rem;">找不到符合「${esc(modalSearchQuery)}」的藝人。</div>`;
+            } else {
+                $('#am-list').innerHTML = filtered.map((b, idx) => {
+                    const isSelected = !selectedBands.has('all') && selectedBands.has(b.id);
+                    const catIcon = b.category === '個人' ? '🎤' : (b.category === '團體' ? '👥' : '🎸');
+                    return `
+                    <div class="am-item ${isSelected ? 'selected' : ''}" onclick="toggleBandSelection('${esc(b.id)}')">
+                        <div class="am-item-left">
+                            <span class="am-dot" style="background:${esc(b.color)}"></span>
+                            <div class="am-name-box">
+                                <div class="am-name">#${idx + 1} ${esc(b.name)}</div>
+                                <div class="am-sub">${catIcon} ${esc(b.category)} · 預告 ${b.upcomingCount} / 歷史 ${b.historyCount}</div>
+                            </div>
+                        </div>
+                        <span class="am-badge">${b.totalCount} 場</span>
+                    </div>`;
+                }).join('');
+            }
+
+            if (selectedBands.has('all')) {
+                $('#am-selected-status').innerText = `目前顯示：全部藝人（點擊上方卡片可多選特定藝人）`;
+            } else {
+                const names = Array.from(selectedBands).map(id => bandInfo(id).name).join('、');
+                $('#am-selected-status').innerText = `已篩選 (${selectedBands.size} 組)：${names}`;
+            }
+        }
+
+        window.setModalCategory = function(cat) {
+            modalCategory = cat;
+            renderArtistModalContent();
+        };
 
         document.querySelectorAll('.nav-item').forEach(el => {
             el.addEventListener('click', e => {
@@ -347,7 +639,7 @@
                 
                 $('#footprints-actions').style.display = tab === 'footprints' ? 'block' : 'none';
                 $('#search-bar-wrapper').style.display = tab === 'calendar' ? 'none' : 'flex';
-                $('#filters').style.display = tab === 'stats' ? 'none' : 'flex';
+                $('#filter-section').style.display = tab === 'stats' ? 'none' : 'block';
                 
                 const titles = { upcoming: '預告列表', calendar: '行事曆', events: '歷史歌單', stats: '歌曲統計', footprints: '我的現場足跡' };
                 $('#tab-title').innerText = titles[tab];
@@ -406,7 +698,7 @@
 
         function buildCard(g, historical, idx = 0) {
             const k = dateKey(g.date), map = safeUrl(g.mapLink), ticket = safeUrl(g.ticketUrl), dayStr = getDayOfWeek(k);
-            const bandsHtml = g.bands.map(b => `<span class="band-tag ${bandInfo(b.id).class}">${esc(bandInfo(b.id).short)}</span>`).join('');
+            const bandsHtml = g.bands.map(b => `<span class="band-tag ${bandInfo(b.id).class}" title="${esc(bandInfo(b.id).name)} (${esc(bandInfo(b.id).category)})">${esc(bandInfo(b.id).short)}</span>`).join('');
             
             let combinedNotes = []; g.bands.forEach(b => { if(b.time && b.time !== '未定') combinedNotes.push(`[${bandInfo(b.id).short}] 時間：${b.time}`); });
             combinedNotes = combinedNotes.concat(g.notes);
@@ -470,8 +762,8 @@
                     <div style="font-size:32px; font-weight:900; color:var(--text-main); margin-top:8px;">${sCount.size} <span style="font-size:16px;">首</span></div>
                 </div>
                 <div style="grid-column:1/-1; background:var(--accent); border:2px solid var(--text-main); padding:20px; border-radius:12px; box-shadow:5px 5px 0px var(--text-main);">
-                    <div style="font-size:12px; color:var(--text-main); font-weight:900;">靈魂最愛</div>
-                    <div style="font-size:20px; font-weight:900; color:var(--text-main); margin-top:8px; line-height:1.5;">👑 樂團：${bandInfo(topBand).name} <br>🎵 歌曲：${esc(topSong || '無')}</div>
+                    <div style="font-size:12px; color:#111; font-weight:900;">靈魂最愛</div>
+                    <div style="font-size:20px; font-weight:900; color:#111; margin-top:8px; line-height:1.5;">👑 藝人：${bandInfo(topBand).name} <br>🎵 歌曲：${esc(topSong || '無')}</div>
                 </div>
             </div>`;
         }
@@ -482,10 +774,17 @@
             let counts = new Map(); shows.forEach(e => new Set(e.setlist.map(s => s.songName)).forEach(name => counts.set(name, (counts.get(name) || 0) + 1)));
             const songs = [...counts].sort((a, b) => b[1] - a[1]);
 
-            let bandOpts = `<option value="all">全部</option>` + rawBands.map(b => `<option value="${esc(b.id)}" ${statsBand === b.id ? 'selected' : ''}>${esc(b.name)}</option>`).join('');
+            // 依類別分組且依出現次數排序的下拉選單
+            const groupedOpts = ['樂團', '團體', '個人'].map(cat => {
+                const items = rawBands.filter(b => b.category === cat);
+                if (items.length === 0) return '';
+                return `<optgroup label="${cat}">` + items.map(b => `<option value="${esc(b.id)}" ${statsBand === b.id ? 'selected' : ''}>${esc(b.name)} (${b.totalCount}場)</option>`).join('') + `</optgroup>`;
+            }).join('');
+
+            let bandOpts = `<option value="all">全部藝人 (${rawBands.length}組)</option>` + groupedOpts;
 
             let html = `<div style="background:var(--bg-card); padding:24px; border:2px solid var(--text-main); box-shadow:5px 5px 0px var(--text-main); border-radius:12px; overflow-x:auto;">
-                <select style="padding:10px; font-size:14px; font-weight:800; border:2px solid var(--text-main); border-radius:8px; box-shadow:3px 3px 0px var(--text-main); margin-bottom:20px; max-width:100%;" onchange="statsBand=this.value; renderStats();">${bandOpts}</select>
+                <select style="padding:10px; font-size:14px; font-weight:800; border:2px solid var(--text-main); border-radius:8px; box-shadow:3px 3px 0px var(--text-main); margin-bottom:20px; max-width:100%; background:var(--bg-card); color:var(--text-main);" onchange="statsBand=this.value; renderStats();">${bandOpts}</select>
                 <div style="font-size:12px; color:var(--text-secondary); margin-bottom:20px; font-weight:800;">母數為 ${shows.length} 場有歌單的演出。同場重複曲目只計一次。</div>`;
             
             if (songs.length === 0) html += '<div class="empty-state">尚無歌單統計</div>';
