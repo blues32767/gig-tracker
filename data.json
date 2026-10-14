@@ -84,6 +84,96 @@
       "name": "163braces",
       "short": "16",
       "color": "#118ab2"
+    },
+    {
+      "id": "band_drsiw0_3",
+      "name": "許效舜",
+      "short": "許效",
+      "color": "#8338ec"
+    },
+    {
+      "id": "band_drsiw0_4",
+      "name": "苗可麗",
+      "short": "苗可",
+      "color": "#ff006e"
+    },
+    {
+      "id": "band_drsiw0_5",
+      "name": "澎恰恰",
+      "short": "澎恰",
+      "color": "#fb5607"
+    },
+    {
+      "id": "band_drsiw0_6",
+      "name": "王彩樺",
+      "short": "王彩",
+      "color": "#3a86ff"
+    },
+    {
+      "id": "band_drsiw0_7",
+      "name": "蔡旻佑",
+      "short": "蔡旻",
+      "color": "#00b4d8"
+    },
+    {
+      "id": "band_nmq1yt",
+      "name": "鼓鼓 呂思緯",
+      "short": "鼓鼓",
+      "color": "#2ec4b6"
+    },
+    {
+      "id": "band_drsiw0_8",
+      "name": "吳淑敏",
+      "short": "吳淑",
+      "color": "#ef476f"
+    },
+    {
+      "id": "band_drsiw0_9",
+      "name": "羅巧倫",
+      "short": "羅巧",
+      "color": "#ffd166"
+    },
+    {
+      "id": "band_drsiw0_10",
+      "name": "邵大倫",
+      "short": "邵大",
+      "color": "#06d6a0"
+    },
+    {
+      "id": "band_drsiw0_11",
+      "name": "許志豪",
+      "short": "許志",
+      "color": "#118ab2"
+    },
+    {
+      "id": "band_drsiw0_12",
+      "name": "沈建豪",
+      "short": "沈建",
+      "color": "#8338ec"
+    },
+    {
+      "id": "band_drsiw0_13",
+      "name": "黃新皓",
+      "short": "黃新",
+      "color": "#ff006e"
+    },
+    {
+      "id": "band_drsiw0_14",
+      "name": "翁鈺鈞",
+      "short": "翁鈺",
+      "color": "#fb5607"
+    },
+    {
+      "id": "buy",
+      "name": "Bu$y",
+      "short": "Bu",
+      "color": "#3a86ff"
+    },
+    {
+      "id": "ffo",
+      "name": "F.F.O",
+      "short": "F.",
+      "color": "#00b4d8"
     }
   ],
   "events": [
@@ -3009,6 +3099,156 @@
   ],
   "upcoming": [
     {
+      "id": "upcoming-row-52",
+      "date": "20261016",
+      "band": "band_drsiw0_3",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-53",
+      "date": "20261016",
+      "band": "band_drsiw0_4",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-54",
+      "date": "20261016",
+      "band": "band_drsiw0_5",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-55",
+      "date": "20261016",
+      "band": "band_drsiw0_6",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-56",
+      "date": "20261016",
+      "band": "band_drsiw0_7",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-57",
+      "date": "20261016",
+      "band": "band_nmq1yt",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-58",
+      "date": "20261016",
+      "band": "band_drsiw0_8",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-59",
+      "date": "20261016",
+      "band": "band_drsiw0_9",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-60",
+      "date": "20261016",
+      "band": "band_drsiw0_10",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-61",
+      "date": "20261016",
+      "band": "band_drsiw0_11",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-62",
+      "date": "20261016",
+      "band": "band_drsiw0_12",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-63",
+      "date": "20261016",
+      "band": "band_drsiw0_13",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-64",
+      "date": "20261016",
+      "band": "band_drsiw0_14",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-65",
+      "date": "20261016",
+      "band": "buy",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
+      "id": "upcoming-row-66",
+      "date": "20261016",
+      "band": "ffo",
+      "time": "未公布",
+      "name": "超級夜總會",
+      "location": "台北市中山堂戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%A0%82%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。活動時間從 17:00 開始。"
+    },
+    {
       "id": "upcoming-row-2",
       "date": "20261017",
       "band": "gongguan",
@@ -3744,6 +3984,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "89cf78f5-36cd-4eb3-b0e7-602870325e8e",
-  "updatedAt": "2026-10-14T04:11:31.653Z"
+  "revision": "13b7eb9b-f64b-4690-bc27-b95518ac82cc",
+  "updatedAt": "2026-10-14T04:12:19.421Z"
 }
