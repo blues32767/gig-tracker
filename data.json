@@ -1874,6 +1874,30 @@
       "eventCount": 1
     },
     {
+      "id": "band_drsiw0_77",
+      "name": "宇宙人",
+      "short": "宇宙",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_78",
+      "name": "袁小迪",
+      "short": "袁小",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "pallas",
+      "name": "PALLAS",
+      "short": "PA",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "buy",
       "name": "Bu$y",
       "short": "Bu$y",
@@ -6308,6 +6332,36 @@
       "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司：怕胖團。演出日期待公佈。"
     },
     {
+      "id": "upcoming-row-327",
+      "date": "20261024",
+      "band": "band_drsiw0_77",
+      "time": "未公布",
+      "name": "山城有聲",
+      "location": "南投縣埔里鎮仁愛公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E5%9F%94%E9%87%8C%E9%8E%AE%E4%BB%81%E6%84%9B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間：2026年10月24日 18:00-21:00。卡司包含宇宙人（于台煙）、袁小迪（李子森）、PALLAS（樂天女孩）及更多藝人。"
+    },
+    {
+      "id": "upcoming-row-328",
+      "date": "20261024",
+      "band": "band_drsiw0_78",
+      "time": "未公布",
+      "name": "山城有聲",
+      "location": "南投縣埔里鎮仁愛公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E5%9F%94%E9%87%8C%E9%8E%AE%E4%BB%81%E6%84%9B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間：2026年10月24日 18:00-21:00。卡司包含宇宙人（于台煙）、袁小迪（李子森）、PALLAS（樂天女孩）及更多藝人。"
+    },
+    {
+      "id": "upcoming-row-329",
+      "date": "20261024",
+      "band": "pallas",
+      "time": "未公布",
+      "name": "山城有聲",
+      "location": "南投縣埔里鎮仁愛公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E5%9F%94%E9%87%8C%E9%8E%AE%E4%BB%81%E6%84%9B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間：2026年10月24日 18:00-21:00。卡司包含宇宙人（于台煙）、袁小迪（李子森）、PALLAS（樂天女孩）及更多藝人。"
+    },
+    {
       "id": "upcoming-row-10",
       "date": "20261025",
       "band": "papunband",
@@ -8373,6 +8427,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ea09ed77-3300-4f4e-b792-6a1e958f3526",
-  "updatedAt": "2026-10-15T06:58:36.092Z"
+  "revision": "8be31a2d-cea0-4f2b-8e17-51cf93f03a88",
+  "updatedAt": "2026-10-15T06:59:08.193Z"
 }
