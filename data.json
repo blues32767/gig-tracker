@@ -146,6 +146,14 @@
       "eventCount": 3
     },
     {
+      "id": "ffo",
+      "name": "F.F.O",
+      "short": "F.F.O",
+      "color": "#00b4d8",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_3",
       "name": "白安",
       "short": "白安",
@@ -183,14 +191,6 @@
       "short": "Bu$y",
       "color": "#3a86ff",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "ffo",
-      "name": "F.F.O",
-      "short": "F.F.O",
-      "color": "#00b4d8",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -2094,6 +2094,46 @@
       "name": "BELISH",
       "short": "BE",
       "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "fei",
+      "name": "吳霏 FEI",
+      "short": "吳霏",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "bae",
+      "name": "林采欣 Bae",
+      "short": "林采",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi姐姐莫允樂",
+      "short": "Ki",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_26",
+      "name": "正宇",
+      "short": "正宇",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_uhxcnu_1",
+      "name": "舞荳音樂舞蹈教室",
+      "short": "舞荳",
+      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
     },
@@ -7668,6 +7708,66 @@
       "note": "［免費］\n免費 資訊來源:https://www.threads.com/share/HdcD0vtH7/\n卡司:粹垢TRAEGO、Control T、ERIKA 劉艾立、怕胖團、YOYO家族、八三夭。活動時間為 18:00 至 21:10。\n19:00-19:30|ERIKA 劉艾立\n19:30-20:00|怕胖團\n20:10-20:40|YOYO家族\n20:40-21:10|八三夭\n來源：https://www.threads.com/share/HdcD0vtH7/"
     },
     {
+      "id": "upcoming-row-386",
+      "date": "20261031",
+      "band": "fei",
+      "time": "未公布",
+      "name": "《搗蛋童樂・由我領航》兒童萬聖派對",
+      "location": "桃園市藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：吳霏 FEI、林采欣 Bae、F.F.O、Kiwi姐姐莫允樂、正宇、舞荳音樂舞蹈教室。活動時間為 13:00-16:00。"
+    },
+    {
+      "id": "upcoming-row-387",
+      "date": "20261031",
+      "band": "bae",
+      "time": "未公布",
+      "name": "《搗蛋童樂・由我領航》兒童萬聖派對",
+      "location": "桃園市藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：吳霏 FEI、林采欣 Bae、F.F.O、Kiwi姐姐莫允樂、正宇、舞荳音樂舞蹈教室。活動時間為 13:00-16:00。"
+    },
+    {
+      "id": "upcoming-row-388",
+      "date": "20261031",
+      "band": "ffo",
+      "time": "未公布",
+      "name": "《搗蛋童樂・由我領航》兒童萬聖派對",
+      "location": "桃園市藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：吳霏 FEI、林采欣 Bae、F.F.O、Kiwi姐姐莫允樂、正宇、舞荳音樂舞蹈教室。活動時間為 13:00-16:00。"
+    },
+    {
+      "id": "upcoming-row-389",
+      "date": "20261031",
+      "band": "kiwi",
+      "time": "未公布",
+      "name": "《搗蛋童樂・由我領航》兒童萬聖派對",
+      "location": "桃園市藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：吳霏 FEI、林采欣 Bae、F.F.O、Kiwi姐姐莫允樂、正宇、舞荳音樂舞蹈教室。活動時間為 13:00-16:00。"
+    },
+    {
+      "id": "upcoming-row-390",
+      "date": "20261031",
+      "band": "band_6gp8um_26",
+      "time": "未公布",
+      "name": "《搗蛋童樂・由我領航》兒童萬聖派對",
+      "location": "桃園市藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：吳霏 FEI、林采欣 Bae、F.F.O、Kiwi姐姐莫允樂、正宇、舞荳音樂舞蹈教室。活動時間為 13:00-16:00。"
+    },
+    {
+      "id": "upcoming-row-391",
+      "date": "20261031",
+      "band": "band_uhxcnu_1",
+      "time": "未公布",
+      "name": "《搗蛋童樂・由我領航》兒童萬聖派對",
+      "location": "桃園市藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：吳霏 FEI、林采欣 Bae、F.F.O、Kiwi姐姐莫允樂、正宇、舞荳音樂舞蹈教室。活動時間為 13:00-16:00。"
+    },
+    {
       "id": "upcoming-row-15",
       "date": "20261101",
       "band": "papunband",
@@ -9163,6 +9263,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "8c0b6f34-1522-4268-92d6-2fdbda403ecf",
-  "updatedAt": "2026-10-15T07:16:36.661Z"
+  "revision": "807718b5-d341-417a-8070-0eedb2f4363f",
+  "updatedAt": "2026-10-15T07:16:56.897Z"
 }
