@@ -234,6 +234,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_28",
+      "name": "曾瑋中",
+      "short": "曾瑋中",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_32",
       "name": "李翊君",
       "short": "李翊君",
@@ -647,14 +655,6 @@
       "short": "THE phoenix",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_28",
-      "name": "曾瑋中",
-      "short": "曾瑋中",
-      "color": "#8338ec",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -1783,6 +1783,54 @@
       "short": "聖恩",
       "color": "#2ec4b6",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "tpe48",
+      "name": "TPE48",
+      "short": "TP",
+      "color": "#ef476f",
+      "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "band_lfawlv",
+      "name": "DJ 史都華",
+      "short": "DJ",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_lfawlv_1",
+      "name": "DJ 丁安妮",
+      "short": "DJ",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_25",
+      "name": "陳華",
+      "short": "陳華",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_75",
+      "name": "呂士軒",
+      "short": "呂士",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_84v17o_1",
+      "name": "福爾摩沙任務爵士樂團",
+      "short": "福爾",
+      "color": "#ff006e",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -5006,10 +5054,10 @@
       "date": "20261017",
       "band": "mango",
       "time": "未公布",
-      "name": "台北 第61屆廣播金鐘獎頒獎典禮",
+      "name": "第61屆廣播金鐘獎頒獎典禮(直播)",
       "location": "台北市臺北流行音樂中心",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%82",
-      "note": "［免費］\n[需有入場票]-[ 第61屆廣播金鐘獎頒獎典禮 ]演出嘉賓\n2026/10/17六19:00\n金鐘獎官方網站(含直播):https://gba.tavis.tw/61st/index.html\n資訊來源:https://www.facebook.com/share/p/1DQhY2HKhL/\n--\n➤卡司:\n【開唱表演】➪\n|TPE48|DJ 史都華|DJ 丁安妮\n【中段表演】➪\n|陳華|曾瑋中|呂士軒\n【壓軸表演】➪\n|芒果醬|福爾摩沙任務爵士樂團\n┏━━━━━━━━━━━━┓\n◆官方網路頻道:\n◎金鐘61官網\n◎金鐘官方Youtube\n◆國內電視直播:◎三立都會台\n◆海外直播:\n◎三立國際台\n◎馬來西亞Unifi TV\n◆廣播調頻:◎好事989電台\n◆數位直播:\n◎三立新聞網YouTube\n◎Vidol YouTube\n◎文化部FB\n◎LINE TODAY\n◆影音平台直播:\n◎三立MOD綜合台\n❑台北市臺北流行音樂中心❑\n卡司：芒果醬。日期：2026/10/17。\n來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
+      "note": "［免費］\n[需有入場票]-[ 第61屆廣播金鐘獎頒獎典禮 ]演出嘉賓\n2026/10/17六19:00\n金鐘獎官方網站(含直播):https://gba.tavis.tw/61st/index.html\n資訊來源:https://www.facebook.com/share/p/1DQhY2HKhL/\n--\n➤卡司:\n【開唱表演】➪\n|TPE48|DJ 史都華|DJ 丁安妮\n【中段表演】➪\n|陳華|曾瑋中|呂士軒\n【壓軸表演】➪\n|芒果醬|福爾摩沙任務爵士樂團\n┏━━━━━━━━━━━━┓\n◆官方網路頻道:\n◎金鐘61官網\n◎金鐘官方Youtube\n◆國內電視直播:◎三立都會台\n◆海外直播:\n◎三立國際台\n◎馬來西亞Unifi TV\n◆廣播調頻:◎好事989電台\n◆數位直播:\n◎三立新聞網YouTube\n◎Vidol YouTube\n◎文化部FB\n◎LINE TODAY\n◆影音平台直播:\n◎三立MOD綜合台\n❑台北市臺北流行音樂中心❑\n卡司：芒果醬。日期：2026/10/17。\n開唱表演：TPE48、DJ 史都華、DJ 丁安妮；中段表演：陳華、曾瑋中、呂士軒；壓軸表演：芒果醬、福爾摩沙任務爵士樂團。活動開始時間為 19:00。\n來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
     },
     {
       "id": "upcoming-row-4",
@@ -5410,6 +5458,76 @@
       "location": "臺中台電下谷關會館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%8F%B0%E9%9B%BB%E4%B8%8B%E8%B0%B7%E9%97%9C%E6%9C%83%E9%A4%A8",
       "note": "［免費］\n卡司:幽靈水晶、潮州土狗、HAKU、安妮塔克、哈斯哈斯樂團、泰好玩打擊樂、太巴塑天藝文化藝術團。"
+    },
+    {
+      "id": "upcoming-row-306",
+      "date": "20261017",
+      "band": "tpe48",
+      "time": "未公布",
+      "name": "第61屆廣播金鐘獎頒獎典禮(直播)",
+      "location": "台北市臺北流行音樂中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%82",
+      "note": "［免費］\n[需有入場票]-[ 第61屆廣播金鐘獎頒獎典禮 ]演出嘉賓\n2026/10/17六19:00\n金鐘獎官方網站(含直播):https://gba.tavis.tw/61st/index.html\n資訊來源:https://www.facebook.com/share/p/1DQhY2HKhL/\n--\n➤卡司:\n【開唱表演】➪\n|TPE48|DJ 史都華|DJ 丁安妮\n【中段表演】➪\n|陳華|曾瑋中|呂士軒\n【壓軸表演】➪\n|芒果醬|福爾摩沙任務爵士樂團\n┏━━━━━━━━━━━━┓\n◆官方網路頻道:\n◎金鐘61官網\n◎金鐘官方Youtube\n◆國內電視直播:◎三立都會台\n◆海外直播:\n◎三立國際台\n◎馬來西亞Unifi TV\n◆廣播調頻:◎好事989電台\n◆數位直播:\n◎三立新聞網YouTube\n◎Vidol YouTube\n◎文化部FB\n◎LINE TODAY\n◆影音平台直播:\n◎三立MOD綜合台\n❑台北市臺北流行音樂中心❑\n卡司：芒果醬。日期：2026/10/17。\n開唱表演：TPE48、DJ 史都華、DJ 丁安妮；中段表演：陳華、曾瑋中、呂士軒；壓軸表演：芒果醬、福爾摩沙任務爵士樂團。活動開始時間為 19:00。\n來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
+    },
+    {
+      "id": "upcoming-row-307",
+      "date": "20261017",
+      "band": "band_lfawlv",
+      "time": "未公布",
+      "name": "第61屆廣播金鐘獎頒獎典禮(直播)",
+      "location": "台北市臺北流行音樂中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%82",
+      "note": "［免費］\n[需有入場票]-[ 第61屆廣播金鐘獎頒獎典禮 ]演出嘉賓\n2026/10/17六19:00\n金鐘獎官方網站(含直播):https://gba.tavis.tw/61st/index.html\n資訊來源:https://www.facebook.com/share/p/1DQhY2HKhL/\n--\n➤卡司:\n【開唱表演】➪\n|TPE48|DJ 史都華|DJ 丁安妮\n【中段表演】➪\n|陳華|曾瑋中|呂士軒\n【壓軸表演】➪\n|芒果醬|福爾摩沙任務爵士樂團\n┏━━━━━━━━━━━━┓\n◆官方網路頻道:\n◎金鐘61官網\n◎金鐘官方Youtube\n◆國內電視直播:◎三立都會台\n◆海外直播:\n◎三立國際台\n◎馬來西亞Unifi TV\n◆廣播調頻:◎好事989電台\n◆數位直播:\n◎三立新聞網YouTube\n◎Vidol YouTube\n◎文化部FB\n◎LINE TODAY\n◆影音平台直播:\n◎三立MOD綜合台\n❑台北市臺北流行音樂中心❑\n卡司：芒果醬。日期：2026/10/17。\n開唱表演：TPE48、DJ 史都華、DJ 丁安妮；中段表演：陳華、曾瑋中、呂士軒；壓軸表演：芒果醬、福爾摩沙任務爵士樂團。活動開始時間為 19:00。\n來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
+    },
+    {
+      "id": "upcoming-row-308",
+      "date": "20261017",
+      "band": "band_lfawlv_1",
+      "time": "未公布",
+      "name": "第61屆廣播金鐘獎頒獎典禮(直播)",
+      "location": "台北市臺北流行音樂中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%82",
+      "note": "［免費］\n[需有入場票]-[ 第61屆廣播金鐘獎頒獎典禮 ]演出嘉賓\n2026/10/17六19:00\n金鐘獎官方網站(含直播):https://gba.tavis.tw/61st/index.html\n資訊來源:https://www.facebook.com/share/p/1DQhY2HKhL/\n--\n➤卡司:\n【開唱表演】➪\n|TPE48|DJ 史都華|DJ 丁安妮\n【中段表演】➪\n|陳華|曾瑋中|呂士軒\n【壓軸表演】➪\n|芒果醬|福爾摩沙任務爵士樂團\n┏━━━━━━━━━━━━┓\n◆官方網路頻道:\n◎金鐘61官網\n◎金鐘官方Youtube\n◆國內電視直播:◎三立都會台\n◆海外直播:\n◎三立國際台\n◎馬來西亞Unifi TV\n◆廣播調頻:◎好事989電台\n◆數位直播:\n◎三立新聞網YouTube\n◎Vidol YouTube\n◎文化部FB\n◎LINE TODAY\n◆影音平台直播:\n◎三立MOD綜合台\n❑台北市臺北流行音樂中心❑\n卡司：芒果醬。日期：2026/10/17。\n開唱表演：TPE48、DJ 史都華、DJ 丁安妮；中段表演：陳華、曾瑋中、呂士軒；壓軸表演：芒果醬、福爾摩沙任務爵士樂團。活動開始時間為 19:00。\n來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
+    },
+    {
+      "id": "upcoming-row-309",
+      "date": "20261017",
+      "band": "band_6gp8um_25",
+      "time": "未公布",
+      "name": "第61屆廣播金鐘獎頒獎典禮(直播)",
+      "location": "台北市臺北流行音樂中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%82",
+      "note": "［免費］\n[需有入場票]-[ 第61屆廣播金鐘獎頒獎典禮 ]演出嘉賓\n2026/10/17六19:00\n金鐘獎官方網站(含直播):https://gba.tavis.tw/61st/index.html\n資訊來源:https://www.facebook.com/share/p/1DQhY2HKhL/\n--\n➤卡司:\n【開唱表演】➪\n|TPE48|DJ 史都華|DJ 丁安妮\n【中段表演】➪\n|陳華|曾瑋中|呂士軒\n【壓軸表演】➪\n|芒果醬|福爾摩沙任務爵士樂團\n┏━━━━━━━━━━━━┓\n◆官方網路頻道:\n◎金鐘61官網\n◎金鐘官方Youtube\n◆國內電視直播:◎三立都會台\n◆海外直播:\n◎三立國際台\n◎馬來西亞Unifi TV\n◆廣播調頻:◎好事989電台\n◆數位直播:\n◎三立新聞網YouTube\n◎Vidol YouTube\n◎文化部FB\n◎LINE TODAY\n◆影音平台直播:\n◎三立MOD綜合台\n❑台北市臺北流行音樂中心❑\n卡司：芒果醬。日期：2026/10/17。\n開唱表演：TPE48、DJ 史都華、DJ 丁安妮；中段表演：陳華、曾瑋中、呂士軒；壓軸表演：芒果醬、福爾摩沙任務爵士樂團。活動開始時間為 19:00。\n來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
+    },
+    {
+      "id": "upcoming-row-310",
+      "date": "20261017",
+      "band": "band_drsiw0_28",
+      "time": "未公布",
+      "name": "第61屆廣播金鐘獎頒獎典禮(直播)",
+      "location": "台北市臺北流行音樂中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%82",
+      "note": "［免費］\n[需有入場票]-[ 第61屆廣播金鐘獎頒獎典禮 ]演出嘉賓\n2026/10/17六19:00\n金鐘獎官方網站(含直播):https://gba.tavis.tw/61st/index.html\n資訊來源:https://www.facebook.com/share/p/1DQhY2HKhL/\n--\n➤卡司:\n【開唱表演】➪\n|TPE48|DJ 史都華|DJ 丁安妮\n【中段表演】➪\n|陳華|曾瑋中|呂士軒\n【壓軸表演】➪\n|芒果醬|福爾摩沙任務爵士樂團\n┏━━━━━━━━━━━━┓\n◆官方網路頻道:\n◎金鐘61官網\n◎金鐘官方Youtube\n◆國內電視直播:◎三立都會台\n◆海外直播:\n◎三立國際台\n◎馬來西亞Unifi TV\n◆廣播調頻:◎好事989電台\n◆數位直播:\n◎三立新聞網YouTube\n◎Vidol YouTube\n◎文化部FB\n◎LINE TODAY\n◆影音平台直播:\n◎三立MOD綜合台\n❑台北市臺北流行音樂中心❑\n卡司：芒果醬。日期：2026/10/17。\n開唱表演：TPE48、DJ 史都華、DJ 丁安妮；中段表演：陳華、曾瑋中、呂士軒；壓軸表演：芒果醬、福爾摩沙任務爵士樂團。活動開始時間為 19:00。\n來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
+    },
+    {
+      "id": "upcoming-row-311",
+      "date": "20261017",
+      "band": "band_drsiw0_75",
+      "time": "未公布",
+      "name": "第61屆廣播金鐘獎頒獎典禮(直播)",
+      "location": "台北市臺北流行音樂中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%82",
+      "note": "［免費］\n[需有入場票]-[ 第61屆廣播金鐘獎頒獎典禮 ]演出嘉賓\n2026/10/17六19:00\n金鐘獎官方網站(含直播):https://gba.tavis.tw/61st/index.html\n資訊來源:https://www.facebook.com/share/p/1DQhY2HKhL/\n--\n➤卡司:\n【開唱表演】➪\n|TPE48|DJ 史都華|DJ 丁安妮\n【中段表演】➪\n|陳華|曾瑋中|呂士軒\n【壓軸表演】➪\n|芒果醬|福爾摩沙任務爵士樂團\n┏━━━━━━━━━━━━┓\n◆官方網路頻道:\n◎金鐘61官網\n◎金鐘官方Youtube\n◆國內電視直播:◎三立都會台\n◆海外直播:\n◎三立國際台\n◎馬來西亞Unifi TV\n◆廣播調頻:◎好事989電台\n◆數位直播:\n◎三立新聞網YouTube\n◎Vidol YouTube\n◎文化部FB\n◎LINE TODAY\n◆影音平台直播:\n◎三立MOD綜合台\n❑台北市臺北流行音樂中心❑\n卡司：芒果醬。日期：2026/10/17。\n開唱表演：TPE48、DJ 史都華、DJ 丁安妮；中段表演：陳華、曾瑋中、呂士軒；壓軸表演：芒果醬、福爾摩沙任務爵士樂團。活動開始時間為 19:00。\n來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
+    },
+    {
+      "id": "upcoming-row-312",
+      "date": "20261017",
+      "band": "band_84v17o_1",
+      "time": "未公布",
+      "name": "第61屆廣播金鐘獎頒獎典禮(直播)",
+      "location": "台北市臺北流行音樂中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%82",
+      "note": "［免費］\n[需有入場票]-[ 第61屆廣播金鐘獎頒獎典禮 ]演出嘉賓\n2026/10/17六19:00\n金鐘獎官方網站(含直播):https://gba.tavis.tw/61st/index.html\n資訊來源:https://www.facebook.com/share/p/1DQhY2HKhL/\n--\n➤卡司:\n【開唱表演】➪\n|TPE48|DJ 史都華|DJ 丁安妮\n【中段表演】➪\n|陳華|曾瑋中|呂士軒\n【壓軸表演】➪\n|芒果醬|福爾摩沙任務爵士樂團\n┏━━━━━━━━━━━━┓\n◆官方網路頻道:\n◎金鐘61官網\n◎金鐘官方Youtube\n◆國內電視直播:◎三立都會台\n◆海外直播:\n◎三立國際台\n◎馬來西亞Unifi TV\n◆廣播調頻:◎好事989電台\n◆數位直播:\n◎三立新聞網YouTube\n◎Vidol YouTube\n◎文化部FB\n◎LINE TODAY\n◆影音平台直播:\n◎三立MOD綜合台\n❑台北市臺北流行音樂中心❑\n卡司：芒果醬。日期：2026/10/17。\n開唱表演：TPE48、DJ 史都華、DJ 丁安妮；中段表演：陳華、曾瑋中、呂士軒；壓軸表演：芒果醬、福爾摩沙任務爵士樂團。活動開始時間為 19:00。\n來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
     },
     {
       "id": "upcoming-row-5",
@@ -8067,6 +8185,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "036fc7cc-7bec-4fe0-afb3-50a53c21a5d4",
-  "updatedAt": "2026-10-15T06:53:47.627Z"
+  "revision": "ead88c99-9faf-4daf-a888-554a3725efef",
+  "updatedAt": "2026-10-15T06:55:03.719Z"
 }
