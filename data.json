@@ -74,10 +74,26 @@
       "eventCount": 4
     },
     {
+      "id": "trash",
+      "name": "TRASH",
+      "short": "TRASH",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "captainlu",
       "name": "盧廣仲",
       "short": "盧廣仲",
       "color": "#36cc00",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0",
+      "name": "婁峻碩",
+      "short": "婁峻碩",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 3
     },
@@ -114,27 +130,11 @@
       "eventCount": 3
     },
     {
-      "id": "trash",
-      "name": "TRASH",
-      "short": "TRASH",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "WhoCares",
       "name": "胡凱兒",
       "short": "胡凱兒",
       "color": "#385c6e",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0",
-      "name": "婁峻碩",
-      "short": "婁峻碩",
-      "color": "#3a86ff",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -231,6 +231,14 @@
       "short": "脆樂團",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_11",
+      "name": "艾薇",
+      "short": "艾薇",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -855,14 +863,6 @@
       "short": "YOYO 家族",
       "color": "#118ab2",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_11",
-      "name": "艾薇",
-      "short": "艾薇",
-      "color": "#fb5607",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -1591,6 +1591,38 @@
       "short": "JH",
       "color": "#ff006e",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_69",
+      "name": "陳勢安",
+      "short": "陳勢",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_70",
+      "name": "邱鋒澤",
+      "short": "邱鋒",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_71",
+      "name": "曾愷妤",
+      "short": "曾愷",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_72",
+      "name": "謝語恩",
+      "short": "謝語",
+      "color": "#2ec4b6",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -4600,6 +4632,76 @@
   ],
   "upcoming": [
     {
+      "id": "upcoming-row-273",
+      "date": "20261015",
+      "band": "band_drsiw0_69",
+      "time": "未公布",
+      "name": "《Ocean 偶想聽你唱》校慶演唱會",
+      "location": "基隆市國立臺灣海洋大學育樂館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+    },
+    {
+      "id": "upcoming-row-274",
+      "date": "20261015",
+      "band": "band_drsiw0",
+      "time": "未公布",
+      "name": "《Ocean 偶想聽你唱》校慶演唱會",
+      "location": "基隆市國立臺灣海洋大學育樂館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+    },
+    {
+      "id": "upcoming-row-275",
+      "date": "20261015",
+      "band": "band_6gp8um_11",
+      "time": "未公布",
+      "name": "《Ocean 偶想聽你唱》校慶演唱會",
+      "location": "基隆市國立臺灣海洋大學育樂館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+    },
+    {
+      "id": "upcoming-row-276",
+      "date": "20261015",
+      "band": "band_drsiw0_70",
+      "time": "未公布",
+      "name": "《Ocean 偶想聽你唱》校慶演唱會",
+      "location": "基隆市國立臺灣海洋大學育樂館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+    },
+    {
+      "id": "upcoming-row-277",
+      "date": "20261015",
+      "band": "trash",
+      "time": "未公布",
+      "name": "《Ocean 偶想聽你唱》校慶演唱會",
+      "location": "基隆市國立臺灣海洋大學育樂館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+    },
+    {
+      "id": "upcoming-row-278",
+      "date": "20261015",
+      "band": "band_drsiw0_71",
+      "time": "未公布",
+      "name": "《Ocean 偶想聽你唱》校慶演唱會",
+      "location": "基隆市國立臺灣海洋大學育樂館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+    },
+    {
+      "id": "upcoming-row-279",
+      "date": "20261015",
+      "band": "band_drsiw0_72",
+      "time": "未公布",
+      "name": "《Ocean 偶想聽你唱》校慶演唱會",
+      "location": "基隆市國立臺灣海洋大學育樂館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+    },
+    {
       "id": "upcoming-row-49",
       "date": "20261016",
       "band": "band_drsiw0_3",
@@ -4757,7 +4859,7 @@
       "name": "理想混蛋《不是因為天氣晴朗才見面》巡迴演唱會",
       "location": "高雄巨蛋",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%83",
-      "note": "[售票]"
+      "note": "[售票]\n專場，結束時間未定"
     },
     {
       "id": "upcoming-row-83",
@@ -5157,7 +5259,7 @@
       "name": "理想混蛋《不是因為天氣晴朗才見面》巡迴演唱會",
       "location": "高雄巨蛋",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%84",
-      "note": ""
+      "note": "[售票]\n專場，結束時間未定"
     },
     {
       "id": "upcoming-row-6",
@@ -7545,6 +7647,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "96fd59d4-e57c-483d-827d-3498176d44ce",
-  "updatedAt": "2026-10-15T06:44:56.063Z"
+  "revision": "3693c444-6d7c-4c65-897f-fef7ab98b110",
+  "updatedAt": "2026-10-15T06:45:37.231Z"
 }
