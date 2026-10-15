@@ -66,6 +66,14 @@
       "eventCount": 3
     },
     {
+      "id": "163braces",
+      "name": "163braces",
+      "short": "163braces",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
@@ -90,6 +98,14 @@
       "eventCount": 3
     },
     {
+      "id": "trash",
+      "name": "TRASH",
+      "short": "TRASH",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "WhoCares",
       "name": "胡凱兒",
       "short": "胡凱兒",
@@ -110,14 +126,6 @@
       "name": "Juice Boy",
       "short": "Juice Boy",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "163braces",
-      "name": "163braces",
-      "short": "163braces",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -191,14 +199,6 @@
       "short": "李翊君",
       "color": "#00b4d8",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "trash",
-      "name": "TRASH",
-      "short": "TRASH",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -1023,6 +1023,14 @@
       "short": "火星",
       "color": "#3a86ff",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_47",
+      "name": "帕崎拉",
+      "short": "帕崎",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 1
     }
   ],
@@ -5376,6 +5384,36 @@
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。"
     },
     {
+      "id": "upcoming-row-187",
+      "date": "20261111",
+      "band": "trash",
+      "time": "未公布",
+      "name": "CR造星計畫:逢甲場",
+      "location": "台中逢甲大學草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司：TRASH、163 braces、帕崎拉"
+    },
+    {
+      "id": "upcoming-row-188",
+      "date": "20261111",
+      "band": "163braces",
+      "time": "未公布",
+      "name": "CR造星計畫:逢甲場",
+      "location": "台中逢甲大學草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司：TRASH、163 braces、帕崎拉"
+    },
+    {
+      "id": "upcoming-row-189",
+      "date": "20261111",
+      "band": "band_drsiw0_47",
+      "time": "未公布",
+      "name": "CR造星計畫:逢甲場",
+      "location": "台中逢甲大學草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司：TRASH、163 braces、帕崎拉"
+    },
+    {
       "id": "upcoming-row-38",
       "date": "20261112",
       "band": "WhoCares",
@@ -6061,6 +6099,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "52cb6dfe-e68e-4ed6-8113-0dad18fd994e",
-  "updatedAt": "2026-10-15T06:18:12.506Z"
+  "revision": "18e7fea9-cb3e-4779-b363-ab80cb43d690",
+  "updatedAt": "2026-10-15T06:18:43.110Z"
 }
