@@ -18,18 +18,18 @@
       "eventCount": 11
     },
     {
-      "id": "bisiugroup",
-      "name": "美秀集團",
-      "short": "美秀",
-      "color": "#e63946",
-      "category": "樂團",
-      "eventCount": 9
-    },
-    {
       "id": "gongguan",
       "name": "公館青少年",
       "short": "館青",
       "color": "#2a9d8f",
+      "category": "樂團",
+      "eventCount": 10
+    },
+    {
+      "id": "bisiugroup",
+      "name": "美秀集團",
+      "short": "美秀",
+      "color": "#e63946",
       "category": "樂團",
       "eventCount": 9
     },
@@ -74,6 +74,22 @@
       "eventCount": 4
     },
     {
+      "id": "captainlu",
+      "name": "盧廣仲",
+      "short": "盧廣仲",
+      "color": "#36cc00",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "juiceboy",
+      "name": "Juice Boy",
+      "short": "Juice Boy",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_2",
       "name": "派偉俊",
       "short": "派偉俊",
@@ -106,14 +122,6 @@
       "eventCount": 3
     },
     {
-      "id": "captainlu",
-      "name": "盧廣仲",
-      "short": "盧廣仲",
-      "color": "#36cc00",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "WhoCares",
       "name": "胡凱兒",
       "short": "胡凱兒",
@@ -122,10 +130,10 @@
       "eventCount": 2
     },
     {
-      "id": "juiceboy",
-      "name": "Juice Boy",
-      "short": "Juice Boy",
-      "color": "#2ec4b6",
+      "id": "band_drsiw0",
+      "name": "婁峻碩",
+      "short": "婁峻碩",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 2
     },
@@ -264,14 +272,6 @@
       "color": "#FF7F00",
       "category": "樂團",
       "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0",
-      "name": "婁峻碩",
-      "short": "婁峻碩",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 1
     },
     {
       "id": "band_6gp8um",
@@ -4753,11 +4753,11 @@
       "id": "upcoming-row-4",
       "date": "20261017",
       "band": "Bestards",
-      "time": "18:00-21:00",
+      "time": "18:00-21:30",
       "name": "理想混蛋《不是因為天氣晴朗才見面》巡迴演唱會",
       "location": "高雄巨蛋",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%83",
-      "note": ""
+      "note": "[售票]"
     },
     {
       "id": "upcoming-row-83",
@@ -5153,7 +5153,7 @@
       "id": "upcoming-row-5",
       "date": "20261018",
       "band": "Bestards",
-      "time": "17:00-20:00",
+      "time": "17:00-20:30",
       "name": "理想混蛋《不是因為天氣晴朗才見面》巡迴演唱會",
       "location": "高雄巨蛋",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%84",
@@ -6258,6 +6258,46 @@
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
       "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+    },
+    {
+      "id": "upcoming-row-269",
+      "date": "20261031",
+      "band": "captainlu",
+      "time": "未公布",
+      "name": "成功高中秋季舞會",
+      "location": "台北市成功高中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%88%90%E5%8A%9F%E9%AB%98%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［售票］\n卡司：盧廣仲、婁峻碩、鄭馥儀、公館青少年、JUICE BOY。主持人：雨婷。\n活動時間：16:20 進場，16:50 開始。"
+    },
+    {
+      "id": "upcoming-row-270",
+      "date": "20261031",
+      "band": "band_drsiw0",
+      "time": "未公布",
+      "name": "成功高中秋季舞會",
+      "location": "台北市成功高中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%88%90%E5%8A%9F%E9%AB%98%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［售票］\n卡司：盧廣仲、婁峻碩、鄭馥儀、公館青少年、JUICE BOY。主持人：雨婷。\n活動時間：16:20 進場，16:50 開始。"
+    },
+    {
+      "id": "upcoming-row-271",
+      "date": "20261031",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "成功高中秋季舞會",
+      "location": "台北市成功高中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%88%90%E5%8A%9F%E9%AB%98%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［售票］\n卡司：盧廣仲、婁峻碩、鄭馥儀、公館青少年、JUICE BOY。主持人：雨婷。\n活動時間：16:20 進場，16:50 開始。"
+    },
+    {
+      "id": "upcoming-row-272",
+      "date": "20261031",
+      "band": "juiceboy",
+      "time": "未公布",
+      "name": "成功高中秋季舞會",
+      "location": "台北市成功高中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%88%90%E5%8A%9F%E9%AB%98%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［售票］\n卡司：盧廣仲、婁峻碩、鄭馥儀、公館青少年、JUICE BOY。主持人：雨婷。\n活動時間：16:20 進場，16:50 開始。"
     },
     {
       "id": "upcoming-row-15",
@@ -7505,6 +7545,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "04018a77-55c8-4894-b261-60982f28a3e6",
-  "updatedAt": "2026-10-15T06:44:19.774Z"
+  "revision": "96fd59d4-e57c-483d-827d-3498176d44ce",
+  "updatedAt": "2026-10-15T06:44:56.063Z"
 }
