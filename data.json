@@ -9757,7 +9757,7 @@
       "name": "內湖高中校慶晚會",
       "location": "台北市內湖高中籃球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%A7%E6%B9%96%E9%AB%98%E4%B8%AD%E7%B1%83%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n卡司:持修及更多藝人。預售票價為 250 元/張,入場時間 16:00,活動開始時間 16:30。"
+      "note": "［售票］\n活動日期:2026年11月7日。入場時間:16:00;開始時間:16:30。卡司包含:持修及更多藝人。"
     },
     {
       "id": "upcoming-row-21",
@@ -11205,6 +11205,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "60989ad2-ded4-415e-a483-05ed2281402c",
-  "updatedAt": "2026-10-15T14:22:58.440Z"
+  "revision": "44ea05c6-2fa8-4bfc-835a-6fbbea89a1d8",
+  "updatedAt": "2026-10-15T14:24:48.763Z"
 }
