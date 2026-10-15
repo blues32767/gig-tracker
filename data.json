@@ -968,6 +968,38 @@
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_14",
+      "name": "持修",
+      "short": "持修",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_15",
+      "name": "眠氣",
+      "short": "眠氣",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_5",
+      "name": "庸俗救星",
+      "short": "庸俗",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_16",
+      "name": "鄒序",
+      "short": "鄒序",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
     }
   ],
   "events": [
@@ -5457,7 +5489,7 @@
       "name": "2026 南紡星空音樂節",
       "location": "南紡購物中心A2館 1F南紡廣場",
       "mapLink": "https://maps.app.goo.gl/Z9UZp99pKxVHyFs17",
-      "note": "［免費］\n演出時間未定-免費自由入場\n活動時間-2026/11/21 - 11/22\n卡司:持修、眠氣、庸俗救星、胡凱兒、鄒序\n來源：https://www.threads.com/share/P6XLA5AoL/"
+      "note": "［免費］\n演出時間未定-免費自由入場\n活動時間-2026/11/21 - 11/22\n卡司:持修、眠氣、庸俗救星、胡凱兒、鄒序\n卡司：持修、眠氣、庸俗救星、胡凱兒、鄒序。活動日期為 2026/11/21 - 11/22，個別演出時間未定。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
       "id": "upcoming-row-44",
@@ -5548,6 +5580,46 @@
       "location": "屏東縣國立屏東科技大學情人坡",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%83%85%E4%BA%BA%E5%9D%A1",
       "note": "［免費］\n卡司:公館青少年、李浩瑋、Juice Boy、呂允、王謙、派偉俊、婁峻碩、163braces。活動預計於 2026/11/21 (六) PM15:30 開始。\n活動日期:2026/11/21。整體時間為 15:30-20:00。"
+    },
+    {
+      "id": "upcoming-row-179",
+      "date": "20261121",
+      "band": "band_6gp8um_14",
+      "time": "未公布",
+      "name": "2026 南紡星空音樂節",
+      "location": "南紡購物中心A2館 1F南紡廣場",
+      "mapLink": "https://maps.app.goo.gl/Z9UZp99pKxVHyFs17",
+      "note": "［免費］\n演出時間未定-免費自由入場\n活動時間-2026/11/21 - 11/22\n卡司:持修、眠氣、庸俗救星、胡凱兒、鄒序\n卡司：持修、眠氣、庸俗救星、胡凱兒、鄒序。活動日期為 2026/11/21 - 11/22，個別演出時間未定。\n來源：https://www.threads.com/share/P6XLA5AoL/"
+    },
+    {
+      "id": "upcoming-row-180",
+      "date": "20261121",
+      "band": "band_6gp8um_15",
+      "time": "未公布",
+      "name": "2026 南紡星空音樂節",
+      "location": "南紡購物中心A2館 1F南紡廣場",
+      "mapLink": "https://maps.app.goo.gl/Z9UZp99pKxVHyFs17",
+      "note": "［免費］\n演出時間未定-免費自由入場\n活動時間-2026/11/21 - 11/22\n卡司:持修、眠氣、庸俗救星、胡凱兒、鄒序\n卡司：持修、眠氣、庸俗救星、胡凱兒、鄒序。活動日期為 2026/11/21 - 11/22，個別演出時間未定。\n來源：https://www.threads.com/share/P6XLA5AoL/"
+    },
+    {
+      "id": "upcoming-row-181",
+      "date": "20261121",
+      "band": "band_6u8lrj_5",
+      "time": "未公布",
+      "name": "2026 南紡星空音樂節",
+      "location": "南紡購物中心A2館 1F南紡廣場",
+      "mapLink": "https://maps.app.goo.gl/Z9UZp99pKxVHyFs17",
+      "note": "［免費］\n演出時間未定-免費自由入場\n活動時間-2026/11/21 - 11/22\n卡司:持修、眠氣、庸俗救星、胡凱兒、鄒序\n卡司：持修、眠氣、庸俗救星、胡凱兒、鄒序。活動日期為 2026/11/21 - 11/22，個別演出時間未定。\n來源：https://www.threads.com/share/P6XLA5AoL/"
+    },
+    {
+      "id": "upcoming-row-182",
+      "date": "20261121",
+      "band": "band_6gp8um_16",
+      "time": "未公布",
+      "name": "2026 南紡星空音樂節",
+      "location": "南紡購物中心A2館 1F南紡廣場",
+      "mapLink": "https://maps.app.goo.gl/Z9UZp99pKxVHyFs17",
+      "note": "［免費］\n演出時間未定-免費自由入場\n活動時間-2026/11/21 - 11/22\n卡司:持修、眠氣、庸俗救星、胡凱兒、鄒序\n卡司：持修、眠氣、庸俗救星、胡凱兒、鄒序。活動日期為 2026/11/21 - 11/22，個別演出時間未定。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
       "id": "upcoming-row-39",
@@ -5925,6 +5997,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d4019810-a688-4d69-865a-299969647594",
-  "updatedAt": "2026-10-15T06:16:50.660Z"
+  "revision": "552466aa-88f1-4706-804d-a10f497337a1",
+  "updatedAt": "2026-10-15T06:17:31.680Z"
 }
