@@ -106,6 +106,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_27",
+      "name": "玖壹壹",
+      "short": "玖壹壹",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 4
+    },
+    {
       "id": "WhoCares",
       "name": "胡凱兒",
       "short": "胡凱兒",
@@ -159,14 +167,6 @@
       "short": "PIZZALI",
       "color": "#06d6a0",
       "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_27",
-      "name": "玖壹壹",
-      "short": "玖壹壹",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 3
     },
     {
@@ -566,6 +566,14 @@
       "name": "翁鈺鈞",
       "short": "翁鈺鈞",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "buy",
+      "name": "Bu$y",
+      "short": "Bu$y",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
     },
@@ -2058,12 +2066,12 @@
       "eventCount": 1
     },
     {
-      "id": "buy",
-      "name": "Bu$y",
-      "short": "Bu$y",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 0
+      "id": "band_qqiyec_12",
+      "name": "外星人舞團",
+      "short": "外星",
+      "color": "#ff006e",
+      "category": "團體",
+      "eventCount": 1
     },
     {
       "id": "band_6gp8um_5",
@@ -8382,6 +8390,36 @@
       "note": "［免費］\n卡司:呂允、BIDO、曾愷妤。活動時間:13:00-16:50。"
     },
     {
+      "id": "upcoming-row-376",
+      "date": "20261114",
+      "band": "band_drsiw0_27",
+      "time": "未公布",
+      "name": "嗨翻阿里港",
+      "location": "屏東縣里港鄉過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%84%89%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間：2026/11/14 19:00-22:00。卡司包含：玖壹壹、Bu$Y、外星人舞團，並有莊振凱、Willy 簡嘉彣、DJ Pani、MC 大維等演出與主持。"
+    },
+    {
+      "id": "upcoming-row-377",
+      "date": "20261114",
+      "band": "buy",
+      "time": "未公布",
+      "name": "嗨翻阿里港",
+      "location": "屏東縣里港鄉過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%84%89%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間：2026/11/14 19:00-22:00。卡司包含：玖壹壹、Bu$Y、外星人舞團，並有莊振凱、Willy 簡嘉彣、DJ Pani、MC 大維等演出與主持。"
+    },
+    {
+      "id": "upcoming-row-378",
+      "date": "20261114",
+      "band": "band_qqiyec_12",
+      "time": "未公布",
+      "name": "嗨翻阿里港",
+      "location": "屏東縣里港鄉過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%84%89%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間：2026/11/14 19:00-22:00。卡司包含：玖壹壹、Bu$Y、外星人舞團，並有莊振凱、Willy 簡嘉彣、DJ Pani、MC 大維等演出與主持。"
+    },
+    {
       "id": "upcoming-row-25",
       "date": "20261115",
       "band": "bisiugroup",
@@ -9047,6 +9085,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "79178ac3-05dc-4750-96db-8f46f848f460",
-  "updatedAt": "2026-10-15T07:07:41.075Z"
+  "revision": "b5939955-3e84-461a-8e28-6310ef5dfbfb",
+  "updatedAt": "2026-10-15T07:08:17.833Z"
 }
