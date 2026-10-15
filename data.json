@@ -2508,7 +2508,7 @@
     {
       "id": "band_maaxir_6",
       "name": "心舞台爵士樂團",
-      "short": "心舞",
+      "short": "心舞台爵士樂團",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -2516,7 +2516,7 @@
     {
       "id": "band_6u8lrj_27",
       "name": "留聲樂團",
-      "short": "留聲",
+      "short": "留聲樂團",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -2524,23 +2524,23 @@
     {
       "id": "band_drsiw0_104",
       "name": "拷秋勤",
-      "short": "拷秋",
+      "short": "拷秋勤",
       "color": "#ef476f",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
       "id": "yappy",
       "name": "Yappy",
-      "short": "Ya",
+      "short": "Yappy",
       "color": "#ffd166",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
       "id": "band_drsiw0_105",
       "name": "賈斯汀",
-      "short": "賈斯",
+      "short": "賈斯汀",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -2548,7 +2548,7 @@
     {
       "id": "band_qqiyec_14",
       "name": "山攪坂樂團",
-      "short": "山攪",
+      "short": "山攪坂樂團",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -2556,7 +2556,7 @@
     {
       "id": "band_drsiw0_106",
       "name": "王鳳珠",
-      "short": "王鳳",
+      "short": "王鳳珠",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -10149,7 +10149,7 @@
       "name": "未公布",
       "location": "未公布",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%AB%E5%BE%B7%E8%B3%87%E8%A8%8A%E5%95%86%E5%9C%88",
-      "note": "［免費］\n活動日期為 2026/11/14 - 11/15。卡司包含:東部壞男孩、甜約翰、芒果醬、怕胖團、Control T、火星混蛋。\n❑台北市八德資訊商圈❑\n活動日期包含:11/14、11/21、12/06;期間為 12/11-12/13 (周二至週四),其中 12/12 為售票日。"
+      "note": ""
     },
     {
       "id": "upcoming-row-285",
@@ -10239,7 +10239,7 @@
       "name": "未公布",
       "location": "未公布",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%AB%E5%BE%B7%E8%B3%87%E8%A8%8A%E5%95%86%E5%9C%88",
-      "note": "［免費］\n活動日期為 2026/11/14 - 11/15。卡司包含:東部壞男孩、甜約翰、芒果醬、怕胖團、Control T、火星混蛋。\n❑台北市八德資訊商圈❑\n活動日期包含:11/14、11/21、12/06;期間為 12/11-12/13 (周二至週四),其中 12/12 為售票日。"
+      "note": ""
     },
     {
       "id": "upcoming-row-29",
@@ -10249,7 +10249,7 @@
       "name": "未公布",
       "location": "未公布",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%AB%E5%BE%B7%E8%B3%87%E8%A8%8A%E5%95%86%E5%9C%88",
-      "note": "［免費］\n活動日期為 2026/11/14 - 11/15。卡司包含:東部壞男孩、甜約翰、芒果醬、怕胖團、Control T、火星混蛋。\n❑台北市八德資訊商圈❑\n活動日期包含:11/14、11/21、12/06;期間為 12/11-12/13 (周二至週四),其中 12/12 為售票日。"
+      "note": ""
     },
     {
       "id": "upcoming-row-30",
@@ -10329,7 +10329,7 @@
       "name": "未公布",
       "location": "未公布",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［未確定免費或售票］\n未公布"
+      "note": ""
     },
     {
       "id": "upcoming-row-33",
@@ -10339,7 +10339,7 @@
       "name": "未公布",
       "location": "未公布",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［未確定免費或售票］\n未公布"
+      "note": ""
     },
     {
       "id": "upcoming-row-34",
@@ -10349,7 +10349,7 @@
       "name": "未公布",
       "location": "未公布",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［未確定免費或售票］\n未公布"
+      "note": ""
     }
   ],
   "songsMap": {
@@ -10588,5 +10588,5 @@
   },
   "schemaVersion": 2,
   "revision": "faef3b3d-0e7b-4ab7-870c-967c2fa77832",
-  "updatedAt": "2026-10-15T08:01:36.841Z"
+  "updatedAt": "2026-10-15T08:04:48.499Z"
 }
