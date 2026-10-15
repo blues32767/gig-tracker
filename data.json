@@ -50,6 +50,14 @@
       "eventCount": 6
     },
     {
+      "id": "pizzali",
+      "name": "PIZZALI",
+      "short": "PIZZALI",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "icyball",
       "name": "冰球樂團",
       "short": "冰球",
@@ -78,14 +86,6 @@
       "name": "白安",
       "short": "白安",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "pizzali",
-      "name": "PIZZALI",
-      "short": "PIZZALI",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 5
     },
@@ -654,6 +654,14 @@
       "name": "蕭景鴻",
       "short": "蕭景鴻",
       "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "sabrina",
+      "name": "Sabrina 胡恂舞",
+      "short": "Sabrina 胡恂舞",
+      "color": "#8338ec",
       "category": "個人",
       "eventCount": 2
     },
@@ -2134,14 +2142,6 @@
       "name": "潤少",
       "short": "潤少",
       "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "sabrina",
-      "name": "Sabrina 胡恂舞",
-      "short": "Sabrina 胡恂舞",
-      "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
     },
@@ -9976,6 +9976,26 @@
       "note": "［免費］\n活動時間:2026/11/14 19:00-22:00。卡司包含:玖壹壹、Bu$Y、外星人舞團,並有莊振凱、Willy 簡嘉彣、DJ Pani、MC 大維等演出與主持。"
     },
     {
+      "id": "upcoming-row-512",
+      "date": "20261114",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "臺北市立中崙高中校慶晚會",
+      "location": "台北市中崙高中五樓活動中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B4%99%E9%AB%98%E4%B8%AD%E4%BA%94%E6%A8%93%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83",
+      "note": "［售票］\n卡司:Sabrina 胡恂舞、陳宇祥、INHON 胤宏、PIZZALI、Xinz、Ni!KA。主持:雨婷。活動時間為15:00入場,15:20開始。"
+    },
+    {
+      "id": "upcoming-row-513",
+      "date": "20261114",
+      "band": "pizzali",
+      "time": "未公布",
+      "name": "臺北市立中崙高中校慶晚會",
+      "location": "台北市中崙高中五樓活動中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B4%99%E9%AB%98%E4%B8%AD%E4%BA%94%E6%A8%93%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83",
+      "note": "［售票］\n卡司:Sabrina 胡恂舞、陳宇祥、INHON 胤宏、PIZZALI、Xinz、Ni!KA。主持:雨婷。活動時間為15:00入場,15:20開始。"
+    },
+    {
       "id": "upcoming-row-25",
       "date": "20261115",
       "band": "bisiugroup",
@@ -11031,6 +11051,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "a789c8a7-e054-4d7b-a18b-f46afdfa3d91",
-  "updatedAt": "2026-10-15T13:30:09.522Z"
+  "revision": "075a462b-a3aa-40c2-8e70-540769581ded",
+  "updatedAt": "2026-10-15T13:56:19.850Z"
 }
