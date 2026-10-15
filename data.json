@@ -276,7 +276,7 @@
     {
       "id": "Bestards",
       "name": "理想混蛋",
-      "short": "理想",
+      "short": "理想混蛋",
       "color": "#FF7F00",
       "category": "樂團",
       "eventCount": 2
@@ -1524,7 +1524,7 @@
     {
       "id": "band_drsiw0_65",
       "name": "林頤原",
-      "short": "林頤",
+      "short": "林頤原",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -1532,7 +1532,7 @@
     {
       "id": "band_uhxcnu",
       "name": "吳永吉與礦工兄弟",
-      "short": "吳永",
+      "short": "吳永吉與礦工兄弟",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -1540,7 +1540,7 @@
     {
       "id": "band_drsiw0_66",
       "name": "裝咖人",
-      "short": "裝咖",
+      "short": "裝咖人",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -1548,7 +1548,7 @@
     {
       "id": "band_drsiw0_67",
       "name": "卜星慧",
-      "short": "卜星",
+      "short": "卜星慧",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -1556,7 +1556,7 @@
     {
       "id": "band_mphthj",
       "name": "鳳鳴齋國樂團&法比",
-      "short": "鳳鳴",
+      "short": "鳳鳴齋國樂團&法比",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -1564,7 +1564,7 @@
     {
       "id": "silkywarmskr",
       "name": "SilkywarmS [KR]",
-      "short": "Si",
+      "short": "SilkywarmS [KR]",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -1572,7 +1572,7 @@
     {
       "id": "band_bqaniu",
       "name": "奏手候& 羅威堂 [JP]",
-      "short": "奏手",
+      "short": "奏手候& 羅威堂 [JP]",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -1580,7 +1580,7 @@
     {
       "id": "band_drsiw0_68",
       "name": "柯大堡",
-      "short": "柯大",
+      "short": "柯大堡",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -1588,7 +1588,7 @@
     {
       "id": "jhall_1",
       "name": "JHall樂團",
-      "short": "JH",
+      "short": "JHall樂團",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -1596,7 +1596,7 @@
     {
       "id": "band_drsiw0_69",
       "name": "陳勢安",
-      "short": "陳勢",
+      "short": "陳勢安",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -1604,7 +1604,7 @@
     {
       "id": "band_drsiw0_70",
       "name": "邱鋒澤",
-      "short": "邱鋒",
+      "short": "邱鋒澤",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -1612,7 +1612,7 @@
     {
       "id": "band_drsiw0_71",
       "name": "曾愷妤",
-      "short": "曾愷",
+      "short": "曾愷妤",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -1620,7 +1620,7 @@
     {
       "id": "band_drsiw0_72",
       "name": "謝語恩",
-      "short": "謝語",
+      "short": "謝語恩",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -4639,7 +4639,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。\n卡司：陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩。主持：少康。\n入場時間：優先入場 17:15，一般入場 17:45。"
     },
     {
       "id": "upcoming-row-274",
@@ -4649,7 +4649,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。\n卡司：陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩。主持：少康。\n入場時間：優先入場 17:15，一般入場 17:45。"
     },
     {
       "id": "upcoming-row-275",
@@ -4659,7 +4659,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。\n卡司：陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩。主持：少康。\n入場時間：優先入場 17:15，一般入場 17:45。"
     },
     {
       "id": "upcoming-row-276",
@@ -4669,7 +4669,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。\n卡司：陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩。主持：少康。\n入場時間：優先入場 17:15，一般入場 17:45。"
     },
     {
       "id": "upcoming-row-277",
@@ -4679,7 +4679,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。\n卡司：陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩。主持：少康。\n入場時間：優先入場 17:15，一般入場 17:45。"
     },
     {
       "id": "upcoming-row-278",
@@ -4689,7 +4689,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。\n卡司：陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩。主持：少康。\n入場時間：優先入場 17:15，一般入場 17:45。"
     },
     {
       "id": "upcoming-row-279",
@@ -4699,7 +4699,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。"
+      "note": "［免費］\n活動時間：2026年10月15日。卡司包含陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩等，並有少康擔任主持人。\n卡司：陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、曾愷妤、謝語恩。主持：少康。\n入場時間：優先入場 17:15，一般入場 17:45。"
     },
     {
       "id": "upcoming-row-49",
@@ -7647,6 +7647,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3693c444-6d7c-4c65-897f-fef7ab98b110",
-  "updatedAt": "2026-10-15T06:45:37.231Z"
+  "revision": "bf6c714d-7e36-46e5-9438-d397445d3fb0",
+  "updatedAt": "2026-10-15T06:46:12.549Z"
 }
