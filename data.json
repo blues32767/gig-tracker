@@ -362,6 +362,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_57",
+      "name": "阿跨面",
+      "short": "阿跨面",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_58",
       "name": "麋先生",
       "short": "麋先生",
@@ -1370,14 +1378,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_57",
-      "name": "阿跨面",
-      "short": "阿跨面",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_qqiyec_8",
       "name": "血肉果汁機",
       "short": "血肉果汁機",
@@ -2087,6 +2087,14 @@
       "short": "外星",
       "color": "#ff006e",
       "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "belish",
+      "name": "BELISH",
+      "short": "BE",
+      "color": "#fb5607",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -7204,10 +7212,30 @@
       "date": "20261029",
       "band": "papunband",
       "time": "未公布",
-      "name": "CR校園新聲造星計畫複賽-成大賽區",
+      "name": "《CR校園新聲造星計畫》複賽-成大賽區",
       "location": "台南市國立成功大學",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8",
-      "note": "［免費］\n卡司:怕胖團"
+      "note": "［免費］\n卡司:怕胖團\n卡司：怕胖團、阿跨面、BELISH。活動時間及入場資格等待公告。"
+    },
+    {
+      "id": "upcoming-row-384",
+      "date": "20261029",
+      "band": "band_drsiw0_57",
+      "time": "未公布",
+      "name": "《CR校園新聲造星計畫》複賽-成大賽區",
+      "location": "台南市國立成功大學",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8",
+      "note": "［免費］\n卡司:怕胖團\n卡司：怕胖團、阿跨面、BELISH。活動時間及入場資格等待公告。"
+    },
+    {
+      "id": "upcoming-row-385",
+      "date": "20261029",
+      "band": "belish",
+      "time": "未公布",
+      "name": "《CR校園新聲造星計畫》複賽-成大賽區",
+      "location": "台南市國立成功大學",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8",
+      "note": "［免費］\n卡司:怕胖團\n卡司：怕胖團、阿跨面、BELISH。活動時間及入場資格等待公告。"
     },
     {
       "id": "upcoming-row-12",
@@ -9135,6 +9163,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "f7f19c13-d4ef-41e8-a35e-c95b97b61bee",
-  "updatedAt": "2026-10-15T07:15:47.124Z"
+  "revision": "487cc4de-6c42-4dda-9927-369a4ad8c393",
+  "updatedAt": "2026-10-15T07:16:21.537Z"
 }
