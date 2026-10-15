@@ -290,6 +290,14 @@
       "eventCount": 2
     },
     {
+      "id": "fenix",
+      "name": "FEniX",
+      "short": "FEniX",
+      "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
       "id": "saturnday",
       "name": "Saturnday",
       "short": "Saturnday",
@@ -334,6 +342,22 @@
       "name": "李翊君",
       "short": "李翊君",
       "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "ozone",
+      "name": "Ozone",
+      "short": "Ozone",
+      "color": "#ffd166",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_34",
+      "name": "羅文裕",
+      "short": "羅文裕",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -778,14 +802,6 @@
       "eventCount": 1
     },
     {
-      "id": "fenix",
-      "name": "FEniX",
-      "short": "FEniX",
-      "color": "#8338ec",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "mingo",
       "name": "安芝儇 × Mingo",
       "short": "安芝儇 × Mingo",
@@ -986,26 +1002,10 @@
       "eventCount": 1
     },
     {
-      "id": "ozone",
-      "name": "Ozone",
-      "short": "Ozone",
-      "color": "#ffd166",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_33",
       "name": "韋禮安",
       "short": "韋禮安",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_34",
-      "name": "羅文裕",
-      "short": "羅文裕",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
     },
@@ -2511,6 +2511,54 @@
       "short": "心舞",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_27",
+      "name": "留聲樂團",
+      "short": "留聲",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_104",
+      "name": "拷秋勤",
+      "short": "拷秋",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "yappy",
+      "name": "Yappy",
+      "short": "Ya",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_105",
+      "name": "賈斯汀",
+      "short": "賈斯",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_14",
+      "name": "山攪坂樂團",
+      "short": "山攪",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_106",
+      "name": "王鳳珠",
+      "short": "王鳳",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -7764,6 +7812,96 @@
       "note": "［免費］\n【10/24 魅栗青春】卡司:玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人:白冰冰。\n備註:索票時間為 10/08 16:00-22:00,實名制登記限領一次,每場限索4張。"
     },
     {
+      "id": "upcoming-row-473",
+      "date": "20261024",
+      "band": "ozone",
+      "time": "未公布",
+      "name": "桃園客家音樂節",
+      "location": "桃園北區客家會館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A8",
+      "note": "［免費］\n卡司：Ozone、FEniX、羅文裕、留聲樂團、拷秋勤、Yappy、賈斯汀、山攪坂樂團、王鳳珠。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-474",
+      "date": "20261024",
+      "band": "fenix",
+      "time": "未公布",
+      "name": "桃園客家音樂節",
+      "location": "桃園北區客家會館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A8",
+      "note": "［免費］\n卡司：Ozone、FEniX、羅文裕、留聲樂團、拷秋勤、Yappy、賈斯汀、山攪坂樂團、王鳳珠。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-475",
+      "date": "20261024",
+      "band": "band_drsiw0_34",
+      "time": "未公布",
+      "name": "桃園客家音樂節",
+      "location": "桃園北區客家會館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A8",
+      "note": "［免費］\n卡司：Ozone、FEniX、羅文裕、留聲樂團、拷秋勤、Yappy、賈斯汀、山攪坂樂團、王鳳珠。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-476",
+      "date": "20261024",
+      "band": "band_6u8lrj_27",
+      "time": "未公布",
+      "name": "桃園客家音樂節",
+      "location": "桃園北區客家會館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A8",
+      "note": "［免費］\n卡司：Ozone、FEniX、羅文裕、留聲樂團、拷秋勤、Yappy、賈斯汀、山攪坂樂團、王鳳珠。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-477",
+      "date": "20261024",
+      "band": "band_drsiw0_104",
+      "time": "未公布",
+      "name": "桃園客家音樂節",
+      "location": "桃園北區客家會館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A8",
+      "note": "［免費］\n卡司：Ozone、FEniX、羅文裕、留聲樂團、拷秋勤、Yappy、賈斯汀、山攪坂樂團、王鳳珠。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-478",
+      "date": "20261024",
+      "band": "yappy",
+      "time": "未公布",
+      "name": "桃園客家音樂節",
+      "location": "桃園北區客家會館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A8",
+      "note": "［免費］\n卡司：Ozone、FEniX、羅文裕、留聲樂團、拷秋勤、Yappy、賈斯汀、山攪坂樂團、王鳳珠。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-479",
+      "date": "20261024",
+      "band": "band_drsiw0_105",
+      "time": "未公布",
+      "name": "桃園客家音樂節",
+      "location": "桃園北區客家會館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A8",
+      "note": "［免費］\n卡司：Ozone、FEniX、羅文裕、留聲樂團、拷秋勤、Yappy、賈斯汀、山攪坂樂團、王鳳珠。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-480",
+      "date": "20261024",
+      "band": "band_qqiyec_14",
+      "time": "未公布",
+      "name": "桃園客家音樂節",
+      "location": "桃園北區客家會館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A8",
+      "note": "［免費］\n卡司：Ozone、FEniX、羅文裕、留聲樂團、拷秋勤、Yappy、賈斯汀、山攪坂樂團、王鳳珠。活動日期為 2026/10/24。"
+    },
+    {
+      "id": "upcoming-row-481",
+      "date": "20261024",
+      "band": "band_drsiw0_106",
+      "time": "未公布",
+      "name": "桃園客家音樂節",
+      "location": "桃園北區客家會館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A8",
+      "note": "［免費］\n卡司：Ozone、FEniX、羅文裕、留聲樂團、拷秋勤、Yappy、賈斯汀、山攪坂樂團、王鳳珠。活動日期為 2026/10/24。"
+    },
+    {
       "id": "upcoming-row-10",
       "date": "20261025",
       "band": "papunband",
@@ -10449,6 +10587,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "de82c5b9-6439-4498-a5ee-53a2e99ed650",
-  "updatedAt": "2026-10-15T07:58:54.879Z"
+  "revision": "2b71eac0-d7da-4a7d-937e-0bafbd6e511c",
+  "updatedAt": "2026-10-15T07:59:55.546Z"
 }
