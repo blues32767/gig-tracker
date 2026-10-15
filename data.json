@@ -2506,6 +2506,14 @@
       "eventCount": 1
     },
     {
+      "id": "band_maaxir_6",
+      "name": "心舞台爵士樂團",
+      "short": "心舞",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "band_6gp8um_5",
       "name": "安吉",
       "short": "安吉",
@@ -5789,21 +5797,21 @@
       "id": "upcoming-row-83",
       "date": "20261017",
       "band": "band_6u8lrj_3",
-      "time": "未公布",
+      "time": "13:00-18:00",
       "name": "吹狗螺音樂生活節18小時2026 好伴狗狗吹狗螺音樂生活節",
       "location": "衛武營藝術村旁草地",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%A1%9B%E6%AD%A6%E7%87%9F%E8%97%9D%E8%A1%93%E6%9D%91%E6%97%81%E8%8D%89%E5%9C%B0",
-      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司:羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。具體演出時間未公布。"
+      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司:羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。具體演出時間未公布。\n活動時間為 2026/10/17 - 10/18，每日 13:00-18:00。卡司：羊駝小姐、A Tempo Quartet、心舞台爵士樂團、壓滿俱樂部。"
     },
     {
       "id": "upcoming-row-84",
       "date": "20261017",
       "band": "atempoquarte",
-      "time": "未公布",
+      "time": "13:00-18:00",
       "name": "吹狗螺音樂生活節18小時2026 好伴狗狗吹狗螺音樂生活節",
       "location": "衛武營藝術村旁草地",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%A1%9B%E6%AD%A6%E7%87%9F%E8%97%9D%E8%A1%93%E6%9D%91%E6%97%81%E8%8D%89%E5%9C%B0",
-      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司:羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。具體演出時間未公布。"
+      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司:羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。具體演出時間未公布。\n活動時間為 2026/10/17 - 10/18，每日 13:00-18:00。卡司：羊駝小姐、A Tempo Quartet、心舞台爵士樂團、壓滿俱樂部。"
     },
     {
       "id": "upcoming-row-85",
@@ -5813,17 +5821,17 @@
       "name": "吹狗螺音樂生活節18小時2026 好伴狗狗吹狗螺音樂生活節",
       "location": "衛武營藝術村旁草地",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%A1%9B%E6%AD%A6%E7%87%9F%E8%97%9D%E8%A1%93%E6%9D%91%E6%97%81%E8%8D%89%E5%9C%B0",
-      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司:羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。具體演出時間未公布。"
+      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司:羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。具體演出時間未公布。\n活動時間為 2026/10/17 - 10/18，每日 13:00-18:00。卡司：羊駝小姐、A Tempo Quartet、心舞台爵士樂團、壓滿俱樂部。"
     },
     {
       "id": "upcoming-row-86",
       "date": "20261017",
       "band": "yamonsocialc",
-      "time": "未公布",
+      "time": "13:00-18:00",
       "name": "吹狗螺音樂生活節18小時2026 好伴狗狗吹狗螺音樂生活節",
       "location": "衛武營藝術村旁草地",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%A1%9B%E6%AD%A6%E7%87%9F%E8%97%9D%E8%A1%93%E6%9D%91%E6%97%81%E8%8D%89%E5%9C%B0",
-      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司:羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。具體演出時間未公布。"
+      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司:羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。具體演出時間未公布。\n活動時間為 2026/10/17 - 10/18，每日 13:00-18:00。卡司：羊駝小姐、A Tempo Quartet、心舞台爵士樂團、壓滿俱樂部。"
     },
     {
       "id": "upcoming-row-101",
@@ -6454,6 +6462,16 @@
       "location": "南投縣草屯酷比親子運動公園旁綠地",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E8%8D%89%E5%B1%AF%E9%85%B7%E6%AF%94%E8%A6%AA%E5%AD%90%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E6%97%81%E7%B6%A0%E5%9C%B0",
       "note": "［免費］\n活動日期為 2026 年 10 月 17 日,整體活動時間約在 10:00-17:00。卡司包含 YOYO 家族、Alisa 國風樂團、八青哥等。"
+    },
+    {
+      "id": "upcoming-row-469",
+      "date": "20261017",
+      "band": "band_maaxir_6",
+      "time": "13:00-18:00",
+      "name": "吹狗螺音樂生活節18小時2026 好伴狗狗吹狗螺音樂生活節",
+      "location": "衛武營藝術村旁草地",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%A1%9B%E6%AD%A6%E7%87%9F%E8%97%9D%E8%A1%93%E6%9D%91%E6%97%81%E8%8D%89%E5%9C%B0",
+      "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司:羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。具體演出時間未公布。\n活動時間為 2026/10/17 - 10/18，每日 13:00-18:00。卡司：羊駝小姐、A Tempo Quartet、心舞台爵士樂團、壓滿俱樂部。"
     },
     {
       "id": "upcoming-row-5",
@@ -10401,6 +10419,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "46c82ca2-b4d7-432d-adc0-a8d1adb11274",
-  "updatedAt": "2026-10-15T07:52:16.986Z"
+  "revision": "dabc4361-b9db-4f0b-98a8-acaa81de7489",
+  "updatedAt": "2026-10-15T07:53:26.040Z"
 }
