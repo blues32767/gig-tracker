@@ -2514,6 +2514,14 @@
       "eventCount": 1
     },
     {
+      "id": "FireEX",
+      "name": "滅火器",
+      "short": "滅火器",
+      "color": "#C8102E",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "band_6gp8um_5",
       "name": "安吉",
       "short": "安吉",
@@ -10196,6 +10204,16 @@
       "note": "［免費］\n卡司:白安、蕭景鴻、小魏、魏嘉瑩。活動時間:17:00-18:30。"
     },
     {
+      "id": "upcoming-row-476",
+      "date": "20261212",
+      "band": "FireEX",
+      "time": "",
+      "name": "",
+      "location": "",
+      "mapLink": "",
+      "note": ""
+    },
+    {
       "id": "upcoming-row-30",
       "date": "20261213",
       "band": "mango",
@@ -10472,5 +10490,5 @@
   },
   "schemaVersion": 2,
   "revision": "17f02635-cabc-4e72-8d0e-fac898098890",
-  "updatedAt": "2026-10-15T09:33:18.553Z"
+  "updatedAt": "2026-10-15T10:16:41.305Z"
 }
