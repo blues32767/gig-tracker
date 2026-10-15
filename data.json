@@ -2594,6 +2594,94 @@
       "eventCount": 1
     },
     {
+      "id": "gary",
+      "name": "洪紹欽 Gary",
+      "short": "洪紹",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_33",
+      "name": "雷仔",
+      "short": "雷仔",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_34",
+      "name": "倚瑄",
+      "short": "倚瑄",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "aoi",
+      "name": "青虫aoi",
+      "short": "青虫",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_107",
+      "name": "陳以恆",
+      "short": "陳以",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_29",
+      "name": "海洋家族",
+      "short": "海洋",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "cjmit",
+      "name": "CJ Mit",
+      "short": "CJ",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "arase",
+      "name": "Arase阿拉斯",
+      "short": "Ar",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "achau",
+      "name": "阿超 achau",
+      "short": "阿超",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "zoomie",
+      "name": "柔米 Zoomie",
+      "short": "柔米",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_108",
+      "name": "李拾壹",
+      "short": "李拾",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "band_6gp8um_5",
       "name": "安吉",
       "short": "安吉",
@@ -10383,7 +10471,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n卡司:公館青少年、洪紹欽 Gary、雷仔、倚瑄;已公佈卡司:芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹。"
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
     },
     {
       "id": "upcoming-row-34",
@@ -10453,7 +10541,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n卡司:公館青少年、洪紹欽 Gary、雷仔、倚瑄;已公佈卡司:芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹。"
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
     },
     {
       "id": "upcoming-row-478",
@@ -10463,7 +10551,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n卡司:公館青少年、洪紹欽 Gary、雷仔、倚瑄;已公佈卡司:芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹。"
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
     },
     {
       "id": "upcoming-row-479",
@@ -10473,7 +10561,117 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n卡司:公館青少年、洪紹欽 Gary、雷仔、倚瑄;已公佈卡司:芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹。"
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+    },
+    {
+      "id": "upcoming-row-497",
+      "date": "20261212",
+      "band": "gary",
+      "time": "未公布",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+    },
+    {
+      "id": "upcoming-row-498",
+      "date": "20261212",
+      "band": "band_6gp8um_33",
+      "time": "未公布",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+    },
+    {
+      "id": "upcoming-row-499",
+      "date": "20261212",
+      "band": "band_6gp8um_34",
+      "time": "未公布",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+    },
+    {
+      "id": "upcoming-row-500",
+      "date": "20261212",
+      "band": "aoi",
+      "time": "未公布",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+    },
+    {
+      "id": "upcoming-row-501",
+      "date": "20261212",
+      "band": "band_drsiw0_107",
+      "time": "未公布",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+    },
+    {
+      "id": "upcoming-row-502",
+      "date": "20261212",
+      "band": "band_6u8lrj_29",
+      "time": "未公布",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+    },
+    {
+      "id": "upcoming-row-503",
+      "date": "20261212",
+      "band": "cjmit",
+      "time": "未公布",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+    },
+    {
+      "id": "upcoming-row-504",
+      "date": "20261212",
+      "band": "arase",
+      "time": "未公布",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+    },
+    {
+      "id": "upcoming-row-505",
+      "date": "20261212",
+      "band": "achau",
+      "time": "未公布",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+    },
+    {
+      "id": "upcoming-row-506",
+      "date": "20261212",
+      "band": "zoomie",
+      "time": "未公布",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+    },
+    {
+      "id": "upcoming-row-507",
+      "date": "20261212",
+      "band": "band_drsiw0_108",
+      "time": "未公布",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
     },
     {
       "id": "upcoming-row-30",
@@ -10483,7 +10681,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n卡司:公館青少年、洪紹欽 Gary、雷仔、倚瑄;已公佈卡司:芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹。"
+      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
     },
     {
       "id": "upcoming-row-476",
@@ -10761,6 +10959,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7ca5a28b-aedd-4619-aa21-3e8dd2d88f23",
-  "updatedAt": "2026-10-15T13:23:32.105Z"
+  "revision": "c484b886-1717-4df8-9ae2-ffed639d5d8d",
+  "updatedAt": "2026-10-15T13:25:23.765Z"
 }
