@@ -50,6 +50,22 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_1",
+      "name": "李浩瑋",
+      "short": "李浩瑋",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
+      "id": "163braces",
+      "name": "163braces",
+      "short": "163braces",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
@@ -58,26 +74,10 @@
       "eventCount": 4
     },
     {
-      "id": "band_drsiw0_1",
-      "name": "李浩瑋",
-      "short": "李浩瑋",
-      "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "band_drsiw0_2",
       "name": "派偉俊",
       "short": "派偉俊",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "163braces",
-      "name": "163braces",
-      "short": "163braces",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 3
     },
@@ -170,6 +170,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_18",
+      "name": "黃偉晉",
+      "short": "黃偉晉",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band",
       "name": "粗大Band",
       "short": "粗大Band",
@@ -206,6 +214,14 @@
       "name": "寶賤",
       "short": "寶賤",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富凱",
+      "color": "#ef476f",
       "category": "個人",
       "eventCount": 2
     },
@@ -410,14 +426,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_18",
-      "name": "黃偉晉",
-      "short": "黃偉晉",
-      "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "fenix",
       "name": "FEniX",
       "short": "FEniX",
@@ -582,14 +590,6 @@
       "name": "李炳輝",
       "short": "李炳輝",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_25",
-      "name": "許富凱",
-      "short": "許富凱",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
     },
@@ -1135,6 +1135,46 @@
       "short": "茜茜溱妮",
       "color": "#ffd166",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_17",
+      "name": "吳獻",
+      "short": "吳獻",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_54",
+      "name": "王艷薇",
+      "short": "王艷",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_55",
+      "name": "洪佩瑜",
+      "short": "洪佩",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_56",
+      "name": "魏如萱",
+      "short": "魏如",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_cltlcl",
+      "name": "GX",
+      "short": "GX",
+      "color": "#fb5607",
+      "category": "團體",
       "eventCount": 1
     }
   ],
@@ -4568,6 +4608,66 @@
       "note": "［免費］\n卡司：吳志寧、台青蕉、卜彗星樂團、MONKEYPOWER、亞立山大、fuvva、重啟二六、小麻雀樂團、茜茜溱妮"
     },
     {
+      "id": "upcoming-row-207",
+      "date": "20261017",
+      "band": "band_6gp8um_17",
+      "time": "未公布",
+      "name": "《滾草皮音樂祭》野餐我PET你",
+      "location": "台北市花博公園圓山園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8A%B1%E5%8D%9A%E5%85%AC%E5%9C%92%E5%9C%93%E5%B1%B1%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n15:25-15:55|163braces\n16:15-16:35|黃偉晉\n16:55-17:25|icyball冰球樂團\n17:45-18:25|GX(鼓鼓 呂思緯、蕭秉治)\n活動時間為 2026/10/17 - 10/18。卡司包含：吳獻、王艷薇、李浩瑋、許富凱、洪佩瑜、魏如萱 (10/17)；163braces、黃偉晉、冰球樂團、GX (呂思緯、蕭秉治) (10/18)。"
+    },
+    {
+      "id": "upcoming-row-208",
+      "date": "20261017",
+      "band": "band_drsiw0_54",
+      "time": "未公布",
+      "name": "《滾草皮音樂祭》野餐我PET你",
+      "location": "台北市花博公園圓山園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8A%B1%E5%8D%9A%E5%85%AC%E5%9C%92%E5%9C%93%E5%B1%B1%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n15:25-15:55|163braces\n16:15-16:35|黃偉晉\n16:55-17:25|icyball冰球樂團\n17:45-18:25|GX(鼓鼓 呂思緯、蕭秉治)\n活動時間為 2026/10/17 - 10/18。卡司包含：吳獻、王艷薇、李浩瑋、許富凱、洪佩瑜、魏如萱 (10/17)；163braces、黃偉晉、冰球樂團、GX (呂思緯、蕭秉治) (10/18)。"
+    },
+    {
+      "id": "upcoming-row-209",
+      "date": "20261017",
+      "band": "band_drsiw0_1",
+      "time": "未公布",
+      "name": "《滾草皮音樂祭》野餐我PET你",
+      "location": "台北市花博公園圓山園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8A%B1%E5%8D%9A%E5%85%AC%E5%9C%92%E5%9C%93%E5%B1%B1%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n15:25-15:55|163braces\n16:15-16:35|黃偉晉\n16:55-17:25|icyball冰球樂團\n17:45-18:25|GX(鼓鼓 呂思緯、蕭秉治)\n活動時間為 2026/10/17 - 10/18。卡司包含：吳獻、王艷薇、李浩瑋、許富凱、洪佩瑜、魏如萱 (10/17)；163braces、黃偉晉、冰球樂團、GX (呂思緯、蕭秉治) (10/18)。"
+    },
+    {
+      "id": "upcoming-row-210",
+      "date": "20261017",
+      "band": "band_drsiw0_25",
+      "time": "未公布",
+      "name": "《滾草皮音樂祭》野餐我PET你",
+      "location": "台北市花博公園圓山園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8A%B1%E5%8D%9A%E5%85%AC%E5%9C%92%E5%9C%93%E5%B1%B1%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n15:25-15:55|163braces\n16:15-16:35|黃偉晉\n16:55-17:25|icyball冰球樂團\n17:45-18:25|GX(鼓鼓 呂思緯、蕭秉治)\n活動時間為 2026/10/17 - 10/18。卡司包含：吳獻、王艷薇、李浩瑋、許富凱、洪佩瑜、魏如萱 (10/17)；163braces、黃偉晉、冰球樂團、GX (呂思緯、蕭秉治) (10/18)。"
+    },
+    {
+      "id": "upcoming-row-211",
+      "date": "20261017",
+      "band": "band_drsiw0_55",
+      "time": "未公布",
+      "name": "《滾草皮音樂祭》野餐我PET你",
+      "location": "台北市花博公園圓山園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8A%B1%E5%8D%9A%E5%85%AC%E5%9C%92%E5%9C%93%E5%B1%B1%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n15:25-15:55|163braces\n16:15-16:35|黃偉晉\n16:55-17:25|icyball冰球樂團\n17:45-18:25|GX(鼓鼓 呂思緯、蕭秉治)\n活動時間為 2026/10/17 - 10/18。卡司包含：吳獻、王艷薇、李浩瑋、許富凱、洪佩瑜、魏如萱 (10/17)；163braces、黃偉晉、冰球樂團、GX (呂思緯、蕭秉治) (10/18)。"
+    },
+    {
+      "id": "upcoming-row-212",
+      "date": "20261017",
+      "band": "band_drsiw0_56",
+      "time": "未公布",
+      "name": "《滾草皮音樂祭》野餐我PET你",
+      "location": "台北市花博公園圓山園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8A%B1%E5%8D%9A%E5%85%AC%E5%9C%92%E5%9C%93%E5%B1%B1%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n15:25-15:55|163braces\n16:15-16:35|黃偉晉\n16:55-17:25|icyball冰球樂團\n17:45-18:25|GX(鼓鼓 呂思緯、蕭秉治)\n活動時間為 2026/10/17 - 10/18。卡司包含：吳獻、王艷薇、李浩瑋、許富凱、洪佩瑜、魏如萱 (10/17)；163braces、黃偉晉、冰球樂團、GX (呂思緯、蕭秉治) (10/18)。"
+    },
+    {
       "id": "upcoming-row-4",
       "date": "20261018",
       "band": "papunband",
@@ -4584,8 +4684,38 @@
       "time": "16:55-17:25",
       "name": "《滾草皮音樂祭》野餐我PET你",
       "location": "台北市花博公園圓山園區",
-      "mapLink": "Yuanshan Park Area of Taipei Expo Park",
-      "note": "［免費］\n15:25-15:55|163braces\n16:15-16:35|黃偉晉\n16:55-17:25|icyball冰球樂團\n17:45-18:25|GX(鼓鼓 呂思緯、蕭秉治)"
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8A%B1%E5%8D%9A%E5%85%AC%E5%9C%92%E5%9C%93%E5%B1%B1%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n15:25-15:55|163braces\n16:15-16:35|黃偉晉\n16:55-17:25|icyball冰球樂團\n17:45-18:25|GX(鼓鼓 呂思緯、蕭秉治)\n活動時間為 2026/10/17 - 10/18。卡司包含：吳獻、王艷薇、李浩瑋、許富凱、洪佩瑜、魏如萱 (10/17)；163braces、黃偉晉、冰球樂團、GX (呂思緯、蕭秉治) (10/18)。"
+    },
+    {
+      "id": "upcoming-row-213",
+      "date": "20261018",
+      "band": "163braces",
+      "time": "未公布",
+      "name": "《滾草皮音樂祭》野餐我PET你",
+      "location": "台北市花博公園圓山園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8A%B1%E5%8D%9A%E5%85%AC%E5%9C%92%E5%9C%93%E5%B1%B1%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n15:25-15:55|163braces\n16:15-16:35|黃偉晉\n16:55-17:25|icyball冰球樂團\n17:45-18:25|GX(鼓鼓 呂思緯、蕭秉治)\n活動時間為 2026/10/17 - 10/18。卡司包含：吳獻、王艷薇、李浩瑋、許富凱、洪佩瑜、魏如萱 (10/17)；163braces、黃偉晉、冰球樂團、GX (呂思緯、蕭秉治) (10/18)。"
+    },
+    {
+      "id": "upcoming-row-214",
+      "date": "20261018",
+      "band": "band_drsiw0_18",
+      "time": "未公布",
+      "name": "《滾草皮音樂祭》野餐我PET你",
+      "location": "台北市花博公園圓山園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8A%B1%E5%8D%9A%E5%85%AC%E5%9C%92%E5%9C%93%E5%B1%B1%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n15:25-15:55|163braces\n16:15-16:35|黃偉晉\n16:55-17:25|icyball冰球樂團\n17:45-18:25|GX(鼓鼓 呂思緯、蕭秉治)\n活動時間為 2026/10/17 - 10/18。卡司包含：吳獻、王艷薇、李浩瑋、許富凱、洪佩瑜、魏如萱 (10/17)；163braces、黃偉晉、冰球樂團、GX (呂思緯、蕭秉治) (10/18)。"
+    },
+    {
+      "id": "upcoming-row-215",
+      "date": "20261018",
+      "band": "band_cltlcl",
+      "time": "未公布",
+      "name": "《滾草皮音樂祭》野餐我PET你",
+      "location": "台北市花博公園圓山園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8A%B1%E5%8D%9A%E5%85%AC%E5%9C%92%E5%9C%93%E5%B1%B1%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n15:25-15:55|163braces\n16:15-16:35|黃偉晉\n16:55-17:25|icyball冰球樂團\n17:45-18:25|GX(鼓鼓 呂思緯、蕭秉治)\n活動時間為 2026/10/17 - 10/18。卡司包含：吳獻、王艷薇、李浩瑋、許富凱、洪佩瑜、魏如萱 (10/17)；163braces、黃偉晉、冰球樂團、GX (呂思緯、蕭秉治) (10/18)。"
     },
     {
       "id": "upcoming-row-6",
@@ -6373,6 +6503,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3642a074-c9b9-423d-b12b-a3757983b5bf",
-  "updatedAt": "2026-10-15T06:22:20.555Z"
+  "revision": "d6c2545f-cf3b-4a67-9c1f-38cf5c98770e",
+  "updatedAt": "2026-10-15T06:23:12.207Z"
 }
