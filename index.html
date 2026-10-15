@@ -392,7 +392,13 @@
                 .replace(/(區|鄉|鎮|市)/g, '');
         }
 
+function isPlaceholderTitle(title) {
+            const s = normText(title);
+            return !s || s === '未公布' || s === '未公佈' || s === '未定' || s === '待公布' || s === '待定';
+        }
+
         function cleanEventTitleKey(title) {
+            if (isPlaceholderTitle(title)) return '';
             return normText(title).toLowerCase()
                 .replace(/202\d\s*(年|年度)?/g, '')
                 .replace(/\d+\s*(週年|周年|屆)/g, '')
@@ -403,9 +409,13 @@
 
         function isSameFrontendEvent(group, item) {
             if (dateKey(group.date) !== dateKey(item.date)) return false;
+            // ★ 只要任一方是「未公布 / 未定」，強制獨立成卡，絕不跟同日其他活動合併！
+            if (isPlaceholderTitle(group.name) || isPlaceholderTitle(item.name)) {
+                return isPlaceholderTitle(group.name) && isPlaceholderTitle(item.name) && group.bands.some(b => b.id === item.band);
+            }
             const vA = cleanVenueKey(group.location);
             const vB = cleanVenueKey(item.location);
-            if (vA && vB && vA.length >= 2 && vB.length >= 2 && (vA === vB || vA.includes(vB) || vB.includes(vA))) {
+            if (vA && vB && vA.length >= 3 && vB.length >= 3 && (vA === vB || vA.includes(vB) || vB.includes(vA))) {
                 return true;
             }
             const tA = cleanEventTitleKey(group.name);
