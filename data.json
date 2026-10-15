@@ -888,6 +888,86 @@
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_12",
+      "name": "厲旭",
+      "short": "厲旭",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_45",
+      "name": "梁文音",
+      "short": "梁文",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "xdinaryheroe",
+      "name": "Xdinary Heroes",
+      "short": "Xd",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "shaun",
+      "name": "SHAUN",
+      "short": "SH",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "atheart",
+      "name": "AtHeart",
+      "short": "At",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_13",
+      "name": "孝琳",
+      "short": "孝琳",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "matzka",
+      "name": "Matzka",
+      "short": "Ma",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "btob",
+      "name": "BTOB",
+      "short": "BT",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_46",
+      "name": "李彩演",
+      "short": "李彩",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "tnx",
+      "name": "TNX",
+      "short": "TN",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
     }
   ],
   "events": [
@@ -4570,6 +4650,56 @@
       "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
+      "id": "upcoming-row-169",
+      "date": "20261024",
+      "band": "band_6gp8um_12",
+      "time": "未公布",
+      "name": "花蓮韓流原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動日期為 2026/10/24（六）至 2026/10/25（日）。\n10/24 卡司：厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart。\n10/25 卡司：孝琳、Matzka、BTOB、李彩演、TNX。"
+    },
+    {
+      "id": "upcoming-row-170",
+      "date": "20261024",
+      "band": "band_drsiw0_45",
+      "time": "未公布",
+      "name": "花蓮韓流原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動日期為 2026/10/24（六）至 2026/10/25（日）。\n10/24 卡司：厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart。\n10/25 卡司：孝琳、Matzka、BTOB、李彩演、TNX。"
+    },
+    {
+      "id": "upcoming-row-171",
+      "date": "20261024",
+      "band": "xdinaryheroe",
+      "time": "未公布",
+      "name": "花蓮韓流原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動日期為 2026/10/24（六）至 2026/10/25（日）。\n10/24 卡司：厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart。\n10/25 卡司：孝琳、Matzka、BTOB、李彩演、TNX。"
+    },
+    {
+      "id": "upcoming-row-172",
+      "date": "20261024",
+      "band": "shaun",
+      "time": "未公布",
+      "name": "花蓮韓流原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動日期為 2026/10/24（六）至 2026/10/25（日）。\n10/24 卡司：厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart。\n10/25 卡司：孝琳、Matzka、BTOB、李彩演、TNX。"
+    },
+    {
+      "id": "upcoming-row-173",
+      "date": "20261024",
+      "band": "atheart",
+      "time": "未公布",
+      "name": "花蓮韓流原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動日期為 2026/10/24（六）至 2026/10/25（日）。\n10/24 卡司：厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart。\n10/25 卡司：孝琳、Matzka、BTOB、李彩演、TNX。"
+    },
+    {
       "id": "upcoming-row-8",
       "date": "20261025",
       "band": "papunband",
@@ -4598,6 +4728,56 @@
       "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。"
+    },
+    {
+      "id": "upcoming-row-174",
+      "date": "20261025",
+      "band": "band_6gp8um_13",
+      "time": "未公布",
+      "name": "花蓮韓流原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動日期為 2026/10/24（六）至 2026/10/25（日）。\n10/24 卡司：厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart。\n10/25 卡司：孝琳、Matzka、BTOB、李彩演、TNX。"
+    },
+    {
+      "id": "upcoming-row-175",
+      "date": "20261025",
+      "band": "matzka",
+      "time": "未公布",
+      "name": "花蓮韓流原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動日期為 2026/10/24（六）至 2026/10/25（日）。\n10/24 卡司：厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart。\n10/25 卡司：孝琳、Matzka、BTOB、李彩演、TNX。"
+    },
+    {
+      "id": "upcoming-row-176",
+      "date": "20261025",
+      "band": "btob",
+      "time": "未公布",
+      "name": "花蓮韓流原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動日期為 2026/10/24（六）至 2026/10/25（日）。\n10/24 卡司：厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart。\n10/25 卡司：孝琳、Matzka、BTOB、李彩演、TNX。"
+    },
+    {
+      "id": "upcoming-row-177",
+      "date": "20261025",
+      "band": "band_drsiw0_46",
+      "time": "未公布",
+      "name": "花蓮韓流原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動日期為 2026/10/24（六）至 2026/10/25（日）。\n10/24 卡司：厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart。\n10/25 卡司：孝琳、Matzka、BTOB、李彩演、TNX。"
+    },
+    {
+      "id": "upcoming-row-178",
+      "date": "20261025",
+      "band": "tnx",
+      "time": "未公布",
+      "name": "花蓮韓流原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動日期為 2026/10/24（六）至 2026/10/25（日）。\n10/24 卡司：厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart。\n10/25 卡司：孝琳、Matzka、BTOB、李彩演、TNX。"
     },
     {
       "id": "upcoming-row-9",
@@ -5745,6 +5925,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "1b0eb43a-6bf1-46ce-b9fb-dd76ee132c77",
-  "updatedAt": "2026-10-15T06:16:38.224Z"
+  "revision": "d4019810-a688-4d69-865a-299969647594",
+  "updatedAt": "2026-10-15T06:16:50.660Z"
 }
