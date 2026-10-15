@@ -10,20 +10,20 @@
       "eventCount": 58
     },
     {
+      "id": "papunband",
+      "name": "怕胖團",
+      "short": "怕胖",
+      "color": "#1d3557",
+      "category": "樂團",
+      "eventCount": 14
+    },
+    {
       "id": "gongguan",
       "name": "公館青少年",
       "short": "館青",
       "color": "#2a9d8f",
       "category": "樂團",
       "eventCount": 14
-    },
-    {
-      "id": "papunband",
-      "name": "怕胖團",
-      "short": "怕胖",
-      "color": "#1d3557",
-      "category": "樂團",
-      "eventCount": 13
     },
     {
       "id": "bisiugroup",
@@ -70,6 +70,22 @@
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
       "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "band_6gp8um_3",
+      "name": "白安",
+      "short": "白安",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "pizzali",
+      "name": "PIZZALI",
+      "short": "PIZZALI",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 5
     },
@@ -130,19 +146,11 @@
       "eventCount": 4
     },
     {
-      "id": "band_6gp8um_3",
-      "name": "白安",
-      "short": "白安",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "pizzali",
-      "name": "PIZZALI",
-      "short": "PIZZALI",
-      "color": "#06d6a0",
-      "category": "個人",
+      "id": "band",
+      "name": "粗大Band",
+      "short": "粗大Band",
+      "color": "#ef476f",
+      "category": "樂團",
       "eventCount": 4
     },
     {
@@ -159,6 +167,14 @@
       "short": "艾薇",
       "color": "#fb5607",
       "category": "個人",
+      "eventCount": 4
+    },
+    {
+      "id": "band_qqiyec_5",
+      "name": "傻子與白痴",
+      "short": "傻白",
+      "color": "#3a86ff",
+      "category": "樂團",
       "eventCount": 4
     },
     {
@@ -202,14 +218,6 @@
       "eventCount": 3
     },
     {
-      "id": "band",
-      "name": "粗大Band",
-      "short": "粗大Band",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "band_drsiw0_50",
       "name": "黃宇寒",
       "short": "黃宇寒",
@@ -218,10 +226,10 @@
       "eventCount": 3
     },
     {
-      "id": "band_qqiyec_5",
-      "name": "傻子與白痴",
-      "short": "傻白",
-      "color": "#3a86ff",
+      "id": "band_drsiw0_58",
+      "name": "麋先生",
+      "short": "麋先生",
+      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 3
     },
@@ -327,6 +335,14 @@
       "short": "梁河懸",
       "color": "#2ec4b6",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_qqiyec",
+      "name": "無妄合作社",
+      "short": "無妄合作社",
+      "color": "#ef476f",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -450,14 +466,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_58",
-      "name": "麋先生",
-      "short": "麋先生",
-      "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "band_6u8lrj_13",
       "name": "異族亡魂",
       "short": "異族亡魂",
@@ -535,6 +543,14 @@
       "short": "沈默紳士",
       "color": "#00b4d8",
       "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_qqiyec_9",
+      "name": "芒果街老爸",
+      "short": "芒果街老爸",
+      "color": "#ef476f",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -663,6 +679,14 @@
       "short": "滅火器",
       "color": "#C8102E",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_22",
+      "name": "吐司貓",
+      "short": "吐司",
+      "color": "#2ec4b6",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -895,14 +919,6 @@
       "short": "AMOW",
       "color": "#00b4d8",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_qqiyec",
-      "name": "無妄合作社",
-      "short": "無妄合作社",
-      "color": "#ef476f",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -1598,14 +1614,6 @@
       "name": "Marswalk",
       "short": "Marswalk",
       "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_qqiyec_9",
-      "name": "芒果街老爸",
-      "short": "芒果街老爸",
-      "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
     },
@@ -2519,6 +2527,70 @@
       "short": "王鳳珠",
       "color": "#8338ec",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_28",
+      "name": "老大不小",
+      "short": "老大",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "lawa",
+      "name": "LAWA",
+      "short": "LA",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "theeon",
+      "name": "THE EON永夜",
+      "short": "TH",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "lane140",
+      "name": "Lane 140.",
+      "short": "La",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "7thvegajp",
+      "name": "7thVega (JP)",
+      "short": "7t",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "brkfstblendj",
+      "name": "brkfstblend (JP)",
+      "short": "br",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "brandysenkij",
+      "name": "Brandy Senki (JP)",
+      "short": "Br",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "kardikr",
+      "name": "KARDI (KR)",
+      "short": "KA",
+      "color": "#3a86ff",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -10134,6 +10206,176 @@
       "note": ""
     },
     {
+      "id": "upcoming-row-480",
+      "date": "20261211",
+      "band": "band_drsiw0_58",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-481",
+      "date": "20261211",
+      "band": "band_qqiyec",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-482",
+      "date": "20261211",
+      "band": "band",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-483",
+      "date": "20261211",
+      "band": "papunband",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-484",
+      "date": "20261211",
+      "band": "band_qqiyec_5",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-485",
+      "date": "20261211",
+      "band": "band_qqiyec_9",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-486",
+      "date": "20261211",
+      "band": "band_drsiw0_22",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-487",
+      "date": "20261211",
+      "band": "band_6gp8um_3",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-488",
+      "date": "20261211",
+      "band": "band_6u8lrj_28",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-489",
+      "date": "20261211",
+      "band": "pizzali",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-490",
+      "date": "20261211",
+      "band": "lawa",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-491",
+      "date": "20261211",
+      "band": "theeon",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-492",
+      "date": "20261211",
+      "band": "lane140",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-493",
+      "date": "20261211",
+      "band": "7thvegajp",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-494",
+      "date": "20261211",
+      "band": "brkfstblendj",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-495",
+      "date": "20261211",
+      "band": "brandysenkij",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-496",
+      "date": "20261211",
+      "band": "kardikr",
+      "time": "未公布",
+      "name": "漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n活動日期為 2026 年 12 月 11 日至 12 月 13 日。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 及 KARDI (KR)。"
+    },
+    {
       "id": "upcoming-row-29",
       "date": "20261212",
       "band": "mango",
@@ -10519,6 +10761,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "6452a53f-e360-4829-8955-4def75dcb6a3",
-  "updatedAt": "2026-10-15T13:22:36.720Z"
+  "revision": "7ca5a28b-aedd-4619-aa21-3e8dd2d88f23",
+  "updatedAt": "2026-10-15T13:23:32.105Z"
 }
