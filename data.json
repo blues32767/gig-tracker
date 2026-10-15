@@ -210,6 +210,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_63",
+      "name": "震樂堂",
+      "short": "震樂堂",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_69",
       "name": "陳勢安",
       "short": "陳勢安",
@@ -354,6 +362,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_50",
+      "name": "黃宇寒",
+      "short": "黃宇寒",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_qqiyec_5",
       "name": "傻子與白痴",
       "short": "傻白",
@@ -426,18 +442,18 @@
       "eventCount": 2
     },
     {
-      "id": "psco",
-      "name": "P!SCO",
-      "short": "P!SCO",
-      "color": "#fb5607",
+      "id": "band_6u8lrj_14",
+      "name": "拍謝少年",
+      "short": "拍謝",
+      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_63",
-      "name": "震樂堂",
-      "short": "震樂堂",
-      "color": "#00b4d8",
+      "id": "psco",
+      "name": "P!SCO",
+      "short": "P!SCO",
+      "color": "#fb5607",
       "category": "樂團",
       "eventCount": 2
     },
@@ -1258,14 +1274,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_50",
-      "name": "黃宇寒",
-      "short": "黃宇寒",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_51",
       "name": "李子森",
       "short": "李子森",
@@ -1502,14 +1510,6 @@
       "name": "yubiori [JP]",
       "short": "yubiori [JP]",
       "color": "#8338ec",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6u8lrj_14",
-      "name": "拍謝少年",
-      "short": "拍謝",
-      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
     },
@@ -2303,6 +2303,22 @@
       "short": "萬巒",
       "color": "#06d6a0",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_94",
+      "name": "沈文程",
+      "short": "沈文",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_95",
+      "name": "劉阿昌",
+      "short": "劉阿",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -7276,6 +7292,56 @@
       "note": "［免費］\n活動時間:2026年10月24日 18:00-21:00。卡司包含宇宙人(于台煙)、袁小迪(李子森)、PALLAS(樂天女孩)及更多藝人。"
     },
     {
+      "id": "upcoming-row-430",
+      "date": "20261024",
+      "band": "band_drsiw0_94",
+      "time": "未公布",
+      "name": "走傱日南音樂演出",
+      "location": "台中市大甲區日南車站旁廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%A4%A7%E7%94%B2%E5%8D%80%E6%97%A5%E5%8D%97%E8%BB%8A%E7%AB%99%E6%97%81%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間為 17:00-21:30。卡司包含：沈文程 ft.日南小馬老師、劉阿昌 ft.打幫你樂團、震樂堂 ft.日南慈德宮哨角團、拍謝少年 ft.孟春排舞班、黃宇寒 Han。"
+    },
+    {
+      "id": "upcoming-row-431",
+      "date": "20261024",
+      "band": "band_drsiw0_95",
+      "time": "未公布",
+      "name": "走傱日南音樂演出",
+      "location": "台中市大甲區日南車站旁廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%A4%A7%E7%94%B2%E5%8D%80%E6%97%A5%E5%8D%97%E8%BB%8A%E7%AB%99%E6%97%81%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間為 17:00-21:30。卡司包含：沈文程 ft.日南小馬老師、劉阿昌 ft.打幫你樂團、震樂堂 ft.日南慈德宮哨角團、拍謝少年 ft.孟春排舞班、黃宇寒 Han。"
+    },
+    {
+      "id": "upcoming-row-432",
+      "date": "20261024",
+      "band": "band_drsiw0_63",
+      "time": "未公布",
+      "name": "走傱日南音樂演出",
+      "location": "台中市大甲區日南車站旁廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%A4%A7%E7%94%B2%E5%8D%80%E6%97%A5%E5%8D%97%E8%BB%8A%E7%AB%99%E6%97%81%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間為 17:00-21:30。卡司包含：沈文程 ft.日南小馬老師、劉阿昌 ft.打幫你樂團、震樂堂 ft.日南慈德宮哨角團、拍謝少年 ft.孟春排舞班、黃宇寒 Han。"
+    },
+    {
+      "id": "upcoming-row-433",
+      "date": "20261024",
+      "band": "band_6u8lrj_14",
+      "time": "未公布",
+      "name": "走傱日南音樂演出",
+      "location": "台中市大甲區日南車站旁廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%A4%A7%E7%94%B2%E5%8D%80%E6%97%A5%E5%8D%97%E8%BB%8A%E7%AB%99%E6%97%81%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間為 17:00-21:30。卡司包含：沈文程 ft.日南小馬老師、劉阿昌 ft.打幫你樂團、震樂堂 ft.日南慈德宮哨角團、拍謝少年 ft.孟春排舞班、黃宇寒 Han。"
+    },
+    {
+      "id": "upcoming-row-434",
+      "date": "20261024",
+      "band": "band_drsiw0_50",
+      "time": "未公布",
+      "name": "走傱日南音樂演出",
+      "location": "台中市大甲區日南車站旁廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%A4%A7%E7%94%B2%E5%8D%80%E6%97%A5%E5%8D%97%E8%BB%8A%E7%AB%99%E6%97%81%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間為 17:00-21:30。卡司包含：沈文程 ft.日南小馬老師、劉阿昌 ft.打幫你樂團、震樂堂 ft.日南慈德宮哨角團、拍謝少年 ft.孟春排舞班、黃宇寒 Han。"
+    },
+    {
       "id": "upcoming-row-10",
       "date": "20261025",
       "band": "papunband",
@@ -9811,6 +9877,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "bdae37e5-6c0a-4260-b288-374c5b071da9",
-  "updatedAt": "2026-10-15T07:27:03.928Z"
+  "revision": "bc7c274f-9447-4ab1-a192-34c74f76d04d",
+  "updatedAt": "2026-10-15T07:27:45.368Z"
 }
