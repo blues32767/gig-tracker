@@ -82,10 +82,26 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0",
+      "name": "婁峻碩",
+      "short": "婁峻碩",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_1",
       "name": "李浩瑋",
       "short": "李浩瑋",
       "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
+      "id": "band_drsiw0_2",
+      "name": "派偉俊",
+      "short": "派偉俊",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 4
     },
@@ -130,26 +146,10 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0",
-      "name": "婁峻碩",
-      "short": "婁峻碩",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "juiceboy",
       "name": "Juice Boy",
       "short": "Juice Boy",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_2",
-      "name": "派偉俊",
-      "short": "派偉俊",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 3
     },
@@ -502,6 +502,14 @@
       "name": "聖恩",
       "short": "聖恩",
       "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_25",
+      "name": "陳華",
+      "short": "陳華",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -1858,14 +1866,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6gp8um_25",
-      "name": "陳華",
-      "short": "陳華",
-      "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_75",
       "name": "呂士軒",
       "short": "呂士軒",
@@ -2167,6 +2167,30 @@
       "short": "河北",
       "color": "#ff006e",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_86",
+      "name": "告五人",
+      "short": "告五",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "minnie",
+      "name": "金米妮 MINNIE",
+      "short": "金米",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "mamamoo",
+      "name": "MAMAMOO+",
+      "short": "MA",
+      "color": "#00b4d8",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -7900,6 +7924,66 @@
       "note": "［免費］\n卡司：吳霏 FEI、林采欣 Bae、F.F.O、Kiwi姐姐莫允樂、正宇、舞荳音樂舞蹈教室。活動時間為 13:00-16:00。"
     },
     {
+      "id": "upcoming-row-402",
+      "date": "20261031",
+      "band": "band_drsiw0_86",
+      "time": "未公布",
+      "name": "傳說十週年演唱會",
+      "location": "台北市臺北大巨蛋",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B",
+      "note": "［售票］\n卡司：告五人、婁峻碩、派偉俊、陳華、金米妮 MINNIE、MAMAMOO+；主持：葉舒華、黃偉晉。"
+    },
+    {
+      "id": "upcoming-row-403",
+      "date": "20261031",
+      "band": "band_drsiw0",
+      "time": "未公布",
+      "name": "傳說十週年演唱會",
+      "location": "台北市臺北大巨蛋",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B",
+      "note": "［售票］\n卡司：告五人、婁峻碩、派偉俊、陳華、金米妮 MINNIE、MAMAMOO+；主持：葉舒華、黃偉晉。"
+    },
+    {
+      "id": "upcoming-row-404",
+      "date": "20261031",
+      "band": "band_drsiw0_2",
+      "time": "未公布",
+      "name": "傳說十週年演唱會",
+      "location": "台北市臺北大巨蛋",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B",
+      "note": "［售票］\n卡司：告五人、婁峻碩、派偉俊、陳華、金米妮 MINNIE、MAMAMOO+；主持：葉舒華、黃偉晉。"
+    },
+    {
+      "id": "upcoming-row-405",
+      "date": "20261031",
+      "band": "band_6gp8um_25",
+      "time": "未公布",
+      "name": "傳說十週年演唱會",
+      "location": "台北市臺北大巨蛋",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B",
+      "note": "［售票］\n卡司：告五人、婁峻碩、派偉俊、陳華、金米妮 MINNIE、MAMAMOO+；主持：葉舒華、黃偉晉。"
+    },
+    {
+      "id": "upcoming-row-406",
+      "date": "20261031",
+      "band": "minnie",
+      "time": "未公布",
+      "name": "傳說十週年演唱會",
+      "location": "台北市臺北大巨蛋",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B",
+      "note": "［售票］\n卡司：告五人、婁峻碩、派偉俊、陳華、金米妮 MINNIE、MAMAMOO+；主持：葉舒華、黃偉晉。"
+    },
+    {
+      "id": "upcoming-row-407",
+      "date": "20261031",
+      "band": "mamamoo",
+      "time": "未公布",
+      "name": "傳說十週年演唱會",
+      "location": "台北市臺北大巨蛋",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B",
+      "note": "［售票］\n卡司：告五人、婁峻碩、派偉俊、陳華、金米妮 MINNIE、MAMAMOO+；主持：葉舒華、黃偉晉。"
+    },
+    {
       "id": "upcoming-row-15",
       "date": "20261101",
       "band": "papunband",
@@ -9395,6 +9479,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "53512a69-5718-4c6b-9286-5f1942e35937",
-  "updatedAt": "2026-10-15T07:17:37.035Z"
+  "revision": "e0565f94-ce55-465f-8c7d-7e854aaf04be",
+  "updatedAt": "2026-10-15T07:19:14.405Z"
 }
