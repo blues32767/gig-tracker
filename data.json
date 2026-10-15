@@ -146,6 +146,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6gp8um",
+      "name": "呂允",
+      "short": "呂允",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "joyce",
       "name": "JOYCE 就以斯",
       "short": "就以斯",
@@ -280,14 +288,6 @@
       "color": "#FF7F00",
       "category": "樂團",
       "eventCount": 2
-    },
-    {
-      "id": "band_6gp8um",
-      "name": "呂允",
-      "short": "呂允",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
     },
     {
       "id": "band_6gp8um_1",
@@ -1676,7 +1676,7 @@
     {
       "id": "band_maaxir_3",
       "name": "即將成真火舞團",
-      "short": "即將",
+      "short": "即將成真火舞團",
       "color": "#fb5607",
       "category": "團體",
       "eventCount": 1
@@ -1684,7 +1684,7 @@
     {
       "id": "cicada",
       "name": "Cicada",
-      "short": "Ci",
+      "short": "Cicada",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -1692,7 +1692,7 @@
     {
       "id": "band_6u8lrj_18",
       "name": "世界之星",
-      "short": "世界",
+      "short": "世界之星",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -1700,7 +1700,7 @@
     {
       "id": "skaraoke",
       "name": "SKARAOKE",
-      "short": "SK",
+      "short": "SKARAOKE",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -1708,9 +1708,49 @@
     {
       "id": "band_6u8lrj_19",
       "name": "落日遊行",
-      "short": "落日",
+      "short": "落日遊行",
       "color": "#ef476f",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_21",
+      "name": "雷擎",
+      "short": "雷擎",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_20",
+      "name": "椅子樂團",
+      "short": "椅子",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "majin",
+      "name": "Majin",
+      "short": "Ma",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "boviyde",
+      "name": "BOVIY(DE)",
+      "short": "BO",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "sophiakenned",
+      "name": "Sophia Kennedy(DE)",
+      "short": "So",
+      "color": "#ff006e",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -6930,6 +6970,66 @@
       "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n卡司：芒果醬。日期：2026/10/31。"
     },
     {
+      "id": "upcoming-row-294",
+      "date": "20261101",
+      "band": "band_6gp8um",
+      "time": "未公布",
+      "name": "漢堡好港節",
+      "location": "高雄市高雄流行音樂中心珊瑚礁群",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%AB%98%E9%9B%84%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E7%8F%8A%E7%91%9A%E7%A4%81%E7%BE%A4",
+      "note": "［免費］\n卡司：呂允、雷擎、椅子樂團、Majin、BOVIY(DE)、Sophia Kennedy(DE)。活動時間為 15:00-21:00。"
+    },
+    {
+      "id": "upcoming-row-295",
+      "date": "20261101",
+      "band": "band_6gp8um_21",
+      "time": "未公布",
+      "name": "漢堡好港節",
+      "location": "高雄市高雄流行音樂中心珊瑚礁群",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%AB%98%E9%9B%84%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E7%8F%8A%E7%91%9A%E7%A4%81%E7%BE%A4",
+      "note": "［免費］\n卡司：呂允、雷擎、椅子樂團、Majin、BOVIY(DE)、Sophia Kennedy(DE)。活動時間為 15:00-21:00。"
+    },
+    {
+      "id": "upcoming-row-296",
+      "date": "20261101",
+      "band": "band_6u8lrj_20",
+      "time": "未公布",
+      "name": "漢堡好港節",
+      "location": "高雄市高雄流行音樂中心珊瑚礁群",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%AB%98%E9%9B%84%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E7%8F%8A%E7%91%9A%E7%A4%81%E7%BE%A4",
+      "note": "［免費］\n卡司：呂允、雷擎、椅子樂團、Majin、BOVIY(DE)、Sophia Kennedy(DE)。活動時間為 15:00-21:00。"
+    },
+    {
+      "id": "upcoming-row-297",
+      "date": "20261101",
+      "band": "majin",
+      "time": "未公布",
+      "name": "漢堡好港節",
+      "location": "高雄市高雄流行音樂中心珊瑚礁群",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%AB%98%E9%9B%84%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E7%8F%8A%E7%91%9A%E7%A4%81%E7%BE%A4",
+      "note": "［免費］\n卡司：呂允、雷擎、椅子樂團、Majin、BOVIY(DE)、Sophia Kennedy(DE)。活動時間為 15:00-21:00。"
+    },
+    {
+      "id": "upcoming-row-298",
+      "date": "20261101",
+      "band": "boviyde",
+      "time": "未公布",
+      "name": "漢堡好港節",
+      "location": "高雄市高雄流行音樂中心珊瑚礁群",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%AB%98%E9%9B%84%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E7%8F%8A%E7%91%9A%E7%A4%81%E7%BE%A4",
+      "note": "［免費］\n卡司：呂允、雷擎、椅子樂團、Majin、BOVIY(DE)、Sophia Kennedy(DE)。活動時間為 15:00-21:00。"
+    },
+    {
+      "id": "upcoming-row-299",
+      "date": "20261101",
+      "band": "sophiakenned",
+      "time": "未公布",
+      "name": "漢堡好港節",
+      "location": "高雄市高雄流行音樂中心珊瑚礁群",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%AB%98%E9%9B%84%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E7%8F%8A%E7%91%9A%E7%A4%81%E7%BE%A4",
+      "note": "［免費］\n卡司：呂允、雷擎、椅子樂團、Majin、BOVIY(DE)、Sophia Kennedy(DE)。活動時間為 15:00-21:00。"
+    },
+    {
       "id": "upcoming-row-17",
       "date": "20261107",
       "band": "mango",
@@ -7875,6 +7975,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "f03e8211-92d0-451e-ac11-1429ce1b30d5",
-  "updatedAt": "2026-10-15T06:52:18.176Z"
+  "revision": "5ab49f00-f71a-47ce-8950-55738e76bb90",
+  "updatedAt": "2026-10-15T06:53:01.642Z"
 }
