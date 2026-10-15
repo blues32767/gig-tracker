@@ -1264,6 +1264,14 @@
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_57",
+      "name": "阿跨面",
+      "short": "阿跨",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
     }
   ],
   "events": [
@@ -5449,11 +5457,11 @@
       "id": "upcoming-row-10",
       "date": "20261029",
       "band": "papunband",
-      "time": "未定",
+      "time": "未公布",
       "name": "台南 2026 CR造星計畫複賽",
       "location": "台南成功大學",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8",
-      "note": "［免費］\n免費 資訊來源:https://www.threads.com/share/HHuQYwHRZ/\n來源：https://www.threads.com/share/HHuQYwHRZ/"
+      "note": "［免費］\n免費 資訊來源:https://www.threads.com/share/HHuQYwHRZ/\n卡司：怕胖團、阿跨面。\n來源：https://www.threads.com/share/HHuQYwHRZ/"
     },
     {
       "id": "upcoming-row-159",
@@ -5504,6 +5512,16 @@
       "location": "桃園市萬能科技大學活動中心2樓",
       "mapLink": "https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
       "note": "［售票］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。"
+    },
+    {
+      "id": "upcoming-row-228",
+      "date": "20261029",
+      "band": "band_drsiw0_57",
+      "time": "未公布",
+      "name": "台南 2026 CR造星計畫複賽",
+      "location": "台南成功大學",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8",
+      "note": "［免費］\n免費 資訊來源:https://www.threads.com/share/HHuQYwHRZ/\n卡司：怕胖團、阿跨面。\n來源：https://www.threads.com/share/HHuQYwHRZ/"
     },
     {
       "id": "upcoming-row-11",
@@ -6711,6 +6729,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "a057fb5c-47dd-4da0-b71e-25759f63eba3",
-  "updatedAt": "2026-10-15T06:24:46.709Z"
+  "revision": "b9afa854-6fc1-4451-96f6-cb4f7f83a0c0",
+  "updatedAt": "2026-10-15T06:25:15.829Z"
 }
