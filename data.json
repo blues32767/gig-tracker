@@ -564,7 +564,7 @@
     {
       "id": "band_drsiw0_77",
       "name": "宇宙人",
-      "short": "宇宙",
+      "short": "宇宙人",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 2
@@ -572,7 +572,7 @@
     {
       "id": "bido",
       "name": "BIDO",
-      "short": "BI",
+      "short": "BIDO",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 2
@@ -580,7 +580,7 @@
     {
       "id": "fei",
       "name": "吳霏 FEI",
-      "short": "吳霏",
+      "short": "吳霏 FEI",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 2
@@ -588,7 +588,7 @@
     {
       "id": "band_drsiw0_85",
       "name": "蕭景鴻",
-      "short": "蕭景",
+      "short": "蕭景鴻",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 2
@@ -1892,7 +1892,7 @@
     {
       "id": "gummyb",
       "name": "Gummy B × 陳嫺靜",
-      "short": "Gu",
+      "short": "Gummy B × 陳嫺靜",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -1900,7 +1900,7 @@
     {
       "id": "flowstrong",
       "name": "Flowstrong",
-      "short": "Fl",
+      "short": "Flowstrong",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -1908,7 +1908,7 @@
     {
       "id": "band_drsiw0_76",
       "name": "聲子蟲",
-      "short": "聲子",
+      "short": "聲子蟲",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -1916,7 +1916,7 @@
     {
       "id": "thatsmyshhh",
       "name": "That's My Shhh",
-      "short": "Th",
+      "short": "That's My Shhh",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -1924,7 +1924,7 @@
     {
       "id": "kangziwonkr",
       "name": "Kangziwon(KR)",
-      "short": "Ka",
+      "short": "Kangziwon(KR)",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -1932,7 +1932,7 @@
     {
       "id": "band_drsiw0_78",
       "name": "袁小迪",
-      "short": "袁小",
+      "short": "袁小迪",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -1940,7 +1940,7 @@
     {
       "id": "pallas",
       "name": "PALLAS",
-      "short": "PA",
+      "short": "PALLAS",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -1948,7 +1948,7 @@
     {
       "id": "mongtong",
       "name": "Mong Tong",
-      "short": "Mo",
+      "short": "Mong Tong",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -1956,7 +1956,7 @@
     {
       "id": "band_drsiw0_79",
       "name": "羅美玲",
-      "short": "羅美",
+      "short": "羅美玲",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -1964,7 +1964,7 @@
     {
       "id": "band_drsiw0_80",
       "name": "葛西瓦",
-      "short": "葛西",
+      "short": "葛西瓦",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -1972,7 +1972,7 @@
     {
       "id": "ponay",
       "name": "Ponay ト耐",
-      "short": "Po",
+      "short": "Ponay ト耐",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -1980,7 +1980,7 @@
     {
       "id": "band_qqiyec_11",
       "name": "雅維・茉芮",
-      "short": "雅維",
+      "short": "雅維・茉芮",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -1988,7 +1988,7 @@
     {
       "id": "abaoft",
       "name": "ABAO阿爆 ft. 那屋瓦少女隊",
-      "short": "AB",
+      "short": "ABAO阿爆 ft. 那屋瓦少女隊",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -1996,7 +1996,7 @@
     {
       "id": "drumup",
       "name": "菲律賓 Drum Up",
-      "short": "菲律",
+      "short": "菲律賓 Drum Up",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -2004,7 +2004,7 @@
     {
       "id": "uuhai",
       "name": "蒙古 UUHAI",
-      "short": "蒙古",
+      "short": "蒙古 UUHAI",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -2012,7 +2012,7 @@
     {
       "id": "band_drsiw0_81",
       "name": "葉璦菱",
-      "short": "葉璦",
+      "short": "葉璦菱",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -2020,7 +2020,7 @@
     {
       "id": "saya",
       "name": "Saya 張惠春",
-      "short": "Sa",
+      "short": "Saya 張惠春",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -2028,7 +2028,7 @@
     {
       "id": "polin",
       "name": "柏霖 PoLin",
-      "short": "柏霖",
+      "short": "柏霖 PoLin",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -2036,7 +2036,7 @@
     {
       "id": "band_6u8lrj_21",
       "name": "北原山貓",
-      "short": "北原",
+      "short": "北原山貓",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -2044,7 +2044,7 @@
     {
       "id": "karindingkap",
       "name": "印尼 Karinding Kapaheut",
-      "short": "印尼",
+      "short": "印尼 Karinding Kapaheut",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -2052,7 +2052,7 @@
     {
       "id": "gumarasanach",
       "name": "關島 Guma' Rasan Acho Latte",
-      "short": "關島",
+      "short": "關島 Guma' Rasan Acho Latte",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -2060,7 +2060,7 @@
     {
       "id": "traego",
       "name": "粹垢TRAEGO",
-      "short": "粹垢",
+      "short": "粹垢TRAEGO",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -2068,7 +2068,7 @@
     {
       "id": "erika",
       "name": "ERIKA 劉艾立",
-      "short": "ER",
+      "short": "ERIKA 劉艾立",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -2076,7 +2076,7 @@
     {
       "id": "band_drsiw0_82",
       "name": "八三夭",
-      "short": "八三",
+      "short": "八三夭",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -2084,7 +2084,7 @@
     {
       "id": "band_drsiw0_83",
       "name": "宋德鶴",
-      "short": "宋德",
+      "short": "宋德鶴",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -2092,7 +2092,7 @@
     {
       "id": "band_drsiw0_84",
       "name": "周湯豪",
-      "short": "周湯",
+      "short": "周湯豪",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -2100,7 +2100,7 @@
     {
       "id": "band_qqiyec_12",
       "name": "外星人舞團",
-      "short": "外星",
+      "short": "外星人舞團",
       "color": "#ff006e",
       "category": "團體",
       "eventCount": 1
@@ -2108,7 +2108,7 @@
     {
       "id": "belish",
       "name": "BELISH",
-      "short": "BE",
+      "short": "BELISH",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -2116,7 +2116,7 @@
     {
       "id": "bae",
       "name": "林采欣 Bae",
-      "short": "林采",
+      "short": "林采欣 Bae",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -2124,7 +2124,7 @@
     {
       "id": "kiwi",
       "name": "Kiwi姐姐莫允樂",
-      "short": "Ki",
+      "short": "Kiwi姐姐莫允樂",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -2140,7 +2140,7 @@
     {
       "id": "band_uhxcnu_1",
       "name": "舞荳音樂舞蹈教室",
-      "short": "舞荳",
+      "short": "舞荳音樂舞蹈教室",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -2156,7 +2156,7 @@
     {
       "id": "sabrina",
       "name": "Sabrina 胡恂舞",
-      "short": "Sa",
+      "short": "Sabrina 胡恂舞",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -2164,7 +2164,7 @@
     {
       "id": "band_6u8lrj_22",
       "name": "河北彩花",
-      "short": "河北",
+      "short": "河北彩花",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -2172,7 +2172,7 @@
     {
       "id": "band_drsiw0_86",
       "name": "告五人",
-      "short": "告五",
+      "short": "告五人",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -2180,7 +2180,7 @@
     {
       "id": "minnie",
       "name": "金米妮 MINNIE",
-      "short": "金米",
+      "short": "金米妮 MINNIE",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -2188,7 +2188,7 @@
     {
       "id": "mamamoo",
       "name": "MAMAMOO+",
-      "short": "MA",
+      "short": "MAMAMOO+",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -2204,7 +2204,7 @@
     {
       "id": "band_6u8lrj_23",
       "name": "普通隊長",
-      "short": "普通",
+      "short": "普通隊長",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -2212,7 +2212,7 @@
     {
       "id": "arootfeat",
       "name": "A_Root 同根生 feat. 蔡家蓁",
-      "short": "A_",
+      "short": "A_Root 同根生 feat. 蔡家蓁",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -2228,7 +2228,7 @@
     {
       "id": "band_drsiw0_87",
       "name": "魏嘉瑩",
-      "short": "魏嘉",
+      "short": "魏嘉瑩",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -2236,7 +2236,7 @@
     {
       "id": "band_drsiw0_88",
       "name": "畢書盡",
-      "short": "畢書",
+      "short": "畢書盡",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -2244,7 +2244,7 @@
     {
       "id": "band_drsiw0_89",
       "name": "楊淨宇",
-      "short": "楊淨",
+      "short": "楊淨宇",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -2252,7 +2252,7 @@
     {
       "id": "band_drsiw0_90",
       "name": "郭書瑤",
-      "short": "郭書",
+      "short": "郭書瑤",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -2260,7 +2260,7 @@
     {
       "id": "band_drsiw0_91",
       "name": "賴銘偉",
-      "short": "賴銘",
+      "short": "賴銘偉",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -2268,7 +2268,7 @@
     {
       "id": "band_drsiw0_92",
       "name": "曹雅雯",
-      "short": "曹雅",
+      "short": "曹雅雯",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -2276,7 +2276,7 @@
     {
       "id": "band_drsiw0_93",
       "name": "陳孟賢",
-      "short": "陳孟",
+      "short": "陳孟賢",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -2284,7 +2284,7 @@
     {
       "id": "band_qqiyec_13",
       "name": "南方二重唱",
-      "short": "南方",
+      "short": "南方二重唱",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -2292,7 +2292,7 @@
     {
       "id": "band_maaxir_4",
       "name": "六堆客家文藝團",
-      "short": "六堆",
+      "short": "六堆客家文藝團",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -2300,7 +2300,7 @@
     {
       "id": "band_maaxir_5",
       "name": "萬巒鄉立幼兒園",
-      "short": "萬巒",
+      "short": "萬巒鄉立幼兒園",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -2308,7 +2308,7 @@
     {
       "id": "band_drsiw0_94",
       "name": "沈文程",
-      "short": "沈文",
+      "short": "沈文程",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -2316,7 +2316,7 @@
     {
       "id": "band_drsiw0_95",
       "name": "劉阿昌",
-      "short": "劉阿",
+      "short": "劉阿昌",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -2324,7 +2324,7 @@
     {
       "id": "nicktsai",
       "name": "Nick Tsai",
-      "short": "Ni",
+      "short": "Nick Tsai",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -2332,7 +2332,7 @@
     {
       "id": "band_6u8lrj_24",
       "name": "女作之韻",
-      "short": "女作",
+      "short": "女作之韻",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -2340,7 +2340,7 @@
     {
       "id": "mollylindjsh",
       "name": "MOLLY LIN(DJ SHOW)",
-      "short": "MO",
+      "short": "MOLLY LIN(DJ SHOW)",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -2348,7 +2348,7 @@
     {
       "id": "sufuproject",
       "name": "SUFU Project",
-      "short": "SU",
+      "short": "SUFU Project",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -2356,7 +2356,7 @@
     {
       "id": "estelleperra",
       "name": "Estelle Perrault 張婷雅",
-      "short": "Es",
+      "short": "Estelle Perrault 張婷雅",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -2364,7 +2364,7 @@
     {
       "id": "yellowsnapdj",
       "name": "YELLOW SNAP(DJ SHOW)",
-      "short": "YE",
+      "short": "YELLOW SNAP(DJ SHOW)",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -2372,7 +2372,7 @@
     {
       "id": "band_drsiw0_96",
       "name": "艾怡良",
-      "short": "艾怡",
+      "short": "艾怡良",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -2380,7 +2380,7 @@
     {
       "id": "sonnie",
       "name": "SONNIE 桑尼",
-      "short": "SO",
+      "short": "SONNIE 桑尼",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -2388,7 +2388,7 @@
     {
       "id": "band_drsiw0_97",
       "name": "守夜人",
-      "short": "守夜",
+      "short": "守夜人",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -2396,7 +2396,7 @@
     {
       "id": "band_6u8lrj_25",
       "name": "夕陽武士",
-      "short": "夕陽",
+      "short": "夕陽武士",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -2404,7 +2404,7 @@
     {
       "id": "band_6u8lrj_26",
       "name": "閃閃閃閃",
-      "short": "閃閃",
+      "short": "閃閃閃閃",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -2428,7 +2428,7 @@
     {
       "id": "band_drsiw0_98",
       "name": "吳宗憲",
-      "short": "吳宗",
+      "short": "吳宗憲",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -2436,7 +2436,7 @@
     {
       "id": "band_drsiw0_99",
       "name": "張涵雅",
-      "short": "張涵",
+      "short": "張涵雅",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -2444,7 +2444,7 @@
     {
       "id": "band_drsiw0_100",
       "name": "黃連煜",
-      "short": "黃連",
+      "short": "黃連煜",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -2452,7 +2452,7 @@
     {
       "id": "band_drsiw0_101",
       "name": "台一線",
-      "short": "台一",
+      "short": "台一線",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -2460,7 +2460,7 @@
     {
       "id": "band_drsiw0_102",
       "name": "陳思瑋",
-      "short": "陳思",
+      "short": "陳思瑋",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -2468,7 +2468,7 @@
     {
       "id": "band_drsiw0_103",
       "name": "蔡亞露",
-      "short": "蔡亞",
+      "short": "蔡亞露",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -2476,7 +2476,7 @@
     {
       "id": "band_e6ychs",
       "name": "寶弟(葛兆恩)",
-      "short": "寶弟",
+      "short": "寶弟(葛兆恩)",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -2484,7 +2484,7 @@
     {
       "id": "band_ioh2wr",
       "name": "林福臨 & 張詠婕",
-      "short": "林福",
+      "short": "林福臨 & 張詠婕",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -2492,7 +2492,7 @@
     {
       "id": "givemefive",
       "name": "Give me five少女隊",
-      "short": "Gi",
+      "short": "Give me five少女隊",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -2540,7 +2540,7 @@
     {
       "id": "163braces_1",
       "name": "163 braces",
-      "short": "16",
+      "short": "163 braces",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 0
@@ -5503,7 +5503,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。\n入場時間:優先入場 17:15,一般入場 17:45。"
+      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。"
     },
     {
       "id": "upcoming-row-274",
@@ -5513,7 +5513,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。\n入場時間:優先入場 17:15,一般入場 17:45。"
+      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。"
     },
     {
       "id": "upcoming-row-275",
@@ -5523,7 +5523,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。\n入場時間:優先入場 17:15,一般入場 17:45。"
+      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。"
     },
     {
       "id": "upcoming-row-276",
@@ -5533,7 +5533,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。\n入場時間:優先入場 17:15,一般入場 17:45。"
+      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。"
     },
     {
       "id": "upcoming-row-277",
@@ -5543,7 +5543,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。\n入場時間:優先入場 17:15,一般入場 17:45。"
+      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。"
     },
     {
       "id": "upcoming-row-278",
@@ -5553,7 +5553,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。\n入場時間:優先入場 17:15,一般入場 17:45。"
+      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。"
     },
     {
       "id": "upcoming-row-279",
@@ -5563,7 +5563,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。\n入場時間:優先入場 17:15,一般入場 17:45。"
+      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。"
     },
     {
       "id": "upcoming-row-383",
@@ -5573,7 +5573,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。\n入場時間:優先入場 17:15,一般入場 17:45。"
+      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。"
     },
     {
       "id": "upcoming-row-468",
@@ -5583,7 +5583,7 @@
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%B8%82%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8",
-      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。\n入場時間:優先入場 17:15,一般入場 17:45。"
+      "note": "［免費］\n卡司:陳勢安、婁峻碩、艾薇 Ivy、邱鋒澤、TRASH、BIDO、曾愷妤、樂樂、謝語恩。入場時間:優先入場 17:15-17:45,一般入場 17:45。"
     },
     {
       "id": "upcoming-row-49",
@@ -7013,7 +7013,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-71",
@@ -7093,7 +7093,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-88",
@@ -7103,7 +7103,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-89",
@@ -7113,7 +7113,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-90",
@@ -7123,7 +7123,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-91",
@@ -7133,7 +7133,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-92",
@@ -7143,7 +7143,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-93",
@@ -7153,7 +7153,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-94",
@@ -7163,7 +7163,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-95",
@@ -7173,7 +7173,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-96",
@@ -7183,7 +7183,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-97",
@@ -7193,7 +7193,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-98",
@@ -7323,7 +7323,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-156",
@@ -7333,7 +7333,7 @@
       "name": "ATT FUN 肆音樂節",
       "location": "台北市ATT 4 FUN 1F東側廣場",
       "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
-      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n卡司：梁河懸、無妄合作社、怕胖團、ARKis、F.F.O、Saturnday、呂植宇、HowZ、禾羽、慶記KTV－羅曼迪克、AMOW。熱舞主持：聖恩。\n來源：https://www.threads.com/share/D2Bzq4dri/"
+      "note": "［免費］\n活動時間表:Saturnday (14:00-14:25) -> LCY 呂植宇 (14:30-14:55) -> ARKis (15:00-15:25) -> F.F.O (15:30-15:55) -> 禾羽 Kimi (16:00-16:25) -> How Z (16:30-16:55) -> DJ BBOMI (17:00-18:00) -> AMOW (18:00-18:30) -> 梁河懸 (19:20-20:00) -> 無妄合作社 (20:20-21:00) -> 怕胖團 (21:20-22:00) -> 慶記KTV 羅曼迪克 (22:00-23:00)。主持人:聖恩。\n❑台北市ATT4FUN1F東側廣場❑\n活動日期:2026/10/24 (周五),時間為 14:00-23:00。主持:聖恩。\n活動時間:2026/10/24 PM14:00開始。\n來源：https://www.threads.com/share/D2Bzq4dri/"
     },
     {
       "id": "upcoming-row-157",
@@ -10401,6 +10401,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "2b4ed393-298a-40d7-acf5-5b2bd3c1c5a4",
-  "updatedAt": "2026-10-15T07:42:18.347Z"
+  "revision": "f408857f-2a18-43e7-ba15-c4da4d5b6a0d",
+  "updatedAt": "2026-10-15T07:46:33.402Z"
 }
