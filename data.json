@@ -98,6 +98,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_6gp8um",
+      "name": "呂允",
+      "short": "呂允",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "juiceboy",
       "name": "Juice Boy",
       "short": "Juice Boy",
@@ -146,11 +154,11 @@
       "eventCount": 2
     },
     {
-      "id": "band_6gp8um",
-      "name": "呂允",
-      "short": "呂允",
-      "color": "#00b4d8",
-      "category": "個人",
+      "id": "band_6u8lrj_1",
+      "name": "南西肯恩",
+      "short": "南西肯恩",
+      "color": "#118ab2",
+      "category": "團體",
       "eventCount": 2
     },
     {
@@ -423,14 +431,6 @@
       "short": "溫蒂漫步",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6u8lrj_1",
-      "name": "南西肯恩",
-      "short": "南西肯恩",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 1
     },
     {
@@ -1694,7 +1694,7 @@
       "name": "世界之星",
       "short": "世界之星",
       "color": "#00b4d8",
-      "category": "個人",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -1710,7 +1710,7 @@
       "name": "落日遊行",
       "short": "落日遊行",
       "color": "#ef476f",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -1724,7 +1724,7 @@
     {
       "id": "band_6u8lrj_20",
       "name": "椅子樂團",
-      "short": "椅子",
+      "short": "椅子樂團",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -1732,7 +1732,7 @@
     {
       "id": "majin",
       "name": "Majin",
-      "short": "Ma",
+      "short": "Majin",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -1740,7 +1740,7 @@
     {
       "id": "boviyde",
       "name": "BOVIY(DE)",
-      "short": "BO",
+      "short": "BOVIY(DE)",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -1748,9 +1748,41 @@
     {
       "id": "sophiakenned",
       "name": "Sophia Kennedy(DE)",
-      "short": "So",
+      "short": "Sophia Kennedy(DE)",
       "color": "#ff006e",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_22",
+      "name": "洋蔥",
+      "short": "洋蔥",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_23",
+      "name": "翁祥",
+      "short": "翁祥",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "sinby",
+      "name": "欣菲 Sinby",
+      "short": "欣菲",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_24",
+      "name": "聖恩",
+      "short": "聖恩",
+      "color": "#2ec4b6",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -7395,9 +7427,9 @@
       "band": "band_drsiw0_27",
       "time": "未公布",
       "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
-      "location": "雲林虎尾科大第一校區大草坪",
+      "location": "雲林縣虎尾科大第一校區大草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
-      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。"
+      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。\n卡司：玖壹壹、洋蔥、派偉俊、呂允、TRASH、南西肯恩、翁祥、PIZZALI、欣菲 Sinby、聖恩。活動時間為 18:00-21:00，進場時間為 17:45。"
     },
     {
       "id": "upcoming-row-146",
@@ -7405,9 +7437,9 @@
       "band": "trash",
       "time": "未公布",
       "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
-      "location": "雲林虎尾科大第一校區大草坪",
+      "location": "雲林縣虎尾科大第一校區大草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
-      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。"
+      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。\n卡司：玖壹壹、洋蔥、派偉俊、呂允、TRASH、南西肯恩、翁祥、PIZZALI、欣菲 Sinby、聖恩。活動時間為 18:00-21:00，進場時間為 17:45。"
     },
     {
       "id": "upcoming-row-147",
@@ -7415,9 +7447,9 @@
       "band": "band_drsiw0_2",
       "time": "未公布",
       "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
-      "location": "雲林虎尾科大第一校區大草坪",
+      "location": "雲林縣虎尾科大第一校區大草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
-      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。"
+      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。\n卡司：玖壹壹、洋蔥、派偉俊、呂允、TRASH、南西肯恩、翁祥、PIZZALI、欣菲 Sinby、聖恩。活動時間為 18:00-21:00，進場時間為 17:45。"
     },
     {
       "id": "upcoming-row-148",
@@ -7425,9 +7457,69 @@
       "band": "pizzali",
       "time": "未公布",
       "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
-      "location": "雲林虎尾科大第一校區大草坪",
+      "location": "雲林縣虎尾科大第一校區大草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
-      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。"
+      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。\n卡司：玖壹壹、洋蔥、派偉俊、呂允、TRASH、南西肯恩、翁祥、PIZZALI、欣菲 Sinby、聖恩。活動時間為 18:00-21:00，進場時間為 17:45。"
+    },
+    {
+      "id": "upcoming-row-300",
+      "date": "20261120",
+      "band": "band_6gp8um_22",
+      "time": "未公布",
+      "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
+      "location": "雲林縣虎尾科大第一校區大草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。\n卡司：玖壹壹、洋蔥、派偉俊、呂允、TRASH、南西肯恩、翁祥、PIZZALI、欣菲 Sinby、聖恩。活動時間為 18:00-21:00，進場時間為 17:45。"
+    },
+    {
+      "id": "upcoming-row-301",
+      "date": "20261120",
+      "band": "band_6gp8um",
+      "time": "未公布",
+      "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
+      "location": "雲林縣虎尾科大第一校區大草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。\n卡司：玖壹壹、洋蔥、派偉俊、呂允、TRASH、南西肯恩、翁祥、PIZZALI、欣菲 Sinby、聖恩。活動時間為 18:00-21:00，進場時間為 17:45。"
+    },
+    {
+      "id": "upcoming-row-302",
+      "date": "20261120",
+      "band": "band_6u8lrj_1",
+      "time": "未公布",
+      "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
+      "location": "雲林縣虎尾科大第一校區大草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。\n卡司：玖壹壹、洋蔥、派偉俊、呂允、TRASH、南西肯恩、翁祥、PIZZALI、欣菲 Sinby、聖恩。活動時間為 18:00-21:00，進場時間為 17:45。"
+    },
+    {
+      "id": "upcoming-row-303",
+      "date": "20261120",
+      "band": "band_6gp8um_23",
+      "time": "未公布",
+      "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
+      "location": "雲林縣虎尾科大第一校區大草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。\n卡司：玖壹壹、洋蔥、派偉俊、呂允、TRASH、南西肯恩、翁祥、PIZZALI、欣菲 Sinby、聖恩。活動時間為 18:00-21:00，進場時間為 17:45。"
+    },
+    {
+      "id": "upcoming-row-304",
+      "date": "20261120",
+      "band": "sinby",
+      "time": "未公布",
+      "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
+      "location": "雲林縣虎尾科大第一校區大草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。\n卡司：玖壹壹、洋蔥、派偉俊、呂允、TRASH、南西肯恩、翁祥、PIZZALI、欣菲 Sinby、聖恩。活動時間為 18:00-21:00，進場時間為 17:45。"
+    },
+    {
+      "id": "upcoming-row-305",
+      "date": "20261120",
+      "band": "band_6gp8um_24",
+      "time": "未公布",
+      "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
+      "location": "雲林縣虎尾科大第一校區大草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%99%8E%E5%B0%BE%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。\n卡司：玖壹壹、洋蔥、派偉俊、呂允、TRASH、南西肯恩、翁祥、PIZZALI、欣菲 Sinby、聖恩。活動時間為 18:00-21:00，進場時間為 17:45。"
     },
     {
       "id": "upcoming-row-40",
@@ -7975,6 +8067,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "5ab49f00-f71a-47ce-8950-55738e76bb90",
-  "updatedAt": "2026-10-15T06:53:01.642Z"
+  "revision": "036fc7cc-7bec-4fe0-afb3-50a53c21a5d4",
+  "updatedAt": "2026-10-15T06:53:47.627Z"
 }
