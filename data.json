@@ -74,19 +74,19 @@
       "eventCount": 4
     },
     {
-      "id": "band_drsiw0_2",
-      "name": "派偉俊",
-      "short": "派偉俊",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "band_drsiw0_17",
       "name": "甜約翰",
       "short": "甜約翰",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "band_drsiw0_2",
+      "name": "派偉俊",
+      "short": "派偉俊",
+      "color": "#06d6a0",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -246,6 +246,14 @@
       "name": "脆樂團",
       "short": "脆樂團",
       "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_maaxir_1",
+      "name": "康士坦的變化球",
+      "short": "康士坦",
+      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 2
     },
@@ -1186,14 +1194,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_maaxir_1",
-      "name": "康士坦的變化球",
-      "short": "康士坦",
-      "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_qqiyec_6",
       "name": "銅好重奏團",
       "short": "銅好重奏團",
@@ -1222,7 +1222,7 @@
       "name": "HAKU",
       "short": "HAKU",
       "color": "#118ab2",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -1230,7 +1230,7 @@
       "name": "安妮塔克",
       "short": "安妮塔克",
       "color": "#8338ec",
-      "category": "個人",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -1254,7 +1254,7 @@
       "name": "太巴塑天藝文化藝術團",
       "short": "太巴塑天藝文化藝術團",
       "color": "#3a86ff",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -1390,6 +1390,174 @@
       "name": "yubiori [JP]",
       "short": "yu",
       "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_14",
+      "name": "拍謝少年",
+      "short": "拍謝",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "psco",
+      "name": "P!SCO",
+      "short": "P!",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_62",
+      "name": "碎紙花",
+      "short": "碎紙",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_63",
+      "name": "震樂堂",
+      "short": "震樂",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "durdnjp",
+      "name": "DURDN [JP]",
+      "short": "DU",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "catchtheyoun",
+      "name": "CATCH THE YOUNG (캐치더영) [KR]",
+      "short": "CA",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "hue",
+      "name": "hue",
+      "short": "hu",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_19",
+      "name": "薄暮",
+      "short": "薄暮",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "slapkissth",
+      "name": "Slapkiss [TH]",
+      "short": "Sl",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_64",
+      "name": "凹與山",
+      "short": "凹與",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_lilbmt",
+      "name": "ぜんぶ君のせいだ。[JP]",
+      "short": "ぜん",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_15",
+      "name": "擊沈女孩",
+      "short": "擊沈",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ohan",
+      "name": "OHAN",
+      "short": "OH",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_16",
+      "name": "沈默紳士",
+      "short": "沈默",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "marswalk",
+      "name": "Marswalk",
+      "short": "Ma",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_9",
+      "name": "芒果街老爸",
+      "short": "芒果",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "borome",
+      "name": "波羅密 ボロメ Borome",
+      "short": "波羅",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_17",
+      "name": "應聲倒地",
+      "short": "應聲",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_20",
+      "name": "烈鷹",
+      "short": "烈鷹",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ugoslabierth",
+      "name": "UGOSLABIER [TH]",
+      "short": "UG",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir_2",
+      "name": "好大一把勇者劍",
+      "short": "好大",
+      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
     },
@@ -5659,7 +5827,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-14",
@@ -5789,7 +5957,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-229",
@@ -5799,7 +5967,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-230",
@@ -5809,7 +5977,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-231",
@@ -5819,7 +5987,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-232",
@@ -5829,7 +5997,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-233",
@@ -5839,7 +6007,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-234",
@@ -5849,7 +6017,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-235",
@@ -5859,7 +6027,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-236",
@@ -5869,7 +6037,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-237",
@@ -5879,7 +6047,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-238",
@@ -5889,7 +6057,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-239",
@@ -5899,7 +6067,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-240",
@@ -5909,7 +6077,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-241",
@@ -5919,7 +6087,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-242",
@@ -5929,7 +6097,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-243",
@@ -5939,7 +6107,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-244",
@@ -5949,7 +6117,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-245",
@@ -5959,7 +6127,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-246",
@@ -5969,7 +6137,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-247",
@@ -5979,7 +6147,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-12",
@@ -5989,7 +6157,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-15",
@@ -6019,7 +6187,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "臺中文心森林公園與圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-71",
@@ -6110,6 +6278,236 @@
       "location": "花蓮縣富里鄉天使之眼大草原",
       "mapLink": "https://maps.app.goo.gl/aGADzpjGPunTSK576",
       "note": "［免費］\n━━━━【11/01】━━━━\n11/01 林希子 x URBAN BAND (14:00-14:30) -> VH (14:40-15:20) -> U:NUS (15:30-15:50) -> 芒果醬 (16:00-16:40) -> Ozone (16:50-17:15) -> 怕胖團 (17:30-18:00)。\n🔥 芒果醬 Mango Jump|16:00-16:40\n時間表:https://www.threads.com/share/GqCZYeyBI/\n貼文:https://www.facebook.com/100064452321544/posts/1528275889330807/?app=fbl\n活動時間表:10/31 曾瑋中 (14:55-15:20) -> 伍浩哲 (15:20-15:45) -> 翁立友 (15:45-16:10) -> 施文彬 (16:10-16:35) -> 李翊君 (16:35-17:00)。\n活動時間:2026/10/31至2026/11/01。卡司包含曾瑋中、伍浩哲、翁立友、施文彬、李翊君、林希子 x URBAN BAND、VH、U:NUS、芒果醬、Ozone、怕胖團等。"
+    },
+    {
+      "id": "upcoming-row-248",
+      "date": "20261101",
+      "band": "band_6u8lrj_14",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-249",
+      "date": "20261101",
+      "band": "band_drsiw0_17",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-250",
+      "date": "20261101",
+      "band": "band_maaxir_1",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-251",
+      "date": "20261101",
+      "band": "psco",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-252",
+      "date": "20261101",
+      "band": "band_drsiw0_62",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-253",
+      "date": "20261101",
+      "band": "band_drsiw0_63",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-254",
+      "date": "20261101",
+      "band": "durdnjp",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-255",
+      "date": "20261101",
+      "band": "catchtheyoun",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-256",
+      "date": "20261101",
+      "band": "hue",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-257",
+      "date": "20261101",
+      "band": "band_6gp8um_19",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-258",
+      "date": "20261101",
+      "band": "slapkissth",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-259",
+      "date": "20261101",
+      "band": "band_drsiw0_64",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-260",
+      "date": "20261101",
+      "band": "band_lilbmt",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-261",
+      "date": "20261101",
+      "band": "band_6u8lrj_15",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-262",
+      "date": "20261101",
+      "band": "ohan",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-263",
+      "date": "20261101",
+      "band": "band_6u8lrj_16",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-264",
+      "date": "20261101",
+      "band": "marswalk",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-265",
+      "date": "20261101",
+      "band": "band_qqiyec_9",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-266",
+      "date": "20261101",
+      "band": "borome",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-267",
+      "date": "20261101",
+      "band": "band_6u8lrj_17",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-268",
+      "date": "20261101",
+      "band": "band_6gp8um_20",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-269",
+      "date": "20261101",
+      "band": "ugoslabierth",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
+    },
+    {
+      "id": "upcoming-row-270",
+      "date": "20261101",
+      "band": "band_maaxir_2",
+      "time": "未公布",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "臺中文心森林公園與圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括：麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容：ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。\n活動包含多日演出，主要卡司包括：冰球樂團、拍謝少年、甜約翰、康士坦的變化球、公館青少年、P!SCO、碎紙花、震樂堂、DURDN [JP]、CATCH THE YOUNG (캐치더영) [KR]、hue、薄暮、Slapkiss [TH]、凹與山、ぜんぶ君のせいだ。[JP]、擊沈女孩、OHAN、沈默紳士、Marswalk、芒果街老爸、波羅密 ボロメ Borome、應聲倒地、烈鷹、UGOSLABIER [TH]、好大一把勇者劍。演出日期包含 2026/9/26 與 11/01，個別藝人時間未公布。"
     },
     {
       "id": "upcoming-row-17",
@@ -7047,6 +7445,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "754f87ea-fb3d-46a6-8451-dd58da2bac4d",
-  "updatedAt": "2026-10-15T06:27:01.170Z"
+  "revision": "81c0b725-98d2-4611-9f16-6fa6ecb27cf9",
+  "updatedAt": "2026-10-15T06:28:02.466Z"
 }
