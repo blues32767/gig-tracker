@@ -122,6 +122,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_6gp8um_3",
+      "name": "白安",
+      "short": "白安",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "pizzali",
       "name": "PIZZALI",
       "short": "PIZZALI",
@@ -159,14 +167,6 @@
       "short": "F.F.O",
       "color": "#00b4d8",
       "category": "團體",
-      "eventCount": 3
-    },
-    {
-      "id": "band_6gp8um_3",
-      "name": "白安",
-      "short": "白安",
-      "color": "#00b4d8",
-      "category": "個人",
       "eventCount": 3
     },
     {
@@ -542,6 +542,14 @@
       "name": "吳霏 FEI",
       "short": "吳霏",
       "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_85",
+      "name": "蕭景鴻",
+      "short": "蕭景",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 2
     },
@@ -2138,14 +2146,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_85",
-      "name": "蕭景鴻",
-      "short": "蕭景",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_6gp8um_27",
       "name": "潤少",
       "short": "潤少",
@@ -2215,6 +2215,22 @@
       "short": "A_",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_29",
+      "name": "小魏",
+      "short": "小魏",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_87",
+      "name": "魏嘉瑩",
+      "short": "魏嘉",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -9288,6 +9304,46 @@
       "note": "［免費］\n表演日期未定\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
     },
     {
+      "id": "upcoming-row-414",
+      "date": "20261212",
+      "band": "band_6gp8um_3",
+      "time": "17:00-18:30",
+      "name": "《tigerrun》賽後表演",
+      "location": "台北市大佳河濱公園行動巨蛋廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92%E8%A1%8C%E5%8B%95%E5%B7%A8%E8%9B%8B%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：白安、蕭景鴻、小魏、魏嘉瑩。活動時間：17:00-18:30。"
+    },
+    {
+      "id": "upcoming-row-415",
+      "date": "20261212",
+      "band": "band_drsiw0_85",
+      "time": "17:00-18:30",
+      "name": "《tigerrun》賽後表演",
+      "location": "台北市大佳河濱公園行動巨蛋廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92%E8%A1%8C%E5%8B%95%E5%B7%A8%E8%9B%8B%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：白安、蕭景鴻、小魏、魏嘉瑩。活動時間：17:00-18:30。"
+    },
+    {
+      "id": "upcoming-row-416",
+      "date": "20261212",
+      "band": "band_6gp8um_29",
+      "time": "17:00-18:30",
+      "name": "《tigerrun》賽後表演",
+      "location": "台北市大佳河濱公園行動巨蛋廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92%E8%A1%8C%E5%8B%95%E5%B7%A8%E8%9B%8B%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：白安、蕭景鴻、小魏、魏嘉瑩。活動時間：17:00-18:30。"
+    },
+    {
+      "id": "upcoming-row-417",
+      "date": "20261212",
+      "band": "band_drsiw0_87",
+      "time": "17:00-18:30",
+      "name": "《tigerrun》賽後表演",
+      "location": "台北市大佳河濱公園行動巨蛋廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92%E8%A1%8C%E5%8B%95%E5%B7%A8%E8%9B%8B%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：白安、蕭景鴻、小魏、魏嘉瑩。活動時間：17:00-18:30。"
+    },
+    {
       "id": "upcoming-row-31",
       "date": "20261213",
       "band": "mango",
@@ -9563,6 +9619,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "1c7565ca-e00b-463b-87ec-4aec35b11341",
-  "updatedAt": "2026-10-15T07:22:20.693Z"
+  "revision": "18aaec6d-f00f-44cd-8d6e-9bf1b2ecd975",
+  "updatedAt": "2026-10-15T07:22:58.353Z"
 }
