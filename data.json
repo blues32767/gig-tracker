@@ -50,6 +50,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_6gp8um",
+      "name": "呂允",
+      "short": "呂允",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
@@ -70,14 +78,6 @@
       "name": "盧廣仲",
       "short": "盧廣仲",
       "color": "#36cc00",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "band_6gp8um",
-      "name": "呂允",
-      "short": "呂允",
-      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 4
     },
@@ -319,6 +319,14 @@
       "short": "理想混蛋",
       "color": "#FF7F00",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_71",
+      "name": "曾愷妤",
+      "short": "曾愷妤",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -1610,14 +1618,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_71",
-      "name": "曾愷妤",
-      "short": "曾愷妤",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_72",
       "name": "謝語恩",
       "short": "謝語恩",
@@ -2007,6 +2007,14 @@
       "short": "關島",
       "color": "#00b4d8",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "bido",
+      "name": "BIDO",
+      "short": "BI",
+      "color": "#2ec4b6",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -8034,6 +8042,36 @@
       "note": "［免費］\n芒果醬可能是11/14\n樂團活動日期未定:2026 年 11 月 14 日-11 月 15 日\n活動日期為 2026/11/14 - 11/15。卡司包含:東部壞男孩、甜約翰、芒果醬、怕胖團、Control T、火星混蛋。\n❑台北市八德資訊商圈❑\n活動日期包含:11/14、11/21、12/06;期間為 12/11-12/13 (周二至週四),其中 12/12 為售票日。"
     },
     {
+      "id": "upcoming-row-346",
+      "date": "20261114",
+      "band": "band_6gp8um",
+      "time": "未公布",
+      "name": "青春探索樂園",
+      "location": "桃園市銀河廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E9%8A%80%E6%B2%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：呂允、BIDO、曾愷妤。活動時間：13:00-16:50。"
+    },
+    {
+      "id": "upcoming-row-347",
+      "date": "20261114",
+      "band": "bido",
+      "time": "未公布",
+      "name": "青春探索樂園",
+      "location": "桃園市銀河廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E9%8A%80%E6%B2%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：呂允、BIDO、曾愷妤。活動時間：13:00-16:50。"
+    },
+    {
+      "id": "upcoming-row-348",
+      "date": "20261114",
+      "band": "band_drsiw0_71",
+      "time": "未公布",
+      "name": "青春探索樂園",
+      "location": "桃園市銀河廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E9%8A%80%E6%B2%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司：呂允、BIDO、曾愷妤。活動時間：13:00-16:50。"
+    },
+    {
       "id": "upcoming-row-25",
       "date": "20261115",
       "band": "bisiugroup",
@@ -8699,6 +8737,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "6538795c-a0a5-4852-9a9a-1b2d679d5f42",
-  "updatedAt": "2026-10-15T07:03:26.805Z"
+  "revision": "7a03b234-0a0c-44c1-9076-42fe02697cc6",
+  "updatedAt": "2026-10-15T07:04:11.559Z"
 }
