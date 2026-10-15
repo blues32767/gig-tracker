@@ -98,6 +98,22 @@
       "eventCount": 4
     },
     {
+      "id": "band_6u8lrj_2",
+      "name": "溫室雜草",
+      "short": "溫室雜草",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "WhoCares",
+      "name": "胡凱兒",
+      "short": "胡凱兒",
+      "color": "#385c6e",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0",
       "name": "婁峻碩",
       "short": "婁峻碩",
@@ -122,19 +138,19 @@
       "eventCount": 3
     },
     {
-      "id": "band_6u8lrj_2",
-      "name": "溫室雜草",
-      "short": "溫室雜草",
-      "color": "#8338ec",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "band_6gp8um_3",
       "name": "白安",
       "short": "白安",
       "color": "#00b4d8",
       "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band",
+      "name": "粗大Band",
+      "short": "粗大Band",
+      "color": "#ef476f",
+      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -146,12 +162,20 @@
       "eventCount": 3
     },
     {
-      "id": "WhoCares",
-      "name": "胡凱兒",
-      "short": "胡凱兒",
-      "color": "#385c6e",
+      "id": "band_drsiw0_27",
+      "name": "玖壹壹",
+      "short": "玖壹壹",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_59",
+      "name": "固定客",
+      "short": "固定客",
+      "color": "#ffd166",
       "category": "樂團",
-      "eventCount": 2
+      "eventCount": 3
     },
     {
       "id": "band_6u8lrj_1",
@@ -186,14 +210,6 @@
       "eventCount": 2
     },
     {
-      "id": "band",
-      "name": "粗大Band",
-      "short": "粗大Band",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "saturnday",
       "name": "Saturnday",
       "short": "Saturnday",
@@ -210,6 +226,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_20",
+      "name": "梁河懸",
+      "short": "梁河懸",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_6gp8um_7",
       "name": "寶賤",
       "short": "寶賤",
@@ -223,14 +247,6 @@
       "short": "許富凱",
       "color": "#ef476f",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_27",
-      "name": "玖壹壹",
-      "short": "玖壹壹",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -282,6 +298,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_qqiyec_2",
+      "name": "東部壞男孩",
+      "short": "東部",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "controlt",
       "name": "Control T",
       "short": "Control T",
@@ -294,6 +318,14 @@
       "name": "帕崎拉",
       "short": "帕崎拉",
       "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_qqiyec_5",
+      "name": "傻子與白痴",
+      "short": "傻白",
+      "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 2
     },
@@ -314,10 +346,34 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_59",
-      "name": "固定客",
-      "short": "固定客",
-      "color": "#ffd166",
+      "id": "band_drsiw0_58",
+      "name": "麋先生",
+      "short": "麋先生",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_13",
+      "name": "異族亡魂",
+      "short": "異族亡魂",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_60",
+      "name": "羊米人",
+      "short": "羊米人",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_61",
+      "name": "白頻率",
+      "short": "白頻率",
+      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 2
     },
@@ -327,6 +383,62 @@
       "short": "來者何人 Whoou!",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "psco",
+      "name": "P!SCO",
+      "short": "P!SCO",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_63",
+      "name": "震樂堂",
+      "short": "震樂堂",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_19",
+      "name": "薄暮",
+      "short": "薄暮",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_16",
+      "name": "沈默紳士",
+      "short": "沈默紳士",
+      "color": "#00b4d8",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_17",
+      "name": "應聲倒地",
+      "short": "應聲倒地",
+      "color": "#06d6a0",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_20",
+      "name": "烈鷹",
+      "short": "烈鷹",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_65",
+      "name": "林頤原",
+      "short": "林頤原",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -343,6 +455,14 @@
       "short": "曾愷妤",
       "color": "#00b4d8",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_77",
+      "name": "宇宙人",
+      "short": "宇宙",
+      "color": "#06d6a0",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -606,14 +726,6 @@
       "name": "AMOW",
       "short": "AMOW",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_20",
-      "name": "梁河懸",
-      "short": "梁河懸",
-      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
     },
@@ -1034,14 +1146,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_qqiyec_2",
-      "name": "東部壞男孩",
-      "short": "東部",
-      "color": "#ff006e",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_6u8lrj_6",
       "name": "火星混蛋",
       "short": "火星",
@@ -1178,14 +1282,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_qqiyec_5",
-      "name": "傻子與白痴",
-      "short": "傻白",
-      "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_qqiyec_6",
       "name": "銅好重奏團",
       "short": "銅好重奏團",
@@ -1250,26 +1346,10 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_58",
-      "name": "麋先生",
-      "short": "麋先生",
-      "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_qqiyec_8",
       "name": "血肉果汁機",
       "short": "血肉果汁機",
       "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6u8lrj_13",
-      "name": "異族亡魂",
-      "short": "異族亡魂",
-      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
     },
@@ -1298,14 +1378,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_60",
-      "name": "羊米人",
-      "short": "羊米人",
-      "color": "#fb5607",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "shootup",
       "name": "SHOOTUP",
       "short": "SHOOTUP",
@@ -1318,14 +1390,6 @@
       "name": "The Salitus",
       "short": "The Salitus",
       "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_61",
-      "name": "白頻率",
-      "short": "白頻率",
-      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
     },
@@ -1370,26 +1434,10 @@
       "eventCount": 1
     },
     {
-      "id": "psco",
-      "name": "P!SCO",
-      "short": "P!SCO",
-      "color": "#fb5607",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_62",
       "name": "碎紙花",
       "short": "碎紙花",
       "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_63",
-      "name": "震樂堂",
-      "short": "震樂堂",
-      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
     },
@@ -1414,14 +1462,6 @@
       "name": "hue",
       "short": "hue",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_19",
-      "name": "薄暮",
-      "short": "薄暮",
-      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
     },
@@ -1466,14 +1506,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_16",
-      "name": "沈默紳士",
-      "short": "沈默紳士",
-      "color": "#00b4d8",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "marswalk",
       "name": "Marswalk",
       "short": "Marswalk",
@@ -1498,22 +1530,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_17",
-      "name": "應聲倒地",
-      "short": "應聲倒地",
-      "color": "#06d6a0",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_20",
-      "name": "烈鷹",
-      "short": "烈鷹",
-      "color": "#118ab2",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "ugoslabierth",
       "name": "UGOSLABIER [TH]",
       "short": "UGOSLABIER [TH]",
@@ -1527,14 +1543,6 @@
       "short": "好大一把勇者劍",
       "color": "#ff006e",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_65",
-      "name": "林頤原",
-      "short": "林頤原",
-      "color": "#fb5607",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -1874,14 +1882,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_77",
-      "name": "宇宙人",
-      "short": "宇宙",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_78",
       "name": "袁小迪",
       "short": "袁小",
@@ -2039,6 +2039,22 @@
       "short": "八三",
       "color": "#06d6a0",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_83",
+      "name": "宋德鶴",
+      "short": "宋德",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_84",
+      "name": "周湯豪",
+      "short": "周湯",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -5256,14 +5272,34 @@
       "note": "［免費］\n活動時間:2026年10月16日 17:00開始。卡司包含:許效舜、苗可麗、澎恰恰、王彩樺、蔡旻佑、鼓鼓 呂思緯、吳淑敏、羅巧倫、邵大倫、許志豪、沈建豪、黃新皓、翁鈺鈞、Bu$y、F.F.O。"
     },
     {
+      "id": "upcoming-row-354",
+      "date": "20261016",
+      "band": "band_drsiw0_65",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-355",
+      "date": "20261016",
+      "band": "band_drsiw0_83",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
       "id": "upcoming-row-2",
       "date": "20261017",
       "band": "gongguan",
       "time": "17:40-18:20",
       "name": "彰化 2026潮派鹿港",
-      "location": "彰化縣鹿港體育場",
+      "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
     },
     {
       "id": "upcoming-row-3",
@@ -5826,6 +5862,116 @@
       "note": "［免費］\n活動時間:2026/10/17-10:00至21:00;2026/10/18-10:00至21:00。卡司包含羅美玲、葛西瓦、Ponay ト耐、雅維・茉芮、ABAO阿爆 ft. 那屋瓦少女隊、菲律賓 Drum Up、蒙古 UUHAI;以及怕胖團、葉璦菱、Saya 張惠春、柏霖 PoLin、北原山貓、印尼 Karinding Kapaheut、關島 Guma' Rasan Acho Latte。\n官方:https://www.facebook.com/share/p/1BF4XQjzuD/\n卡司:怕胖團"
     },
     {
+      "id": "upcoming-row-356",
+      "date": "20261017",
+      "band": "band_drsiw0_84",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-357",
+      "date": "20261017",
+      "band": "band_drsiw0_77",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-358",
+      "date": "20261017",
+      "band": "band_drsiw0_59",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-359",
+      "date": "20261017",
+      "band": "band_drsiw0_20",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-360",
+      "date": "20261017",
+      "band": "band_drsiw0_61",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-361",
+      "date": "20261017",
+      "band": "band_drsiw0_63",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-362",
+      "date": "20261017",
+      "band": "band_6u8lrj_2",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-363",
+      "date": "20261017",
+      "band": "band_6u8lrj_16",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-364",
+      "date": "20261017",
+      "band": "band_6u8lrj_13",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-365",
+      "date": "20261017",
+      "band": "band_qqiyec_2",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-366",
+      "date": "20261017",
+      "band": "psco",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
       "id": "upcoming-row-5",
       "date": "20261018",
       "band": "Bestards",
@@ -5994,6 +6140,96 @@
       "location": "台北市花博公園圓山園區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8A%B1%E5%8D%9A%E5%85%AC%E5%9C%92%E5%9C%93%E5%B1%B1%E5%9C%92%E5%8D%80",
       "note": "［免費］\n15:25-15:55|163braces\n16:15-16:35|黃偉晉\n16:55-17:25|icyball冰球樂團\n17:45-18:25|GX(鼓鼓 呂思緯、蕭秉治)\n活動時間為 2026/10/17 - 10/18。卡司包含:吳獻、王艷薇、李浩瑋、許富凱、洪佩瑜、魏如萱 (10/17);163braces、黃偉晉、冰球樂團、GX (呂思緯、蕭秉治) (10/18)。"
+    },
+    {
+      "id": "upcoming-row-367",
+      "date": "20261018",
+      "band": "band_drsiw0_27",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-368",
+      "date": "20261018",
+      "band": "band_drsiw0_58",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-369",
+      "date": "20261018",
+      "band": "WhoCares",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-370",
+      "date": "20261018",
+      "band": "band_drsiw0_60",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-371",
+      "date": "20261018",
+      "band": "band_6gp8um_19",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-372",
+      "date": "20261018",
+      "band": "band_6gp8um_20",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-373",
+      "date": "20261018",
+      "band": "band_6u8lrj_17",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-374",
+      "date": "20261018",
+      "band": "band",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-375",
+      "date": "20261018",
+      "band": "band_qqiyec_5",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
     },
     {
       "id": "upcoming-row-8",
@@ -8811,6 +9047,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "aba799fa-a7a7-4660-9176-16baceca62d9",
-  "updatedAt": "2026-10-15T07:06:49.353Z"
+  "revision": "79178ac3-05dc-4750-96db-8f46f848f460",
+  "updatedAt": "2026-10-15T07:07:41.075Z"
 }
