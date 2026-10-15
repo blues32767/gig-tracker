@@ -74,6 +74,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_drsiw0_27",
+      "name": "玖壹壹",
+      "short": "玖壹壹",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 5
+    },
+    {
       "id": "trash",
       "name": "TRASH",
       "short": "TRASH",
@@ -146,11 +154,11 @@
       "eventCount": 4
     },
     {
-      "id": "band_drsiw0_27",
-      "name": "玖壹壹",
-      "short": "玖壹壹",
-      "color": "#118ab2",
-      "category": "團體",
+      "id": "band_6gp8um_11",
+      "name": "艾薇",
+      "short": "艾薇",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 4
     },
     {
@@ -199,14 +207,6 @@
       "short": "粗大Band",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "band_6gp8um_11",
-      "name": "艾薇",
-      "short": "艾薇",
-      "color": "#fb5607",
-      "category": "個人",
       "eventCount": 3
     },
     {
@@ -271,6 +271,14 @@
       "short": "南西肯恩",
       "color": "#118ab2",
       "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_2",
+      "name": "黃妃",
+      "short": "黃妃",
+      "color": "#3a86ff",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -710,14 +718,6 @@
       "name": "PiA 吳蓓雅",
       "short": "吳蓓雅",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_2",
-      "name": "黃妃",
-      "short": "黃妃",
-      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
     },
@@ -2406,6 +2406,94 @@
       "name": "閃閃閃閃",
       "short": "閃閃",
       "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_30",
+      "name": "齊豫",
+      "short": "齊豫",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_31",
+      "name": "明亮",
+      "short": "明亮",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_98",
+      "name": "吳宗憲",
+      "short": "吳宗",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_99",
+      "name": "張涵雅",
+      "short": "張涵",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_100",
+      "name": "黃連煜",
+      "short": "黃連",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_101",
+      "name": "台一線",
+      "short": "台一",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_102",
+      "name": "陳思瑋",
+      "short": "陳思",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_103",
+      "name": "蔡亞露",
+      "short": "蔡亞",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_e6ychs",
+      "name": "寶弟(葛兆恩)",
+      "short": "寶弟",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_ioh2wr",
+      "name": "林福臨 & 張詠婕",
+      "short": "林福",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "givemefive",
+      "name": "Give me five少女隊",
+      "short": "Gi",
+      "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
     },
@@ -6820,6 +6908,76 @@
       "note": "［免費］\n活動日期為 2026/10/21-10/22。開票資訊:10/09 開放免費索票。\n活動日期:2026/10/21 - 2026/10/22。卡司包含公館青少年、C.Holly、Gummy B X 陳嫺靜、Flowstrong、Mong Tong,以及呂允、That's My Shhh、聲子蟲、Kangziwon(KR)。\n18:30-19:00|公館青少年\n19:30-20:00|Gummy B × 陳嫺靜"
     },
     {
+      "id": "upcoming-row-454",
+      "date": "20261023",
+      "band": "band_6gp8um_30",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-455",
+      "date": "20261023",
+      "band": "band_6gp8um_2",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-456",
+      "date": "20261023",
+      "band": "band_6gp8um_31",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-457",
+      "date": "20261023",
+      "band": "band_drsiw0_98",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-458",
+      "date": "20261023",
+      "band": "band_drsiw0_99",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-459",
+      "date": "20261023",
+      "band": "band_drsiw0_100",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-460",
+      "date": "20261023",
+      "band": "band_drsiw0_101",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
       "id": "upcoming-row-37",
       "date": "20261024",
       "band": "mango",
@@ -7468,6 +7626,76 @@
       "location": "南投縣竹山鎮公所前廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E7%AB%B9%E5%B1%B1%E9%8E%AE%E5%85%AC%E6%89%80%E5%89%8D%E5%BB%A3%E5%A0%B4",
       "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25,兩日皆有演出。卡司包含:SONNIE 桑尼、守夜人、夕陽武士、許富凱(10/24);閃閃閃閃、擊沈女孩、甜約翰、怕胖團(10/25)。"
+    },
+    {
+      "id": "upcoming-row-461",
+      "date": "20261024",
+      "band": "band_drsiw0_27",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-462",
+      "date": "20261024",
+      "band": "band_6gp8um_11",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-463",
+      "date": "20261024",
+      "band": "band_drsiw0_102",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-464",
+      "date": "20261024",
+      "band": "band_drsiw0_103",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-465",
+      "date": "20261024",
+      "band": "band_e6ychs",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-466",
+      "date": "20261024",
+      "band": "band_ioh2wr",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-467",
+      "date": "20261024",
+      "band": "givemefive",
+      "time": "未公布",
+      "name": "山釀青春演唱會",
+      "location": "苗栗縣巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n【10/23 魅栗經典】卡司：齊豫、黃妃、明亮、吳宗憲、張涵雅、黃連煜、台一線。主持人：白冰冰。\n【10/24 魅栗青春】卡司：玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人：白冰冰。\n備註：索票時間為 10/08 16:00-22:00，實名制登記限領一次，每場限索4張。"
     },
     {
       "id": "upcoming-row-10",
@@ -10155,6 +10383,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "fd45f44d-9b13-4c38-a4e0-3793d5984095",
-  "updatedAt": "2026-10-15T07:32:48.220Z"
+  "revision": "ad3a1cf7-a123-4fa2-8125-2e995e496b2b",
+  "updatedAt": "2026-10-15T07:36:34.669Z"
 }
