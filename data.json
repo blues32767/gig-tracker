@@ -1018,6 +1018,22 @@
       "eventCount": 1
     },
     {
+      "id": "alisa",
+      "name": "Alisa 國風樂團",
+      "short": "Alisa 國風樂團",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_44",
+      "name": "八青哥",
+      "short": "八青哥",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "djekmc",
       "name": "DJ EK + MC 阿蛋",
       "short": "DJ EK + MC 阿蛋",
@@ -2079,22 +2095,6 @@
       "short": "安吉",
       "color": "#ffd166",
       "category": "個人",
-      "eventCount": 0
-    },
-    {
-      "id": "alisa",
-      "name": "Alisa 國風樂團",
-      "short": "Alisa 國風樂團",
-      "color": "#8338ec",
-      "category": "樂團",
-      "eventCount": 0
-    },
-    {
-      "id": "band_drsiw0_44",
-      "name": "八青哥",
-      "short": "八青哥",
-      "color": "#ff006e",
-      "category": "樂團",
       "eventCount": 0
     },
     {
@@ -5457,7 +5457,7 @@
       "name": "《WOW!夢想實驗樂園》南投青連節",
       "location": "南投縣草屯酷比親子運動公園旁綠地",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E8%8D%89%E5%B1%AF%E9%85%B7%E6%AF%94%E8%A6%AA%E5%AD%90%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E6%97%81%E7%B6%A0%E5%9C%B0",
-      "note": "［免費］\n活動日期為 2026 年 10 月 17 日,整體活動時間約在 10:00-17:00。卡司包含 YOYO 家族、Alisa 國風樂團、八青哥等。"
+      "note": "［免費］\n活動日期為 2026 年 10 月 17 日,整體活動時間約在 10:00-17:00。卡司包含 YOYO 家族、Alisa 國風樂團、八青哥等。\n卡司：YOYO 家族、Alisa 國風樂團、八青哥。活動時間為 10:00-17:00。"
     },
     {
       "id": "upcoming-row-178",
@@ -5978,6 +5978,26 @@
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
       "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18，共三日演出。卡司涵蓋多樣化的獨立音樂陣容。"
+    },
+    {
+      "id": "upcoming-row-379",
+      "date": "20261017",
+      "band": "alisa",
+      "time": "14:00-14:40",
+      "name": "《WOW!夢想實驗樂園》南投青連節",
+      "location": "南投縣草屯酷比親子運動公園旁綠地",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E8%8D%89%E5%B1%AF%E9%85%B7%E6%AF%94%E8%A6%AA%E5%AD%90%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E6%97%81%E7%B6%A0%E5%9C%B0",
+      "note": "［免費］\n活動日期為 2026 年 10 月 17 日,整體活動時間約在 10:00-17:00。卡司包含 YOYO 家族、Alisa 國風樂團、八青哥等。\n卡司：YOYO 家族、Alisa 國風樂團、八青哥。活動時間為 10:00-17:00。"
+    },
+    {
+      "id": "upcoming-row-380",
+      "date": "20261017",
+      "band": "band_drsiw0_44",
+      "time": "16:00-16:40",
+      "name": "《WOW!夢想實驗樂園》南投青連節",
+      "location": "南投縣草屯酷比親子運動公園旁綠地",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E8%8D%89%E5%B1%AF%E9%85%B7%E6%AF%94%E8%A6%AA%E5%AD%90%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E6%97%81%E7%B6%A0%E5%9C%B0",
+      "note": "［免費］\n活動日期為 2026 年 10 月 17 日,整體活動時間約在 10:00-17:00。卡司包含 YOYO 家族、Alisa 國風樂團、八青哥等。\n卡司：YOYO 家族、Alisa 國風樂團、八青哥。活動時間為 10:00-17:00。"
     },
     {
       "id": "upcoming-row-5",
@@ -9085,6 +9105,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e2c2de47-5237-4a20-b17a-54eebf3846b8",
-  "updatedAt": "2026-10-15T07:09:05.065Z"
+  "revision": "e8920980-c386-4af3-8938-a442b5beaa8f",
+  "updatedAt": "2026-10-15T07:09:50.676Z"
 }
