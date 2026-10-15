@@ -58,6 +58,14 @@
       "eventCount": 5
     },
     {
+      "id": "captainlu",
+      "name": "盧廣仲",
+      "short": "盧廣仲",
+      "color": "#36cc00",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_6gp8um",
       "name": "呂允",
       "short": "呂允",
@@ -88,14 +96,6 @@
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 4
-    },
-    {
-      "id": "captainlu",
-      "name": "盧廣仲",
-      "short": "盧廣仲",
-      "color": "#36cc00",
-      "category": "個人",
-      "eventCount": 3
     },
     {
       "id": "band_drsiw0",
@@ -5283,61 +5283,61 @@
       "id": "upcoming-row-178",
       "date": "20261017",
       "band": "band_drsiw0_48",
-      "time": "未公布",
-      "name": "2026新竹市巨星演唱會",
+      "time": "16:10-16:40",
+      "name": "《金彩新竹》新竹巨星演唱會",
       "location": "新竹市大湳雅公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
+      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n卡司：黃宇寒、白安、李子森、鼓鼓 呂思緯、李聖傑、孫盛希、盧廣仲。主持人：DJ 丹尼斯。\n來源：https://www.threads.com/share/BADACNflBv/"
     },
     {
       "id": "upcoming-row-179",
       "date": "20261017",
       "band": "band_drsiw0_49",
-      "time": "未公布",
-      "name": "2026新竹市巨星演唱會",
+      "time": "16:40-17:00",
+      "name": "《金彩新竹》新竹巨星演唱會",
       "location": "新竹市大湳雅公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
+      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n卡司：黃宇寒、白安、李子森、鼓鼓 呂思緯、李聖傑、孫盛希、盧廣仲。主持人：DJ 丹尼斯。\n來源：https://www.threads.com/share/BADACNflBv/"
     },
     {
       "id": "upcoming-row-180",
       "date": "20261017",
       "band": "band_6gp8um_3",
-      "time": "未公布",
-      "name": "2026新竹市巨星演唱會",
+      "time": "15:15-15:30",
+      "name": "《金彩新竹》新竹巨星演唱會",
       "location": "新竹市大湳雅公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
+      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n卡司：黃宇寒、白安、李子森、鼓鼓 呂思緯、李聖傑、孫盛希、盧廣仲。主持人：DJ 丹尼斯。\n來源：https://www.threads.com/share/BADACNflBv/"
     },
     {
       "id": "upcoming-row-181",
       "date": "20261017",
       "band": "band_nmq1yt",
-      "time": "未公布",
-      "name": "2026新竹市巨星演唱會",
+      "time": "15:50-16:10",
+      "name": "《金彩新竹》新竹巨星演唱會",
       "location": "新竹市大湳雅公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
+      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n卡司：黃宇寒、白安、李子森、鼓鼓 呂思緯、李聖傑、孫盛希、盧廣仲。主持人：DJ 丹尼斯。\n來源：https://www.threads.com/share/BADACNflBv/"
     },
     {
       "id": "upcoming-row-182",
       "date": "20261017",
       "band": "band_drsiw0_50",
-      "time": "未公布",
-      "name": "2026新竹市巨星演唱會",
+      "time": "14:50-15:10",
+      "name": "《金彩新竹》新竹巨星演唱會",
       "location": "新竹市大湳雅公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
+      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n卡司：黃宇寒、白安、李子森、鼓鼓 呂思緯、李聖傑、孫盛希、盧廣仲。主持人：DJ 丹尼斯。\n來源：https://www.threads.com/share/BADACNflBv/"
     },
     {
       "id": "upcoming-row-183",
       "date": "20261017",
       "band": "band_drsiw0_51",
-      "time": "未公布",
-      "name": "2026新竹市巨星演唱會",
+      "time": "15:30-15:50",
+      "name": "《金彩新竹》新竹巨星演唱會",
       "location": "新竹市大湳雅公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
+      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n卡司：黃宇寒、白安、李子森、鼓鼓 呂思緯、李聖傑、孫盛希、盧廣仲。主持人：DJ 丹尼斯。\n來源：https://www.threads.com/share/BADACNflBv/"
     },
     {
       "id": "upcoming-row-184",
@@ -5608,6 +5608,16 @@
       "location": "台北市臺北流行音樂中心",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E4%B8%AD%E5%BF%83%E3%80%82",
       "note": "［免費］\n[需有入場票]-[ 第61屆廣播金鐘獎頒獎典禮 ]演出嘉賓\n2026/10/17六19:00\n金鐘獎官方網站(含直播):https://gba.tavis.tw/61st/index.html\n資訊來源:https://www.facebook.com/share/p/1DQhY2HKhL/\n--\n➤卡司:\n開唱表演:TPE48、DJ 史都華、DJ 丁安妮;中段表演:陳華、曾瑋中、呂士軒;壓軸表演:芒果醬、福爾摩沙任務爵士樂團。活動開始時間為 19:00。\n|TPE48|DJ 史都華|DJ 丁安妮\n【中段表演】➪\n|陳華|曾瑋中|呂士軒\n【壓軸表演】➪\n|芒果醬|福爾摩沙任務爵士樂團\n┏━━━━━━━━━━━━┓\n◆官方網路頻道:\n◎金鐘61官網\n◎金鐘官方Youtube\n◆國內電視直播:◎三立都會台\n◆海外直播:\n◎三立國際台\n◎馬來西亞Unifi TV\n◆廣播調頻:◎好事989電台\n◆數位直播:\n◎三立新聞網YouTube\n◎Vidol YouTube\n◎文化部FB\n◎LINE TODAY\n◆影音平台直播:\n◎三立MOD綜合台\n❑台北市臺北流行音樂中心❑\n卡司:芒果醬。日期:2026/10/17。\n來源：https://www.facebook.com/share/p/1DQhY2HKhL/"
+    },
+    {
+      "id": "upcoming-row-331",
+      "date": "20261017",
+      "band": "captainlu",
+      "time": "17:00-17:30",
+      "name": "《金彩新竹》新竹巨星演唱會",
+      "location": "新竹市大湳雅公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n卡司：黃宇寒、白安、李子森、鼓鼓 呂思緯、李聖傑、孫盛希、盧廣仲。主持人：DJ 丹尼斯。\n來源：https://www.threads.com/share/BADACNflBv/"
     },
     {
       "id": "upcoming-row-5",
@@ -8445,6 +8455,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "17b415fc-8ff3-4a3a-83ec-847020c6f643",
-  "updatedAt": "2026-10-15T07:00:35.665Z"
+  "revision": "8c8fb716-ffda-4535-b172-635ffd70a973",
+  "updatedAt": "2026-10-15T07:01:13.217Z"
 }
