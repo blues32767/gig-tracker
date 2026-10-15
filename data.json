@@ -10,18 +10,18 @@
       "eventCount": 60
     },
     {
-      "id": "papunband",
-      "name": "怕胖團",
-      "short": "怕胖",
-      "color": "#1d3557",
-      "category": "樂團",
-      "eventCount": 13
-    },
-    {
       "id": "gongguan",
       "name": "公館青少年",
       "short": "館青",
       "color": "#2a9d8f",
+      "category": "樂團",
+      "eventCount": 14
+    },
+    {
+      "id": "papunband",
+      "name": "怕胖團",
+      "short": "怕胖",
+      "color": "#1d3557",
       "category": "樂團",
       "eventCount": 13
     },
@@ -199,6 +199,14 @@
       "short": "Bu$y",
       "color": "#3a86ff",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj",
+      "name": "溫蒂漫步",
+      "short": "溫蒂漫步",
+      "color": "#06d6a0",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -654,14 +662,6 @@
       "name": "好樂團",
       "short": "好樂團",
       "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6u8lrj",
-      "name": "溫蒂漫步",
-      "short": "溫蒂漫步",
-      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
     },
@@ -7475,7 +7475,7 @@
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
       "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-14",
@@ -7495,7 +7495,7 @@
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
       "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-63",
@@ -7505,7 +7505,7 @@
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
       "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-64",
@@ -7515,7 +7515,7 @@
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
       "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-65",
@@ -7525,7 +7525,7 @@
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
       "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-109",
@@ -7585,7 +7585,7 @@
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
       "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-192",
@@ -7595,7 +7595,7 @@
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
       "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-214",
@@ -8075,7 +8075,7 @@
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
       "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-67",
@@ -8085,7 +8085,7 @@
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
       "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-68",
@@ -8095,7 +8095,7 @@
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
       "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-69",
@@ -8105,7 +8105,7 @@
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
       "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-70",
@@ -8115,7 +8115,7 @@
       "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
       "location": "台北市華山 1914 文創園區華山劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
-      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n來源：https://www.threads.com/share/IWcVmorAi/"
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-114",
@@ -8446,6 +8446,26 @@
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
       "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+    },
+    {
+      "id": "upcoming-row-412",
+      "date": "20261101",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山 1914 文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
+    },
+    {
+      "id": "upcoming-row-413",
+      "date": "20261101",
+      "band": "band_6u8lrj",
+      "time": "未公布",
+      "name": "《Chill日好時光》QUEEN SHOP 20週年音樂祭",
+      "location": "台北市華山 1914 文創園區華山劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80_%E8%8F%AF%E5%B1%B1%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n免費 活動日期10/31-11/1\n活動時間:2026/10/31 (周五) 至 2026/11/01 (週日)。卡司包含洪安妮、公館青少年、好樂團、甜約翰、溫蒂漫步、南西肯恩、溫室雜草、JOYCE 就以斯、PiA 吳蓓雅、鼓鼓 呂思緯,並有怡岑擔任主持。\n時間表:https://www.threads.com/share/GCQ2l2TTz/\n活動時間為 10/31 至 11/01,包含多位藝人演出。主持:怡岑。\n卡司：公館青少年、溫蒂漫步、JOYCE 就以斯，以及更多藝人。活動時間為 12:00-20:30 (預計日期範圍：10/31 - 11/01)。\n來源：https://www.threads.com/share/IWcVmorAi/"
     },
     {
       "id": "upcoming-row-17",
@@ -9543,6 +9563,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "9b25223d-e193-4e8e-9c3a-a9959f7ada1b",
-  "updatedAt": "2026-10-15T07:21:38.300Z"
+  "revision": "1c7565ca-e00b-463b-87ec-4aec35b11341",
+  "updatedAt": "2026-10-15T07:22:20.693Z"
 }
