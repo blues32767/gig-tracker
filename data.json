@@ -258,6 +258,30 @@
       "eventCount": 2
     },
     {
+      "id": "band_6u8lrj_12",
+      "name": "安妮塔克",
+      "short": "安妮塔克",
+      "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_59",
+      "name": "固定客",
+      "short": "固定客",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "whoou",
+      "name": "來者何人 Whoou!",
+      "short": "來者何人 Whoou!",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0",
       "name": "婁峻碩",
       "short": "婁峻碩",
@@ -1226,14 +1250,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_12",
-      "name": "安妮塔克",
-      "short": "安妮塔克",
-      "color": "#8338ec",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "band_32tclr",
       "name": "哈斯哈斯樂團",
       "short": "哈斯",
@@ -1268,7 +1284,7 @@
     {
       "id": "band_drsiw0_58",
       "name": "麋先生",
-      "short": "麋先",
+      "short": "麋先生",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -1276,25 +1292,17 @@
     {
       "id": "band_qqiyec_8",
       "name": "血肉果汁機",
-      "short": "血肉",
+      "short": "血肉果汁機",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_59",
-      "name": "固定客",
-      "short": "固定",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_6u8lrj_13",
       "name": "異族亡魂",
-      "short": "異族",
+      "short": "異族亡魂",
       "color": "#06d6a0",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -1302,37 +1310,37 @@
       "name": "癢癢",
       "short": "癢癢",
       "color": "#118ab2",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
       "id": "riki",
       "name": "RIKI",
-      "short": "RI",
+      "short": "RIKI",
       "color": "#8338ec",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
       "id": "theorchestra",
       "name": "THE ORCHESTRA TOKYO [JP]",
-      "short": "TH",
+      "short": "THE ORCHESTRA TOKYO [JP]",
       "color": "#ff006e",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
       "id": "band_drsiw0_60",
       "name": "羊米人",
-      "short": "羊米",
+      "short": "羊米人",
       "color": "#fb5607",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
       "id": "shootup",
       "name": "SHOOTUP",
-      "short": "SH",
+      "short": "SHOOTUP",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -1340,7 +1348,7 @@
     {
       "id": "thesalitus",
       "name": "The Salitus",
-      "short": "Th",
+      "short": "The Salitus",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -1348,31 +1356,23 @@
     {
       "id": "band_drsiw0_61",
       "name": "白頻率",
-      "short": "白頻",
+      "short": "白頻率",
       "color": "#2ec4b6",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
       "id": "goosesg",
       "name": "Goose 我鳥 [SG]",
-      "short": "Go",
+      "short": "Goose 我鳥 [SG]",
       "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "whoou",
-      "name": "來者何人 Whoou!",
-      "short": "來者",
-      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
     },
     {
       "id": "confinedwhit",
       "name": "Confined White (컨파인드 화이트) [KR]",
-      "short": "Co",
+      "short": "Confined White (컨파인드 화이트) [KR]",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -1380,7 +1380,7 @@
     {
       "id": "band_feibnk",
       "name": "ハシリコミーズ [JP]",
-      "short": "ハシ",
+      "short": "ハシリコミーズ [JP]",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -1388,7 +1388,7 @@
     {
       "id": "yubiorijp",
       "name": "yubiori [JP]",
-      "short": "yu",
+      "short": "yubiori [JP]",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -1404,7 +1404,7 @@
     {
       "id": "psco",
       "name": "P!SCO",
-      "short": "P!",
+      "short": "P!SCO",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -1412,23 +1412,23 @@
     {
       "id": "band_drsiw0_62",
       "name": "碎紙花",
-      "short": "碎紙",
+      "short": "碎紙花",
       "color": "#3a86ff",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
       "id": "band_drsiw0_63",
       "name": "震樂堂",
-      "short": "震樂",
+      "short": "震樂堂",
       "color": "#00b4d8",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
       "id": "durdnjp",
       "name": "DURDN [JP]",
-      "short": "DU",
+      "short": "DURDN [JP]",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -1436,7 +1436,7 @@
     {
       "id": "catchtheyoun",
       "name": "CATCH THE YOUNG (캐치더영) [KR]",
-      "short": "CA",
+      "short": "CATCH THE YOUNG (캐치더영) [KR]",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -1444,7 +1444,7 @@
     {
       "id": "hue",
       "name": "hue",
-      "short": "hu",
+      "short": "hue",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -1460,7 +1460,7 @@
     {
       "id": "slapkissth",
       "name": "Slapkiss [TH]",
-      "short": "Sl",
+      "short": "Slapkiss [TH]",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -1468,7 +1468,7 @@
     {
       "id": "band_drsiw0_64",
       "name": "凹與山",
-      "short": "凹與",
+      "short": "凹與山",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -1476,7 +1476,7 @@
     {
       "id": "band_lilbmt",
       "name": "ぜんぶ君のせいだ。[JP]",
-      "short": "ぜん",
+      "short": "ぜんぶ君のせいだ。[JP]",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -1492,7 +1492,7 @@
     {
       "id": "ohan",
       "name": "OHAN",
-      "short": "OH",
+      "short": "OHAN",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -1500,7 +1500,7 @@
     {
       "id": "band_6u8lrj_16",
       "name": "沈默紳士",
-      "short": "沈默",
+      "short": "沈默紳士",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -1508,7 +1508,7 @@
     {
       "id": "marswalk",
       "name": "Marswalk",
-      "short": "Ma",
+      "short": "Marswalk",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -1516,7 +1516,7 @@
     {
       "id": "band_qqiyec_9",
       "name": "芒果街老爸",
-      "short": "芒果",
+      "short": "芒果街老爸",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -1524,7 +1524,7 @@
     {
       "id": "borome",
       "name": "波羅密 ボロメ Borome",
-      "short": "波羅",
+      "short": "波羅密",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -1532,7 +1532,7 @@
     {
       "id": "band_6u8lrj_17",
       "name": "應聲倒地",
-      "short": "應聲",
+      "short": "應聲倒地",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -1548,7 +1548,7 @@
     {
       "id": "ugoslabierth",
       "name": "UGOSLABIER [TH]",
-      "short": "UG",
+      "short": "UGOSLABIER [TH]",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -1556,9 +1556,73 @@
     {
       "id": "band_maaxir_2",
       "name": "好大一把勇者劍",
-      "short": "好大",
+      "short": "好大一把勇者劍",
       "color": "#ff006e",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_65",
+      "name": "林頤原",
+      "short": "林頤",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_uhxcnu",
+      "name": "吳永吉與礦工兄弟",
+      "short": "吳永",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_66",
+      "name": "裝咖人",
+      "short": "裝咖",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_67",
+      "name": "卜星慧",
+      "short": "卜星",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_mphthj",
+      "name": "鳳鳴齋國樂團&法比",
+      "short": "鳳鳴",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "silkywarmskr",
+      "name": "SilkywarmS [KR]",
+      "short": "Si",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_bqaniu",
+      "name": "奏手候& 羅威堂 [JP]",
+      "short": "奏手",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_68",
+      "name": "柯大堡",
+      "short": "柯大",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -5610,6 +5674,116 @@
       "note": "［免費］\n活動日期為 2026/10/24(六)至 2026/10/25(日)。\n10/24 卡司:厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart。"
     },
     {
+      "id": "upcoming-row-271",
+      "date": "20261024",
+      "band": "band_drsiw0_65",
+      "time": "未公布",
+      "name": "信徒文化季",
+      "location": "雲林西螺福興宮前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
+      "note": "［免費］\n活動時間：2026/10/24 - 10/25。卡司包含：林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團＆法比、來者何人、SilkywarmS [KR]、奏手候＆ 羅威堂 [JP]、柯大堡。"
+    },
+    {
+      "id": "upcoming-row-272",
+      "date": "20261024",
+      "band": "band_uhxcnu",
+      "time": "未公布",
+      "name": "信徒文化季",
+      "location": "雲林西螺福興宮前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
+      "note": "［免費］\n活動時間：2026/10/24 - 10/25。卡司包含：林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團＆法比、來者何人、SilkywarmS [KR]、奏手候＆ 羅威堂 [JP]、柯大堡。"
+    },
+    {
+      "id": "upcoming-row-273",
+      "date": "20261024",
+      "band": "band_drsiw0_66",
+      "time": "未公布",
+      "name": "信徒文化季",
+      "location": "雲林西螺福興宮前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
+      "note": "［免費］\n活動時間：2026/10/24 - 10/25。卡司包含：林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團＆法比、來者何人、SilkywarmS [KR]、奏手候＆ 羅威堂 [JP]、柯大堡。"
+    },
+    {
+      "id": "upcoming-row-274",
+      "date": "20261024",
+      "band": "band_drsiw0_59",
+      "time": "未公布",
+      "name": "信徒文化季",
+      "location": "雲林西螺福興宮前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
+      "note": "［免費］\n活動時間：2026/10/24 - 10/25。卡司包含：林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團＆法比、來者何人、SilkywarmS [KR]、奏手候＆ 羅威堂 [JP]、柯大堡。"
+    },
+    {
+      "id": "upcoming-row-275",
+      "date": "20261024",
+      "band": "band_drsiw0_67",
+      "time": "未公布",
+      "name": "信徒文化季",
+      "location": "雲林西螺福興宮前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
+      "note": "［免費］\n活動時間：2026/10/24 - 10/25。卡司包含：林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團＆法比、來者何人、SilkywarmS [KR]、奏手候＆ 羅威堂 [JP]、柯大堡。"
+    },
+    {
+      "id": "upcoming-row-276",
+      "date": "20261024",
+      "band": "band_6u8lrj_12",
+      "time": "未公布",
+      "name": "信徒文化季",
+      "location": "雲林西螺福興宮前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
+      "note": "［免費］\n活動時間：2026/10/24 - 10/25。卡司包含：林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團＆法比、來者何人、SilkywarmS [KR]、奏手候＆ 羅威堂 [JP]、柯大堡。"
+    },
+    {
+      "id": "upcoming-row-277",
+      "date": "20261024",
+      "band": "band_mphthj",
+      "time": "未公布",
+      "name": "信徒文化季",
+      "location": "雲林西螺福興宮前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
+      "note": "［免費］\n活動時間：2026/10/24 - 10/25。卡司包含：林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團＆法比、來者何人、SilkywarmS [KR]、奏手候＆ 羅威堂 [JP]、柯大堡。"
+    },
+    {
+      "id": "upcoming-row-278",
+      "date": "20261024",
+      "band": "whoou",
+      "time": "未公布",
+      "name": "信徒文化季",
+      "location": "雲林西螺福興宮前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
+      "note": "［免費］\n活動時間：2026/10/24 - 10/25。卡司包含：林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團＆法比、來者何人、SilkywarmS [KR]、奏手候＆ 羅威堂 [JP]、柯大堡。"
+    },
+    {
+      "id": "upcoming-row-279",
+      "date": "20261024",
+      "band": "silkywarmskr",
+      "time": "未公布",
+      "name": "信徒文化季",
+      "location": "雲林西螺福興宮前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
+      "note": "［免費］\n活動時間：2026/10/24 - 10/25。卡司包含：林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團＆法比、來者何人、SilkywarmS [KR]、奏手候＆ 羅威堂 [JP]、柯大堡。"
+    },
+    {
+      "id": "upcoming-row-280",
+      "date": "20261024",
+      "band": "band_bqaniu",
+      "time": "未公布",
+      "name": "信徒文化季",
+      "location": "雲林西螺福興宮前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
+      "note": "［免費］\n活動時間：2026/10/24 - 10/25。卡司包含：林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團＆法比、來者何人、SilkywarmS [KR]、奏手候＆ 羅威堂 [JP]、柯大堡。"
+    },
+    {
+      "id": "upcoming-row-281",
+      "date": "20261024",
+      "band": "band_drsiw0_68",
+      "time": "未公布",
+      "name": "信徒文化季",
+      "location": "雲林西螺福興宮前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
+      "note": "［免費］\n活動時間：2026/10/24 - 10/25。卡司包含：林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團＆法比、來者何人、SilkywarmS [KR]、奏手候＆ 羅威堂 [JP]、柯大堡。"
+    },
+    {
       "id": "upcoming-row-8",
       "date": "20261025",
       "band": "papunband",
@@ -7445,6 +7619,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "81c0b725-98d2-4611-9f16-6fa6ecb27cf9",
-  "updatedAt": "2026-10-15T06:28:02.466Z"
+  "revision": "be5e55c3-d898-4703-be1d-fb6db5da07cc",
+  "updatedAt": "2026-10-15T06:29:43.834Z"
 }
