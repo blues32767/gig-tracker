@@ -9407,7 +9407,7 @@
       "id": "upcoming-row-79",
       "date": "20261107",
       "band": "163braces",
-      "time": "14:30-未公布",
+      "time": "14:30-14:30",
       "name": "《HINO GO潮派》",
       "location": "高雄市駁二藝術特區B4蓬萊館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
@@ -9417,7 +9417,7 @@
       "id": "upcoming-row-80",
       "date": "20261107",
       "band": "fenix",
-      "time": "17:00-未公布",
+      "time": "17:00-17:00",
       "name": "《HINO GO潮派》",
       "location": "高雄市駁二藝術特區B4蓬萊館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
@@ -9507,7 +9507,7 @@
       "id": "upcoming-row-81",
       "date": "20261108",
       "band": "mingo",
-      "time": "15:00-未公布",
+      "time": "15:00-15:00",
       "name": "《HINO GO潮派》",
       "location": "高雄市駁二藝術特區B4蓬萊館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E9%A7%81%E4%BA%8C%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80B4%E8%93%AC%E8%90%8A%E9%A4%A8",
@@ -10489,6 +10489,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "636acacf-a15d-4b0a-ac3b-151b9d6bf423",
-  "updatedAt": "2026-10-15T11:26:33.203Z"
+  "revision": "d7e9960e-d401-4b20-aa54-17029945284a",
+  "updatedAt": "2026-10-15T11:52:52.984Z"
 }
