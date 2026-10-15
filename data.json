@@ -42,6 +42,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_17",
+      "name": "甜約翰",
+      "short": "甜約翰",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 6
+    },
+    {
       "id": "icyball",
       "name": "冰球樂團",
       "short": "冰球",
@@ -63,14 +71,6 @@
       "short": "鼓鼓 呂思緯",
       "color": "#2ec4b6",
       "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_drsiw0_17",
-      "name": "甜約翰",
-      "short": "甜約翰",
-      "color": "#ffd166",
-      "category": "樂團",
       "eventCount": 5
     },
     {
@@ -138,6 +138,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富凱",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_27",
       "name": "玖壹壹",
       "short": "玖壹壹",
@@ -191,14 +199,6 @@
       "short": "粗大Band",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_25",
-      "name": "許富凱",
-      "short": "許富凱",
-      "color": "#ef476f",
-      "category": "個人",
       "eventCount": 3
     },
     {
@@ -470,6 +470,14 @@
       "name": "薄暮",
       "short": "薄暮",
       "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_15",
+      "name": "擊沈女孩",
+      "short": "擊沈",
+      "color": "#fb5607",
       "category": "樂團",
       "eventCount": 2
     },
@@ -1570,14 +1578,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_15",
-      "name": "擊沈女孩",
-      "short": "擊沈",
-      "color": "#fb5607",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "ohan",
       "name": "OHAN",
       "short": "OHAN",
@@ -2374,6 +2374,38 @@
       "name": "艾怡良",
       "short": "艾怡",
       "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "sonnie",
+      "name": "SONNIE 桑尼",
+      "short": "SO",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_97",
+      "name": "守夜人",
+      "short": "守夜",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_25",
+      "name": "夕陽武士",
+      "short": "夕陽",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_26",
+      "name": "閃閃閃閃",
+      "short": "閃閃",
+      "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
     },
@@ -7315,7 +7347,7 @@
       "name": "南投《前山音樂祭》",
       "location": "南投縣竹山鎮公所前廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E7%AB%B9%E5%B1%B1%E9%8E%AE%E5%85%AC%E6%89%80%E5%89%8D%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。"
+      "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25，兩日皆有演出。卡司包含：SONNIE 桑尼、守夜人、夕陽武士、許富凱（10/24）；閃閃閃閃、擊沈女孩、甜約翰、怕胖團（10/25）。"
     },
     {
       "id": "upcoming-row-327",
@@ -7398,6 +7430,46 @@
       "note": "［免費］\n活動時間為 17:00-21:30。卡司包含：沈文程 ft.日南小馬老師、劉阿昌 ft.打幫你樂團、震樂堂 ft.日南慈德宮哨角團、拍謝少年 ft.孟春排舞班、黃宇寒 Han。"
     },
     {
+      "id": "upcoming-row-447",
+      "date": "20261024",
+      "band": "sonnie",
+      "time": "18:20-19:00",
+      "name": "南投《前山音樂祭》",
+      "location": "南投縣竹山鎮公所前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E7%AB%B9%E5%B1%B1%E9%8E%AE%E5%85%AC%E6%89%80%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25，兩日皆有演出。卡司包含：SONNIE 桑尼、守夜人、夕陽武士、許富凱（10/24）；閃閃閃閃、擊沈女孩、甜約翰、怕胖團（10/25）。"
+    },
+    {
+      "id": "upcoming-row-448",
+      "date": "20261024",
+      "band": "band_drsiw0_97",
+      "time": "19:05-19:45",
+      "name": "南投《前山音樂祭》",
+      "location": "南投縣竹山鎮公所前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E7%AB%B9%E5%B1%B1%E9%8E%AE%E5%85%AC%E6%89%80%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25，兩日皆有演出。卡司包含：SONNIE 桑尼、守夜人、夕陽武士、許富凱（10/24）；閃閃閃閃、擊沈女孩、甜約翰、怕胖團（10/25）。"
+    },
+    {
+      "id": "upcoming-row-449",
+      "date": "20261024",
+      "band": "band_6u8lrj_25",
+      "time": "19:50-20:30",
+      "name": "南投《前山音樂祭》",
+      "location": "南投縣竹山鎮公所前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E7%AB%B9%E5%B1%B1%E9%8E%AE%E5%85%AC%E6%89%80%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25，兩日皆有演出。卡司包含：SONNIE 桑尼、守夜人、夕陽武士、許富凱（10/24）；閃閃閃閃、擊沈女孩、甜約翰、怕胖團（10/25）。"
+    },
+    {
+      "id": "upcoming-row-450",
+      "date": "20261024",
+      "band": "band_drsiw0_25",
+      "time": "20:35-21:05",
+      "name": "南投《前山音樂祭》",
+      "location": "南投縣竹山鎮公所前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E7%AB%B9%E5%B1%B1%E9%8E%AE%E5%85%AC%E6%89%80%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25，兩日皆有演出。卡司包含：SONNIE 桑尼、守夜人、夕陽武士、許富凱（10/24）；閃閃閃閃、擊沈女孩、甜約翰、怕胖團（10/25）。"
+    },
+    {
       "id": "upcoming-row-10",
       "date": "20261025",
       "band": "papunband",
@@ -7405,7 +7477,7 @@
       "name": "南投《前山音樂祭》",
       "location": "南投縣竹山鎮公所前廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E7%AB%B9%E5%B1%B1%E9%8E%AE%E5%85%AC%E6%89%80%E5%89%8D%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。"
+      "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25，兩日皆有演出。卡司包含：SONNIE 桑尼、守夜人、夕陽武士、許富凱（10/24）；閃閃閃閃、擊沈女孩、甜約翰、怕胖團（10/25）。"
     },
     {
       "id": "upcoming-row-76",
@@ -7536,6 +7608,36 @@
       "location": "台南市安平區漁光島",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E5%8D%80%E6%BC%81%E5%85%89%E5%B3%B6",
       "note": "［免費］\n全區免費入場,另有推出「星火計畫」藝文贊助席位(票價 2,000 元及 3,600 元,可至年代售票選購)\n活動日期為 2026/10/24-2026/10/26。卡司包含:芒果醬、即將成真火舞團、Cicada、《世界之星》、SKARAOKE、落日遊行。"
+    },
+    {
+      "id": "upcoming-row-451",
+      "date": "20261025",
+      "band": "band_6u8lrj_26",
+      "time": "18:20-19:00",
+      "name": "南投《前山音樂祭》",
+      "location": "南投縣竹山鎮公所前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E7%AB%B9%E5%B1%B1%E9%8E%AE%E5%85%AC%E6%89%80%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25，兩日皆有演出。卡司包含：SONNIE 桑尼、守夜人、夕陽武士、許富凱（10/24）；閃閃閃閃、擊沈女孩、甜約翰、怕胖團（10/25）。"
+    },
+    {
+      "id": "upcoming-row-452",
+      "date": "20261025",
+      "band": "band_6u8lrj_15",
+      "time": "19:05-19:45",
+      "name": "南投《前山音樂祭》",
+      "location": "南投縣竹山鎮公所前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E7%AB%B9%E5%B1%B1%E9%8E%AE%E5%85%AC%E6%89%80%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25，兩日皆有演出。卡司包含：SONNIE 桑尼、守夜人、夕陽武士、許富凱（10/24）；閃閃閃閃、擊沈女孩、甜約翰、怕胖團（10/25）。"
+    },
+    {
+      "id": "upcoming-row-453",
+      "date": "20261025",
+      "band": "band_drsiw0_17",
+      "time": "19:50-20:30",
+      "name": "南投《前山音樂祭》",
+      "location": "南投縣竹山鎮公所前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E7%AB%B9%E5%B1%B1%E9%8E%AE%E5%85%AC%E6%89%80%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25，兩日皆有演出。卡司包含：SONNIE 桑尼、守夜人、夕陽武士、許富凱（10/24）；閃閃閃閃、擊沈女孩、甜約翰、怕胖團（10/25）。"
     },
     {
       "id": "upcoming-row-292",
@@ -10053,6 +10155,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "00c7618e-efb7-4bc8-9d77-635edc2cb059",
-  "updatedAt": "2026-10-15T07:29:19.990Z"
+  "revision": "42ca413d-a04b-4e16-bf5b-4133f9694d66",
+  "updatedAt": "2026-10-15T07:30:50.076Z"
 }
