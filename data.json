@@ -50,6 +50,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_nmq1yt",
+      "name": "鼓鼓 呂思緯",
+      "short": "鼓鼓 呂思緯",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_1",
       "name": "李浩瑋",
       "short": "李浩瑋",
@@ -70,14 +78,6 @@
       "name": "163braces",
       "short": "163braces",
       "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_nmq1yt",
-      "name": "鼓鼓 呂思緯",
-      "short": "鼓鼓 呂思緯",
-      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 3
     },
@@ -143,6 +143,14 @@
       "short": "南西肯恩",
       "color": "#118ab2",
       "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_3",
+      "name": "白安",
+      "short": "白安",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -378,14 +386,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6gp8um_3",
-      "name": "白安",
-      "short": "白安",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_maaxir",
       "name": "米棧不一樣舞團",
       "short": "米棧",
@@ -430,7 +430,7 @@
       "name": "安芝儇 × Mingo",
       "short": "安芝儇 × Mingo",
       "color": "#ff006e",
-      "category": "個人",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -558,7 +558,7 @@
       "name": "金琳 & 裴晟秀",
       "short": "金琳",
       "color": "#ff006e",
-      "category": "個人",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -646,7 +646,7 @@
       "name": "林希子 x URBAN BAND",
       "short": "林希子 x URBAN BAND",
       "color": "#2ec4b6",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -750,7 +750,7 @@
       "name": "展榮展瑞",
       "short": "展榮展瑞",
       "color": "#06d6a0",
-      "category": "個人",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -862,7 +862,7 @@
       "name": "C.HOLLY",
       "short": "C.HOLLY",
       "color": "#3a86ff",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -870,7 +870,7 @@
       "name": "DJ EK + MC 阿蛋",
       "short": "DJ EK + MC 阿蛋",
       "color": "#00b4d8",
-      "category": "個人",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -1030,6 +1030,38 @@
       "name": "帕崎拉",
       "short": "帕崎",
       "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_48",
+      "name": "李聖傑",
+      "short": "李聖",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_49",
+      "name": "孫盛希",
+      "short": "孫盛",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_50",
+      "name": "黃宇寒",
+      "short": "黃宇",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_51",
+      "name": "李子森",
+      "short": "李子",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
     }
@@ -4161,7 +4193,7 @@
       "name": "2026新竹市巨星演唱會",
       "location": "新竹市大湳雅公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n來源：https://www.threads.com/share/BADACNflBv/"
+      "note": "［免費］\n卡司：盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
     },
     {
       "id": "upcoming-row-88",
@@ -4312,6 +4344,66 @@
       "location": "南投縣草屯酷比親子運動公園旁綠地",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E8%8D%89%E5%B1%AF%E9%85%B7%E6%AF%94%E8%A6%AA%E5%AD%90%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E6%97%81%E7%B6%A0%E5%9C%B0",
       "note": "［免費］\n活動日期為 2026 年 10 月 17 日,整體活動時間約在 10:00-17:00。卡司包含 YOYO 家族、Alisa 國風樂團、八青哥等。"
+    },
+    {
+      "id": "upcoming-row-190",
+      "date": "20261017",
+      "band": "band_drsiw0_48",
+      "time": "未公布",
+      "name": "2026新竹市巨星演唱會",
+      "location": "新竹市大湳雅公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司：盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
+    },
+    {
+      "id": "upcoming-row-191",
+      "date": "20261017",
+      "band": "band_drsiw0_49",
+      "time": "未公布",
+      "name": "2026新竹市巨星演唱會",
+      "location": "新竹市大湳雅公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司：盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
+    },
+    {
+      "id": "upcoming-row-192",
+      "date": "20261017",
+      "band": "band_6gp8um_3",
+      "time": "未公布",
+      "name": "2026新竹市巨星演唱會",
+      "location": "新竹市大湳雅公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司：盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
+    },
+    {
+      "id": "upcoming-row-193",
+      "date": "20261017",
+      "band": "band_nmq1yt",
+      "time": "未公布",
+      "name": "2026新竹市巨星演唱會",
+      "location": "新竹市大湳雅公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司：盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
+    },
+    {
+      "id": "upcoming-row-194",
+      "date": "20261017",
+      "band": "band_drsiw0_50",
+      "time": "未公布",
+      "name": "2026新竹市巨星演唱會",
+      "location": "新竹市大湳雅公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司：盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
+    },
+    {
+      "id": "upcoming-row-195",
+      "date": "20261017",
+      "band": "band_drsiw0_51",
+      "time": "未公布",
+      "name": "2026新竹市巨星演唱會",
+      "location": "新竹市大湳雅公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司：盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
     },
     {
       "id": "upcoming-row-4",
@@ -6099,6 +6191,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "18e7fea9-cb3e-4779-b363-ab80cb43d690",
-  "updatedAt": "2026-10-15T06:18:43.110Z"
+  "revision": "299be225-1053-4fc6-9062-3c19779f4114",
+  "updatedAt": "2026-10-15T06:20:17.143Z"
 }
