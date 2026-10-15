@@ -650,6 +650,14 @@
       "eventCount": 2
     },
     {
+      "id": "FireEX",
+      "name": "滅火器",
+      "short": "滅火器",
+      "color": "#C8102E",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "band_6gp8um_1",
       "name": "王謙",
       "short": "王謙",
@@ -2511,14 +2519,6 @@
       "short": "王鳳珠",
       "color": "#8338ec",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "FireEX",
-      "name": "滅火器",
-      "short": "滅火器",
-      "color": "#C8102E",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -10207,11 +10207,11 @@
       "id": "upcoming-row-476",
       "date": "20261212",
       "band": "FireEX",
-      "time": "",
-      "name": "",
-      "location": "",
-      "mapLink": "",
-      "note": ""
+      "time": "19:30-23:00",
+      "name": "ON FIRE DAY 2026 滅火器高雄巨蛋演唱會",
+      "location": "高雄巨蛋",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A9",
+      "note": "［售票］\n結束時間未定"
     },
     {
       "id": "upcoming-row-30",
@@ -10222,6 +10222,16 @@
       "location": "未公布",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=",
       "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/"
+    },
+    {
+      "id": "upcoming-row-477",
+      "date": "20261213",
+      "band": "FireEX",
+      "time": "17:30-21:00",
+      "name": "ON FIRE DAY 2026 滅火器高雄巨蛋演唱會",
+      "location": "高雄巨蛋",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A10",
+      "note": "［售票］\n結束時間未定"
     },
     {
       "id": "upcoming-row-31",
@@ -10489,6 +10499,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "17f02635-cabc-4e72-8d0e-fac898098890",
-  "updatedAt": "2026-10-15T10:16:41.305Z"
+  "revision": "8592077f-1b79-447e-99bd-afcaa82fce91",
+  "updatedAt": "2026-10-15T10:19:07.773Z"
 }
