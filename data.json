@@ -66,6 +66,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_drsiw0_17",
+      "name": "甜約翰",
+      "short": "甜約翰",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
       "id": "trash",
       "name": "TRASH",
       "short": "TRASH",
@@ -103,14 +111,6 @@
       "short": "派偉俊",
       "color": "#06d6a0",
       "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_17",
-      "name": "甜約翰",
-      "short": "甜約翰",
-      "color": "#ffd166",
-      "category": "樂團",
       "eventCount": 4
     },
     {
@@ -170,6 +170,14 @@
       "eventCount": 3
     },
     {
+      "id": "joyce",
+      "name": "JOYCE 就以斯",
+      "short": "就以斯",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "unus",
       "name": "U:NUS",
       "short": "U:NUS",
@@ -199,6 +207,22 @@
       "short": "艾薇",
       "color": "#fb5607",
       "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_50",
+      "name": "黃宇寒",
+      "short": "黃宇寒",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_qqiyec_5",
+      "name": "傻子與白痴",
+      "short": "傻白",
+      "color": "#3a86ff",
+      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -247,14 +271,6 @@
       "short": "南西肯恩",
       "color": "#118ab2",
       "category": "團體",
-      "eventCount": 2
-    },
-    {
-      "id": "joyce",
-      "name": "JOYCE 就以斯",
-      "short": "就以斯",
-      "color": "#ff006e",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -338,6 +354,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6gp8um_14",
+      "name": "持修",
+      "short": "持修",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_qqiyec_2",
       "name": "東部壞男孩",
       "short": "東部",
@@ -358,22 +382,6 @@
       "name": "帕崎拉",
       "short": "帕崎拉",
       "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_50",
-      "name": "黃宇寒",
-      "short": "黃宇寒",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_qqiyec_5",
-      "name": "傻子與白痴",
-      "short": "傻白",
-      "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 2
     },
@@ -1215,14 +1223,6 @@
       "short": "TNX",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_14",
-      "name": "持修",
-      "short": "持修",
-      "color": "#ffd166",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -2318,6 +2318,62 @@
       "name": "劉阿昌",
       "short": "劉阿",
       "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "nicktsai",
+      "name": "Nick Tsai",
+      "short": "Ni",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_24",
+      "name": "女作之韻",
+      "short": "女作",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "mollylindjsh",
+      "name": "MOLLY LIN(DJ SHOW)",
+      "short": "MO",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "sufuproject",
+      "name": "SUFU Project",
+      "short": "SU",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "estelleperra",
+      "name": "Estelle Perrault 張婷雅",
+      "short": "Es",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "yellowsnapdj",
+      "name": "YELLOW SNAP(DJ SHOW)",
+      "short": "YE",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_96",
+      "name": "艾怡良",
+      "short": "艾怡",
+      "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
     },
@@ -8242,6 +8298,66 @@
       "note": "［免費］\n卡司:畢書盡、楊淨宇、郭書瑤、賴銘偉、陳勢安。主持:詹子晴、法比。活動時間:10:00-21:30。"
     },
     {
+      "id": "upcoming-row-435",
+      "date": "20261031",
+      "band": "nicktsai",
+      "time": "未公布",
+      "name": "ELLE Weekend",
+      "location": "台北市松山文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含兩日演出：10/31（南向製菸工廠、巴洛克花園）及 11/01（南向製菸工廠、巴洛克花園）。\n卡司名單：Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
+    },
+    {
+      "id": "upcoming-row-436",
+      "date": "20261031",
+      "band": "band_drsiw0_50",
+      "time": "未公布",
+      "name": "ELLE Weekend",
+      "location": "台北市松山文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含兩日演出：10/31（南向製菸工廠、巴洛克花園）及 11/01（南向製菸工廠、巴洛克花園）。\n卡司名單：Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
+    },
+    {
+      "id": "upcoming-row-437",
+      "date": "20261031",
+      "band": "band_drsiw0_17",
+      "time": "未公布",
+      "name": "ELLE Weekend",
+      "location": "台北市松山文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含兩日演出：10/31（南向製菸工廠、巴洛克花園）及 11/01（南向製菸工廠、巴洛克花園）。\n卡司名單：Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
+    },
+    {
+      "id": "upcoming-row-438",
+      "date": "20261031",
+      "band": "band_6u8lrj_24",
+      "time": "未公布",
+      "name": "ELLE Weekend",
+      "location": "台北市松山文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含兩日演出：10/31（南向製菸工廠、巴洛克花園）及 11/01（南向製菸工廠、巴洛克花園）。\n卡司名單：Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
+    },
+    {
+      "id": "upcoming-row-439",
+      "date": "20261031",
+      "band": "mollylindjsh",
+      "time": "未公布",
+      "name": "ELLE Weekend",
+      "location": "台北市松山文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含兩日演出：10/31（南向製菸工廠、巴洛克花園）及 11/01（南向製菸工廠、巴洛克花園）。\n卡司名單：Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
+    },
+    {
+      "id": "upcoming-row-440",
+      "date": "20261031",
+      "band": "band_6gp8um_14",
+      "time": "未公布",
+      "name": "ELLE Weekend",
+      "location": "台北市松山文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含兩日演出：10/31（南向製菸工廠、巴洛克花園）及 11/01（南向製菸工廠、巴洛克花園）。\n卡司名單：Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
+    },
+    {
       "id": "upcoming-row-15",
       "date": "20261101",
       "band": "papunband",
@@ -8740,6 +8856,66 @@
       "location": "屏東縣萬巒鄉濃情巧克力愛情莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E8%90%AC%E5%B7%92%E9%84%89%E6%BF%83%E6%83%85%E5%B7%A7%E5%85%8B%E5%8A%9B%E6%84%9B%E6%83%85%E8%8E%8A%E5%9C%92",
       "note": "［免費］\n卡司：許富凱、曹雅雯、陳孟賢、南方二重唱、六堆客家文藝團、萬巒鄉立幼兒園。活動時間為 17:30-20:00。"
+    },
+    {
+      "id": "upcoming-row-441",
+      "date": "20261101",
+      "band": "sufuproject",
+      "time": "未公布",
+      "name": "ELLE Weekend",
+      "location": "台北市松山文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含兩日演出：10/31（南向製菸工廠、巴洛克花園）及 11/01（南向製菸工廠、巴洛克花園）。\n卡司名單：Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
+    },
+    {
+      "id": "upcoming-row-442",
+      "date": "20261101",
+      "band": "joyce",
+      "time": "未公布",
+      "name": "ELLE Weekend",
+      "location": "台北市松山文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含兩日演出：10/31（南向製菸工廠、巴洛克花園）及 11/01（南向製菸工廠、巴洛克花園）。\n卡司名單：Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
+    },
+    {
+      "id": "upcoming-row-443",
+      "date": "20261101",
+      "band": "band_qqiyec_5",
+      "time": "未公布",
+      "name": "ELLE Weekend",
+      "location": "台北市松山文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含兩日演出：10/31（南向製菸工廠、巴洛克花園）及 11/01（南向製菸工廠、巴洛克花園）。\n卡司名單：Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
+    },
+    {
+      "id": "upcoming-row-444",
+      "date": "20261101",
+      "band": "estelleperra",
+      "time": "未公布",
+      "name": "ELLE Weekend",
+      "location": "台北市松山文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含兩日演出：10/31（南向製菸工廠、巴洛克花園）及 11/01（南向製菸工廠、巴洛克花園）。\n卡司名單：Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
+    },
+    {
+      "id": "upcoming-row-445",
+      "date": "20261101",
+      "band": "yellowsnapdj",
+      "time": "未公布",
+      "name": "ELLE Weekend",
+      "location": "台北市松山文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含兩日演出：10/31（南向製菸工廠、巴洛克花園）及 11/01（南向製菸工廠、巴洛克花園）。\n卡司名單：Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
+    },
+    {
+      "id": "upcoming-row-446",
+      "date": "20261101",
+      "band": "band_drsiw0_96",
+      "time": "未公布",
+      "name": "ELLE Weekend",
+      "location": "台北市松山文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含兩日演出：10/31（南向製菸工廠、巴洛克花園）及 11/01（南向製菸工廠、巴洛克花園）。\n卡司名單：Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
     },
     {
       "id": "upcoming-row-17",
@@ -9877,6 +10053,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "bc7c274f-9447-4ab1-a192-34c74f76d04d",
-  "updatedAt": "2026-10-15T07:27:45.368Z"
+  "revision": "00c7618e-efb7-4bc8-9d77-635edc2cb059",
+  "updatedAt": "2026-10-15T07:29:19.990Z"
 }
