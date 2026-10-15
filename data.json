@@ -940,7 +940,7 @@
     {
       "id": "matzka",
       "name": "Matzka",
-      "short": "Ma",
+      "short": "Matzka",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -948,7 +948,7 @@
     {
       "id": "btob",
       "name": "BTOB",
-      "short": "BT",
+      "short": "BTOB",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -956,7 +956,7 @@
     {
       "id": "band_drsiw0_46",
       "name": "李彩演",
-      "short": "李彩",
+      "short": "李彩演",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -964,7 +964,7 @@
     {
       "id": "tnx",
       "name": "TNX",
-      "short": "TN",
+      "short": "TNX",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -1062,6 +1062,78 @@
       "name": "李子森",
       "short": "李子森",
       "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_52",
+      "name": "吳志寧",
+      "short": "吳志",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_53",
+      "name": "台青蕉",
+      "short": "台青",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_3",
+      "name": "卜彗星樂團",
+      "short": "卜彗",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "monkeypower",
+      "name": "MONKEYPOWER",
+      "short": "MO",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_7",
+      "name": "亞立山大",
+      "short": "亞立",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "fuvva",
+      "name": "fuvva",
+      "short": "fu",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_8",
+      "name": "重啟二六",
+      "short": "重啟",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_4",
+      "name": "小麻雀樂團",
+      "short": "小麻",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_9",
+      "name": "茜茜溱妮",
+      "short": "茜茜",
+      "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
     }
@@ -4406,6 +4478,96 @@
       "note": "［免費］\n卡司:盧廣仲、李聖傑、孫盛希、白安、呂思緯、黃宇寒、李子森。活動時間預計於 14:50 開始。\n來源：https://www.threads.com/share/BADACNflBv/"
     },
     {
+      "id": "upcoming-row-196",
+      "date": "20261017",
+      "band": "band_drsiw0_52",
+      "time": "未公布",
+      "name": "搖旗吶喊音樂節",
+      "location": "高雄旗山體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E6%97%97%E5%B1%B1%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n卡司：吳志寧、台青蕉、卜彗星樂團、MONKEYPOWER、亞立山大、fuvva、重啟二六、小麻雀樂團、茜茜溱妮"
+    },
+    {
+      "id": "upcoming-row-197",
+      "date": "20261017",
+      "band": "band_drsiw0_53",
+      "time": "未公布",
+      "name": "搖旗吶喊音樂節",
+      "location": "高雄旗山體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E6%97%97%E5%B1%B1%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n卡司：吳志寧、台青蕉、卜彗星樂團、MONKEYPOWER、亞立山大、fuvva、重啟二六、小麻雀樂團、茜茜溱妮"
+    },
+    {
+      "id": "upcoming-row-198",
+      "date": "20261017",
+      "band": "band_qqiyec_3",
+      "time": "未公布",
+      "name": "搖旗吶喊音樂節",
+      "location": "高雄旗山體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E6%97%97%E5%B1%B1%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n卡司：吳志寧、台青蕉、卜彗星樂團、MONKEYPOWER、亞立山大、fuvva、重啟二六、小麻雀樂團、茜茜溱妮"
+    },
+    {
+      "id": "upcoming-row-199",
+      "date": "20261017",
+      "band": "monkeypower",
+      "time": "未公布",
+      "name": "搖旗吶喊音樂節",
+      "location": "高雄旗山體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E6%97%97%E5%B1%B1%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n卡司：吳志寧、台青蕉、卜彗星樂團、MONKEYPOWER、亞立山大、fuvva、重啟二六、小麻雀樂團、茜茜溱妮"
+    },
+    {
+      "id": "upcoming-row-200",
+      "date": "20261017",
+      "band": "band_6u8lrj_7",
+      "time": "未公布",
+      "name": "搖旗吶喊音樂節",
+      "location": "高雄旗山體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E6%97%97%E5%B1%B1%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n卡司：吳志寧、台青蕉、卜彗星樂團、MONKEYPOWER、亞立山大、fuvva、重啟二六、小麻雀樂團、茜茜溱妮"
+    },
+    {
+      "id": "upcoming-row-201",
+      "date": "20261017",
+      "band": "fuvva",
+      "time": "未公布",
+      "name": "搖旗吶喊音樂節",
+      "location": "高雄旗山體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E6%97%97%E5%B1%B1%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n卡司：吳志寧、台青蕉、卜彗星樂團、MONKEYPOWER、亞立山大、fuvva、重啟二六、小麻雀樂團、茜茜溱妮"
+    },
+    {
+      "id": "upcoming-row-202",
+      "date": "20261017",
+      "band": "band_6u8lrj_8",
+      "time": "未公布",
+      "name": "搖旗吶喊音樂節",
+      "location": "高雄旗山體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E6%97%97%E5%B1%B1%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n卡司：吳志寧、台青蕉、卜彗星樂團、MONKEYPOWER、亞立山大、fuvva、重啟二六、小麻雀樂團、茜茜溱妮"
+    },
+    {
+      "id": "upcoming-row-203",
+      "date": "20261017",
+      "band": "band_qqiyec_4",
+      "time": "未公布",
+      "name": "搖旗吶喊音樂節",
+      "location": "高雄旗山體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E6%97%97%E5%B1%B1%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n卡司：吳志寧、台青蕉、卜彗星樂團、MONKEYPOWER、亞立山大、fuvva、重啟二六、小麻雀樂團、茜茜溱妮"
+    },
+    {
+      "id": "upcoming-row-204",
+      "date": "20261017",
+      "band": "band_6u8lrj_9",
+      "time": "未公布",
+      "name": "搖旗吶喊音樂節",
+      "location": "高雄旗山體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E6%97%97%E5%B1%B1%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n卡司：吳志寧、台青蕉、卜彗星樂團、MONKEYPOWER、亞立山大、fuvva、重啟二六、小麻雀樂團、茜茜溱妮"
+    },
+    {
       "id": "upcoming-row-4",
       "date": "20261018",
       "band": "papunband",
@@ -6191,6 +6353,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e5c2fa16-a925-4e39-bd05-5e6fe311403d",
-  "updatedAt": "2026-10-15T06:21:32.468Z"
+  "revision": "1e3e6761-e5c3-4383-91f2-263cdc88a308",
+  "updatedAt": "2026-10-15T06:21:44.931Z"
 }
