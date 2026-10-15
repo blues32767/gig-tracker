@@ -1651,8 +1651,8 @@
     },
     {
       "id": "whocares_1",
-      "name": "Who Cares",
-      "short": "Who Cares",
+      "name": "Who Cares胡凱兒",
+      "short": "胡凱兒",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -1668,8 +1668,48 @@
     {
       "id": "band_drsiw0_74",
       "name": "間奕格",
-      "short": "間奕",
+      "short": "間奕格",
       "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir_3",
+      "name": "即將成真火舞團",
+      "short": "即將",
+      "color": "#fb5607",
+      "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "cicada",
+      "name": "Cicada",
+      "short": "Ci",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_18",
+      "name": "世界之星",
+      "short": "世界",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "skaraoke",
+      "name": "SKARAOKE",
+      "short": "SK",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_19",
+      "name": "落日遊行",
+      "short": "落日",
+      "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
     },
@@ -5413,11 +5453,11 @@
       "id": "upcoming-row-37",
       "date": "20261024",
       "band": "mango",
-      "time": "16:00-16:30",
-      "name": "火神祭 國際火舞藝術節",
+      "time": "16:00-16:40",
+      "name": "《火神祭》國際火舞藝術節",
       "location": "台南市安平區漁光島",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E5%8D%80%E6%BC%81%E5%85%89%E5%B3%B6",
-      "note": "［售票］\n全區免費入場,另有推出「星火計畫」藝文贊助席位(票價 2,000 元及 3,600 元,可至年代售票選購)\n卡司：芒果醬。日期：2026/10/24。"
+      "note": "［免費］\n全區免費入場,另有推出「星火計畫」藝文贊助席位(票價 2,000 元及 3,600 元,可至年代售票選購)\n卡司：芒果醬。日期：2026/10/24。\n活動日期為 2026/10/24-2026/10/26。卡司包含：芒果醬、即將成真火舞團、Cicada、《世界之星》、SKARAOKE、落日遊行。"
     },
     {
       "id": "upcoming-row-39",
@@ -5920,6 +5960,16 @@
       "note": "［免費］\n卡司:展榮展瑞、洪言翔、木星人、詹仕偉、吳承恩、范范、瑋弟、SmileDash、W!nky。活動日期為 2026/10/24。\n卡司：洪言翔、詹仕偉 Soonpy、木星人、CN 吳承恩、范范、瑋弟、展榮 × 展瑞、SmileDash、W!nky"
     },
     {
+      "id": "upcoming-row-289",
+      "date": "20261024",
+      "band": "band_maaxir_3",
+      "time": "16:00-16:40",
+      "name": "《火神祭》國際火舞藝術節",
+      "location": "台南市安平區漁光島",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E5%8D%80%E6%BC%81%E5%85%89%E5%B3%B6",
+      "note": "［免費］\n全區免費入場,另有推出「星火計畫」藝文贊助席位(票價 2,000 元及 3,600 元,可至年代售票選購)\n卡司：芒果醬。日期：2026/10/24。\n活動日期為 2026/10/24-2026/10/26。卡司包含：芒果醬、即將成真火舞團、Cicada、《世界之星》、SKARAOKE、落日遊行。"
+    },
+    {
       "id": "upcoming-row-10",
       "date": "20261025",
       "band": "papunband",
@@ -6038,6 +6088,46 @@
       "location": "新竹縣政府文化局 文化廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%20%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4",
       "note": "［免費］\n卡司:脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。活動時間預計於 15:00 開始。"
+    },
+    {
+      "id": "upcoming-row-290",
+      "date": "20261025",
+      "band": "cicada",
+      "time": "未公布",
+      "name": "《火神祭》國際火舞藝術節",
+      "location": "台南市安平區漁光島",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E5%8D%80%E6%BC%81%E5%85%89%E5%B3%B6",
+      "note": "［免費］\n全區免費入場,另有推出「星火計畫」藝文贊助席位(票價 2,000 元及 3,600 元,可至年代售票選購)\n卡司：芒果醬。日期：2026/10/24。\n活動日期為 2026/10/24-2026/10/26。卡司包含：芒果醬、即將成真火舞團、Cicada、《世界之星》、SKARAOKE、落日遊行。"
+    },
+    {
+      "id": "upcoming-row-291",
+      "date": "20261025",
+      "band": "band_6u8lrj_18",
+      "time": "未公布",
+      "name": "《火神祭》國際火舞藝術節",
+      "location": "台南市安平區漁光島",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E5%8D%80%E6%BC%81%E5%85%89%E5%B3%B6",
+      "note": "［免費］\n全區免費入場,另有推出「星火計畫」藝文贊助席位(票價 2,000 元及 3,600 元,可至年代售票選購)\n卡司：芒果醬。日期：2026/10/24。\n活動日期為 2026/10/24-2026/10/26。卡司包含：芒果醬、即將成真火舞團、Cicada、《世界之星》、SKARAOKE、落日遊行。"
+    },
+    {
+      "id": "upcoming-row-292",
+      "date": "20261026",
+      "band": "skaraoke",
+      "time": "未公布",
+      "name": "《火神祭》國際火舞藝術節",
+      "location": "台南市安平區漁光島",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E5%8D%80%E6%BC%81%E5%85%89%E5%B3%B6",
+      "note": "［免費］\n全區免費入場,另有推出「星火計畫」藝文贊助席位(票價 2,000 元及 3,600 元,可至年代售票選購)\n卡司：芒果醬。日期：2026/10/24。\n活動日期為 2026/10/24-2026/10/26。卡司包含：芒果醬、即將成真火舞團、Cicada、《世界之星》、SKARAOKE、落日遊行。"
+    },
+    {
+      "id": "upcoming-row-293",
+      "date": "20261026",
+      "band": "band_6u8lrj_19",
+      "time": "未公布",
+      "name": "《火神祭》國際火舞藝術節",
+      "location": "台南市安平區漁光島",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E5%8D%80%E6%BC%81%E5%85%89%E5%B3%B6",
+      "note": "［免費］\n全區免費入場,另有推出「星火計畫」藝文贊助席位(票價 2,000 元及 3,600 元,可至年代售票選購)\n卡司：芒果醬。日期：2026/10/24。\n活動日期為 2026/10/24-2026/10/26。卡司包含：芒果醬、即將成真火舞團、Cicada、《世界之星》、SKARAOKE、落日遊行。"
     },
     {
       "id": "upcoming-row-9",
@@ -7785,6 +7875,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e4dfd83f-e14b-40c2-a242-7b00c5e5dad7",
-  "updatedAt": "2026-10-15T06:51:33.124Z"
+  "revision": "f03e8211-92d0-451e-ac11-1429ce1b30d5",
+  "updatedAt": "2026-10-15T06:52:18.176Z"
 }
