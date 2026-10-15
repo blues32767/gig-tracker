@@ -7069,9 +7069,9 @@
       "band": "WhoCares",
       "time": "未公布",
       "name": "造星計畫3天2026 CR造星計畫:中科大場",
-      "location": "國立台中科技大學體育館",
+      "location": "台中市臺中科技大學體育館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%8F%B0%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E9%AB%94%E8%82%B2%E9%A4%A8",
-      "note": "［免費］\n2026 CR造星計畫:中科大場\n2026/11/12 中科大體育館\n卡司:\n卡司:脆樂團、胡凱兒\n來源：https://www.threads.com/share/GUHyhipLh/"
+      "note": "［免費］\n2026 CR造星計畫:中科大場\n2026/11/12 中科大體育館\n卡司:\n卡司:脆樂團、胡凱兒\n卡司：脆樂團、胡凱兒。活動日期為 2026年11月12日。\n來源：https://www.threads.com/share/GUHyhipLh/"
     },
     {
       "id": "upcoming-row-131",
@@ -7079,9 +7079,9 @@
       "band": "band_drsiw0_39",
       "time": "未公布",
       "name": "造星計畫3天2026 CR造星計畫:中科大場",
-      "location": "國立台中科技大學體育館",
+      "location": "台中市臺中科技大學體育館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%8F%B0%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E9%AB%94%E8%82%B2%E9%A4%A8",
-      "note": "［免費］\n2026 CR造星計畫:中科大場\n2026/11/12 中科大體育館\n卡司:\n卡司:脆樂團、胡凱兒\n來源：https://www.threads.com/share/GUHyhipLh/"
+      "note": "［免費］\n2026 CR造星計畫:中科大場\n2026/11/12 中科大體育館\n卡司:\n卡司:脆樂團、胡凱兒\n卡司：脆樂團、胡凱兒。活動日期為 2026年11月12日。\n來源：https://www.threads.com/share/GUHyhipLh/"
     },
     {
       "id": "upcoming-row-22",
@@ -7739,6 +7739,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "2105a216-2d0c-475d-b1ea-e40e70fabdc3",
-  "updatedAt": "2026-10-15T06:49:31.693Z"
+  "revision": "cf91d082-f23b-49c2-a38e-ca3b35dd33c7",
+  "updatedAt": "2026-10-15T06:50:02.547Z"
 }
