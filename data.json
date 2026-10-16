@@ -90,6 +90,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富凱",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "band_drsiw0_27",
       "name": "玖壹壹",
       "short": "玖壹壹",
@@ -154,19 +162,19 @@
       "eventCount": 4
     },
     {
+      "id": "fenix",
+      "name": "FEniX",
+      "short": "FEniX",
+      "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 4
+    },
+    {
       "id": "band",
       "name": "粗大Band",
       "short": "粗大Band",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_25",
-      "name": "許富凱",
-      "short": "許富凱",
-      "color": "#ef476f",
-      "category": "個人",
       "eventCount": 4
     },
     {
@@ -218,19 +226,19 @@
       "eventCount": 3
     },
     {
-      "id": "fenix",
-      "name": "FEniX",
-      "short": "FEniX",
-      "color": "#8338ec",
-      "category": "團體",
-      "eventCount": 3
-    },
-    {
       "id": "ozone",
       "name": "Ozone",
       "short": "Ozone",
       "color": "#ffd166",
       "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_39",
+      "name": "脆樂團",
+      "short": "脆樂團",
+      "color": "#ffd166",
+      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -247,6 +255,14 @@
       "short": "黃宇寒",
       "color": "#ffd166",
       "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_6u8lrj_10",
+      "name": "幽靈水晶",
+      "short": "幽靈水晶",
+      "color": "#ffd166",
+      "category": "團體",
       "eventCount": 3
     },
     {
@@ -304,6 +320,22 @@
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 3
+    },
+    {
+      "id": "sabrina",
+      "name": "Sabrina 胡恂舞",
+      "short": "Sabrina 胡恂舞",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_14",
+      "name": "翁鈺鈞",
+      "short": "翁鈺鈞",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
     },
     {
       "id": "buy",
@@ -410,14 +442,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_39",
-      "name": "脆樂團",
-      "short": "脆樂團",
-      "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "yoyo",
       "name": "YOYO 家族",
       "short": "YOYO 家族",
@@ -463,14 +487,6 @@
       "short": "康士坦",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6u8lrj_10",
-      "name": "幽靈水晶",
-      "short": "幽靈水晶",
-      "color": "#ffd166",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -690,14 +706,6 @@
       "eventCount": 2
     },
     {
-      "id": "sabrina",
-      "name": "Sabrina 胡恂舞",
-      "short": "Sabrina 胡恂舞",
-      "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_6gp8um_28",
       "name": "紙鳶",
       "short": "紙鳶",
@@ -767,6 +775,14 @@
       "short": "米津玄師",
       "color": "#ff006e",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "djswallow",
+      "name": "DJ Swallow妖嬌",
+      "short": "DJ Swallow妖嬌",
+      "color": "#ef476f",
+      "category": "團體",
       "eventCount": 2
     },
     {
@@ -862,14 +878,6 @@
       "name": "黃新皓",
       "short": "黃新皓",
       "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_14",
-      "name": "翁鈺鈞",
-      "short": "翁鈺鈞",
-      "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
     },
@@ -2850,14 +2858,6 @@
       "eventCount": 1
     },
     {
-      "id": "djswallow",
-      "name": "DJ Swallow妖嬌",
-      "short": "DJ Swallow妖嬌",
-      "color": "#ef476f",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_114",
       "name": "安心亞",
       "short": "安心亞",
@@ -2887,6 +2887,22 @@
       "short": "Multiverse Music",
       "color": "#8338ec",
       "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_36",
+      "name": "斑恩",
+      "short": "斑恩",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_116",
+      "name": "王詩安",
+      "short": "王詩",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -9413,6 +9429,96 @@
       "note": "［免費］\n活動包含兩日演出:10/31(南向製菸工廠、巴洛克花園)及 11/01(南向製菸工廠、巴洛克花園)。\n卡司名單:Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
     },
     {
+      "id": "upcoming-row-543",
+      "date": "20261031",
+      "band": "band_drsiw0_39",
+      "time": "未公布",
+      "name": "二水國際跑水節",
+      "location": "彰化縣二水鄉水心之初大草原",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E4%BA%8C%E6%B0%B4%E9%84%89%E6%B0%B4%E5%BF%83%E4%B9%8B%E5%88%9D%E5%A4%A7%E8%8D%89%E5%8E%9F",
+      "note": "［免費］\n活動包含兩個時段:草地音樂會 (14:00-18:00) 與 跑水之夜 (19:00-21:00)。\n卡司:脆樂團、幽靈水晶、翁鈺鈞、Sabrina 胡恂舞、許富凱、斑恩、FEniX、王詩安、DJ Swallow妖嬌。"
+    },
+    {
+      "id": "upcoming-row-544",
+      "date": "20261031",
+      "band": "band_6u8lrj_10",
+      "time": "未公布",
+      "name": "二水國際跑水節",
+      "location": "彰化縣二水鄉水心之初大草原",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E4%BA%8C%E6%B0%B4%E9%84%89%E6%B0%B4%E5%BF%83%E4%B9%8B%E5%88%9D%E5%A4%A7%E8%8D%89%E5%8E%9F",
+      "note": "［免費］\n活動包含兩個時段:草地音樂會 (14:00-18:00) 與 跑水之夜 (19:00-21:00)。\n卡司:脆樂團、幽靈水晶、翁鈺鈞、Sabrina 胡恂舞、許富凱、斑恩、FEniX、王詩安、DJ Swallow妖嬌。"
+    },
+    {
+      "id": "upcoming-row-545",
+      "date": "20261031",
+      "band": "band_drsiw0_14",
+      "time": "未公布",
+      "name": "二水國際跑水節",
+      "location": "彰化縣二水鄉水心之初大草原",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E4%BA%8C%E6%B0%B4%E9%84%89%E6%B0%B4%E5%BF%83%E4%B9%8B%E5%88%9D%E5%A4%A7%E8%8D%89%E5%8E%9F",
+      "note": "［免費］\n活動包含兩個時段:草地音樂會 (14:00-18:00) 與 跑水之夜 (19:00-21:00)。\n卡司:脆樂團、幽靈水晶、翁鈺鈞、Sabrina 胡恂舞、許富凱、斑恩、FEniX、王詩安、DJ Swallow妖嬌。"
+    },
+    {
+      "id": "upcoming-row-546",
+      "date": "20261031",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "二水國際跑水節",
+      "location": "彰化縣二水鄉水心之初大草原",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E4%BA%8C%E6%B0%B4%E9%84%89%E6%B0%B4%E5%BF%83%E4%B9%8B%E5%88%9D%E5%A4%A7%E8%8D%89%E5%8E%9F",
+      "note": "［免費］\n活動包含兩個時段:草地音樂會 (14:00-18:00) 與 跑水之夜 (19:00-21:00)。\n卡司:脆樂團、幽靈水晶、翁鈺鈞、Sabrina 胡恂舞、許富凱、斑恩、FEniX、王詩安、DJ Swallow妖嬌。"
+    },
+    {
+      "id": "upcoming-row-547",
+      "date": "20261031",
+      "band": "band_drsiw0_25",
+      "time": "未公布",
+      "name": "二水國際跑水節",
+      "location": "彰化縣二水鄉水心之初大草原",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E4%BA%8C%E6%B0%B4%E9%84%89%E6%B0%B4%E5%BF%83%E4%B9%8B%E5%88%9D%E5%A4%A7%E8%8D%89%E5%8E%9F",
+      "note": "［免費］\n活動包含兩個時段:草地音樂會 (14:00-18:00) 與 跑水之夜 (19:00-21:00)。\n卡司:脆樂團、幽靈水晶、翁鈺鈞、Sabrina 胡恂舞、許富凱、斑恩、FEniX、王詩安、DJ Swallow妖嬌。"
+    },
+    {
+      "id": "upcoming-row-548",
+      "date": "20261031",
+      "band": "band_6gp8um_36",
+      "time": "未公布",
+      "name": "二水國際跑水節",
+      "location": "彰化縣二水鄉水心之初大草原",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E4%BA%8C%E6%B0%B4%E9%84%89%E6%B0%B4%E5%BF%83%E4%B9%8B%E5%88%9D%E5%A4%A7%E8%8D%89%E5%8E%9F",
+      "note": "［免費］\n活動包含兩個時段:草地音樂會 (14:00-18:00) 與 跑水之夜 (19:00-21:00)。\n卡司:脆樂團、幽靈水晶、翁鈺鈞、Sabrina 胡恂舞、許富凱、斑恩、FEniX、王詩安、DJ Swallow妖嬌。"
+    },
+    {
+      "id": "upcoming-row-549",
+      "date": "20261031",
+      "band": "fenix",
+      "time": "未公布",
+      "name": "二水國際跑水節",
+      "location": "彰化縣二水鄉水心之初大草原",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E4%BA%8C%E6%B0%B4%E9%84%89%E6%B0%B4%E5%BF%83%E4%B9%8B%E5%88%9D%E5%A4%A7%E8%8D%89%E5%8E%9F",
+      "note": "［免費］\n活動包含兩個時段:草地音樂會 (14:00-18:00) 與 跑水之夜 (19:00-21:00)。\n卡司:脆樂團、幽靈水晶、翁鈺鈞、Sabrina 胡恂舞、許富凱、斑恩、FEniX、王詩安、DJ Swallow妖嬌。"
+    },
+    {
+      "id": "upcoming-row-550",
+      "date": "20261031",
+      "band": "band_drsiw0_116",
+      "time": "未公布",
+      "name": "二水國際跑水節",
+      "location": "彰化縣二水鄉水心之初大草原",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E4%BA%8C%E6%B0%B4%E9%84%89%E6%B0%B4%E5%BF%83%E4%B9%8B%E5%88%9D%E5%A4%A7%E8%8D%89%E5%8E%9F",
+      "note": "［免費］\n活動包含兩個時段:草地音樂會 (14:00-18:00) 與 跑水之夜 (19:00-21:00)。\n卡司:脆樂團、幽靈水晶、翁鈺鈞、Sabrina 胡恂舞、許富凱、斑恩、FEniX、王詩安、DJ Swallow妖嬌。"
+    },
+    {
+      "id": "upcoming-row-551",
+      "date": "20261031",
+      "band": "djswallow",
+      "time": "未公布",
+      "name": "二水國際跑水節",
+      "location": "彰化縣二水鄉水心之初大草原",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E4%BA%8C%E6%B0%B4%E9%84%89%E6%B0%B4%E5%BF%83%E4%B9%8B%E5%88%9D%E5%A4%A7%E8%8D%89%E5%8E%9F",
+      "note": "［免費］\n活動包含兩個時段:草地音樂會 (14:00-18:00) 與 跑水之夜 (19:00-21:00)。\n卡司:脆樂團、幽靈水晶、翁鈺鈞、Sabrina 胡恂舞、許富凱、斑恩、FEniX、王詩安、DJ Swallow妖嬌。"
+    },
+    {
       "id": "upcoming-row-15",
       "date": "20261101",
       "band": "papunband",
@@ -11598,6 +11704,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "91d303a6-8b78-484c-8d1e-fee5febbf68c",
-  "updatedAt": "2026-10-16T13:07:40.271Z"
+  "revision": "e0524065-f9b1-4a96-ac79-15957768df80",
+  "updatedAt": "2026-10-16T13:23:27.028Z"
 }
