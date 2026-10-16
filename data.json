@@ -106,6 +106,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_6gp8um_11",
+      "name": "艾薇",
+      "short": "艾薇",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "captainlu",
       "name": "盧廣仲",
       "short": "盧廣仲",
@@ -162,14 +170,6 @@
       "eventCount": 4
     },
     {
-      "id": "band_6gp8um_11",
-      "name": "艾薇",
-      "short": "艾薇",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
       "id": "band_qqiyec_5",
       "name": "傻子與白痴",
       "short": "傻白",
@@ -214,6 +214,14 @@
       "name": "U:NUS",
       "short": "U:NUS",
       "color": "#2ec4b6",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "fenix",
+      "name": "FEniX",
+      "short": "FEniX",
+      "color": "#8338ec",
       "category": "團體",
       "eventCount": 3
     },
@@ -274,6 +282,14 @@
       "eventCount": 3
     },
     {
+      "id": "fei",
+      "name": "吳霏 FEI",
+      "short": "吳霏 FEI",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "buy",
       "name": "Bu$y",
       "short": "Bu$y",
@@ -311,14 +327,6 @@
       "short": "黃偉晉",
       "color": "#118ab2",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "fenix",
-      "name": "FEniX",
-      "short": "FEniX",
-      "color": "#8338ec",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -447,6 +455,14 @@
       "short": "康士坦",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_10",
+      "name": "幽靈水晶",
+      "short": "幽靈水晶",
+      "color": "#ffd166",
+      "category": "團體",
       "eventCount": 2
     },
     {
@@ -594,6 +610,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_72",
+      "name": "謝語恩",
+      "short": "謝語恩",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "multiverse",
       "name": "Multiverse",
       "short": "Multiverse",
@@ -642,14 +666,6 @@
       "eventCount": 2
     },
     {
-      "id": "fei",
-      "name": "吳霏 FEI",
-      "short": "吳霏 FEI",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_85",
       "name": "蕭景鴻",
       "short": "蕭景鴻",
@@ -679,6 +695,14 @@
       "short": "A_Root 同根生 feat. 蔡家蓁",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_32",
+      "name": "樂樂",
+      "short": "樂樂",
+      "color": "#3a86ff",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -1442,14 +1466,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_10",
-      "name": "幽靈水晶",
-      "short": "幽靈水晶",
-      "color": "#ffd166",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "band_6u8lrj_11",
       "name": "潮州土狗",
       "short": "潮州",
@@ -1710,14 +1726,6 @@
       "name": "邱鋒澤",
       "short": "邱鋒澤",
       "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_72",
-      "name": "謝語恩",
-      "short": "謝語恩",
-      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
     },
@@ -2466,14 +2474,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6gp8um_32",
-      "name": "樂樂",
-      "short": "樂樂",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_maaxir_6",
       "name": "心舞台爵士樂團",
       "short": "心舞台爵士樂團",
@@ -2775,6 +2775,30 @@
       "short": "Ni",
       "color": "#ef476f",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_111",
+      "name": "李杰明",
+      "short": "李杰",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_112",
+      "name": "陳忻玥",
+      "short": "陳忻",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_113",
+      "name": "申力安",
+      "short": "申力",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -6719,6 +6743,96 @@
       "location": "衛武營藝術村旁草地",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%A1%9B%E6%AD%A6%E7%87%9F%E8%97%9D%E8%A1%93%E6%9D%91%E6%97%81%E8%8D%89%E5%9C%B0",
       "note": "［免費］\n活動日期為 2026/10/17 - 10/18。卡司:羊駝小姐、A Tempo Quartet、邱淑蟬、壓滿俱樂部 YaMon Social Club。具體演出時間未公布。"
+    },
+    {
+      "id": "upcoming-row-514",
+      "date": "20261017",
+      "band": "fei",
+      "time": "未公布",
+      "name": "《文韻武釆・七彩黎明》黎明技術學院校慶演唱會",
+      "location": "新北市黎明技術學院操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E9%BB%8E%E6%98%8E%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n卡司:吳霏、艾薇、幽靈水晶、李杰明、陳忻玥、申力安、樂樂、謝語恩、FEnix。活動時間從 13:00 開始。"
+    },
+    {
+      "id": "upcoming-row-515",
+      "date": "20261017",
+      "band": "band_6gp8um_11",
+      "time": "未公布",
+      "name": "《文韻武釆・七彩黎明》黎明技術學院校慶演唱會",
+      "location": "新北市黎明技術學院操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E9%BB%8E%E6%98%8E%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n卡司:吳霏、艾薇、幽靈水晶、李杰明、陳忻玥、申力安、樂樂、謝語恩、FEnix。活動時間從 13:00 開始。"
+    },
+    {
+      "id": "upcoming-row-516",
+      "date": "20261017",
+      "band": "band_6u8lrj_10",
+      "time": "未公布",
+      "name": "《文韻武釆・七彩黎明》黎明技術學院校慶演唱會",
+      "location": "新北市黎明技術學院操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E9%BB%8E%E6%98%8E%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n卡司:吳霏、艾薇、幽靈水晶、李杰明、陳忻玥、申力安、樂樂、謝語恩、FEnix。活動時間從 13:00 開始。"
+    },
+    {
+      "id": "upcoming-row-517",
+      "date": "20261017",
+      "band": "band_drsiw0_111",
+      "time": "未公布",
+      "name": "《文韻武釆・七彩黎明》黎明技術學院校慶演唱會",
+      "location": "新北市黎明技術學院操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E9%BB%8E%E6%98%8E%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n卡司:吳霏、艾薇、幽靈水晶、李杰明、陳忻玥、申力安、樂樂、謝語恩、FEnix。活動時間從 13:00 開始。"
+    },
+    {
+      "id": "upcoming-row-518",
+      "date": "20261017",
+      "band": "band_drsiw0_112",
+      "time": "未公布",
+      "name": "《文韻武釆・七彩黎明》黎明技術學院校慶演唱會",
+      "location": "新北市黎明技術學院操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E9%BB%8E%E6%98%8E%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n卡司:吳霏、艾薇、幽靈水晶、李杰明、陳忻玥、申力安、樂樂、謝語恩、FEnix。活動時間從 13:00 開始。"
+    },
+    {
+      "id": "upcoming-row-519",
+      "date": "20261017",
+      "band": "band_drsiw0_113",
+      "time": "未公布",
+      "name": "《文韻武釆・七彩黎明》黎明技術學院校慶演唱會",
+      "location": "新北市黎明技術學院操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E9%BB%8E%E6%98%8E%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n卡司:吳霏、艾薇、幽靈水晶、李杰明、陳忻玥、申力安、樂樂、謝語恩、FEnix。活動時間從 13:00 開始。"
+    },
+    {
+      "id": "upcoming-row-520",
+      "date": "20261017",
+      "band": "band_6gp8um_32",
+      "time": "未公布",
+      "name": "《文韻武釆・七彩黎明》黎明技術學院校慶演唱會",
+      "location": "新北市黎明技術學院操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E9%BB%8E%E6%98%8E%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n卡司:吳霏、艾薇、幽靈水晶、李杰明、陳忻玥、申力安、樂樂、謝語恩、FEnix。活動時間從 13:00 開始。"
+    },
+    {
+      "id": "upcoming-row-521",
+      "date": "20261017",
+      "band": "band_drsiw0_72",
+      "time": "未公布",
+      "name": "《文韻武釆・七彩黎明》黎明技術學院校慶演唱會",
+      "location": "新北市黎明技術學院操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E9%BB%8E%E6%98%8E%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n卡司:吳霏、艾薇、幽靈水晶、李杰明、陳忻玥、申力安、樂樂、謝語恩、FEnix。活動時間從 13:00 開始。"
+    },
+    {
+      "id": "upcoming-row-522",
+      "date": "20261017",
+      "band": "fenix",
+      "time": "未公布",
+      "name": "《文韻武釆・七彩黎明》黎明技術學院校慶演唱會",
+      "location": "新北市黎明技術學院操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E9%BB%8E%E6%98%8E%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n卡司:吳霏、艾薇、幽靈水晶、李杰明、陳忻玥、申力安、樂樂、謝語恩、FEnix。活動時間從 13:00 開始。"
     },
     {
       "id": "upcoming-row-5",
@@ -11196,6 +11310,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d96bfcfa-d2af-4429-83df-e37b4b303694",
-  "updatedAt": "2026-10-16T00:53:07.514Z"
+  "revision": "ba490b20-5614-4ce3-b53c-dc532fac3701",
+  "updatedAt": "2026-10-16T01:22:17.191Z"
 }
