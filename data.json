@@ -762,6 +762,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6gp8um_35",
+      "name": "上山",
+      "short": "上山",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "nuts",
       "name": "核果人 NUTS",
       "short": "核果人",
@@ -2714,14 +2722,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6gp8um_35",
-      "name": "上山",
-      "short": "上山",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_ioh2wr_1",
       "name": "柯泯薰 & 黃玠瑋",
       "short": "柯泯薰 & 黃玠瑋",
@@ -2903,6 +2903,214 @@
       "short": "王詩",
       "color": "#fb5607",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_117",
+      "name": "你阿伯",
+      "short": "你阿",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_118",
+      "name": "步行者",
+      "short": "步行",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_119",
+      "name": "彰東嘻",
+      "short": "彰東",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_37",
+      "name": "秋山",
+      "short": "秋山",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_31",
+      "name": "伯爵先生",
+      "short": "伯爵",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_32",
+      "name": "等阮返來",
+      "short": "等阮",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_m7pxmr",
+      "name": "文森王 & 達茲",
+      "short": "文森",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_15",
+      "name": "秋瀾九十九",
+      "short": "秋瀾",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_16",
+      "name": "潘潘潘博均",
+      "short": "潘潘",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "cj504",
+      "name": "CJ504",
+      "short": "CJ",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "vews",
+      "name": "VEWS",
+      "short": "VE",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "wilim",
+      "name": "WILIM",
+      "short": "WI",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "djrao",
+      "name": "DJ RAO",
+      "short": "DJ",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "morebeus",
+      "name": "MORE BE US",
+      "short": "MO",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "redtankvanta",
+      "name": "RedTank & Vanta",
+      "short": "Re",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "nikonikotant",
+      "name": "NIKO NIKO TAN TAN",
+      "short": "NI",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_120",
+      "name": "製燥者",
+      "short": "製燥",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_121",
+      "name": "賴奕泓",
+      "short": "賴奕",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_122",
+      "name": "桑化酷",
+      "short": "桑化",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_123",
+      "name": "亥伯龍",
+      "short": "亥伯",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_9z3xfp",
+      "name": "少年A",
+      "short": "少年",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_38",
+      "name": "旅人",
+      "short": "旅人",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_33",
+      "name": "頂加集會",
+      "short": "頂加",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_34",
+      "name": "海岸乾杯",
+      "short": "海岸",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "donald",
+      "name": "達諾Donald",
+      "short": "達諾",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ktvdjyu",
+      "name": "慶記KTV DJ YU",
+      "short": "慶記",
+      "color": "#06d6a0",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -6106,7 +6314,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-341",
@@ -6116,7 +6324,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-367",
@@ -6146,7 +6354,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-3",
@@ -6716,7 +6924,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-343",
@@ -6726,7 +6934,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-344",
@@ -6736,7 +6944,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-345",
@@ -6746,7 +6954,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-346",
@@ -6756,7 +6964,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-347",
@@ -6766,7 +6974,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-348",
@@ -6776,7 +6984,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-349",
@@ -6786,7 +6994,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-350",
@@ -6796,7 +7004,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-351",
@@ -6806,7 +7014,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-352",
@@ -6816,7 +7024,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-365",
@@ -7046,7 +7254,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-539",
@@ -7056,7 +7264,177 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-552",
+      "date": "20261017",
+      "band": "band_drsiw0_117",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-553",
+      "date": "20261017",
+      "band": "band_drsiw0_118",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-554",
+      "date": "20261017",
+      "band": "band_drsiw0_119",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-555",
+      "date": "20261017",
+      "band": "band_6gp8um_35",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-556",
+      "date": "20261017",
+      "band": "band_6gp8um_37",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-557",
+      "date": "20261017",
+      "band": "band_6u8lrj_31",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-558",
+      "date": "20261017",
+      "band": "band_6u8lrj_32",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-559",
+      "date": "20261017",
+      "band": "band_m7pxmr",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-560",
+      "date": "20261017",
+      "band": "band_qqiyec_15",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-561",
+      "date": "20261017",
+      "band": "band_qqiyec_16",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-562",
+      "date": "20261017",
+      "band": "cj504",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-563",
+      "date": "20261017",
+      "band": "vews",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-564",
+      "date": "20261017",
+      "band": "wilim",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-565",
+      "date": "20261017",
+      "band": "djrao",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-566",
+      "date": "20261017",
+      "band": "morebeus",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-567",
+      "date": "20261017",
+      "band": "redtankvanta",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-568",
+      "date": "20261017",
+      "band": "nikonikotant",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-5",
@@ -7236,7 +7614,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-354",
@@ -7246,7 +7624,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-355",
@@ -7256,7 +7634,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-356",
@@ -7266,7 +7644,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-357",
@@ -7276,7 +7654,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-358",
@@ -7286,7 +7664,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-359",
@@ -7296,7 +7674,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-360",
@@ -7306,7 +7684,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-361",
@@ -7316,7 +7694,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-453",
@@ -7326,7 +7704,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-454",
@@ -7336,7 +7714,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-455",
@@ -7346,7 +7724,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-456",
@@ -7356,7 +7734,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-540",
@@ -7366,7 +7744,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-541",
@@ -7376,7 +7754,7 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-542",
@@ -7386,7 +7764,107 @@
       "name": "彰化 2026潮派鹿港",
       "location": "彰化縣鹿港鎮鹿港體育場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
-      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs"
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-569",
+      "date": "20261018",
+      "band": "band_drsiw0_120",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-570",
+      "date": "20261018",
+      "band": "band_drsiw0_121",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-571",
+      "date": "20261018",
+      "band": "band_drsiw0_122",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-572",
+      "date": "20261018",
+      "band": "band_drsiw0_123",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-573",
+      "date": "20261018",
+      "band": "band_9z3xfp",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-574",
+      "date": "20261018",
+      "band": "band_6gp8um_38",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-575",
+      "date": "20261018",
+      "band": "band_6u8lrj_33",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-576",
+      "date": "20261018",
+      "band": "band_6u8lrj_34",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-577",
+      "date": "20261018",
+      "band": "donald",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
+    },
+    {
+      "id": "upcoming-row-578",
+      "date": "20261018",
+      "band": "ktvdjyu",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/18】: 玖壹壹、麋先生 MIXER、傻子與白痴、胡凱兒、粗大、Multiverse Music、薄暮、The Salitus、烈鷹、紙鳶、羊米人、應聲倒地、OHAN等。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。"
     },
     {
       "id": "upcoming-row-377",
@@ -11704,6 +12182,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e0524065-f9b1-4a96-ac79-15957768df80",
-  "updatedAt": "2026-10-16T13:23:27.028Z"
+  "revision": "7b321518-5341-4b35-a4e0-a4ab4d7408ea",
+  "updatedAt": "2026-10-16T13:25:21.390Z"
 }
