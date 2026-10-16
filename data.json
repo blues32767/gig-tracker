@@ -178,11 +178,35 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_39",
+      "name": "脆樂團",
+      "short": "脆樂團",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_qqiyec_5",
       "name": "傻子與白痴",
       "short": "傻白",
       "color": "#3a86ff",
       "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "band_6u8lrj_10",
+      "name": "幽靈水晶",
+      "short": "幽靈水晶",
+      "color": "#ffd166",
+      "category": "團體",
+      "eventCount": 4
+    },
+    {
+      "id": "sabrina",
+      "name": "Sabrina 胡恂舞",
+      "short": "Sabrina 胡恂舞",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 4
     },
     {
@@ -198,6 +222,14 @@
       "name": "Juice Boy",
       "short": "Juice Boy",
       "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_14",
+      "name": "翁鈺鈞",
+      "short": "翁鈺鈞",
+      "color": "#fb5607",
       "category": "個人",
       "eventCount": 3
     },
@@ -234,14 +266,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_39",
-      "name": "脆樂團",
-      "short": "脆樂團",
-      "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "band_6gp8um_14",
       "name": "持修",
       "short": "持修",
@@ -255,14 +279,6 @@
       "short": "黃宇寒",
       "color": "#ffd166",
       "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_6u8lrj_10",
-      "name": "幽靈水晶",
-      "short": "幽靈水晶",
-      "color": "#ffd166",
-      "category": "團體",
       "eventCount": 3
     },
     {
@@ -320,22 +336,6 @@
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 3
-    },
-    {
-      "id": "sabrina",
-      "name": "Sabrina 胡恂舞",
-      "short": "Sabrina 胡恂舞",
-      "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_14",
-      "name": "翁鈺鈞",
-      "short": "翁鈺鈞",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 2
     },
     {
       "id": "buy",
@@ -10033,6 +10033,46 @@
       "note": "［免費］\n活動分為兩個時段:草地音樂會(14:00-18:00)與跑水之夜(19:00-21:00)。卡司包含:Crispy脆樂團、幽靈水晶、翁鈺鈞、Sabrina 胡恂舞,以及氣球互動秀和糖果星球派對。跑水之夜演出陣容為許富凱、斑恩、FEniX、王詩安、DJ Swallow妖嬌。"
     },
     {
+      "id": "upcoming-row-581",
+      "date": "20261031",
+      "band": "band_drsiw0_39",
+      "time": "未公布",
+      "name": "二水草地音樂會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n卡司:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。活動日期為 2026/10/31。"
+    },
+    {
+      "id": "upcoming-row-582",
+      "date": "20261031",
+      "band": "band_6u8lrj_10",
+      "time": "未公布",
+      "name": "二水草地音樂會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n卡司:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。活動日期為 2026/10/31。"
+    },
+    {
+      "id": "upcoming-row-583",
+      "date": "20261031",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "二水草地音樂會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n卡司:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。活動日期為 2026/10/31。"
+    },
+    {
+      "id": "upcoming-row-584",
+      "date": "20261031",
+      "band": "band_drsiw0_14",
+      "time": "未公布",
+      "name": "二水草地音樂會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n卡司:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。活動日期為 2026/10/31。"
+    },
+    {
       "id": "upcoming-row-15",
       "date": "20261101",
       "band": "papunband",
@@ -12218,6 +12258,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "b0f28ed8-14b9-4560-859d-72a14af52036",
-  "updatedAt": "2026-10-16T13:32:03.559Z"
+  "revision": "02ac64cc-9807-435a-aee5-33eb0db85c70",
+  "updatedAt": "2026-10-16T13:32:52.040Z"
 }
