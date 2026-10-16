@@ -2876,17 +2876,17 @@
     {
       "id": "band_yrjfv5",
       "name": "柯泯薰 ft. 黃玠瑋",
-      "short": "柯泯",
+      "short": "柯泯薰 ft. 黃玠瑋",
       "color": "#118ab2",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
       "id": "multiversemu",
       "name": "Multiverse Music",
-      "short": "Mu",
+      "short": "Multiverse Music",
       "color": "#8338ec",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -11599,5 +11599,5 @@
   },
   "schemaVersion": 2,
   "revision": "91d303a6-8b78-484c-8d1e-fee5febbf68c",
-  "updatedAt": "2026-10-16T12:24:41.509Z"
+  "updatedAt": "2026-10-16T13:07:40.271Z"
 }
