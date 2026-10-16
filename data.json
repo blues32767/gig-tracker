@@ -42,6 +42,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_nmq1yt",
+      "name": "鼓鼓 呂思緯",
+      "short": "鼓鼓 呂思緯",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "band_drsiw0_17",
       "name": "甜約翰",
       "short": "甜約翰",
@@ -70,14 +78,6 @@
       "name": "呂允",
       "short": "呂允",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_nmq1yt",
-      "name": "鼓鼓 呂思緯",
-      "short": "鼓鼓 呂思緯",
-      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 5
     },
@@ -222,6 +222,14 @@
       "name": "FEniX",
       "short": "FEniX",
       "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "ozone",
+      "name": "Ozone",
+      "short": "Ozone",
+      "color": "#ffd166",
       "category": "團體",
       "eventCount": 3
     },
@@ -391,14 +399,6 @@
       "short": "李翊君",
       "color": "#00b4d8",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "ozone",
-      "name": "Ozone",
-      "short": "Ozone",
-      "color": "#ffd166",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -622,6 +622,14 @@
       "name": "Multiverse",
       "short": "Multiverse",
       "color": "#06d6a0",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_maaxir_3",
+      "name": "即將成真火舞團",
+      "short": "即將成真火舞團",
+      "color": "#fb5607",
       "category": "團體",
       "eventCount": 2
     },
@@ -1762,14 +1770,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_maaxir_3",
-      "name": "即將成真火舞團",
-      "short": "即將成真火舞團",
-      "color": "#fb5607",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "cicada",
       "name": "Cicada",
       "short": "Cicada",
@@ -2815,6 +2815,62 @@
       "short": "核果人",
       "color": "#8338ec",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_xebf3p",
+      "name": "台北樂府樂旗藝術團",
+      "short": "台北",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_8owmzy",
+      "name": "桃園在地4隊球團啦啦隊",
+      "short": "桃園",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "luxyboyz",
+      "name": "LUXY BOYZ",
+      "short": "LU",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_30",
+      "name": "武漢國小",
+      "short": "武漢",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "djswallow",
+      "name": "DJ Swallow妖嬌",
+      "short": "DJ",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_114",
+      "name": "安心亞",
+      "short": "安心",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_115",
+      "name": "謝金燕",
+      "short": "謝金",
+      "color": "#06d6a0",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -6849,6 +6905,106 @@
       "location": "新北市黎明技術學院操場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E9%BB%8E%E6%98%8E%E6%8A%80%E8%A1%93%E5%AD%B8%E9%99%A2%E6%93%8D%E5%A0%B4",
       "note": "［免費］\n卡司:吳霏、艾薇、幽靈水晶、李杰明、陳忻玥、申力安、樂樂、謝語恩、FEnix。活動時間為 12:30 入場,13:00 演出。"
+    },
+    {
+      "id": "upcoming-row-527",
+      "date": "20261017",
+      "band": "band_xebf3p",
+      "time": "未公布",
+      "name": "全民運動會開幕典禮暨選手之夜",
+      "location": "桃園市立綜合體育館(桃園巨蛋)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8(%E6%A1%83%E5%9C%92%E5%B7%A8%E8%9B%8B)",
+      "note": "［免費］\n活動時間:17:00 – 21:00。暖場演出包含台北樂府樂旗藝術團、桃園在地4隊球團啦啦隊、LUXY BOYZ、武漢國小等;開幕典禮特色節目有優人神鼓、舞鈴劇場、即將成真火舞團等;選手之夜接力開唱陣容包括DJ Swallow妖嬌、安心亞、Ozone & HUR+、鼓鼓 呂思緯,壓軸為謝金燕。\n來源：https://tycg.kktix.cc/events/03faa84b"
+    },
+    {
+      "id": "upcoming-row-528",
+      "date": "20261017",
+      "band": "band_8owmzy",
+      "time": "未公布",
+      "name": "全民運動會開幕典禮暨選手之夜",
+      "location": "桃園市立綜合體育館(桃園巨蛋)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8(%E6%A1%83%E5%9C%92%E5%B7%A8%E8%9B%8B)",
+      "note": "［免費］\n活動時間:17:00 – 21:00。暖場演出包含台北樂府樂旗藝術團、桃園在地4隊球團啦啦隊、LUXY BOYZ、武漢國小等;開幕典禮特色節目有優人神鼓、舞鈴劇場、即將成真火舞團等;選手之夜接力開唱陣容包括DJ Swallow妖嬌、安心亞、Ozone & HUR+、鼓鼓 呂思緯,壓軸為謝金燕。\n來源：https://tycg.kktix.cc/events/03faa84b"
+    },
+    {
+      "id": "upcoming-row-529",
+      "date": "20261017",
+      "band": "luxyboyz",
+      "time": "未公布",
+      "name": "全民運動會開幕典禮暨選手之夜",
+      "location": "桃園市立綜合體育館(桃園巨蛋)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8(%E6%A1%83%E5%9C%92%E5%B7%A8%E8%9B%8B)",
+      "note": "［免費］\n活動時間:17:00 – 21:00。暖場演出包含台北樂府樂旗藝術團、桃園在地4隊球團啦啦隊、LUXY BOYZ、武漢國小等;開幕典禮特色節目有優人神鼓、舞鈴劇場、即將成真火舞團等;選手之夜接力開唱陣容包括DJ Swallow妖嬌、安心亞、Ozone & HUR+、鼓鼓 呂思緯,壓軸為謝金燕。\n來源：https://tycg.kktix.cc/events/03faa84b"
+    },
+    {
+      "id": "upcoming-row-530",
+      "date": "20261017",
+      "band": "band_6u8lrj_30",
+      "time": "未公布",
+      "name": "全民運動會開幕典禮暨選手之夜",
+      "location": "桃園市立綜合體育館(桃園巨蛋)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8(%E6%A1%83%E5%9C%92%E5%B7%A8%E8%9B%8B)",
+      "note": "［免費］\n活動時間:17:00 – 21:00。暖場演出包含台北樂府樂旗藝術團、桃園在地4隊球團啦啦隊、LUXY BOYZ、武漢國小等;開幕典禮特色節目有優人神鼓、舞鈴劇場、即將成真火舞團等;選手之夜接力開唱陣容包括DJ Swallow妖嬌、安心亞、Ozone & HUR+、鼓鼓 呂思緯,壓軸為謝金燕。\n來源：https://tycg.kktix.cc/events/03faa84b"
+    },
+    {
+      "id": "upcoming-row-531",
+      "date": "20261017",
+      "band": "band_maaxir_3",
+      "time": "未公布",
+      "name": "全民運動會開幕典禮暨選手之夜",
+      "location": "桃園市立綜合體育館(桃園巨蛋)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8(%E6%A1%83%E5%9C%92%E5%B7%A8%E8%9B%8B)",
+      "note": "［免費］\n活動時間:17:00 – 21:00。暖場演出包含台北樂府樂旗藝術團、桃園在地4隊球團啦啦隊、LUXY BOYZ、武漢國小等;開幕典禮特色節目有優人神鼓、舞鈴劇場、即將成真火舞團等;選手之夜接力開唱陣容包括DJ Swallow妖嬌、安心亞、Ozone & HUR+、鼓鼓 呂思緯,壓軸為謝金燕。\n來源：https://tycg.kktix.cc/events/03faa84b"
+    },
+    {
+      "id": "upcoming-row-532",
+      "date": "20261017",
+      "band": "djswallow",
+      "time": "未公布",
+      "name": "全民運動會開幕典禮暨選手之夜",
+      "location": "桃園市立綜合體育館(桃園巨蛋)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8(%E6%A1%83%E5%9C%92%E5%B7%A8%E8%9B%8B)",
+      "note": "［免費］\n活動時間:17:00 – 21:00。暖場演出包含台北樂府樂旗藝術團、桃園在地4隊球團啦啦隊、LUXY BOYZ、武漢國小等;開幕典禮特色節目有優人神鼓、舞鈴劇場、即將成真火舞團等;選手之夜接力開唱陣容包括DJ Swallow妖嬌、安心亞、Ozone & HUR+、鼓鼓 呂思緯,壓軸為謝金燕。\n來源：https://tycg.kktix.cc/events/03faa84b"
+    },
+    {
+      "id": "upcoming-row-533",
+      "date": "20261017",
+      "band": "band_drsiw0_114",
+      "time": "未公布",
+      "name": "全民運動會開幕典禮暨選手之夜",
+      "location": "桃園市立綜合體育館(桃園巨蛋)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8(%E6%A1%83%E5%9C%92%E5%B7%A8%E8%9B%8B)",
+      "note": "［免費］\n活動時間:17:00 – 21:00。暖場演出包含台北樂府樂旗藝術團、桃園在地4隊球團啦啦隊、LUXY BOYZ、武漢國小等;開幕典禮特色節目有優人神鼓、舞鈴劇場、即將成真火舞團等;選手之夜接力開唱陣容包括DJ Swallow妖嬌、安心亞、Ozone & HUR+、鼓鼓 呂思緯,壓軸為謝金燕。\n來源：https://tycg.kktix.cc/events/03faa84b"
+    },
+    {
+      "id": "upcoming-row-534",
+      "date": "20261017",
+      "band": "ozone",
+      "time": "未公布",
+      "name": "全民運動會開幕典禮暨選手之夜",
+      "location": "桃園市立綜合體育館(桃園巨蛋)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8(%E6%A1%83%E5%9C%92%E5%B7%A8%E8%9B%8B)",
+      "note": "［免費］\n活動時間:17:00 – 21:00。暖場演出包含台北樂府樂旗藝術團、桃園在地4隊球團啦啦隊、LUXY BOYZ、武漢國小等;開幕典禮特色節目有優人神鼓、舞鈴劇場、即將成真火舞團等;選手之夜接力開唱陣容包括DJ Swallow妖嬌、安心亞、Ozone & HUR+、鼓鼓 呂思緯,壓軸為謝金燕。\n來源：https://tycg.kktix.cc/events/03faa84b"
+    },
+    {
+      "id": "upcoming-row-535",
+      "date": "20261017",
+      "band": "band_nmq1yt",
+      "time": "未公布",
+      "name": "全民運動會開幕典禮暨選手之夜",
+      "location": "桃園市立綜合體育館(桃園巨蛋)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8(%E6%A1%83%E5%9C%92%E5%B7%A8%E8%9B%8B)",
+      "note": "［免費］\n活動時間:17:00 – 21:00。暖場演出包含台北樂府樂旗藝術團、桃園在地4隊球團啦啦隊、LUXY BOYZ、武漢國小等;開幕典禮特色節目有優人神鼓、舞鈴劇場、即將成真火舞團等;選手之夜接力開唱陣容包括DJ Swallow妖嬌、安心亞、Ozone & HUR+、鼓鼓 呂思緯,壓軸為謝金燕。\n來源：https://tycg.kktix.cc/events/03faa84b"
+    },
+    {
+      "id": "upcoming-row-536",
+      "date": "20261017",
+      "band": "band_drsiw0_115",
+      "time": "未公布",
+      "name": "全民運動會開幕典禮暨選手之夜",
+      "location": "桃園市立綜合體育館(桃園巨蛋)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8(%E6%A1%83%E5%9C%92%E5%B7%A8%E8%9B%8B)",
+      "note": "［免費］\n活動時間:17:00 – 21:00。暖場演出包含台北樂府樂旗藝術團、桃園在地4隊球團啦啦隊、LUXY BOYZ、武漢國小等;開幕典禮特色節目有優人神鼓、舞鈴劇場、即將成真火舞團等;選手之夜接力開唱陣容包括DJ Swallow妖嬌、安心亞、Ozone & HUR+、鼓鼓 呂思緯,壓軸為謝金燕。\n來源：https://tycg.kktix.cc/events/03faa84b"
     },
     {
       "id": "upcoming-row-5",
@@ -11366,6 +11522,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "fe1a3690-8489-475b-b3c3-d75bc8bae0f4",
-  "updatedAt": "2026-10-16T02:31:36.797Z"
+  "revision": "2618bb29-d6c9-429b-a885-7577d7c8f395",
+  "updatedAt": "2026-10-16T02:34:17.980Z"
 }
