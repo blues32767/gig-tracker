@@ -274,6 +274,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_6u8lrj_16",
+      "name": "沈默紳士",
+      "short": "沈默紳士",
+      "color": "#00b4d8",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_69",
       "name": "陳勢安",
       "short": "陳勢安",
@@ -551,14 +559,6 @@
       "short": "OHAN",
       "color": "#3a86ff",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6u8lrj_16",
-      "name": "沈默紳士",
-      "short": "沈默紳士",
-      "color": "#00b4d8",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -2798,6 +2798,14 @@
       "name": "申力安",
       "short": "申力",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "nuts",
+      "name": "核果人 NUTS",
+      "short": "核果",
+      "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
     },
@@ -10335,6 +10343,26 @@
       "note": "［免費］\n卡司:玖壹壹、洋蔥、TRASH、派偉俊、PIZZALI、南西肯恩、呂允、翁祥、欣菲、彭聖恩。入場時間規定:17:30虎尾科大在校生、教職員優先入場;17:50全面開放進場。"
     },
     {
+      "id": "upcoming-row-523",
+      "date": "20261120",
+      "band": "band_6u8lrj_16",
+      "time": "未公布",
+      "name": "沈默紳士 × 核果人 NUTS《沈果發表會》",
+      "location": "台北三創生活園區 5F Clapper Studio",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E4%B8%89%E5%89%B5%E7%94%9F%E6%B4%BB%E5%9C%92%E5%8D%80%205F%20Clapper%20Studio",
+      "note": "［售票］\n活動日期為 2026年11月20日,觀眾進場時間為 19:00,演出開始時間為 19:30。主辦單位:歪的音樂;協辦單位:氪米厘娛樂。\n來源：https://www.instagram.com/p/DeeVX-6gZVB/"
+    },
+    {
+      "id": "upcoming-row-524",
+      "date": "20261120",
+      "band": "nuts",
+      "time": "未公布",
+      "name": "沈默紳士 × 核果人 NUTS《沈果發表會》",
+      "location": "台北三創生活園區 5F Clapper Studio",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E4%B8%89%E5%89%B5%E7%94%9F%E6%B4%BB%E5%9C%92%E5%8D%80%205F%20Clapper%20Studio",
+      "note": "［售票］\n活動日期為 2026年11月20日,觀眾進場時間為 19:00,演出開始時間為 19:30。主辦單位:歪的音樂;協辦單位:氪米厘娛樂。\n來源：https://www.instagram.com/p/DeeVX-6gZVB/"
+    },
+    {
       "id": "upcoming-row-39",
       "date": "20261121",
       "band": "WhoCares",
@@ -11310,6 +11338,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "2add76bf-2b3b-4d7d-8b07-16eabe323ede",
-  "updatedAt": "2026-10-16T01:52:14.916Z"
+  "revision": "f86944c7-5426-4212-9f01-13f4391d3719",
+  "updatedAt": "2026-10-16T02:13:26.387Z"
 }
