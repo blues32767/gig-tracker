@@ -10354,7 +10354,7 @@
       "id": "upcoming-row-523",
       "date": "20261120",
       "band": "band_6u8lrj_16",
-      "time": "19:30-22:30",
+      "time": "",
       "name": "沈默紳士 × 核果人 NUTS《沈果發表會》",
       "location": "台北三創生活園區 5F Clapper Studio",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E4%B8%89%E5%89%B5%E7%94%9F%E6%B4%BB%E5%9C%92%E5%8D%80%205F%20Clapper%20Studio",
@@ -10364,7 +10364,7 @@
       "id": "upcoming-row-524",
       "date": "20261120",
       "band": "nuts",
-      "time": "19:30-22:30",
+      "time": "",
       "name": "沈默紳士 × 核果人 NUTS《沈果發表會》",
       "location": "台北三創生活園區 5F Clapper Studio",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E4%B8%89%E5%89%B5%E7%94%9F%E6%B4%BB%E5%9C%92%E5%8D%80%205F%20Clapper%20Studio",
@@ -11104,7 +11104,7 @@
       "id": "upcoming-row-525",
       "date": "20261226",
       "band": "kenshiyonezu",
-      "time": "18:00-21:00",
+      "time": "",
       "name": "Kenshi Yonezu 2026-2027 WORLD TOUR / GHOST",
       "location": "台北大巨蛋",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B",
@@ -11114,7 +11114,7 @@
       "id": "upcoming-row-526",
       "date": "20261227",
       "band": "kenshiyonezu",
-      "time": "18:00-21:00",
+      "time": "",
       "name": "Kenshi Yonezu 2026-2027 WORLD TOUR / GHOST",
       "location": "台北大巨蛋",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B",
@@ -11367,5 +11367,5 @@
   },
   "schemaVersion": 2,
   "revision": "fe1a3690-8489-475b-b3c3-d75bc8bae0f4",
-  "updatedAt": "2026-10-16T02:22:54.779Z"
+  "updatedAt": "2026-10-16T02:24:01.288Z"
 }
