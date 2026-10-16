@@ -718,6 +718,14 @@
       "name": "吐司貓",
       "short": "吐司貓",
       "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "kenshiyonezu",
+      "name": "米津玄師 KENSHI YONEZU",
+      "short": "米津玄師",
+      "color": "#ff006e",
       "category": "個人",
       "eventCount": 2
     },
@@ -2534,7 +2542,7 @@
       "name": "老大不小",
       "short": "老大不小",
       "color": "#ef476f",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -2542,7 +2550,7 @@
       "name": "LAWA",
       "short": "LAWA",
       "color": "#ffd166",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -2550,7 +2558,7 @@
       "name": "THE EON永夜",
       "short": "THE EON永夜",
       "color": "#06d6a0",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -2622,7 +2630,7 @@
       "name": "青虫aoi",
       "short": "青虫aoi",
       "color": "#ffd166",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -2638,7 +2646,7 @@
       "name": "海洋家族",
       "short": "海洋家族",
       "color": "#118ab2",
-      "category": "個人",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -2646,7 +2654,7 @@
       "name": "CJ Mit",
       "short": "CJ Mit",
       "color": "#8338ec",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -2686,7 +2694,7 @@
       "name": "後站人",
       "short": "後站人",
       "color": "#2ec4b6",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -2694,7 +2702,7 @@
       "name": "上山",
       "short": "上山",
       "color": "#ef476f",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -2702,7 +2710,7 @@
       "name": "柯泯薰 & 黃玠瑋",
       "short": "柯泯薰 & 黃玠瑋",
       "color": "#ffd166",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -2766,7 +2774,7 @@
       "name": "Xinz",
       "short": "Xinz",
       "color": "#2ec4b6",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -2774,7 +2782,7 @@
       "name": "Ni!KA",
       "short": "Ni!KA",
       "color": "#ef476f",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -2806,15 +2814,7 @@
       "name": "核果人 NUTS",
       "short": "核果人",
       "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "kenshiyonezu",
-      "name": "米津玄師 KENSHI YONEZU",
-      "short": "米津玄師",
-      "color": "#ff006e",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -10358,7 +10358,7 @@
       "name": "沈默紳士 × 核果人 NUTS《沈果發表會》",
       "location": "台北三創生活園區 5F Clapper Studio",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E4%B8%89%E5%89%B5%E7%94%9F%E6%B4%BB%E5%9C%92%E5%8D%80%205F%20Clapper%20Studio",
-      "note": "［售票］\n活動日期為 2026年11月20日,觀眾進場時間為 19:00,演出開始時間為 19:30。主辦單位:歪的音樂;協辦單位:氪米厘娛樂。\n來源：https://www.instagram.com/p/DeeVX-6gZVB/"
+      "note": "［售票］\n結束時間未定\n活動日期為 2026年11月20日,觀眾進場時間為 19:00,演出開始時間為 19:30。主辦單位:歪的音樂;協辦單位:氪米厘娛樂。\n來源：https://www.instagram.com/p/DeeVX-6gZVB/"
     },
     {
       "id": "upcoming-row-524",
@@ -10368,7 +10368,7 @@
       "name": "沈默紳士 × 核果人 NUTS《沈果發表會》",
       "location": "台北三創生活園區 5F Clapper Studio",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E4%B8%89%E5%89%B5%E7%94%9F%E6%B4%BB%E5%9C%92%E5%8D%80%205F%20Clapper%20Studio",
-      "note": "［售票］\n活動日期為 2026年11月20日,觀眾進場時間為 19:00,演出開始時間為 19:30。主辦單位:歪的音樂;協辦單位:氪米厘娛樂。\n來源：https://www.instagram.com/p/DeeVX-6gZVB/"
+      "note": "［售票］\n結束時間未定\n活動日期為 2026年11月20日,觀眾進場時間為 19:00,演出開始時間為 19:30。主辦單位:歪的音樂;協辦單位:氪米厘娛樂。\n來源：https://www.instagram.com/p/DeeVX-6gZVB/"
     },
     {
       "id": "upcoming-row-39",
@@ -11102,13 +11102,23 @@
     },
     {
       "id": "upcoming-row-525",
-      "date": "20261227",
+      "date": "20261226",
       "band": "kenshiyonezu",
-      "time": "未公布",
+      "time": "18:00-21:00",
       "name": "Kenshi Yonezu 2026-2027 WORLD TOUR / GHOST",
       "location": "台北大巨蛋",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B",
-      "note": "［售票］\n演出時間:12月26日(六)及12月27日(日)。每日開場時間為 15:00,開演時間為 18:00。備註:請留意各階段的優先購票和一般販售日期。\n來源：https://www.instagram.com/p/DehIbRDjyyk/"
+      "note": "［售票］\n結束時間未定\n演出時間:12月26日(六)及12月27日(日)。每日開場時間為 15:00,開演時間為 18:00。備註:請留意各階段的優先購票和一般販售日期\n來源：https://www.instagram.com/p/DehIbRDjyyk/"
+    },
+    {
+      "id": "upcoming-row-526",
+      "date": "20261227",
+      "band": "kenshiyonezu",
+      "time": "18:00-21:00",
+      "name": "Kenshi Yonezu 2026-2027 WORLD TOUR / GHOST",
+      "location": "台北大巨蛋",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B",
+      "note": "［售票］\n結束時間未定\n演出時間:12月26日(六)及12月27日(日)。每日開場時間為 15:00,開演時間為 18:00。備註:請留意各階段的優先購票和一般販售日期\n來源：https://www.instagram.com/p/DehIbRDjyyk/"
     },
     {
       "id": "upcoming-row-33",
@@ -11357,5 +11367,5 @@
   },
   "schemaVersion": 2,
   "revision": "2fd15bdf-bca5-4514-be42-fffa2876c25f",
-  "updatedAt": "2026-10-16T02:16:41.773Z"
+  "updatedAt": "2026-10-16T02:20:06.005Z"
 }
