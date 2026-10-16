@@ -3138,6 +3138,14 @@
       "eventCount": 1
     },
     {
+      "id": "eldon",
+      "name": "ELDON",
+      "short": "EL",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "band_6gp8um_5",
       "name": "安吉",
       "short": "安吉",
@@ -7911,6 +7919,16 @@
       "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/17】周湯豪、宇宙人、固定客;梁河懸、核果人 NUTS、你阿伯;步行者、白頻率、震樂堂;彰東嘻、上山、秋山;溫室雜草、沈默紳士;伯爵先生、異族亡魂;等阮返來、文森王 & 達茲;公館青少年、秋瀾九十九;東部壞男孩、潘潘潘博均;P!SCO ft.海洋家族;CJ504、VEWS、WILIM;DJ RAO、MORE BE US、RedTank & Vanta;NIKO NIKO TAN TAN。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。\n活動期間為 2026/10/16 至 2026/10/18。詳細卡司名單如下:"
     },
     {
+      "id": "upcoming-row-587",
+      "date": "20261018",
+      "band": "eldon",
+      "time": "未公布",
+      "name": "彰化 2026潮派鹿港",
+      "location": "彰化縣鹿港鎮鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［免費］\n時間表:https://www.instagram.com/p/Dd77kiyEbaI/?img_index=1\n活動期間為 2026/10/16 至 2026/10/18,共三日演出。卡司涵蓋多樣化的獨立音樂陣容。\n【10/17】周湯豪、宇宙人、固定客;梁河懸、核果人 NUTS、你阿伯;步行者、白頻率、震樂堂;彰東嘻、上山、秋山;溫室雜草、沈默紳士;伯爵先生、異族亡魂;等阮返來、文森王 & 達茲;公館青少年、秋瀾九十九;東部壞男孩、潘潘潘博均;P!SCO ft.海洋家族;CJ504、VEWS、WILIM;DJ RAO、MORE BE US、RedTank & Vanta;NIKO NIKO TAN TAN。\n【10/16】: 林頤原、宋德鶴、潮派喧天賞10組。\n直播連結(免費)\n第一天:https://www.youtube.com/live/X8A18t0WKxs\n活動日期為 2026/10/16 至 2026/10/18,每日演出陣容豐富。各藝人表演時間未公布。\n活動期間為 2026/10/16 至 2026/10/18。詳細卡司名單如下:"
+    },
+    {
       "id": "upcoming-row-377",
       "date": "20261020",
       "band": "band_drsiw0_69",
@@ -12286,6 +12304,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "f6fcdd81-bc7e-4315-8398-a3de5e0d3695",
-  "updatedAt": "2026-10-16T14:28:15.218Z"
+  "revision": "474c0025-d9e5-42a2-be24-e27eebc6edba",
+  "updatedAt": "2026-10-16T15:24:57.683Z"
 }
