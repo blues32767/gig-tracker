@@ -10105,7 +10105,7 @@
       "name": "二水草地音樂會",
       "location": "二水草地",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E4%BA%8C%E6%B0%B4%E8%8D%89%E5%9C%B0",
-      "note": "［免費］\n卡司:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。活動日期為 2026/10/31,從 14:00 開始。"
+      "note": "［免費］\n活動日期為 2026/10/31,預計持續 8 小時。卡司包含:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。"
     },
     {
       "id": "upcoming-row-565",
@@ -10115,7 +10115,7 @@
       "name": "二水草地音樂會",
       "location": "二水草地",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E4%BA%8C%E6%B0%B4%E8%8D%89%E5%9C%B0",
-      "note": "［免費］\n卡司:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。活動日期為 2026/10/31,從 14:00 開始。"
+      "note": "［免費］\n活動日期為 2026/10/31,預計持續 8 小時。卡司包含:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。"
     },
     {
       "id": "upcoming-row-566",
@@ -10125,7 +10125,7 @@
       "name": "二水草地音樂會",
       "location": "二水草地",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E4%BA%8C%E6%B0%B4%E8%8D%89%E5%9C%B0",
-      "note": "［免費］\n卡司:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。活動日期為 2026/10/31,從 14:00 開始。"
+      "note": "［免費］\n活動日期為 2026/10/31,預計持續 8 小時。卡司包含:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。"
     },
     {
       "id": "upcoming-row-567",
@@ -10135,7 +10135,7 @@
       "name": "二水草地音樂會",
       "location": "二水草地",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E4%BA%8C%E6%B0%B4%E8%8D%89%E5%9C%B0",
-      "note": "［免費］\n卡司:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。活動日期為 2026/10/31,從 14:00 開始。"
+      "note": "［免費］\n活動日期為 2026/10/31,預計持續 8 小時。卡司包含:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。"
     },
     {
       "id": "upcoming-row-15",
@@ -12323,6 +12323,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "325849d7-f3b2-4ed1-8fe8-4fa8c618527a",
-  "updatedAt": "2026-10-16T21:26:22.313Z"
+  "revision": "fe9a2882-041f-475a-9e95-8b01cfd97adc",
+  "updatedAt": "2026-10-16T21:27:25.423Z"
 }
