@@ -2812,7 +2812,7 @@
     {
       "id": "kenshiyonezu",
       "name": "米津玄師 KENSHI YONEZU",
-      "short": "米津",
+      "short": "米津玄師",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -10354,7 +10354,7 @@
       "id": "upcoming-row-523",
       "date": "20261120",
       "band": "band_6u8lrj_16",
-      "time": "未公布",
+      "time": "19:30-22:30",
       "name": "沈默紳士 × 核果人 NUTS《沈果發表會》",
       "location": "台北三創生活園區 5F Clapper Studio",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E4%B8%89%E5%89%B5%E7%94%9F%E6%B4%BB%E5%9C%92%E5%8D%80%205F%20Clapper%20Studio",
@@ -10364,7 +10364,7 @@
       "id": "upcoming-row-524",
       "date": "20261120",
       "band": "nuts",
-      "time": "未公布",
+      "time": "19:30-22:30",
       "name": "沈默紳士 × 核果人 NUTS《沈果發表會》",
       "location": "台北三創生活園區 5F Clapper Studio",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E4%B8%89%E5%89%B5%E7%94%9F%E6%B4%BB%E5%9C%92%E5%8D%80%205F%20Clapper%20Studio",
@@ -11357,5 +11357,5 @@
   },
   "schemaVersion": 2,
   "revision": "2fd15bdf-bca5-4514-be42-fffa2876c25f",
-  "updatedAt": "2026-10-16T02:14:40.481Z"
+  "updatedAt": "2026-10-16T02:16:41.773Z"
 }
