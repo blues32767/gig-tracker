@@ -66,6 +66,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富凱",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "icyball",
       "name": "冰球樂團",
       "short": "冰球",
@@ -86,14 +94,6 @@
       "name": "白安",
       "short": "白安",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_drsiw0_25",
-      "name": "許富凱",
-      "short": "許富凱",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 5
     },
@@ -255,6 +255,14 @@
       "short": "U:NUS",
       "color": "#2ec4b6",
       "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_28",
+      "name": "曾瑋中",
+      "short": "曾瑋中",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -426,14 +434,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_28",
-      "name": "曾瑋中",
-      "short": "曾瑋中",
-      "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_32",
       "name": "李翊君",
       "short": "李翊君",
@@ -487,6 +487,14 @@
       "short": "帕崎拉",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_51",
+      "name": "李子森",
+      "short": "李子森",
+      "color": "#06d6a0",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -1438,14 +1446,6 @@
       "name": "孫盛希",
       "short": "孫盛希",
       "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_51",
-      "name": "李子森",
-      "short": "李子森",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
     },
@@ -3207,6 +3207,38 @@
       "short": "糖果",
       "color": "#8338ec",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_127",
+      "name": "朱海君",
+      "short": "朱海",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_39",
+      "name": "林姍",
+      "short": "林姍",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_128",
+      "name": "杜忻恬",
+      "short": "杜忻",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "unigirls",
+      "name": "UniGirls 啦啦隊",
+      "short": "Un",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -9226,6 +9258,76 @@
       "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25,兩日皆有演出。卡司包含:SONNIE 桑尼、守夜人、夕陽武士、許富凱(10/24);閃閃閃閃、擊沈女孩、甜約翰、怕胖團(10/25)。"
     },
     {
+      "id": "upcoming-row-582",
+      "date": "20261025",
+      "band": "band_drsiw0_25",
+      "time": "未公布",
+      "name": "秋之盛典37分鐘",
+      "location": "嘉義中埔獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩"
+    },
+    {
+      "id": "upcoming-row-583",
+      "date": "20261025",
+      "band": "band_drsiw0_127",
+      "time": "未公布",
+      "name": "秋之盛典37分鐘",
+      "location": "嘉義中埔獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩"
+    },
+    {
+      "id": "upcoming-row-584",
+      "date": "20261025",
+      "band": "band_6gp8um_39",
+      "time": "未公布",
+      "name": "秋之盛典37分鐘",
+      "location": "嘉義中埔獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩"
+    },
+    {
+      "id": "upcoming-row-585",
+      "date": "20261025",
+      "band": "band_drsiw0_51",
+      "time": "未公布",
+      "name": "秋之盛典37分鐘",
+      "location": "嘉義中埔獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩"
+    },
+    {
+      "id": "upcoming-row-586",
+      "date": "20261025",
+      "band": "band_drsiw0_128",
+      "time": "未公布",
+      "name": "秋之盛典37分鐘",
+      "location": "嘉義中埔獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩"
+    },
+    {
+      "id": "upcoming-row-587",
+      "date": "20261025",
+      "band": "band_drsiw0_28",
+      "time": "未公布",
+      "name": "秋之盛典37分鐘",
+      "location": "嘉義中埔獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩"
+    },
+    {
+      "id": "upcoming-row-588",
+      "date": "20261025",
+      "band": "unigirls",
+      "time": "未公布",
+      "name": "秋之盛典37分鐘",
+      "location": "嘉義中埔獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩"
+    },
+    {
       "id": "upcoming-row-266",
       "date": "20261026",
       "band": "skaraoke",
@@ -12461,6 +12563,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "c52252b9-f20c-488a-a7cc-495be8b4911d",
-  "updatedAt": "2026-10-17T10:26:50.900Z"
+  "revision": "79c987ff-f58e-438e-827a-26109c5ff6d3",
+  "updatedAt": "2026-10-17T12:24:58.457Z"
 }
