@@ -770,6 +770,14 @@
       "eventCount": 2
     },
     {
+      "id": "cjmit",
+      "name": "CJ Mit",
+      "short": "CJ Mit",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_6gp8um_35",
       "name": "上山",
       "short": "上山",
@@ -2682,14 +2690,6 @@
       "eventCount": 1
     },
     {
-      "id": "cjmit",
-      "name": "CJ Mit",
-      "short": "CJ Mit",
-      "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "arase",
       "name": "Arase阿拉斯",
       "short": "Arase阿拉斯",
@@ -3183,6 +3183,30 @@
       "short": "青年",
       "color": "#ffd166",
       "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_125",
+      "name": "阿布絲",
+      "short": "阿布",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_126",
+      "name": "卡尼特",
+      "short": "卡尼",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_32tclr_4",
+      "name": "泰雅原舞工坊",
+      "short": "泰雅",
+      "color": "#8338ec",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -10212,6 +10236,46 @@
       "note": "［免費］\n活動時間為 10:00-17:00。卡司包含白頻率、腦體馬戲團、曾允成、青年社團熱音等。"
     },
     {
+      "id": "upcoming-row-578",
+      "date": "20261031",
+      "band": "band_drsiw0_125",
+      "time": "未公布",
+      "name": "谷關燈光節溫泉晚會",
+      "location": "臺中谷關公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E8%B0%B7%E9%97%9C%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司:阿布絲、CJ MiT、卡尼特、泰雅原舞工坊。"
+    },
+    {
+      "id": "upcoming-row-579",
+      "date": "20261031",
+      "band": "cjmit",
+      "time": "未公布",
+      "name": "谷關燈光節溫泉晚會",
+      "location": "臺中谷關公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E8%B0%B7%E9%97%9C%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司:阿布絲、CJ MiT、卡尼特、泰雅原舞工坊。"
+    },
+    {
+      "id": "upcoming-row-580",
+      "date": "20261031",
+      "band": "band_drsiw0_126",
+      "time": "未公布",
+      "name": "谷關燈光節溫泉晚會",
+      "location": "臺中谷關公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E8%B0%B7%E9%97%9C%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司:阿布絲、CJ MiT、卡尼特、泰雅原舞工坊。"
+    },
+    {
+      "id": "upcoming-row-581",
+      "date": "20261031",
+      "band": "band_32tclr_4",
+      "time": "未公布",
+      "name": "谷關燈光節溫泉晚會",
+      "location": "臺中谷關公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E8%B0%B7%E9%97%9C%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司:阿布絲、CJ MiT、卡尼特、泰雅原舞工坊。"
+    },
+    {
       "id": "upcoming-row-15",
       "date": "20261101",
       "band": "papunband",
@@ -12397,6 +12461,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "bb5f9057-3c10-449a-b0d2-09ad7d35d497",
-  "updatedAt": "2026-10-17T02:27:03.189Z"
+  "revision": "1c098048-708f-45f8-b84f-a15f29cc5e3b",
+  "updatedAt": "2026-10-17T02:27:42.185Z"
 }
