@@ -298,6 +298,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_61",
+      "name": "白頻率",
+      "short": "白頻率",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "psco",
       "name": "P!SCO",
       "short": "P!SCO",
@@ -542,14 +550,6 @@
       "name": "The Salitus",
       "short": "The Salitus",
       "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_61",
-      "name": "白頻率",
-      "short": "白頻率",
-      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 2
     },
@@ -3159,6 +3159,30 @@
       "short": "Pe",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_18",
+      "name": "腦體馬戲團",
+      "short": "腦體",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_124",
+      "name": "曾允成",
+      "short": "曾允",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_32tclr_3",
+      "name": "青年社團熱音",
+      "short": "青年",
+      "color": "#ffd166",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -10138,6 +10162,46 @@
       "note": "［免費］\n活動日期為 2026/10/31,預計持續 8 小時。卡司包含:脆樂團、幽靈水晶、胡恂舞、翁鈺鈞。"
     },
     {
+      "id": "upcoming-row-573",
+      "date": "20261031",
+      "band": "band_drsiw0_61",
+      "time": "未公布",
+      "name": "青年職場實習探索嘉年華",
+      "location": "彰化縣立體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%AB%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n卡司:白頻率、腦體馬戲團、曾允成、青年社團熱音;活動時間:10:00-17:00。"
+    },
+    {
+      "id": "upcoming-row-574",
+      "date": "20261031",
+      "band": "band_qqiyec_18",
+      "time": "未公布",
+      "name": "青年職場實習探索嘉年華",
+      "location": "彰化縣立體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%AB%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n卡司:白頻率、腦體馬戲團、曾允成、青年社團熱音;活動時間:10:00-17:00。"
+    },
+    {
+      "id": "upcoming-row-575",
+      "date": "20261031",
+      "band": "band_drsiw0_124",
+      "time": "未公布",
+      "name": "青年職場實習探索嘉年華",
+      "location": "彰化縣立體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%AB%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n卡司:白頻率、腦體馬戲團、曾允成、青年社團熱音;活動時間:10:00-17:00。"
+    },
+    {
+      "id": "upcoming-row-576",
+      "date": "20261031",
+      "band": "band_32tclr_3",
+      "time": "未公布",
+      "name": "青年職場實習探索嘉年華",
+      "location": "彰化縣立體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%AB%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n卡司:白頻率、腦體馬戲團、曾允成、青年社團熱音;活動時間:10:00-17:00。"
+    },
+    {
       "id": "upcoming-row-15",
       "date": "20261101",
       "band": "papunband",
@@ -12323,6 +12387,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "4d8f33f5-67f5-4592-bd74-8086fd87b1ba",
-  "updatedAt": "2026-10-16T23:24:57.744Z"
+  "revision": "52004257-93c4-4faf-b281-6efce4573b6d",
+  "updatedAt": "2026-10-17T00:23:17.710Z"
 }
