@@ -26,7 +26,7 @@
             --accent: #d4f55a;
         }
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', system-ui, sans-serif; letter-spacing: -0.015em; }
-        body { background: var(--bg-main); color: var(--text-main); padding-top: 118px; transition: background-color 0.3s, color 0.3s; overflow-x: hidden; }
+        body { background: var(--bg-main); color: var(--text-main); padding-top: 118px; transition: background-color 0.3s, color 0.3s; overflow-x: hidden; min-height: 100vh; min-height: 100dvh; display: flex; flex-direction: column; }
         @media (min-width: 768px) { body { padding-top: 96px; } }
         
         .hero-grid { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(to right, var(--text-main) 1px, transparent 1px), linear-gradient(to bottom, var(--text-main) 1px, transparent 1px); background-size: 40px 40px; opacity: 0.05; pointer-events: none; z-index: -1; }
@@ -61,7 +61,7 @@
             .user-nav-btn, .theme-btn { font-size: 0.78rem; padding: 4px 10px; }
         }
 
-        .container { max-width: 1200px; margin: 0 auto 2rem auto; padding: 0 0.85rem; width: 100%; overflow-x: hidden; }
+        .container { max-width: 1200px; margin: 0 auto 1.5rem auto; padding: 0 0.85rem; width: 100%; overflow-x: hidden; flex: 1; }
         
         /* 智慧型頂部精簡篩選列 */
         .filter-section { margin-bottom: 12px; }
@@ -85,7 +85,7 @@
             .filter-btn, .explore-trigger-btn { font-size: 0.78rem; padding: 5px 13px; border-width: 2px; }
         }
 
-        /* ★ 修正問題 1：手機版使用 100dvh 動態可視高度 + 安全區域內距，完美避開瀏覽器底部工具列遮擋 ★ */
+        /* 彈出式通用遮罩與對話框（使用 100dvh 動態可視高度 + 安全區域內距） */
         .modal-backdrop {
             position: fixed;
             inset: 0;
@@ -119,6 +119,7 @@
             animation: slideUp 0.22s cubic-bezier(0.16, 1, 0.3, 1);
         }
         .account-modal { max-width: 440px; }
+        .day-events-modal { max-width: 680px; }
         .am-header { padding: 10px 14px; background: var(--text-main); color: var(--bg-main); display: flex; justify-content: space-between; align-items: center; gap: 10px; border-bottom: 2px solid var(--text-main); flex-shrink: 0; }
         .am-title-wrap h3 { font-size: 0.92rem; font-weight: 900; letter-spacing: -0.5px; display: flex; align-items: center; gap: 5px; }
         .am-title-wrap p { font-size: 0.68rem; opacity: 0.82; font-weight: 600; margin-top: 1px; line-height: 1.3; }
@@ -129,7 +130,6 @@
         .am-search-input { width: 100%; padding: 7px 11px; border: 2px solid var(--text-main); border-radius: 8px; background: var(--bg-card); color: var(--text-main); font-size: 0.82rem; font-weight: 700; box-shadow: 2px 2px 0px var(--text-main); }
         .am-search-input:focus { outline: none; box-shadow: 3px 3px 0px var(--accent); }
         
-        /* 分類標籤改為單行橫向滑動或緊湊排列，節省手機垂直高度 */
         .am-cat-tabs { display: flex; gap: 5px; overflow-x: auto; padding-bottom: 2px; scrollbar-width: none; -ms-overflow-style: none; }
         .am-cat-tabs::-webkit-scrollbar { display: none; }
         .am-cat-btn { font-size: 0.72rem; font-weight: 800; padding: 4px 9px; border: 1.5px solid var(--text-main); border-radius: 8px; background: var(--bg-card); color: var(--text-secondary); cursor: pointer; display: inline-flex; align-items: center; gap: 4px; transition: all 0.15s; white-space: nowrap; flex-shrink: 0; }
@@ -137,11 +137,14 @@
         .am-cat-btn.active { background: var(--text-main); color: var(--bg-main); box-shadow: 2px 2px 0px var(--accent); }
 
         .am-list { padding: 10px 14px; overflow-y: auto; -webkit-overflow-scrolling: touch; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 7px; flex: 1; min-height: 0; align-content: start; }
+        /* 行事曆單日活動浮動視窗內部清單 */
+        .day-modal-body { padding: 12px 14px; overflow-y: auto; -webkit-overflow-scrolling: touch; display: flex; flex-direction: column; gap: 12px; flex: 1; min-height: 0; background: var(--bg-main); }
         @media (min-width: 640px) {
             .am-header { padding: 14px 18px; }
             .am-title-wrap h3 { font-size: 1rem; }
             .am-controls { padding: 12px 18px; gap: 8px; }
             .am-list { padding: 14px 18px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; }
+            .day-modal-body { padding: 16px 18px; gap: 14px; }
         }
         .am-item { display: flex; align-items: center; justify-content: space-between; padding: 7px 9px; border: 2px solid var(--text-main); border-radius: 9px; background: var(--bg-card); cursor: pointer; transition: transform 0.12s, box-shadow 0.12s, background 0.15s; box-shadow: 2px 2px 0px var(--text-main); gap: 5px; user-select: none; }
         .am-item:hover { transform: translate(-1px, -1px); box-shadow: 3px 3px 0px var(--text-main); }
@@ -154,7 +157,6 @@
         .am-badge { font-size: 0.64rem; font-weight: 900; padding: 1.5px 5px; border-radius: 99px; border: 1.5px solid var(--text-main); background: var(--bg-subtle); color: var(--text-main); white-space: nowrap; flex-shrink: 0; }
         .am-item.selected .am-badge { background: #111; color: var(--accent); border-color: #111; }
 
-        /* 底部操作列固定不壓縮，文字單行省略避免撐高把按鈕推到畫面外 */
         .am-footer { padding: 9px 14px; background: var(--bg-card); border-top: 2px solid var(--text-main); display: flex; flex-direction: column; gap: 7px; flex-shrink: 0; }
         .am-selected-status { font-size: 0.72rem; font-weight: 800; color: var(--text-secondary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%; }
         .am-footer-btns { display: flex; justify-content: space-between; align-items: center; gap: 8px; width: 100%; }
@@ -215,6 +217,7 @@
         .btn-more:active { transform: translate(4px, 4px); box-shadow: none; }
         
         #calendar-container { background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 5px 5px 0px var(--text-main); border-radius: 12px; padding: 12px; margin-top: 10px; width: 100%; overflow-x: auto; }
+        .calendar-tip { font-size: 0.72rem; font-weight: 800; color: var(--text-secondary); margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 6px 10px; background: var(--bg-subtle); border-radius: 6px; border: 1.5px dashed var(--border); }
         .fc-theme-standard td, .fc-theme-standard th { border: 1px solid var(--border); }
         .fc-theme-standard .fc-scrollgrid { border: 2px solid var(--text-main); }
         .fc .fc-toolbar-title { font-weight: 900; color: var(--text-main); font-size: 1.15rem; letter-spacing:-0.5px;}
@@ -223,12 +226,95 @@
         .fc .fc-daygrid-day-number { color: var(--text-main); font-weight: 900; }
         .fc .fc-col-header-cell-cushion { color: var(--text-main); font-weight: 900; padding: 8px 4px; }
         .fc-event { border: 1.5px solid var(--text-main); border-radius: 4px; padding: 2px !important; font-size: 10px; font-weight: 800; color: var(--text-main) !important; cursor: pointer; box-shadow: 1.5px 1.5px 0px var(--text-main); margin-bottom: 2px; white-space: normal !important; text-align: center; }
+        .fc .fc-daygrid-more-link { font-size: 10.5px; font-weight: 900; color: #111 !important; background: var(--accent); border: 1.5px solid var(--text-main); border-radius: 4px; padding: 1px 5px; display: inline-block; margin-top: 2px; text-decoration: none !important; box-shadow: 1.5px 1.5px 0px var(--text-main); }
         
         html.dark .fc .fc-button-primary { color: var(--text-main); background-color: var(--bg-subtle); }
         html.dark .fc .fc-button-primary:hover { background-color: var(--text-main); color: var(--bg-main); }
         html.dark .fc-event { color: #111 !important; }
         
         .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text-main); color: var(--bg-main); padding: 10px 20px; font-size: 13px; font-weight: 800; border-radius: 8px; z-index: 3000; box-shadow: 5px 5px 0px var(--accent); max-width: 90vw; text-align: center;}
+
+        /* ★ 雜誌版權風低調開發者頁尾 (Editorial Colophon Footer) ★ */
+        .site-footer {
+            max-width: 1200px;
+            width: 100%;
+            margin: 2rem auto 0 auto;
+            padding: 0 0.85rem calc(1.5rem + env(safe-area-inset-bottom, 0px)) 0.85rem;
+        }
+        .footer-inner {
+            border-top: 1.5px dashed var(--border);
+            padding-top: 14px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            opacity: 0.72;
+            transition: opacity 0.25s ease;
+        }
+        .footer-inner:hover, .footer-inner:focus-within {
+            opacity: 1;
+        }
+        .footer-meta {
+            font-size: 0.72rem;
+            font-weight: 800;
+            color: var(--text-secondary);
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+        }
+        .footer-meta strong {
+            color: var(--text-main);
+            font-weight: 900;
+        }
+        .footer-dot {
+            opacity: 0.45;
+        }
+        .footer-links {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .footer-social-link {
+            font-size: 0.68rem;
+            font-weight: 800;
+            color: var(--text-main);
+            background: var(--bg-card);
+            border: 1.5px solid var(--text-main);
+            padding: 3px 9px;
+            border-radius: 99px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            box-shadow: 1.5px 1.5px 0px var(--text-main);
+            transition: transform 0.12s, box-shadow 0.12s, background 0.15s, color 0.15s;
+        }
+        .footer-social-link:hover {
+            background: var(--accent);
+            color: #111;
+            transform: translate(-1px, -1px);
+            box-shadow: 2.5px 2.5px 0px var(--text-main);
+        }
+        .footer-social-link:active {
+            transform: translate(1.5px, 1.5px);
+            box-shadow: none;
+        }
+        .footer-social-link svg {
+            width: 12px;
+            height: 12px;
+            fill: currentColor;
+            flex-shrink: 0;
+        }
+        @media (min-width: 640px) {
+            .footer-inner {
+                flex-direction: row;
+            }
+        }
     </style>
     <style id="dynamic-styles"></style>
 </head>
@@ -305,10 +391,37 @@
         <div id="content"></div>
         
         <div id="calendar-container" style="display: none;">
+            <div class="calendar-tip">
+                <span>💡 點擊有色塊的日期，即可直接彈出當日活動視窗（關閉後維持原瀏覽位置）</span>
+            </div>
             <div id="calendar"></div>
-            <div id="calendar-events-list"></div>
         </div>
     </div>
+
+    <!-- ★ 低調精緻的開發者聯絡資訊頁尾 (Footer) ★ -->
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <div class="footer-meta">
+                <span>開發者：<strong>Blues32767</strong></span>
+                <span class="footer-dot">·</span>
+                <span>維護日期：<strong id="footer-maintained-date">20261017</strong></span>
+            </div>
+            <div class="footer-links">
+                <a href="https://github.com/blues32767?tab=repositories" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="前往開發者 GitHub">
+                    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .3a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2c-3.3.7-4-1.6-4-1.6-.6-1.4-1.4-1.8-1.4-1.8-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-6 0-1.2.5-2.3 1.3-3.1-.2-.4-.6-1.6 0-3.2 0 0 1-.3 3.4 1.2a11.5 11.5 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.6 1.6.2 2.8 0 3.2.9.8 1.3 1.9 1.3 3.2 0 4.6-2.8 5.6-5.5 5.9.5.4.9 1.1.9 2.2v3.3c0 .3.1.7.8.6A12 12 0 0 0 12 .3"/></svg>
+                    <span>GitHub</span>
+                </a>
+                <a href="https://www.threads.com/@blues_.g" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="前往開發者 Threads">
+                    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.186 24h-.007c-3.581-.024-6.334-1.205-8.184-3.509C2.35 18.44 1.5 15.586 1.472 12.01v-.017c.03-3.579.879-6.43 2.525-8.482C5.845 1.205 8.6.024 12.18 0h.014c2.746.02 5.043.725 6.826 2.098 1.677 1.29 2.858 3.13 3.509 5.467l-2.04.569c-1.104-3.96-3.898-5.984-8.304-6.015-2.91.022-5.11.936-6.54 2.717C4.307 6.504 3.616 8.914 3.589 12c.027 3.086.718 5.496 2.057 7.164 1.43 1.783 3.631 2.698 6.54 2.717 2.623-.02 4.358-.631 5.8-2.045 1.647-1.613 1.618-3.593 1.09-4.798-.31-.71-.873-1.3-1.634-1.75-.192 1.352-.622 2.446-1.284 3.272-.886 1.102-2.14 1.704-3.73 1.79-1.202.065-2.361-.218-3.259-.801-1.063-.689-1.685-1.74-1.752-2.96-.065-1.182.408-2.256 1.333-3.023.812-.672 1.928-1.073 3.222-1.16 1.07-.072 2.074.042 2.996.335-.083-.68-.298-1.217-.642-1.602-.482-.542-1.267-.822-2.333-.833h-.04c-.838 0-1.57.228-2.115.66-.422.334-.688.742-.813 1.246l-2.062-.513c.225-.907.725-1.682 1.486-2.303.93-.758 2.138-1.142 3.59-1.142h.062c1.662.017 2.976.5 3.904 1.435.853.86 1.32 2.083 1.389 3.635l.007.17c1.097.595 1.928 1.418 2.411 2.415.792 1.637.828 4.414-1.377 6.575-1.838 1.8-4.104 2.627-7.33 2.652zm-.884-8.545c-1.066.071-1.752.426-2.02.98-.145.3-.157.648-.022.97.232.556.872.927 1.777.977.997.055 1.81-.296 2.348-.967.416-.518.711-1.258.881-2.206-.826-.226-1.76-.31-2.774-.242l-.19.018z"/></svg>
+                    <span>Threads</span>
+                </a>
+                <a href="https://www.instagram.com/blues_.g/" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="前往開發者 Instagram">
+                    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                    <span>IG</span>
+                </a>
+            </div>
+        </div>
+    </footer>
 
     <!-- 陣容探索與分類篩選視窗 (Artist Explorer Modal) -->
     <div id="artist-modal-backdrop" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="am-modal-title">
@@ -334,6 +447,20 @@
                     <button class="cc-btn active" onclick="closeArtistModal()">套用並記憶 →</button>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <!-- ★ 行事曆單日現場清單浮動視窗 (Calendar Day Events Modal - 不跳轉頁面位置) ★ -->
+    <div id="calendar-day-modal-backdrop" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="cdm-title">
+        <div class="artist-modal day-events-modal" onclick="event.stopPropagation()">
+            <div class="am-header">
+                <div class="am-title-wrap">
+                    <h3 id="cdm-title">📌 當日現場清單</h3>
+                    <p id="cdm-subtitle">點擊視窗外或右上角按鈕即可關閉，維持原行事曆位置</p>
+                </div>
+                <button class="am-close-btn" onclick="closeCalendarDayModal()">✕ 關閉</button>
+            </div>
+            <div class="day-modal-body" id="cdm-body"></div>
         </div>
     </div>
 
@@ -379,18 +506,22 @@
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/locales/zh-tw.js"></script>
 
     <script>
+        // ★ 開發者更新 index.html 時，只需修改此處的維護日期即可自動反映於頁尾 ★
+        const MAINTAINED_DATE = '20261017';
         const GAS_URL = 'https://script.google.com/macros/s/AKfycbwR49SJXjZM55RzbhpQyDv39sVM2J91U8BSs7gKlATQihm_QC60HOHH6FQtiA4CvLJexg/exec';
         const DATA_URL = './data.json';
         const TOP_PINNED_LIMIT = 6;
         
         let BANDS_MAP = {}; 
-        let BAND_ALIAS_MAP = {}; // 將空白或分身代號自動映射回主代號
+        let BAND_ALIAS_MAP = {};
         let rawBands = [];
         
         const DAY_NAMES = ['日', '一', '二', '三', '四', '五', '六'];
         const $ = s => document.querySelector(s);
         const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
         const storage = { get: (k, f) => { try { return JSON.parse(localStorage.getItem(k)) ?? f } catch { return f } }, set: (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); return true } catch { return false } } };
+
+        $('#footer-maintained-date').innerText = MAINTAINED_DATE;
 
         let data = { upcoming: [], events: [], bands: [] };
         let tab = 'upcoming', query = '', limit = 24, statsBand = 'all';
@@ -425,7 +556,6 @@
             return str.trim();
         }
 
-        // ★ 前端藝人名稱正規化 Key（抽乾所有空白、標點與連接號，讓 "163 braces" 與 "163braces" 合為一體）
         function normBandCompareKey(name) {
             return normText(name).toLowerCase().replace(/[\s\-_・·.。，,()（）\[\]【】「」『』《》!！?？×x✕&＆/／]/g, '');
         }
@@ -473,13 +603,9 @@
             return false;
         }
 
-        /**
-         * ★ 修正問題 1：手機觸控螢幕打開「挑選藝人」視窗時，不自動 focus 搜尋框（避免跳出鍵盤遮住半個螢幕）
-         */
         function openArtistModal() {
             $('#artist-modal-backdrop').classList.add('open');
             renderArtistModalContent();
-            // 僅在桌機（具備精準游標且螢幕寬度 >= 768px）才自動聚焦搜尋框
             if (window.matchMedia && window.matchMedia('(pointer: fine)').matches && window.innerWidth >= 768) {
                 setTimeout(() => $('#am-search').focus(), 60);
             }
@@ -488,6 +614,10 @@
         function closeArtistModal() {
             $('#am-search').blur();
             $('#artist-modal-backdrop').classList.remove('open');
+        }
+
+        function closeCalendarDayModal() {
+            $('#calendar-day-modal-backdrop').classList.remove('open');
         }
 
         function openAccountModal() {
@@ -585,7 +715,7 @@
             const ids = idsStr.split(','), isActive = btn.classList.contains('active');
             ids.forEach(id => { if (isActive) footprints.delete(id); else footprints.add(id); });
             storage.set('ting-footprints', [...footprints]);
-            btn.classList.toggle('active'); btn.innerText = isActive ? '＋ 足跡' : '✓ 足跡';
+            btn.classList.toggle('active'); btn.innerText = isActive ? '✓ 足跡' : '＋ 足跡';
             scheduleSilentCloudPush();
             if(tab === 'footprints') render();
         }
@@ -604,10 +734,12 @@
             } else if (e.key === 'Escape') {
                 if ($('#artist-modal-backdrop').classList.contains('open')) closeArtistModal();
                 if ($('#account-modal-backdrop').classList.contains('open')) closeAccountModal();
+                if ($('#calendar-day-modal-backdrop').classList.contains('open')) closeCalendarDayModal();
             }
         });
         $('#artist-modal-backdrop').addEventListener('click', closeArtistModal);
         $('#account-modal-backdrop').addEventListener('click', closeAccountModal);
+        $('#calendar-day-modal-backdrop').addEventListener('click', closeCalendarDayModal);
 
         function dateKey(s) { return String(s || '').replace(/[-/]/g, '').replace(/\.0$/, ''); }
         function getDayOfWeek(dStr) { if (!dStr || dStr.length !== 8) return ''; return DAY_NAMES[new Date(dStr.slice(0,4), parseInt(dStr.slice(4,6))-1, dStr.slice(6,8)).getDay()]; }
@@ -649,7 +781,7 @@
         }
         
         function safeUrl(u) { try { const x = new URL(u); return x.protocol === 'https:' ? x.href : '' } catch { return '' } }
-        function showToast(msg) { $('#toast').innerText = msg; $('#toast').style.display = 'block'; setTimeout(() => $('#toast').style.display = 'none', 3000); }
+        function showToast(msg) { $('#toast').innerText = msg; $('#toast').style.display = 'block'; clearTimeout(showToast.t); showToast.t = setTimeout(() => $('#toast').style.display = 'none', 2600); }
 
         if (userId) $('#user-id-input').value = userId;
         if (userNickname) $('#user-nick-input').value = userNickname;
@@ -783,9 +915,6 @@
             $('#cloud-sync').innerText = '☁ 登入 / 立即同步雲端';
         }
 
-        /**
-         * ★ 修正問題 3：前端也內建「分身代號自動歸併」（例如將 163braces_1 自動併入 163braces、whocares_1 併入 WhoCares）
-         */
         function enrichAndSortBands(bandsData, upcomingList, eventsList) {
             if(!bandsData || bandsData.length === 0) return [];
             BAND_ALIAS_MAP = {};
@@ -795,7 +924,6 @@
             bandsData.forEach((b, index) => {
                 if (!b || !b.id || isPlaceholderTitle(b.name)) return;
                 const nKey = normBandCompareKey(b.name);
-                // 檢查是否與前面已註冊的主藝人屬於同一個藝人（例如 163braces vs 163 braces，或 胡凱兒 vs Who Cares胡凱兒）
                 let matchedPrimary = canonicalByNormKey.get(nKey);
                 if (!matchedPrimary) {
                     for (const [existKey, primaryObj] of canonicalByNormKey.entries()) {
@@ -817,7 +945,6 @@
                 }
             });
 
-            // 將 upcomingList 與 eventsList 中的分身代號全部指向主代號
             (upcomingList || []).forEach(e => { if (e.band) e.band = resolveCanonicalBandId(e.band); });
             (eventsList || []).forEach(e => { if (e.band) e.band = resolveCanonicalBandId(e.band); });
 
@@ -1081,7 +1208,7 @@
                 $('#section-title-wrap').style.display = tab === 'calendar' ? 'none' : 'flex';
                 
                 if (tab === 'calendar') {
-                    $('#content').style.display = 'none'; $('#calendar-container').style.display = 'block'; $('#calendar-events-list').innerHTML = '';
+                    $('#content').style.display = 'none'; $('#calendar-container').style.display = 'block';
                     renderCalendar();
                 } else {
                     $('#content').style.display = 'block'; $('#calendar-container').style.display = 'none';
@@ -1276,14 +1403,32 @@
             $('#content').innerHTML = html + '</div>';
         }
 
+        /**
+         * ★ 修正問題 2：點擊行事曆日期時，不再強制將畫面往下捲動，而是直接彈出「單日現場清單浮動視窗」！
+         * 若使用者在滑動手機時誤觸到「沒有活動的空白日期」，僅顯示輕量 Toast 提示，不彈出視窗干擾操作。
+         */
         function renderCalendarDateEvents(dateStr) {
             const clickedDate = dateStr.replace(/-/g, '');
+            const dayStr = getDayOfWeek(clickedDate);
+            const formattedDate = `${clickedDate.slice(0,4)}/${clickedDate.slice(4,6)}/${clickedDate.slice(6,8)}${dayStr ? ` (${dayStr})` : ''}`;
+
             let groupedList = filterGrouped(groupEvents([...data.upcoming, ...data.events])).filter(g => dateKey(g.date) === clickedDate);
-            let html = '<div class="events-grid" style="margin-top:20px;">';
-            if (groupedList.length === 0) html += '<div class="empty-state">這天沒有符合條件的演出行程。</div>';
-            else groupedList.forEach((g, idx) => { html += buildCard(g, clickedDate < taipeiToday, idx); });
-            $('#calendar-events-list').innerHTML = `<div class="section-title" style="margin-top:30px; padding-top:20px; border-top:2px dashed var(--text-main);"><span>📌 ${dateStr.replace(/-/g, '/')} 現場清單</span></div>${html}</div>`;
-            $('#calendar-events-list').scrollIntoView({ behavior: 'smooth' });
+
+            if (groupedList.length === 0) {
+                showToast(`📅 ${formattedDate} 沒有符合目前篩選的演出`);
+                return;
+            }
+
+            $('#cdm-title').innerText = `📌 ${formattedDate} 現場清單`;
+            $('#cdm-subtitle').innerText = `共 ${groupedList.length} 場活動 · 點擊視窗外或 ✕ 即可關閉`;
+
+            const isHistorical = clickedDate < taipeiToday;
+            const cardsHtml = groupedList.map((g, idx) => buildCard(g, isHistorical, idx)).join('');
+            const bodyEl = $('#cdm-body');
+            bodyEl.innerHTML = cardsHtml;
+            bodyEl.scrollTop = 0;
+
+            $('#calendar-day-modal-backdrop').classList.add('open');
         }
         
         function renderCalendar() {
@@ -1312,15 +1457,37 @@
             });
 
             calendar = new FullCalendar.Calendar(document.getElementById('calendar'), {
-                locale: 'zh-tw', initialView: 'dayGridMonth', headerToolbar: { left: 'prev,next today', center: 'title', right: 'dayGridMonth' },
-                events: calEvents, height: 'auto', contentHeight: 'auto', aspectRatio: 1.35,
-                dateClick: info => renderCalendarDateEvents(info.dateStr), eventClick: info => renderCalendarDateEvents(info.event.startStr),
+                locale: 'zh-tw',
+                initialView: 'dayGridMonth',
+                headerToolbar: { left: 'prev,next today', center: 'title', right: 'dayGridMonth' },
+                events: calEvents,
+                height: 'auto',
+                contentHeight: 'auto',
+                aspectRatio: 1.35,
+                dayMaxEvents: 4, // ★ 單日超過 4 個色塊自動收合為「+N 更多」，避免行事曆被撐得無限長
+                moreLinkClick: info => {
+                    const d = info.date;
+                    const y = d.getFullYear();
+                    const m = String(d.getMonth() + 1).padStart(2, '0');
+                    const day = String(d.getDate()).padStart(2, '0');
+                    renderCalendarDateEvents(`${y}-${m}-${day}`);
+                    return 'none'; // 阻止預設小氣泡，統一打開我們的浮動視窗
+                },
+                dateClick: info => renderCalendarDateEvents(info.dateStr),
+                eventClick: info => {
+                    if (info.jsEvent) info.jsEvent.preventDefault();
+                    renderCalendarDateEvents(info.event.startStr);
+                },
                 windowResize: function() {
-                    calendar.setOption('aspectRatio', window.innerWidth < 768 ? 0.8 : 1.35);
+                    calendar.setOption('aspectRatio', window.innerWidth < 768 ? 0.85 : 1.35);
                     calendar.setOption('headerToolbar', window.innerWidth < 768 ? { left: 'prev,next', center: 'title', right: 'today' } : { left: 'prev,next today', center: 'title', right: 'dayGridMonth' });
                 }
             });
-            calendar.render(); if(window.innerWidth < 768) { calendar.setOption('aspectRatio', 0.8); calendar.setOption('headerToolbar', { left: 'prev,next', center: 'title', right: 'today' }); }
+            calendar.render();
+            if(window.innerWidth < 768) {
+                calendar.setOption('aspectRatio', 0.85);
+                calendar.setOption('headerToolbar', { left: 'prev,next', center: 'title', right: 'today' });
+            }
         }
 
         function render() {
