@@ -27,6 +27,7 @@
         }
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', system-ui, sans-serif; letter-spacing: -0.015em; }
         body { background: var(--bg-main); color: var(--text-main); padding-top: 118px; transition: background-color 0.3s, color 0.3s; overflow-x: hidden; min-height: 100vh; min-height: 100dvh; display: flex; flex-direction: column; }
+        body.modal-open { overflow: hidden !important; touch-action: none; }
         @media (min-width: 768px) { body { padding-top: 96px; } }
         
         .hero-grid { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(to right, var(--text-main) 1px, transparent 1px), linear-gradient(to bottom, var(--text-main) 1px, transparent 1px); background-size: 40px 40px; opacity: 0.05; pointer-events: none; z-index: -1; }
@@ -85,7 +86,7 @@
             .filter-btn, .explore-trigger-btn { font-size: 0.78rem; padding: 5px 13px; border-width: 2px; }
         }
 
-        /* 彈出式通用遮罩與對話框（使用 100dvh 動態可視高度 + 安全區域內距） */
+        /* 彈出式通用遮罩與對話框 */
         .modal-backdrop {
             position: fixed;
             inset: 0;
@@ -99,6 +100,7 @@
             align-items: center;
             justify-content: center;
             padding: 10px 10px calc(12px + env(safe-area-inset-bottom, 0px)) 10px;
+            overscroll-behavior: contain;
             animation: fadeIn 0.18s ease-out;
         }
         .modal-backdrop.open { display: flex; }
@@ -107,7 +109,7 @@
         .artist-modal {
             width: 100%;
             max-width: 760px;
-            max-height: calc(100vh - 90px);
+            max-height: calc(100vh - 70px);
             max-height: calc(100dvh - 24px - env(safe-area-inset-bottom, 0px));
             background: var(--bg-card);
             border: 2.5px solid var(--text-main);
@@ -136,15 +138,88 @@
         .am-cat-btn:hover { color: var(--text-main); }
         .am-cat-btn.active { background: var(--text-main); color: var(--bg-main); box-shadow: 2px 2px 0px var(--accent); }
 
-        .am-list { padding: 10px 14px; overflow-y: auto; -webkit-overflow-scrolling: touch; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 7px; flex: 1; min-height: 0; align-content: start; }
-        /* 行事曆單日活動浮動視窗內部清單 */
-        .day-modal-body { padding: 12px 14px; overflow-y: auto; -webkit-overflow-scrolling: touch; display: flex; flex-direction: column; gap: 12px; flex: 1; min-height: 0; background: var(--bg-main); }
+        .am-list { padding: 10px 14px; overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 7px; flex: 1; min-height: 0; align-content: start; }
+
+        /* ★ 新增：單日活動浮動視窗頂部「單行快速跳轉導覽列 (Quick-Jump Bar)」 ★ */
+        .cdm-quick-nav {
+            padding: 8px 14px;
+            background: var(--bg-subtle);
+            border-bottom: 1.5px dashed var(--text-main);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            overflow-x: auto;
+            overscroll-behavior-x: contain;
+            -webkit-overflow-scrolling: touch;
+            flex-shrink: 0;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+        .cdm-quick-nav::-webkit-scrollbar { display: none; }
+        .cdm-jump-pill {
+            font-size: 0.7rem;
+            font-weight: 800;
+            padding: 4px 10px;
+            border: 1.5px solid var(--text-main);
+            border-radius: 99px;
+            background: var(--bg-card);
+            color: var(--text-main);
+            cursor: pointer;
+            white-space: nowrap;
+            flex-shrink: 0;
+            box-shadow: 1.5px 1.5px 0px var(--text-main);
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            transition: transform 0.12s, background 0.15s;
+        }
+        .cdm-jump-pill:hover, .cdm-jump-pill:active {
+            background: var(--accent);
+            color: #111;
+            transform: translateY(-1px);
+        }
+        .cdm-jump-pill .pill-highlight {
+            background: var(--text-main);
+            color: var(--accent);
+            padding: 0 5px;
+            border-radius: 99px;
+            font-size: 0.64rem;
+            font-weight: 900;
+        }
+
+        /* ★ 修正問題 1：行事曆單日活動浮動視窗內部清單，強制子卡片 flex-shrink: 0 絕不壓扁裁切！ ★ */
+        .day-modal-body {
+            padding: 12px 14px 20px 14px;
+            overflow-y: auto;
+            overscroll-behavior: contain;
+            -webkit-overflow-scrolling: touch;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            flex: 1;
+            min-height: 0;
+            background: var(--bg-main);
+            touch-action: pan-y;
+        }
+        .day-modal-body > .compact-card {
+            flex-shrink: 0 !important;
+            overflow: visible !important;
+        }
+        @keyframes cardHighlightPulse {
+            0% { box-shadow: 0 0 0 0 var(--accent), 4px 4px 0px var(--text-main); }
+            50% { box-shadow: 0 0 0 5px var(--accent), 6px 6px 0px var(--text-main); transform: translateY(-2px); }
+            100% { box-shadow: 4px 4px 0px var(--text-main); }
+        }
+        .compact-card.jump-highlight {
+            animation: cardHighlightPulse 1.1s ease-out !important;
+        }
+
         @media (min-width: 640px) {
             .am-header { padding: 14px 18px; }
             .am-title-wrap h3 { font-size: 1rem; }
             .am-controls { padding: 12px 18px; gap: 8px; }
             .am-list { padding: 14px 18px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; }
-            .day-modal-body { padding: 16px 18px; gap: 14px; }
+            .day-modal-body { padding: 16px 18px 24px 18px; gap: 14px; }
         }
         .am-item { display: flex; align-items: center; justify-content: space-between; padding: 7px 9px; border: 2px solid var(--text-main); border-radius: 9px; background: var(--bg-card); cursor: pointer; transition: transform 0.12s, box-shadow 0.12s, background 0.15s; box-shadow: 2px 2px 0px var(--text-main); gap: 5px; user-select: none; }
         .am-item:hover { transform: translate(-1px, -1px); box-shadow: 3px 3px 0px var(--text-main); }
@@ -180,7 +255,7 @@
 
         @keyframes slideUp { from { opacity: 0; transform: translateY(15px); } to { opacity: 1; transform: translateY(0); } }
         
-        .compact-card { display: flex; padding: 12px; gap: 12px; background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 4px 4px 0px var(--text-main); border-radius: 8px; align-items: flex-start; transition: transform 0.2s, box-shadow 0.2s; width: 100%; box-sizing: border-box; overflow: hidden; animation: slideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) backwards;}
+        .compact-card { display: flex; padding: 12px; gap: 12px; background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 4px 4px 0px var(--text-main); border-radius: 8px; align-items: flex-start; transition: transform 0.2s, box-shadow 0.2s; width: 100%; box-sizing: border-box; overflow: hidden; animation: slideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) backwards; flex-shrink: 0;}
         .compact-card:hover { transform: translate(-2px, -2px); box-shadow: 6px 6px 0px var(--text-main); }
         
         .cc-date { display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--text-main); color: var(--bg-main); min-width: 52px; padding: 7px 4px; border-radius: 6px; flex-shrink: 0; }
@@ -234,7 +309,7 @@
         
         .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text-main); color: var(--bg-main); padding: 10px 20px; font-size: 13px; font-weight: 800; border-radius: 8px; z-index: 3000; box-shadow: 5px 5px 0px var(--accent); max-width: 90vw; text-align: center;}
 
-        /* ★ 雜誌版權風低調開發者頁尾 (Editorial Colophon Footer) ★ */
+        /* 雜誌版權風低調開發者頁尾 (Editorial Colophon Footer) */
         .site-footer {
             max-width: 1200px;
             width: 100%;
@@ -398,7 +473,7 @@
         </div>
     </div>
 
-    <!-- ★ 低調精緻的開發者聯絡資訊頁尾 (Footer) ★ -->
+    <!-- 低調精緻的開發者聯絡資訊頁尾 (Footer) -->
     <footer class="site-footer">
         <div class="footer-inner">
             <div class="footer-meta">
@@ -450,7 +525,7 @@
         </div>
     </div>
 
-    <!-- ★ 行事曆單日現場清單浮動視窗 (Calendar Day Events Modal - 不跳轉頁面位置) ★ -->
+    <!-- ★ 行事曆單日現場清單浮動視窗 (含頂部單行快速跳轉膠囊列 + 修正 Flex 卡片壓縮 Bug) ★ -->
     <div id="calendar-day-modal-backdrop" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="cdm-title">
         <div class="artist-modal day-events-modal" onclick="event.stopPropagation()">
             <div class="am-header">
@@ -460,6 +535,7 @@
                 </div>
                 <button class="am-close-btn" onclick="closeCalendarDayModal()">✕ 關閉</button>
             </div>
+            <div class="cdm-quick-nav" id="cdm-quick-nav" style="display:none;"></div>
             <div class="day-modal-body" id="cdm-body"></div>
         </div>
     </div>
@@ -550,6 +626,12 @@
             lastScrollY = currentScrollY;
         }, { passive: true });
 
+        // 統一控制彈窗開啟時的背景防滾動鎖定
+        function syncBodyModalLock() {
+            const anyOpen = document.querySelectorAll('.modal-backdrop.open').length > 0;
+            document.body.classList.toggle('modal-open', anyOpen);
+        }
+
         function normText(s) {
             let str = String(s || '');
             try { str = str.normalize('NFKC'); } catch (e) {}
@@ -605,6 +687,7 @@
 
         function openArtistModal() {
             $('#artist-modal-backdrop').classList.add('open');
+            syncBodyModalLock();
             renderArtistModalContent();
             if (window.matchMedia && window.matchMedia('(pointer: fine)').matches && window.innerWidth >= 768) {
                 setTimeout(() => $('#am-search').focus(), 60);
@@ -614,10 +697,21 @@
         function closeArtistModal() {
             $('#am-search').blur();
             $('#artist-modal-backdrop').classList.remove('open');
+            syncBodyModalLock();
         }
 
         function closeCalendarDayModal() {
             $('#calendar-day-modal-backdrop').classList.remove('open');
+            syncBodyModalLock();
+        }
+
+        function jumpToDayModalCard(cardId) {
+            const target = document.getElementById(cardId);
+            if (!target) return;
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            target.classList.remove('jump-highlight');
+            void target.offsetWidth;
+            target.classList.add('jump-highlight');
         }
 
         function openAccountModal() {
@@ -625,6 +719,7 @@
             $('#modal-user-nick').value = userNickname || '';
             $('#modal-logout-btn').style.display = userId ? 'inline-block' : 'none';
             $('#account-modal-backdrop').classList.add('open');
+            syncBodyModalLock();
             if (window.matchMedia && window.matchMedia('(pointer: fine)').matches && window.innerWidth >= 768) {
                 setTimeout(() => $('#modal-user-id').focus(), 60);
             }
@@ -632,6 +727,7 @@
 
         function closeAccountModal() {
             $('#account-modal-backdrop').classList.remove('open');
+            syncBodyModalLock();
         }
 
         function generateIdInModal() {
@@ -1281,7 +1377,7 @@
             });
         }
 
-        function buildCard(g, historical, idx = 0) {
+        function buildCard(g, historical, idx = 0, customDomId = '') {
             const k = dateKey(g.date), map = safeUrl(g.mapLink), ticket = safeUrl(g.ticketUrl), dayStr = getDayOfWeek(k);
             const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
 
@@ -1334,7 +1430,7 @@
             let finalMapLink = map ? map : (g.location ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(g.location)}` : '');
             
             return `
-            <div class="compact-card" style="animation-delay: ${idx * 0.04}s">
+            <div class="compact-card" ${customDomId ? `id="${esc(customDomId)}"` : ''} style="animation-delay: ${Math.min(idx * 0.03, 0.3)}s">
                 <div class="cc-date"><div class="m">${esc(k.slice(4,6))}月</div><div class="d">${esc(k.slice(6,8))}</div><div class="day">${dayStr}</div></div>
                 <div class="cc-info">
                     <div class="cc-title">${esc(g.name)}</div>
@@ -1404,8 +1500,7 @@
         }
 
         /**
-         * ★ 修正問題 2：點擊行事曆日期時，不再強制將畫面往下捲動，而是直接彈出「單日現場清單浮動視窗」！
-         * 若使用者在滑動手機時誤觸到「沒有活動的空白日期」，僅顯示輕量 Toast 提示，不彈出視窗干擾操作。
+         * ★ 修正問題 1 & 2：彈出單日現場清單視窗（支援頂部單行「地點/關注藝人快速定位膠囊列」＋ 完整展開不壓扁卡片）
          */
         function renderCalendarDateEvents(dateStr) {
             const clickedDate = dateStr.replace(/-/g, '');
@@ -1419,16 +1514,45 @@
                 return;
             }
 
+            const totalBandsCount = groupedList.reduce((sum, g) => sum + g.bands.length, 0);
             $('#cdm-title').innerText = `📌 ${formattedDate} 現場清單`;
-            $('#cdm-subtitle').innerText = `共 ${groupedList.length} 場活動 · 點擊視窗外或 ✕ 即可關閉`;
+            $('#cdm-subtitle').innerText = `共 ${groupedList.length} 場活動 (${totalBandsCount} 組演出) · 上下滑動檢視詳細卡司`;
+
+            // 建立頂部單行橫向快速跳轉列（當該日有 >= 2 場活動時顯示，點擊可直達該活動卡片）
+            const quickNavEl = $('#cdm-quick-nav');
+            const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
+            if (groupedList.length >= 2) {
+                quickNavEl.style.display = 'flex';
+                quickNavEl.innerHTML = groupedList.map((g, idx) => {
+                    const cityPrefix = (g.location || g.name || '').substring(0, 2);
+                    const shortEventTitle = (g.name || '活動').replace(/^(台北|臺北|新北|桃園|台中|臺中|台南|臺南|高雄|基隆|新竹|嘉義|苗栗|彰化|南投|雲林|屏東|宜蘭|花蓮|台東|臺東|澎湖|金門)\s*/, '').slice(0, 8);
+                    let badgeText = `${g.bands.length}組`;
+                    if (isCustomFilter) {
+                        const pickedNames = g.bands.filter(b => selectedBands.has(b.id)).map(b => bandInfo(b.id).short);
+                        if (pickedNames.length > 0) {
+                            badgeText = '★' + pickedNames.slice(0, 2).join('/') + (pickedNames.length > 2 ? `+${pickedNames.length - 2}` : '');
+                        }
+                    }
+                    return `
+                    <button type="button" class="cdm-jump-pill" onclick="jumpToDayModalCard('cdm-card-${idx}')">
+                        <span>📍${esc(cityPrefix)}·${esc(shortEventTitle)}</span>
+                        <span class="pill-highlight">${esc(badgeText)}</span>
+                    </button>`;
+                }).join('');
+                quickNavEl.scrollLeft = 0;
+            } else {
+                quickNavEl.style.display = 'none';
+                quickNavEl.innerHTML = '';
+            }
 
             const isHistorical = clickedDate < taipeiToday;
-            const cardsHtml = groupedList.map((g, idx) => buildCard(g, isHistorical, idx)).join('');
+            const cardsHtml = groupedList.map((g, idx) => buildCard(g, isHistorical, idx, `cdm-card-${idx}`)).join('');
             const bodyEl = $('#cdm-body');
             bodyEl.innerHTML = cardsHtml;
             bodyEl.scrollTop = 0;
 
             $('#calendar-day-modal-backdrop').classList.add('open');
+            syncBodyModalLock();
         }
         
         function renderCalendar() {
@@ -1464,14 +1588,14 @@
                 height: 'auto',
                 contentHeight: 'auto',
                 aspectRatio: 1.35,
-                dayMaxEvents: 4, // ★ 單日超過 4 個色塊自動收合為「+N 更多」，避免行事曆被撐得無限長
+                dayMaxEvents: 4,
                 moreLinkClick: info => {
                     const d = info.date;
                     const y = d.getFullYear();
                     const m = String(d.getMonth() + 1).padStart(2, '0');
                     const day = String(d.getDate()).padStart(2, '0');
                     renderCalendarDateEvents(`${y}-${m}-${day}`);
-                    return 'none'; // 阻止預設小氣泡，統一打開我們的浮動視窗
+                    return 'none';
                 },
                 dateClick: info => renderCalendarDateEvents(info.dateStr),
                 eventClick: info => {
