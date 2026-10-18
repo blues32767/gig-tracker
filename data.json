@@ -34,6 +34,14 @@
       "eventCount": 9
     },
     {
+      "id": "band_nmq1yt",
+      "name": "鼓鼓 呂思緯",
+      "short": "鼓鼓 呂思緯",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
       "id": "icyball",
       "name": "冰球樂團",
       "short": "冰球",
@@ -50,19 +58,19 @@
       "eventCount": 6
     },
     {
-      "id": "band_nmq1yt",
-      "name": "鼓鼓 呂思緯",
-      "short": "鼓鼓 呂思緯",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 6
-    },
-    {
       "id": "band_drsiw0_17",
       "name": "甜約翰",
       "short": "甜約翰",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 6
+    },
+    {
+      "id": "band_6gp8um_3",
+      "name": "白安",
+      "short": "白安",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 6
     },
     {
@@ -85,14 +93,6 @@
       "id": "band_6gp8um",
       "name": "呂允",
       "short": "呂允",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_6gp8um_3",
-      "name": "白安",
-      "short": "白安",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 5
@@ -162,6 +162,14 @@
       "eventCount": 4
     },
     {
+      "id": "unus",
+      "name": "U:NUS",
+      "short": "U:NUS",
+      "color": "#2ec4b6",
+      "category": "團體",
+      "eventCount": 4
+    },
+    {
       "id": "fenix",
       "name": "FEniX",
       "short": "FEniX",
@@ -199,6 +207,14 @@
       "short": "幽靈水晶",
       "color": "#ffd166",
       "category": "團體",
+      "eventCount": 4
+    },
+    {
+      "id": "band_drsiw0_85",
+      "name": "蕭景鴻",
+      "short": "蕭景鴻",
+      "color": "#06d6a0",
+      "category": "個人",
       "eventCount": 4
     },
     {
@@ -250,11 +266,11 @@
       "eventCount": 3
     },
     {
-      "id": "unus",
-      "name": "U:NUS",
-      "short": "U:NUS",
-      "color": "#2ec4b6",
-      "category": "團體",
+      "id": "band_6gp8um_2",
+      "name": "黃妃",
+      "short": "黃妃",
+      "color": "#3a86ff",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -362,10 +378,10 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_85",
-      "name": "蕭景鴻",
-      "short": "蕭景鴻",
-      "color": "#06d6a0",
+      "id": "band_drsiw0_87",
+      "name": "魏嘉瑩",
+      "short": "魏嘉瑩",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 3
     },
@@ -394,11 +410,27 @@
       "eventCount": 2
     },
     {
-      "id": "band_6gp8um_2",
-      "name": "黃妃",
-      "short": "黃妃",
-      "color": "#3a86ff",
+      "id": "band_maaxir",
+      "name": "米棧不一樣舞團",
+      "short": "米棧",
+      "color": "#ef476f",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_4",
+      "name": "品冠",
+      "short": "品冠",
+      "color": "#ffd166",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "laniyaro",
+      "name": "馬太鞍部落青年 Laniyaro’",
+      "short": "馬太鞍部落青年 Laniyaro’",
+      "color": "#06d6a0",
+      "category": "團體",
       "eventCount": 2
     },
     {
@@ -738,14 +770,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_87",
-      "name": "魏嘉瑩",
-      "short": "魏嘉瑩",
-      "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_6gp8um_32",
       "name": "樂樂",
       "short": "樂樂",
@@ -831,6 +855,22 @@
       "short": "Multiverse Music",
       "color": "#8338ec",
       "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_129",
+      "name": "張秀卿",
+      "short": "張秀",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_40",
+      "name": "琳誼",
+      "short": "琳誼",
+      "color": "#ef476f",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -951,30 +991,6 @@
       "short": "吳蓓雅",
       "color": "#fb5607",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_maaxir",
-      "name": "米棧不一樣舞團",
-      "short": "米棧",
-      "color": "#ef476f",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_4",
-      "name": "品冠",
-      "short": "品冠",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "laniyaro",
-      "name": "馬太鞍部落青年 Laniyaro’",
-      "short": "馬太鞍部落青年 Laniyaro’",
-      "color": "#06d6a0",
-      "category": "團體",
       "eventCount": 1
     },
     {
@@ -3238,22 +3254,6 @@
       "name": "UniGirls 啦啦隊",
       "short": "Un",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_129",
-      "name": "張秀卿",
-      "short": "張秀",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_40",
-      "name": "琳誼",
-      "short": "琳誼",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
     },
@@ -9069,6 +9069,66 @@
       "note": "［免費］\n活動時間:2026/10/24 - 10/25。卡司包含黃妃、鼓鼓 呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團,以及品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
+      "id": "upcoming-row-494",
+      "date": "20261024",
+      "band": "band_6gp8um_2",
+      "time": "未公布",
+      "name": "花蓮農好生活節5小時2026",
+      "location": "花蓮知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。"
+    },
+    {
+      "id": "upcoming-row-495",
+      "date": "20261024",
+      "band": "band_nmq1yt",
+      "time": "未公布",
+      "name": "花蓮農好生活節5小時2026",
+      "location": "花蓮知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。"
+    },
+    {
+      "id": "upcoming-row-496",
+      "date": "20261024",
+      "band": "unus",
+      "time": "未公布",
+      "name": "花蓮農好生活節5小時2026",
+      "location": "花蓮知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。"
+    },
+    {
+      "id": "upcoming-row-497",
+      "date": "20261024",
+      "band": "band_6gp8um_3",
+      "time": "未公布",
+      "name": "花蓮農好生活節5小時2026",
+      "location": "花蓮知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。"
+    },
+    {
+      "id": "upcoming-row-498",
+      "date": "20261024",
+      "band": "band_drsiw0_129",
+      "time": "未公布",
+      "name": "花蓮農好生活節5小時2026",
+      "location": "花蓮知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。"
+    },
+    {
+      "id": "upcoming-row-499",
+      "date": "20261024",
+      "band": "band_maaxir",
+      "time": "未公布",
+      "name": "花蓮農好生活節5小時2026",
+      "location": "花蓮知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。"
+    },
+    {
       "id": "upcoming-row-7",
       "date": "20261025",
       "band": "papunband",
@@ -9337,6 +9397,56 @@
       "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間:2026/10/24 - 10/25。卡司包含黃妃、鼓鼓 呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團,以及品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
+    },
+    {
+      "id": "upcoming-row-500",
+      "date": "20261025",
+      "band": "band_6gp8um_4",
+      "time": "未公布",
+      "name": "花蓮農好生活節5小時2026",
+      "location": "花蓮知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。"
+    },
+    {
+      "id": "upcoming-row-501",
+      "date": "20261025",
+      "band": "band_drsiw0_85",
+      "time": "未公布",
+      "name": "花蓮農好生活節5小時2026",
+      "location": "花蓮知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。"
+    },
+    {
+      "id": "upcoming-row-502",
+      "date": "20261025",
+      "band": "band_drsiw0_87",
+      "time": "未公布",
+      "name": "花蓮農好生活節5小時2026",
+      "location": "花蓮知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。"
+    },
+    {
+      "id": "upcoming-row-503",
+      "date": "20261025",
+      "band": "band_6gp8um_40",
+      "time": "未公布",
+      "name": "花蓮農好生活節5小時2026",
+      "location": "花蓮知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。"
+    },
+    {
+      "id": "upcoming-row-504",
+      "date": "20261025",
+      "band": "laniyaro",
+      "time": "未公布",
+      "name": "花蓮農好生活節5小時2026",
+      "location": "花蓮知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。"
     },
     {
       "id": "upcoming-row-224",
@@ -12674,6 +12784,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "2150bef5-4d9d-4937-896b-0c304814e2fa",
-  "updatedAt": "2026-10-18T14:23:50.367Z"
+  "revision": "2e0d8468-d7bb-4c5e-a826-0b8185aa6413",
+  "updatedAt": "2026-10-18T14:25:30.247Z"
 }
