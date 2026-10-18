@@ -746,6 +746,14 @@
       "eventCount": 2
     },
     {
+      "id": "pallas",
+      "name": "PALLAS",
+      "short": "PALLAS",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "bido",
       "name": "BIDO",
       "short": "BIDO",
@@ -2023,14 +2031,6 @@
       "short": "袁小迪",
       "color": "#118ab2",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "pallas",
-      "name": "PALLAS",
-      "short": "PALLAS",
-      "color": "#8338ec",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -11880,6 +11880,16 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
+      "id": "upcoming-row-456",
+      "date": "20261121",
+      "band": "pallas",
+      "time": "未公布",
+      "name": "2026 南紡星空音樂節",
+      "location": "台南市南紡購物中心A2館1F南紡廣場",
+      "mapLink": "https://maps.app.goo.gl/Z9UZp99pKxVHyFs17",
+      "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
+    },
+    {
       "id": "upcoming-row-109",
       "date": "20261125",
       "band": "band_drsiw0_1",
@@ -12735,6 +12745,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "0beee330-2931-4219-9f75-4c9584720043",
-  "updatedAt": "2026-10-18T18:24:39.060Z"
+  "revision": "6c1744b1-1034-4e9c-8be3-4b3992322963",
+  "updatedAt": "2026-10-18T23:23:14.685Z"
 }
