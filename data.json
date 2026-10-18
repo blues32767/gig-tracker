@@ -354,6 +354,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_85",
+      "name": "蕭景鴻",
+      "short": "蕭景鴻",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "buy",
       "name": "Bu$y",
       "short": "Bu$y",
@@ -714,14 +722,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_85",
-      "name": "蕭景鴻",
-      "short": "蕭景鴻",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_6gp8um_28",
       "name": "紙鳶",
       "short": "紙鳶",
@@ -735,6 +735,14 @@
       "short": "A_Root 同根生 feat. 蔡家蓁",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_87",
+      "name": "魏嘉瑩",
+      "short": "魏嘉瑩",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -2266,14 +2274,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_87",
-      "name": "魏嘉瑩",
-      "short": "魏嘉瑩",
-      "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_88",
       "name": "畢書盡",
       "short": "畢書盡",
@@ -3238,6 +3238,22 @@
       "name": "UniGirls 啦啦隊",
       "short": "Un",
       "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_129",
+      "name": "張秀卿",
+      "short": "張秀",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_40",
+      "name": "琳誼",
+      "short": "琳誼",
+      "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
     },
@@ -8226,7 +8242,7 @@
       "name": "花蓮農好生活節",
       "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。"
+      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
       "id": "upcoming-row-55",
@@ -8236,7 +8252,7 @@
       "name": "花蓮農好生活節",
       "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。"
+      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
       "id": "upcoming-row-56",
@@ -8246,7 +8262,7 @@
       "name": "花蓮農好生活節",
       "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。"
+      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
       "id": "upcoming-row-57",
@@ -8256,7 +8272,7 @@
       "name": "花蓮農好生活節",
       "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。"
+      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
       "id": "upcoming-row-58",
@@ -8266,7 +8282,7 @@
       "name": "花蓮農好生活節",
       "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。"
+      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
       "id": "upcoming-row-61",
@@ -8979,6 +8995,16 @@
       "note": "［免費］\n卡司:Ozone、FEniX、羅文裕、留聲樂團、拷秋勤、Yappy、賈斯汀、山攪坂樂團、王鳳珠。活動日期為 2026/10/24。"
     },
     {
+      "id": "upcoming-row-480",
+      "date": "20261024",
+      "band": "band_drsiw0_129",
+      "time": "未公布",
+      "name": "花蓮農好生活節",
+      "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
+    },
+    {
       "id": "upcoming-row-7",
       "date": "20261025",
       "band": "papunband",
@@ -8996,7 +9022,7 @@
       "name": "花蓮農好生活節",
       "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。"
+      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
       "id": "upcoming-row-60",
@@ -9006,7 +9032,7 @@
       "name": "花蓮農好生活節",
       "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。"
+      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
       "id": "upcoming-row-130",
@@ -9217,6 +9243,36 @@
       "location": "嘉義中埔獨角仙休閒農場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
       "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
+    },
+    {
+      "id": "upcoming-row-481",
+      "date": "20261025",
+      "band": "band_drsiw0_85",
+      "time": "未公布",
+      "name": "花蓮農好生活節",
+      "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
+    },
+    {
+      "id": "upcoming-row-482",
+      "date": "20261025",
+      "band": "band_drsiw0_87",
+      "time": "未公布",
+      "name": "花蓮農好生活節",
+      "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
+    },
+    {
+      "id": "upcoming-row-483",
+      "date": "20261025",
+      "band": "band_6gp8um_40",
+      "time": "未公布",
+      "name": "花蓮農好生活節",
+      "location": "花蓮縣吉安鄉知卡宣綠森林親水公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E5%90%89%E5%AE%89%E9%84%89%E7%9F%A5%E5%8D%A1%E5%AE%A3%E7%B6%A0%E6%A3%AE%E6%9E%97%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間為兩日,每日 10:00-18:00。卡司:黃妃、白安、鼓鼓 呂思緯、U:NUS、米棧不一樣舞團(10/24);品冠、馬太鞍部落青年 Laniyaro’等(10/25)。\n活動日期為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
       "id": "upcoming-row-224",
@@ -12454,6 +12510,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "1496a61d-e095-4c82-9aad-6b3a01043edc",
-  "updatedAt": "2026-10-18T02:23:38.204Z"
+  "revision": "9cedad59-eb15-48c1-adb5-598f4f60927a",
+  "updatedAt": "2026-10-18T09:25:36.005Z"
 }
