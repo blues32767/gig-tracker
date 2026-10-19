@@ -41,7 +41,6 @@
         .nav-brand { font-size: 1.05rem; font-weight: 900; color: var(--text-main); text-transform: uppercase; letter-spacing: -0.5px; white-space: nowrap; }
         .nav-top-right { display: flex; align-items: center; gap: 6px; }
         
-        /* 導航列使用者登入/匿名徽章 */
         .user-nav-btn { font-size: 0.72rem; font-weight: 900; background: var(--bg-subtle); color: var(--text-main); border: 2px solid var(--text-main); padding: 3px 9px; border-radius: 99px; cursor: pointer; box-shadow: 2px 2px 0px var(--text-main); display: inline-flex; align-items: center; gap: 5px; max-width: 150px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; transition: transform 0.1s, background 0.2s; }
         .user-nav-btn.logged-in { background: var(--accent); color: #111; border-color: var(--text-main); }
         .user-nav-btn:active { transform: translate(2px, 2px); box-shadow: none; }
@@ -141,7 +140,6 @@
 
         .am-list { padding: 10px 14px; overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 7px; flex: 1; min-height: 0; align-content: start; }
 
-        /* 單日活動浮動視窗頂部「單行快速跳轉導覽列 (Quick-Jump Bar)」 */
         .cdm-quick-nav {
             padding: 8px 14px;
             background: var(--bg-subtle);
@@ -307,18 +305,89 @@
         html.dark .fc .fc-button-primary:hover { background-color: var(--text-main); color: var(--bg-main); }
         html.dark .fc-event { color: #111 !important; }
 
-        /* ★ 新增：現場版圖（台灣互動地圖 & 縣市解鎖牆）與聽團時數存摺樣式 ★ */
+        /* ★ 現場版圖（內建手繪向量 SVG 台灣島嶼圖 ＋ 免費台灣國土測繪/OSM 實景圖雙模） ★ */
         .map-hero-card { background: var(--bg-card); border: 2px solid var(--text-main); border-radius: 12px; box-shadow: 5px 5px 0px var(--text-main); padding: 14px; margin-bottom: 16px; }
         .map-mode-switch { display: inline-flex; border: 2px solid var(--text-main); border-radius: 99px; overflow: hidden; background: var(--bg-subtle); }
-        .map-mode-btn { font-size: 0.72rem; font-weight: 900; padding: 5px 12px; border: none; background: transparent; color: var(--text-secondary); cursor: pointer; transition: all 0.15s; }
+        .map-mode-btn { font-size: 0.7rem; font-weight: 900; padding: 5px 11px; border: none; background: transparent; color: var(--text-secondary); cursor: pointer; transition: all 0.15s; white-space: nowrap; }
         .map-mode-btn.active { background: var(--accent); color: #111; }
-        
-        #taiwan-map-box { width: 100%; height: 390px; border: 2px solid var(--text-main); border-radius: 10px; overflow: hidden; z-index: 10; background: #cad2d3; position: relative; }
-        @media (min-width: 768px) { #taiwan-map-box { height: 480px; } }
-        html.dark #taiwan-map-box .leaflet-tile-pane { filter: brightness(0.82) contrast(1.15) saturate(0.85); }
+
+        /* 內建程式繪製的 SVG 台灣互動版圖舞台 */
+        .svg-map-stage {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 12px;
+            background: var(--bg-subtle);
+            border: 2px solid var(--text-main);
+            border-radius: 12px;
+            padding: 12px;
+            position: relative;
+            overflow: hidden;
+        }
+        @media (min-width: 768px) {
+            .svg-map-stage { grid-template-columns: 1.15fr 1fr; align-items: stretch; padding: 16px; }
+        }
+        .svg-canvas-wrap {
+            position: relative;
+            width: 100%;
+            max-width: 380px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .tw-vector-svg {
+            width: 100%;
+            height: auto;
+            max-height: 440px;
+            display: block;
+            filter: drop-shadow(4px 4px 0px rgba(0,0,0,0.18));
+        }
+        .tw-island-shape {
+            fill: var(--bg-card);
+            stroke: var(--text-main);
+            stroke-width: 3;
+            stroke-linejoin: round;
+        }
+        .tw-city-node { cursor: pointer; transition: transform 0.18s ease; }
+        .tw-city-node:hover { transform: scale(1.08); }
+        .tw-node-pulse {
+            fill: var(--accent);
+            opacity: 0.35;
+            transform-origin: center;
+            animation: nodePulse 2s infinite ease-in-out;
+        }
+        @keyframes nodePulse {
+            0%, 100% { r: 10px; opacity: 0.35; }
+            50% { r: 17px; opacity: 0.12; }
+        }
+
+        .svg-preview-card {
+            background: var(--bg-card);
+            border: 2px solid var(--text-main);
+            border-radius: 10px;
+            padding: 12px;
+            box-shadow: 3px 3px 0px var(--text-main);
+            display: flex;
+            flex-direction: column;
+            max-height: 420px;
+        }
+        .svg-preview-list {
+            overflow-y: auto;
+            overscroll-behavior: contain;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            margin-top: 8px;
+            padding-right: 4px;
+        }
+
+        #taiwan-map-box { width: 100%; height: 400px; border: 2px solid var(--text-main); border-radius: 10px; overflow: hidden; z-index: 10; background: #dce7eb; position: relative; }
+        @media (min-width: 768px) { #taiwan-map-box { height: 460px; } }
+        html.dark #taiwan-map-box .leaflet-tile-pane { filter: brightness(0.84) contrast(1.12); }
 
         .ting-map-marker {
-            display: flex;
+            display: inline-flex;
             align-items: center;
             justify-content: center;
             background: var(--accent);
@@ -326,9 +395,9 @@
             border: 2px solid #111;
             border-radius: 99px;
             font-weight: 900;
-            font-size: 11px;
-            padding: 2px 7px;
-            box-shadow: 2px 2px 0px #111;
+            font-size: 11.5px;
+            padding: 3px 9px;
+            box-shadow: 2.5px 2.5px 0px #111;
             white-space: nowrap;
             transition: transform 0.15s;
         }
@@ -354,7 +423,6 @@
         .city-badge-btn.active { background: var(--accent); color: #111; }
         .city-badge-btn.locked { opacity: 0.42; border-style: dashed; box-shadow: none; cursor: default; }
 
-        /* 我的足跡：藝人時間與場次分類卡片 */
         .fp-artist-row { border: 2px solid var(--text-main); border-radius: 10px; background: var(--bg-card); box-shadow: 3px 3px 0px var(--text-main); padding: 10px 12px; margin-bottom: 10px; transition: transform 0.12s; }
         .fp-artist-row.is-fav { border-width: 2.5px; box-shadow: 4px 4px 0px var(--accent); }
         .fp-artist-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; cursor: pointer; user-select: none; }
@@ -363,7 +431,6 @@
         
         .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text-main); color: var(--bg-main); padding: 10px 20px; font-size: 13px; font-weight: 800; border-radius: 8px; z-index: 3000; box-shadow: 5px 5px 0px var(--accent); max-width: 90vw; text-align: center;}
 
-        /* 雜誌版權風低調開發者頁尾 (Editorial Colophon Footer) */
         .site-footer {
             max-width: 1200px;
             width: 100%;
@@ -381,69 +448,16 @@
             opacity: 0.72;
             transition: opacity 0.25s ease;
         }
-        .footer-inner:hover, .footer-inner:focus-within {
-            opacity: 1;
-        }
-        .footer-meta {
-            font-size: 0.72rem;
-            font-weight: 800;
-            color: var(--text-secondary);
-            display: flex;
-            flex-wrap: wrap;
-            align-items: center;
-            justify-content: center;
-            gap: 6px;
-        }
-        .footer-meta strong {
-            color: var(--text-main);
-            font-weight: 900;
-        }
-        .footer-dot {
-            opacity: 0.45;
-        }
-        .footer-links {
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
-        .footer-social-link {
-            font-size: 0.68rem;
-            font-weight: 800;
-            color: var(--text-main);
-            background: var(--bg-card);
-            border: 1.5px solid var(--text-main);
-            padding: 3px 9px;
-            border-radius: 99px;
-            text-decoration: none;
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-            box-shadow: 1.5px 1.5px 0px var(--text-main);
-            transition: transform 0.12s, box-shadow 0.12s, background 0.15s, color 0.15s;
-        }
-        .footer-social-link:hover {
-            background: var(--accent);
-            color: #111;
-            transform: translate(-1px, -1px);
-            box-shadow: 2.5px 2.5px 0px var(--text-main);
-        }
-        .footer-social-link:active {
-            transform: translate(1.5px, 1.5px);
-            box-shadow: none;
-        }
-        .footer-social-link svg {
-            width: 12px;
-            height: 12px;
-            fill: currentColor;
-            flex-shrink: 0;
-        }
-        @media (min-width: 640px) {
-            .footer-inner {
-                flex-direction: row;
-            }
-        }
+        .footer-inner:hover, .footer-inner:focus-within { opacity: 1; }
+        .footer-meta { font-size: 0.72rem; font-weight: 800; color: var(--text-secondary); display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 6px; }
+        .footer-meta strong { color: var(--text-main); font-weight: 900; }
+        .footer-dot { opacity: 0.45; }
+        .footer-links { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; justify-content: center; }
+        .footer-social-link { font-size: 0.68rem; font-weight: 800; color: var(--text-main); background: var(--bg-card); border: 1.5px solid var(--text-main); padding: 3px 9px; border-radius: 99px; text-decoration: none; display: inline-flex; align-items: center; gap: 4px; box-shadow: 1.5px 1.5px 0px var(--text-main); transition: transform 0.12s, box-shadow 0.12s, background 0.15s, color 0.15s; }
+        .footer-social-link:hover { background: var(--accent); color: #111; transform: translate(-1px, -1px); box-shadow: 2.5px 2.5px 0px var(--text-main); }
+        .footer-social-link:active { transform: translate(1.5px, 1.5px); box-shadow: none; }
+        .footer-social-link svg { width: 12px; height: 12px; fill: currentColor; flex-shrink: 0; }
+        @media (min-width: 640px) { .footer-inner { flex-direction: row; } }
     </style>
     <style id="dynamic-styles"></style>
 </head>
@@ -642,13 +656,14 @@
         const GAS_URL = 'https://script.google.com/macros/s/AKfycbwR49SJXjZM55RzbhpQyDv39sVM2J91U8BSs7gKlATQihm_QC60HOHH6FQtiA4CvLJexg/exec';
         const DATA_URL = './data.json';
         const TOP_PINNED_LIMIT = 6;
-        const DEFAULT_GIG_MINUTES = 30; // 若未公布具體起訖演出時間，預設每場以 30 分鐘計算
+        const DEFAULT_GIG_MINUTES = 30;
         
         let BANDS_MAP = {}; 
         let BAND_ALIAS_MAP = {};
         let rawBands = [];
         let leafletMap = null;
-        let mapScopeMode = 'footprints'; // 'footprints' (我的足跡) | 'all' (全站版圖)
+        let mapScopeMode = 'footprints'; // 'footprints' | 'all'
+        let mapVisualType = 'svg';       // 'svg' (預設：內建手繪向量台灣地圖，免網路圖磚秒開) | 'tile' (台灣國土測繪中心/OSM 免費街道地圖)
         let selectedMapCity = '';
         
         const DAY_NAMES = ['日', '一', '二', '三', '四', '五', '六'];
@@ -658,51 +673,29 @@
 
         $('#footer-maintained-date').innerText = MAINTAINED_DATE;
 
-        // ★ 台灣 22 縣市與熱門音樂祭場館精準座標字典（免 API Key 即時定位） ★
+        // ★ 台灣各縣市座標與內建 SVG 台灣島嶼地圖繪製座標 (svgX, svgY) ★
         const TAIWAN_CITIES_META = [
-            { name: '台北', region: '北部', lat: 25.0478, lng: 121.5319, regex: /台北|臺北|信義|華山|北流|南港|圓山|花博|天母|公館|大佳|西門|中山堂|河岸留言|Legacy\s*Taipei|CORNER\s*MAX|Zepp/i },
-            { name: '新北', region: '北部', lat: 25.0120, lng: 121.4657, regex: /新北|板橋|淡水|漁人碼頭|貢寮|福隆|新莊|三重|永和|中和|八里/i },
-            { name: '基隆', region: '北部', lat: 25.1276, lng: 121.7392, regex: /基隆|正濱|和平島|碧砂/i },
-            { name: '桃園', region: '北部', lat: 24.9936, lng: 121.3010, regex: /桃園|中壢|高鐵桃園|青埔|陽光劇場|竹圍漁港|樂天桃園|萬能科大/i },
-            { name: '新竹', region: '北部', lat: 24.8138, lng: 120.9675, regex: /新竹|竹北|竹塹|大湳雅|六福村/i },
-            { name: '苗栗', region: '中部', lat: 24.5602, lng: 120.8214, regex: /苗栗|後龍|頭份|竹南|通霄/i },
-            { name: '台中', region: '中部', lat: 24.1477, lng: 120.6736, regex: /台中|臺中|文心森林|圓滿戶外|水湳|中央公園|洲際|清水|鰲峰山|后里|麗寶|豐原|大安港|一中|霧峰|朝馬/i },
-            { name: '彰化', region: '中部', lat: 24.0518, lng: 120.5161, regex: /彰化|鹿港|員林|溪湖|二水|田中/i },
-            { name: '南投', region: '中部', lat: 23.9610, lng: 120.9719, regex: /南投|埔里|暨南|竹山|日月潭|魚池/i },
-            { name: '雲林', region: '南部', lat: 23.7092, lng: 120.4313, regex: /雲林|斗六|虎尾|四湖|三條崙|北港|西螺/i },
-            { name: '嘉義', region: '南部', lat: 23.4801, lng: 120.4491, regex: /嘉義|諸羅|民雄|故宮南院|阿里山/i },
-            { name: '台南', region: '南部', lat: 22.9997, lng: 120.2270, regex: /台南|臺南|安平|觀夕|漁光島|南紡|新市|迎曦湖|官田|小北門|成大|成功大學|善化|奇美/i },
-            { name: '高雄', region: '南部', lat: 22.6273, lng: 120.3014, regex: /高雄|駁二|高流|流行音樂中心|海風廣場|巨蛋|衛武營|夢時代|西子灣|旗津|岡山|旗山|楠梓|大港/i },
-            { name: '屏東', region: '南部', lat: 22.6713, lng: 120.4880, regex: /屏東|墾丁|恆春|大灣|鵝鑾鼻|新園|鹽琉|屏科大|潮州/i },
-            { name: '宜蘭', region: '東部', lat: 24.7570, lng: 121.7533, regex: /宜蘭|羅東|礁溪|頭城|蘇澳|冬山/i },
-            { name: '花蓮', region: '東部', lat: 23.9872, lng: 121.6015, regex: /花蓮|富里|吉安|知卡宣|玉里|太魯閣|七星潭|東大門/i },
-            { name: '台東', region: '東部', lat: 22.7583, lng: 121.1444, regex: /台東|臺東|都歷|成功鎮|大武|池上|鹿野|鐵花|知本/i },
-            { name: '澎湖', region: '離島与海外', lat: 23.5712, lng: 119.5793, regex: /澎湖|馬公|觀音亭/i },
-            { name: '金門', region: '離島与海外', lat: 24.4321, lng: 118.3171, regex: /金門|金城|后湖|莒光/i },
-            { name: '馬祖', region: '離島与海外', lat: 26.1505, lng: 119.9289, regex: /馬祖|連江|南竿|北竿/i },
-            { name: '海外', region: '離島与海外', lat: 25.35, lng: 122.45, regex: /香港|澳門|馬來西亞|吉隆坡|東京|日本|溫哥華|加拿大|首爾|韓國|泰國|新加坡|Macau|Hong\s*Kong|Vancouver|Kuala\s*Lumpur/i }
-        ];
-
-        // 特定知名場館微調座標（讓同縣市不同場館在地圖上自然分開不重疊）
-        const VENUE_FINE_COORDS = [
-            { regex: /華山/i, lat: 25.0441, lng: 121.5294 },
-            { regex: /圓山|花博/i, lat: 25.0697, lng: 121.5224 },
-            { regex: /北流|臺北流行音樂中心|台北流行音樂中心/i, lat: 25.0525, lng: 121.5986 },
-            { regex: /天母/i, lat: 25.1136, lng: 121.5319 },
-            { regex: /信義|101|ATT/i, lat: 25.0356, lng: 121.5662 },
-            { regex: /大佳/i, lat: 25.0754, lng: 121.5382 },
-            { regex: /淡水|漁人碼頭|淡江/i, lat: 25.1828, lng: 121.4105 },
-            { regex: /福隆|貢寮/i, lat: 25.0195, lng: 121.9445 },
-            { regex: /陽光劇場|青埔|樂天桃園/i, lat: 25.0165, lng: 121.2045 },
-            { regex: /文心森林|圓滿戶外/i, lat: 24.1458, lng: 120.6458 },
-            { regex: /水湳|中央公園球場/i, lat: 24.1856, lng: 120.6531 },
-            { regex: /鰲峰山|清水/i, lat: 24.2695, lng: 120.5872 },
-            { regex: /麗寶|后里/i, lat: 24.3238, lng: 120.6975 },
-            { regex: /鹿港/i, lat: 24.0615, lng: 120.4345 },
-            { regex: /漁光島|觀夕|安平/i, lat: 22.9805, lng: 120.1562 },
-            { regex: /駁二|海風廣場|流行音樂中心|高流|打狗|大港/i, lat: 22.6188, lng: 120.2862 },
-            { regex: /墾丁|恆春|大灣/i, lat: 21.9442, lng: 120.7995 },
-            { regex: /富里/i, lat: 23.1795, lng: 121.2488 }
+            { name: '台北', region: '北部', lat: 25.0478, lng: 121.5319, svgX: 222, svgY: 56,  labelDir: 'left',  regex: /台北|臺北|信義|華山|北流|南港|圓山|花博|天母|公館|大佳|西門|中山堂|河岸留言|Legacy\s*Taipei|CORNER\s*MAX|Zepp/i },
+            { name: '新北', region: '北部', lat: 25.0120, lng: 121.4657, svgX: 205, svgY: 74,  labelDir: 'left',  regex: /新北|板橋|淡水|漁人碼頭|貢寮|福隆|新莊|三重|永和|中和|八里/i },
+            { name: '基隆', region: '北部', lat: 25.1276, lng: 121.7392, svgX: 242, svgY: 42,  labelDir: 'right', regex: /基隆|正濱|和平島|碧砂/i },
+            { name: '桃園', region: '北部', lat: 24.9936, lng: 121.3010, svgX: 178, svgY: 82,  labelDir: 'left',  regex: /桃園|中壢|高鐵桃園|青埔|陽光劇場|竹圍漁港|樂天桃園|萬能科大/i },
+            { name: '新竹', region: '北部', lat: 24.8138, lng: 120.9675, svgX: 162, svgY: 112, labelDir: 'left',  regex: /新竹|竹北|竹塹|大湳雅|六福村/i },
+            { name: '苗栗', region: '中部', lat: 24.5602, lng: 120.8214, svgX: 146, svgY: 145, labelDir: 'left',  regex: /苗栗|後龍|頭份|竹南|通霄/i },
+            { name: '台中', region: '中部', lat: 24.1477, lng: 120.6736, svgX: 135, svgY: 185, labelDir: 'left',  regex: /台中|臺中|文心森林|圓滿戶外|水湳|中央公園|洲際|清水|鰲峰山|后里|麗寶|豐原|大安港|一中|霧峰|朝馬/i },
+            { name: '彰化', region: '中部', lat: 24.0518, lng: 120.5161, svgX: 116, svgY: 215, labelDir: 'left',  regex: /彰化|鹿港|員林|溪湖|二水|田中/i },
+            { name: '南投', region: '中部', lat: 23.9610, lng: 120.9719, svgX: 166, svgY: 218, labelDir: 'right', regex: /南投|埔里|暨南|竹山|日月潭|魚池/i },
+            { name: '雲林', region: '南部', lat: 23.7092, lng: 120.4313, svgX: 108, svgY: 248, labelDir: 'left',  regex: /雲林|斗六|虎尾|四湖|三條崙|北港|西螺/i },
+            { name: '嘉義', region: '南部', lat: 23.4801, lng: 120.4491, svgX: 116, svgY: 280, labelDir: 'left',  regex: /嘉義|諸羅|民雄|故宮南院|阿里山/i },
+            { name: '台南', region: '南部', lat: 22.9997, lng: 120.2270, svgX: 102, svgY: 318, labelDir: 'left',  regex: /台南|臺南|安平|觀夕|漁光島|南紡|新市|迎曦湖|官田|小北門|成大|成功大學|善化|奇美/i },
+            { name: '高雄', region: '南部', lat: 22.6273, lng: 120.3014, svgX: 112, svgY: 360, labelDir: 'left',  regex: /高雄|駁二|高流|流行音樂中心|海風廣場|巨蛋|衛武營|夢時代|西子灣|旗津|岡山|旗山|楠梓|大港/i },
+            { name: '屏東', region: '南部', lat: 22.6713, lng: 120.4880, svgX: 138, svgY: 398, labelDir: 'right', regex: /屏東|墾丁|恆春|大灣|鵝鑾鼻|新園|鹽琉|屏科大|潮州/i },
+            { name: '宜蘭', region: '東部', lat: 24.7570, lng: 121.7533, svgX: 235, svgY: 108, labelDir: 'right', regex: /宜蘭|羅東|礁溪|頭城|蘇澳|冬山/i },
+            { name: '花蓮', region: '東部', lat: 23.9872, lng: 121.6015, svgX: 214, svgY: 205, labelDir: 'right', regex: /花蓮|富里|吉安|知卡宣|玉里|太魯閣|七星潭|東大門/i },
+            { name: '台東', region: '東部', lat: 22.7583, lng: 121.1444, svgX: 180, svgY: 325, labelDir: 'right', regex: /台東|臺東|都歷|成功鎮|大武|池上|鹿野|鐵花|知本/i },
+            { name: '澎湖', region: '離島与海外', lat: 23.5712, lng: 119.5793, svgX: 42,  svgY: 265, labelDir: 'right', regex: /澎湖|馬公|觀音亭/i },
+            { name: '金門', region: '離島与海外', lat: 24.4321, lng: 118.3171, svgX: 42,  svgY: 135, labelDir: 'right', regex: /金門|金城|后湖|莒光/i },
+            { name: '馬祖', region: '離島与海外', lat: 26.1505, lng: 119.9289, svgX: 42,  svgY: 65,  labelDir: 'right', regex: /馬祖|連江|南竿|北竿/i },
+            { name: '海外', region: '離島与海外', lat: 25.3500, lng: 122.4500, svgX: 42,  svgY: 365, labelDir: 'right', regex: /香港|澳門|馬來西亞|吉隆坡|東京|日本|溫哥華|加拿大|首爾|韓國|泰國|新加坡|Macau|Hong\s*Kong|Vancouver|Kuala\s*Lumpur/i }
         ];
 
         let data = { upcoming: [], events: [], bands: [] };
@@ -743,9 +736,6 @@
             return str.trim();
         }
 
-        /**
-         * 智慧解析藝人演出開始時間（換算為當日分鐘數，讓同場藝人嚴格依「由早到晚」排序）
-         */
         function parseStartTimeMinutes(timeStr) {
             const s = normText(timeStr);
             if (!s || isPlaceholderTitle(s)) return 99999;
@@ -760,16 +750,8 @@
             return hh * 60 + mm;
         }
 
-        /**
-         * ★ 新增：計算單筆活動紀錄的演出時長（分鐘）與時間字串 ★
-         * 規則：優先從 time、note（如「時間：16:00-16:40」或「表演 16:00-16:40」）、name 中提取起訖時間；
-         * 若無起訖區間或尚未公布活動時間，一律依規則以 30 分鐘 (DEFAULT_GIG_MINUTES) 計算！
-         */
         function getEventTimeAndDuration(ev) {
             const candidates = [ev.time, ev.name, ev.note];
-            const rangeRegex = /(\d{1,2})\s*[:：]\s*(\d{2})\s*[-\~～至–—]\s*(\d{1,2})\s*[:：]\s*(\d{2})/g;
-
-            // 先檢查明確的 time 欄位或名稱欄位
             for (let i = 0; i < 2; i++) {
                 const txt = normText(candidates[i]);
                 if (!txt) continue;
@@ -785,7 +767,6 @@
                 }
             }
 
-            // 檢查 note 裡面是否有明確標註「時間：HH:MM-HH:MM」或該團專屬時段
             const noteTxt = normText(ev.note);
             if (noteTxt) {
                 const specificMatch = /(?:時間\s*[：:]|表演\s*)\s*(\d{1,2})\s*[:：]\s*(\d{2})\s*[-\~～至–—]\s*(\d{1,2})\s*[:：]\s*(\d{2})/.exec(noteTxt);
@@ -811,9 +792,23 @@
             return `${hrs} 小時 ${mins} 分鐘`;
         }
 
-        /**
-         * ★ 新增：智慧判斷活動所屬縣市、區域與地圖經緯度座標 ★
-         */
+        // 將場館名稱正規化（例如把「台北市八德路一段1號(華山1914...)」美化為知名場館名）
+        function beautifyVenueName(rawLoc) {
+            const s = normText(rawLoc).replace(/（.*?）|\(.*?\)/g, '').trim();
+            if (!s || isPlaceholderTitle(s)) return '';
+            if (/華山|八德路一段1號/i.test(s)) return '台北華山1914文創園區';
+            if (/文心森林|圓滿戶外/i.test(s)) return '台中文心森林公園';
+            if (/流行音樂中心|高流|海風廣場/i.test(s) && /高雄/i.test(s)) return '高雄流行音樂中心';
+            if (/駁二/i.test(s)) return '高雄駁二藝術特區';
+            if (/北流|臺北流行音樂中心|台北流行音樂中心/i.test(s)) return '台北流行音樂中心';
+            if (/花博|圓山/i.test(s)) return '台北花博公園圓山園區';
+            if (/水湳|中央公園/i.test(s) && /台中|臺中/i.test(s)) return '台中水湳中央公園';
+            if (/陽光劇場/i.test(s)) return '桃園陽光劇場';
+            if (/漁光島/i.test(s)) return '台南漁光島';
+            if (/觀夕平台/i.test(s)) return '台南安平觀夕平台';
+            return s.slice(0, 14);
+        }
+
         function detectEventGeo(g) {
             const combined = normText(`${g.location || ''} ${g.name || ''} ${(g.notes || []).join(' ')}`);
             let matchedCity = null;
@@ -824,32 +819,16 @@
                 }
             }
             if (!matchedCity) {
-                matchedCity = { name: '台北', region: '北部', lat: 25.0478, lng: 121.5319 };
-            }
-
-            let lat = matchedCity.lat;
-            let lng = matchedCity.lng;
-            let matchedFine = false;
-            for (const v of VENUE_FINE_COORDS) {
-                if (v.regex.test(combined)) {
-                    lat = v.lat;
-                    lng = v.lng;
-                    matchedFine = true;
-                    break;
-                }
-            }
-            // 若未命中精確場館，以場館名稱雜湊做微小偏移，讓同縣市不同場地在地圖上自然散開不重疊
-            if (!matchedFine && g.location) {
-                let h = 0;
-                for (let i = 0; i < g.location.length; i++) h = (h * 31 + g.location.charCodeAt(i)) % 1000;
-                lat += ((h % 21) - 10) * 0.0022;
-                lng += (((Math.floor(h / 21)) % 21) - 10) * 0.0022;
+                matchedCity = TAIWAN_CITIES_META[0];
             }
             return {
                 city: matchedCity.name,
                 region: matchedCity.region,
-                lat,
-                lng
+                lat: matchedCity.lat,
+                lng: matchedCity.lng,
+                svgX: matchedCity.svgX,
+                svgY: matchedCity.svgY,
+                labelDir: matchedCity.labelDir
             };
         }
 
@@ -1260,7 +1239,6 @@
             (upcomingList || []).forEach(e => { if (e.band) e.band = resolveCanonicalBandId(e.band); });
             (eventsList || []).forEach(e => { if (e.band) e.band = resolveCanonicalBandId(e.band); });
 
-            // 修正早期歷史場次若活動名稱與地點欄位對調（如 name="18:45"、location="桃園 2026鐵玫瑰音樂節"）的情況
             (eventsList || []).forEach(e => {
                 if (/^\d{1,2}:\d{2}/.test(normText(e.name)) || normText(e.name) === '未定') {
                     if (!e.time) e.time = normText(e.name);
@@ -1687,9 +1665,6 @@
             </div>`;
         }
 
-        /**
-         * ★ 升級重點 3：我的足跡 — 移除歌曲統計，改為「累積聽團總時間 + 總參與場次 + 關注藝人參戰時數與場次分類表」 ★
-         */
         function renderFootprintStats() {
             const attendedRaw = [...data.events, ...data.upcoming].filter(e => footprints.has(e.id));
             if (attendedRaw.length === 0) {
@@ -1704,7 +1679,6 @@
             const attendedGroups = groupEvents(attendedRaw);
             const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
 
-            // 統計每位藝人的參戰場次、總分鐘數與場次明細
             const bandStatsMap = new Map();
             let totalSetsCount = 0;
             let totalMinutesAll = 0;
@@ -1714,12 +1688,7 @@
                 const geo = detectEventGeo(g);
                 if (geo.city) visitedCities.add(geo.city);
 
-                // 若使用者有挑選特定關注藝人，優先計算該場次中他關注的藝人；若該場沒有他關注的藝人則全數計入
-                const relevantBands = isCustomFilter && g.bands.some(b => selectedBands.has(b.id))
-                    ? g.bands
-                    : g.bands;
-
-                relevantBands.forEach(b => {
+                g.bands.forEach(b => {
                     const bId = resolveCanonicalBandId(b.id);
                     const mins = b.durationMins || DEFAULT_GIG_MINUTES;
                     totalSetsCount++;
@@ -1747,7 +1716,6 @@
                 });
             });
 
-            // 亦有被使用者勾選關注、但目前足跡是 0 場的藝人，也列出來讓使用者一目了然
             if (isCustomFilter) {
                 selectedBands.forEach(bId => {
                     if (bId !== 'all' && BANDS_MAP[bId] && !bandStatsMap.has(bId)) {
@@ -1840,12 +1808,14 @@
             </div>`;
         }
 
-        /**
-         * ★ 升級重點 2：全新第 4 分頁「🗺️ 現場版圖（台灣互動足跡地圖 + 縣市解鎖徽章 + 區域熱度與場館王）」 ★
-         */
         function switchMapScope(mode) {
             mapScopeMode = mode;
             selectedMapCity = '';
+            renderMapTab();
+        }
+
+        function switchMapVisual(vType) {
+            mapVisualType = vType;
             renderMapTab();
         }
 
@@ -1854,9 +1824,17 @@
             renderMapTab();
         }
 
+        function previewCityOnSvg(cityName) {
+            selectedMapCity = cityName;
+            renderMapTab();
+        }
+
+        /**
+         * ★ 修正重點：內建 100% 免費程式碼直接繪製的「SVG 向量台灣島嶼版圖」＋「台灣政府 NLSC 正體中文免費街道底圖」雙模式 ★
+         * 且將同一縣市的活動聚合為單一清晰節點，絕不再重疊或顯示 API KEY REQUIRED！
+         */
         function renderMapTab() {
             const hasFootprints = footprints.size > 0;
-            // 若使用者尚未打勾任何足跡，自動貼心切換顯示「全站活動版圖」並在上方提示
             const effectiveMode = (mapScopeMode === 'footprints' && !hasFootprints) ? 'all' : mapScopeMode;
 
             const rawSource = effectiveMode === 'footprints'
@@ -1865,48 +1843,94 @@
 
             const groupedAll = filterGrouped(groupEvents(rawSource));
 
-            // 依縣市與場館聚合資料
-            const cityStats = new Map();
+            const cityGroupsMap = new Map();
             const regionCounts = { '北部': 0, '中部': 0, '南部': 0, '東部': 0, '離島与海外': 0 };
             const venueCounts = new Map();
-            const markerGroups = new Map(); // 以微調後的經緯度或場館分組
 
             groupedAll.forEach(g => {
                 const geo = detectEventGeo(g);
                 g._geo = geo;
-                cityStats.set(geo.city, (cityStats.get(geo.city) || 0) + 1);
+                if (!cityGroupsMap.has(geo.city)) {
+                    cityGroupsMap.set(geo.city, []);
+                }
+                cityGroupsMap.get(geo.city).push(g);
                 if (regionCounts[geo.region] !== undefined) regionCounts[geo.region]++;
 
-                const cleanVenue = normText(g.location || g.name).replace(/（.*?）|\(.*?\)/g, '').trim();
-                if (cleanVenue && !isPlaceholderTitle(cleanVenue)) {
+                const cleanVenue = beautifyVenueName(g.location || g.name);
+                if (cleanVenue) {
                     venueCounts.set(cleanVenue, (venueCounts.get(cleanVenue) || 0) + 1);
                 }
-
-                const mKey = `${geo.lat.toFixed(3)},${geo.lng.toFixed(3)}`;
-                if (!markerGroups.has(mKey)) {
-                    markerGroups.set(mKey, {
-                        lat: geo.lat,
-                        lng: geo.lng,
-                        city: geo.city,
-                        venueTitle: cleanVenue || geo.city,
-                        events: []
-                    });
-                }
-                markerGroups.get(mKey).events.push(g);
             });
 
-            const unlockedCitiesCount = [...cityStats.keys()].filter(c => c !== '海外').length;
+            const unlockedCitiesCount = [...cityGroupsMap.keys()].filter(c => c !== '海外').length;
             const unlockPct = Math.round((unlockedCitiesCount / 20) * 100);
             let rankTitle = '🌱 初入現場的新星';
             if (unlockedCitiesCount >= 12) rankTitle = '👑 制霸全台的傳奇聽團神';
             else if (unlockedCitiesCount >= 7) rankTitle = '🔥 南征北討的熱血聽團仔';
             else if (unlockedCitiesCount >= 3) rankTitle = '🎸 跨區移動的現場漫遊者';
 
-            const topVenues = [...venueCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5);
-            const totalEventsCount = Math.max(1, groupedAll.length);
+            const topVenues = [...venueCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3);
+            const activeCityForPreview = selectedMapCity || ([...cityGroupsMap.entries()].sort((a, b) => b[1].length - a[1].length)[0]?.[0] || '台北');
+            const previewEvents = cityGroupsMap.get(activeCityForPreview) || [];
+
+            // 繪製內建 SVG 台灣島嶼上的城市節點
+            const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
+            const svgNodesHtml = TAIWAN_CITIES_META.map(c => {
+                const evs = cityGroupsMap.get(c.name) || [];
+                const cnt = evs.length;
+                const isSelected = activeCityForPreview === c.name;
+                const hasPicked = isCustomFilter && evs.some(ev => ev.bands.some(b => selectedBands.has(b.id)));
+
+                if (cnt === 0) {
+                    return `
+                    <g class="tw-city-node" style="opacity:0.35;" onclick="showToast('🔒 ${esc(c.name)} 目前尚無符合的現場紀錄')">
+                        <circle cx="${c.svgX}" cy="${c.svgY}" r="4.5" fill="var(--bg-subtle)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="2,2"/>
+                        <text x="${c.labelDir === 'left' ? c.svgX - 8 : c.svgX + 8}" y="${c.svgY + 3.5}" text-anchor="${c.labelDir === 'left' ? 'end' : 'start'}" font-size="9.5" font-weight="800" fill="var(--text-secondary)">${esc(c.name)}</text>
+                    </g>`;
+                }
+
+                const nodeColor = isSelected ? '#ff6600' : (hasPicked ? '#ff6600' : 'var(--accent)');
+                const textColor = (isSelected || hasPicked) ? '#fff' : '#111';
+                const pillW = c.name.length * 11 + String(cnt).length * 7 + 22;
+                const pillX = c.labelDir === 'left' ? (c.svgX - pillW - 9) : (c.svgX + 9);
+
+                return `
+                <g class="tw-city-node" onclick="previewCityOnSvg('${esc(c.name)}')" onmouseenter="if(window.innerWidth>=768) previewCityOnSvg('${esc(c.name)}')">
+                    ${isSelected ? `<circle class="tw-node-pulse" cx="${c.svgX}" cy="${c.svgY}" r="14"/>` : ''}
+                    <circle cx="${c.svgX}" cy="${c.svgY}" r="${isSelected ? 7.5 : 6}" fill="${nodeColor}" stroke="var(--text-main)" stroke-width="2"/>
+                    <rect x="${pillX}" y="${c.svgY - 10}" width="${pillW}" height="20" rx="10" fill="${nodeColor}" stroke="var(--text-main)" stroke-width="${isSelected ? '2.2' : '1.6'}"/>
+                    <text x="${pillX + pillW / 2}" y="${c.svgY + 4}" text-anchor="middle" font-size="10.5" font-weight="900" fill="${textColor}">${esc(c.name)} (${cnt})</text>
+                </g>`;
+            }).join('');
+
+            const previewCardsMiniHtml = previewEvents.length > 0
+                ? previewEvents.map(ev => {
+                    const dStr = dateKey(ev.date);
+                    const sortedB = [...ev.bands].sort((a, b) => {
+                        const aP = (!selectedBands.has('all') && selectedBands.has(a.id)) ? 1 : 0;
+                        const bP = (!selectedBands.has('all') && selectedBands.has(b.id)) ? 1 : 0;
+                        return bP - aP;
+                    });
+                    const bTags = sortedB.slice(0, 8).map(b => {
+                        const bi = bandInfo(b.id);
+                        const isP = !selectedBands.has('all') && selectedBands.has(b.id);
+                        return `<span class="band-tag ${bi.class} ${isP ? 'is-picked' : ''}" style="font-size:10px;padding:1px 6px;">${isP ? '★ ' : ''}${esc(bi.short)}</span>`;
+                    }).join('') + (sortedB.length > 8 ? `<span style="font-size:10px;font-weight:800;color:var(--text-secondary);">+${sortedB.length - 8}組</span>` : '');
+
+                    return `
+                    <div style="padding:9px 11px;background:var(--bg-subtle);border:1.5px solid var(--text-main);border-radius:8px;box-shadow:2px 2px 0px var(--text-main);">
+                        <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:6px;">
+                            <div style="font-size:13px;font-weight:900;color:var(--text-main);line-height:1.3;">${esc(ev.name)}</div>
+                            <span style="font-size:11px;font-weight:900;background:var(--text-main);color:var(--bg-main);padding:1px 6px;border-radius:4px;white-space:nowrap;">${esc(dStr.slice(0,4))}/${esc(dStr.slice(4,6))}/${esc(dStr.slice(6,8))}</span>
+                        </div>
+                        <div style="font-size:11px;font-weight:700;color:var(--text-secondary);margin:4px 0 6px 0;">📍 ${esc(ev.location || activeCityForPreview)}</div>
+                        <div style="display:flex;flex-wrap:wrap;gap:4px;">${bTags}</div>
+                    </div>`;
+                }).join('')
+                : `<div style="padding:2rem 1rem;text-align:center;color:var(--text-secondary);font-weight:800;">點選左側台灣地圖上的發光城市節點，即可在此查看該縣市的所有演出紀錄！</div>`;
 
             const cityBadgesHtml = TAIWAN_CITIES_META.map(c => {
-                const cnt = cityStats.get(c.name) || 0;
+                const cnt = (cityGroupsMap.get(c.name) || []).length;
                 const isSelected = selectedMapCity === c.name;
                 return `
                 <button type="button" class="city-badge-btn ${cnt === 0 ? 'locked' : ''} ${isSelected ? 'active' : ''}" ${cnt > 0 ? `onclick="filterMapByCity('${esc(c.name)}')"` : ''}>
@@ -1916,7 +1940,7 @@
             }).join('');
 
             const filteredCityEvents = selectedMapCity
-                ? groupedAll.filter(g => g._geo?.city === selectedMapCity)
+                ? (cityGroupsMap.get(selectedMapCity) || [])
                 : groupedAll.slice(0, 12);
 
             let html = `
@@ -1925,12 +1949,18 @@
                     <div>
                         <div style="font-size:15px;font-weight:900;">🗺️ ${effectiveMode === 'footprints' ? `${esc(userNickname || userId || '我')} 的現場足跡版圖` : '全站現場熱力版圖'}</div>
                         <div style="font-size:11.5px;color:var(--text-secondary);font-weight:700;margin-top:2px;">
-                            ${!hasFootprints && mapScopeMode === 'footprints' ? '💡 你尚未在「歷史場次」打勾足跡，目前為你預覽全站活動版圖！' : '滑鼠移上或手機點擊地圖標記，即可檢視該地「日期、追團陣容與活動名稱」'}
+                            ${!hasFootprints && mapScopeMode === 'footprints' ? '💡 你尚未在「歷史場次」打勾足跡，目前為你預覽全站活動版圖！' : '點擊或滑鼠移上台灣各縣市節點，即可檢視該地「日期、追團陣容與活動名稱」'}
                         </div>
                     </div>
-                    <div class="map-mode-switch">
-                        <button type="button" class="map-mode-btn ${effectiveMode === 'footprints' ? 'active' : ''}" onclick="switchMapScope('footprints')">👣 我的足跡 (${footprints.size})</button>
-                        <button type="button" class="map-mode-btn ${effectiveMode === 'all' ? 'active' : ''}" onclick="switchMapScope('all')">🌏 全站版圖</button>
+                    <div style="display:flex;gap:6px;flex-wrap:wrap;">
+                        <div class="map-mode-switch">
+                            <button type="button" class="map-mode-btn ${mapVisualType === 'svg' ? 'active' : ''}" onclick="switchMapVisual('svg')">🎨 插畫台灣版圖 (推薦)</button>
+                            <button type="button" class="map-mode-btn ${mapVisualType === 'tile' ? 'active' : ''}" onclick="switchMapVisual('tile')">🗺️ 街道實景地圖</button>
+                        </div>
+                        <div class="map-mode-switch">
+                            <button type="button" class="map-mode-btn ${effectiveMode === 'footprints' ? 'active' : ''}" onclick="switchMapScope('footprints')">👣 我的足跡 (${footprints.size})</button>
+                            <button type="button" class="map-mode-btn ${effectiveMode === 'all' ? 'active' : ''}" onclick="switchMapScope('all')">🌏 全站版圖</button>
+                        </div>
                     </div>
                 </div>
 
@@ -1955,18 +1985,56 @@
                             <span style="background:var(--bg-card);padding:2px 7px;border-radius:4px;border:1px solid var(--border);">東部/離島 ${regionCounts['東部'] + regionCounts['離島与海外']}場</span>
                         </div>
                         <div style="font-size:11px;font-weight:800;color:var(--text-secondary);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">
-                            🏟️ 最常造訪：${topVenues.length > 0 ? topVenues.slice(0, 2).map(([v, c]) => `${esc(v.slice(0,10))}(${c})`).join('、') : '尚無紀錄'}
+                            🏟️ 最常造訪：${topVenues.length > 0 ? topVenues.map(([v, c]) => `${esc(v)}(${c})`).join('、') : '尚無紀錄'}
                         </div>
                     </div>
                 </div>
 
-                <!-- 台灣互動式地圖容器 -->
-                <div id="taiwan-map-box"></div>
+                ${mapVisualType === 'svg' ? `
+                <!-- 模式 A：100% 內建手繪向量 SVG 台灣島嶼互動版圖（零 API Key、永不破圖、標籤不重疊） -->
+                <div class="svg-map-stage">
+                    <div class="svg-canvas-wrap">
+                        <svg class="tw-vector-svg" viewBox="0 0 320 450" xmlns="http://www.w3.org/2000/svg">
+                            <defs>
+                                <pattern id="twGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+                                    <path d="M 20 0 L 0 0 0 20" fill="none" stroke="var(--text-main)" stroke-width="0.4" stroke-opacity="0.15"/>
+                                </pattern>
+                            </defs>
+                            <rect width="320" height="450" rx="10" fill="url(#twGrid)"/>
+                            <!-- 離島與海外專屬框線 -->
+                            <rect x="12" y="42" width="96" height="44" rx="6" fill="var(--bg-card)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.85"/>
+                            <rect x="12" y="112" width="96" height="44" rx="6" fill="var(--bg-card)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.85"/>
+                            <rect x="12" y="242" width="76" height="44" rx="6" fill="var(--bg-card)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.85"/>
+                            <rect x="12" y="342" width="84" height="44" rx="6" fill="var(--bg-card)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.85"/>
 
-                <!-- 台灣縣市解鎖徽章牆（點擊可快速篩選該縣市活動並飛行定位） -->
+                            <!-- 台灣本島向量輪廓 -->
+                            <path class="tw-island-shape" d="M 224 28 L 246 40 L 258 62 L 244 92 L 248 124 L 234 166 L 218 225 L 200 282 L 182 340 L 160 385 L 154 424 L 140 426 L 130 398 L 106 364 L 92 325 L 95 282 L 102 242 L 112 204 L 128 164 L 146 126 L 166 90 L 192 54 L 210 34 Z"/>
+                            <!-- 中央山脈裝飾脊線 -->
+                            <path d="M 222 65 L 205 135 L 185 215 L 165 295 L 148 365" fill="none" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.25"/>
+
+                            <!-- 各縣市互動節點與膠囊 -->
+                            ${svgNodesHtml}
+                        </svg>
+                    </div>
+                    <div class="svg-preview-card">
+                        <div style="display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid var(--text-main);padding-bottom:8px;">
+                            <div>
+                                <span style="font-size:14.5px;font-weight:900;">📍 ${esc(activeCityForPreview)} 現場紀錄</span>
+                                <span style="font-size:11.5px;font-weight:800;color:var(--text-secondary);margin-left:6px;">(共 ${previewEvents.length} 場)</span>
+                            </div>
+                            <span style="font-size:11px;font-weight:800;background:var(--accent);color:#111;padding:2px 8px;border-radius:99px;border:1.5px solid #111;">點地圖節點切換</span>
+                        </div>
+                        <div class="svg-preview-list">${previewCardsMiniHtml}</div>
+                    </div>
+                </div>
+                ` : `
+                <!-- 模式 B：台灣內政部國土測繪中心 (NLSC) 免費繁體中文正版街道地圖（零 API Key、同城市自動聚合不重疊） -->
+                <div id="taiwan-map-box"></div>
+                `}
+
                 <div style="margin-top:14px;">
                     <div style="display:flex;justify-content:space-between;align-items:center;">
-                        <span style="font-size:12.5px;font-weight:900;">📌 點擊已解鎖縣市快速定位並檢視場次：</span>
+                        <span style="font-size:12.5px;font-weight:900;">📌 點擊已解鎖縣市快速篩選下方完整活動卡片：</span>
                         ${selectedMapCity ? `<button type="button" class="clear-filter-btn" onclick="filterMapByCity('')">✕ 顯示全台灣</button>` : ''}
                     </div>
                     <div class="city-grid">${cityBadgesHtml}</div>
@@ -1974,7 +2042,7 @@
             </div>
 
             <div class="section-title" style="margin-top:20px;">
-                <span>${selectedMapCity ? `📍 【${esc(selectedMapCity)}】現場清單 (${filteredCityEvents.length} 場)` : `📋 近期版圖現場紀錄`}</span>
+                <span>${selectedMapCity ? `📍 【${esc(selectedMapCity)}】現場詳細卡片 (${filteredCityEvents.length} 場)` : `📋 版圖現場詳細卡片 (${groupedAll.length} 場)`}</span>
             </div>
             <div class="events-grid">
                 ${filteredCityEvents.length > 0 ? filteredCityEvents.map((g, idx) => buildCard(g, dateKey(g.date) < taipeiToday, idx)).join('') : '<div class="empty-state">尚無符合條件的版圖場次</div>'}
@@ -1982,84 +2050,91 @@
 
             $('#content').innerHTML = html;
 
-            // 初始化 Leaflet 台灣互動地圖並繪製地標與滑鼠移入/手機點擊卡片
-            setTimeout(() => {
-                const mapEl = document.getElementById('taiwan-map-box');
-                if (!mapEl || typeof L === 'undefined') return;
-                if (leafletMap) {
-                    leafletMap.remove();
-                    leafletMap = null;
-                }
+            // 若使用者切換至「街道實景地圖」模式，使用台灣內政部國土測繪中心 (NLSC) 免費公開圖磚 + OSM 備援（完全免 API Key）
+            if (mapVisualType === 'tile') {
+                setTimeout(() => {
+                    const mapEl = document.getElementById('taiwan-map-box');
+                    if (!mapEl || typeof L === 'undefined') return;
+                    if (leafletMap) {
+                        leafletMap.remove();
+                        leafletMap = null;
+                    }
 
-                leafletMap = L.map('taiwan-map-box', {
-                    center: [23.75, 120.95],
-                    zoom: window.innerWidth < 768 ? 7 : 7.5,
-                    scrollWheelZoom: false
-                });
-
-                L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-                    attribution: '&copy; OpenStreetMap & CARTO',
-                    maxZoom: 18
-                }).addTo(leafletMap);
-
-                const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
-                const bounds = [];
-
-                markerGroups.forEach(mg => {
-                    if (selectedMapCity && mg.city !== selectedMapCity) return;
-                    bounds.push([mg.lat, mg.lng]);
-
-                    const hasPickedInGroup = isCustomFilter && mg.events.some(ev => ev.bands.some(b => selectedBands.has(b.id)));
-                    const iconHtml = `<div class="ting-map-marker ${hasPickedInGroup ? 'has-picked' : ''}">📍${esc(mg.city)} (${mg.events.length})</div>`;
-                    const customIcon = L.divIcon({
-                        className: '',
-                        html: iconHtml,
-                        iconSize: [74, 26],
-                        iconAnchor: [37, 13]
+                    leafletMap = L.map('taiwan-map-box', {
+                        center: [23.75, 120.95],
+                        zoom: window.innerWidth < 768 ? 7 : 7.5,
+                        scrollWheelZoom: false
                     });
 
-                    const evItemsHtml = mg.events.slice(0, 8).map(ev => {
-                        const dStr = dateKey(ev.date);
-                        const sortedB = [...ev.bands].sort((a, b) => {
-                            const aP = (!selectedBands.has('all') && selectedBands.has(a.id)) ? 1 : 0;
-                            const bP = (!selectedBands.has('all') && selectedBands.has(b.id)) ? 1 : 0;
-                            return bP - aP;
+                    // 使用台灣內政部國土測繪中心 (NLSC) 官方免費正體中文電子地圖圖磚（免 API Key）
+                    const nlscLayer = L.tileLayer('https://wmts.nlsc.gov.tw/wmts/EMAP/default/GoogleMapsCompatible/{z}/{y}/{x}', {
+                        attribution: '&copy; 內政部國土測繪中心 NLSC & OpenStreetMap',
+                        maxZoom: 18
+                    });
+                    nlscLayer.on('tileerror', function() {
+                        // 若海外地區超出台灣國土測繪範圍，自動無縫疊加 OpenStreetMap 官方免費圖磚
+                        if (!leafletMap._osmAdded) {
+                            leafletMap._osmAdded = true;
+                            L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18 }).addTo(leafletMap);
+                        }
+                    });
+                    nlscLayer.addTo(leafletMap);
+
+                    // ★ 以「縣市」為單位聚合圖釘，每個縣市只放 1 顆乾淨的總數圖釘（例如「📍台中 (10)」），徹底解決圖 1 圖釘重疊問題！
+                    TAIWAN_CITIES_META.forEach(c => {
+                        const evs = cityGroupsMap.get(c.name) || [];
+                        if (evs.length === 0) return;
+                        if (selectedMapCity && c.name !== selectedMapCity) return;
+
+                        const hasPickedInCity = isCustomFilter && evs.some(ev => ev.bands.some(b => selectedBands.has(b.id)));
+                        const iconHtml = `<div class="ting-map-marker ${hasPickedInCity ? 'has-picked' : ''}">📍${esc(c.name)} (${evs.length})</div>`;
+                        const customIcon = L.divIcon({
+                            className: '',
+                            html: iconHtml,
+                            iconSize: [82, 28],
+                            iconAnchor: [41, 14]
                         });
-                        const bBadges = sortedB.slice(0, 5).map(b => {
-                            const bi = bandInfo(b.id);
-                            const isP = !selectedBands.has('all') && selectedBands.has(b.id);
-                            return `<span style="background:${esc(bi.color)};color:#fff;padding:1px 5px;border-radius:4px;font-size:10px;font-weight:800;display:inline-block;margin:1px;">${isP ? '★' : ''}${esc(bi.short)}</span>`;
-                        }).join('') + (sortedB.length > 5 ? `<span style="font-size:10px;font-weight:800;"> +${sortedB.length - 5}組</span>` : '');
 
-                        return `
-                        <div class="map-popup-item">
-                            <div style="font-weight:900;color:var(--text-main);">${esc(dStr.slice(0,4))}/${esc(dStr.slice(4,6))}/${esc(dStr.slice(6,8))} · ${esc(ev.name)}</div>
-                            <div style="font-size:10.5px;color:var(--text-secondary);margin:2px 0;">📍 ${esc(ev.location || mg.city)}</div>
-                            <div style="margin-top:3px;">${bBadges}</div>
+                        const evItemsHtml = evs.slice(0, 12).map(ev => {
+                            const dStr = dateKey(ev.date);
+                            const sortedB = [...ev.bands].sort((a, b) => {
+                                const aP = (!selectedBands.has('all') && selectedBands.has(a.id)) ? 1 : 0;
+                                const bP = (!selectedBands.has('all') && selectedBands.has(b.id)) ? 1 : 0;
+                                return bP - aP;
+                            });
+                            const bBadges = sortedB.slice(0, 6).map(b => {
+                                const bi = bandInfo(b.id);
+                                const isP = !selectedBands.has('all') && selectedBands.has(b.id);
+                                return `<span style="background:${esc(bi.color)};color:#fff;padding:1px 5px;border-radius:4px;font-size:10px;font-weight:800;display:inline-block;margin:1px;">${isP ? '★' : ''}${esc(bi.short)}</span>`;
+                            }).join('') + (sortedB.length > 6 ? `<span style="font-size:10px;font-weight:800;"> +${sortedB.length - 6}組</span>` : '');
+
+                            return `
+                            <div class="map-popup-item">
+                                <div style="font-weight:900;color:var(--text-main);">${esc(dStr.slice(0,4))}/${esc(dStr.slice(4,6))}/${esc(dStr.slice(6,8))} · ${esc(ev.name)}</div>
+                                <div style="font-size:10.5px;color:var(--text-secondary);margin:2px 0;">📍 ${esc(ev.location || c.name)}</div>
+                                <div style="margin-top:3px;">${bBadges}</div>
+                            </div>`;
+                        }).join('');
+
+                        const popupHtml = `
+                        <div style="min-width:220px;max-width:265px;padding:4px;">
+                            <div style="font-size:13px;font-weight:900;border-bottom:1.5px dashed var(--border);padding-bottom:4px;">
+                                📍 ${esc(c.name)} · 共 ${evs.length} 場現場
+                            </div>
+                            <div class="map-popup-list">${evItemsHtml}</div>
                         </div>`;
-                    }).join('');
 
-                    const popupHtml = `
-                    <div style="min-width:210px;max-width:260px;padding:4px;">
-                        <div style="font-size:13px;font-weight:900;border-bottom:1.5px dashed var(--border);padding-bottom:4px;">
-                            📍 ${esc(mg.city)} · 共 ${mg.events.length} 場現場
-                        </div>
-                        <div class="map-popup-list">${evItemsHtml}</div>
-                    </div>`;
-
-                    const marker = L.marker([mg.lat, mg.lng], { icon: customIcon }).addTo(leafletMap);
-                    marker.bindPopup(popupHtml, { maxWidth: 280 });
-
-                    // 桌機滑鼠移上去直接預覽 (Hover 觸發 Popup)
-                    marker.on('mouseover', function() {
-                        this.openPopup();
+                        const marker = L.marker([c.lat, c.lng], { icon: customIcon }).addTo(leafletMap);
+                        marker.bindPopup(popupHtml, { maxWidth: 280 });
+                        marker.on('mouseover', function() { this.openPopup(); });
                     });
-                });
 
-                if (selectedMapCity && bounds.length > 0) {
-                    leafletMap.setView(bounds[0], 11);
-                }
-            }, 60);
+                    if (selectedMapCity) {
+                        const targetMeta = TAIWAN_CITIES_META.find(x => x.name === selectedMapCity);
+                        if (targetMeta) leafletMap.setView([targetMeta.lat, targetMeta.lng], 10);
+                    }
+                }, 60);
+            }
         }
 
         function renderCalendarDateEvents(dateStr) {
