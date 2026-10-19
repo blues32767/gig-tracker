@@ -42,6 +42,14 @@
       "eventCount": 8
     },
     {
+      "id": "band_6gp8um_11",
+      "name": "鼓鼓",
+      "short": "鼓鼓",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
       "id": "icyball",
       "name": "冰球樂團",
       "short": "冰球",
@@ -194,10 +202,26 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_58",
+      "name": "麋先生",
+      "short": "麋先生",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "fei",
       "name": "吳霏 FEI",
       "short": "吳霏 FEI",
       "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
+      "id": "band_drsiw0_85",
+      "name": "蕭景鴻",
+      "short": "蕭景鴻",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 4
     },
@@ -290,14 +314,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_58",
-      "name": "麋先生",
-      "short": "麋先生",
-      "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "band_drsiw0_59",
       "name": "固定客",
       "short": "固定客",
@@ -362,18 +378,18 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_85",
-      "name": "蕭景鴻",
-      "short": "蕭景鴻",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "sabrina",
       "name": "Sabrina 胡恂舞",
       "short": "Sabrina 胡恂舞",
       "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_87",
+      "name": "魏嘉瑩",
+      "short": "魏嘉瑩",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 3
     },
@@ -770,10 +786,10 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_87",
-      "name": "魏嘉瑩",
-      "short": "魏嘉瑩",
-      "color": "#118ab2",
+      "id": "band_6gp8um_29",
+      "name": "小魏",
+      "short": "小魏",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 2
     },
@@ -2274,14 +2290,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6gp8um_29",
-      "name": "小魏",
-      "short": "小魏",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_88",
       "name": "畢書盡",
       "short": "畢書盡",
@@ -3342,6 +3350,14 @@
       "name": "Willy 簡嘉彣",
       "short": "Wi",
       "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_138",
+      "name": "蕭秉治",
+      "short": "蕭秉",
+      "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
     },
@@ -11598,6 +11614,66 @@
       "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
     },
     {
+      "id": "upcoming-row-453",
+      "date": "20261107",
+      "band": "band_drsiw0_58",
+      "time": "未公布",
+      "name": "彰化 520 心田中音樂節 選手之夜",
+      "location": "彰化縣景崧文化教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E6%99%AF%E5%B4%A7%E6%96%87%E5%8C%96%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩"
+    },
+    {
+      "id": "upcoming-row-454",
+      "date": "20261107",
+      "band": "band_drsiw0_138",
+      "time": "未公布",
+      "name": "彰化 520 心田中音樂節 選手之夜",
+      "location": "彰化縣景崧文化教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E6%99%AF%E5%B4%A7%E6%96%87%E5%8C%96%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩"
+    },
+    {
+      "id": "upcoming-row-455",
+      "date": "20261107",
+      "band": "band_6gp8um_11",
+      "time": "未公布",
+      "name": "彰化 520 心田中音樂節 選手之夜",
+      "location": "彰化縣景崧文化教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E6%99%AF%E5%B4%A7%E6%96%87%E5%8C%96%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩"
+    },
+    {
+      "id": "upcoming-row-456",
+      "date": "20261107",
+      "band": "band_drsiw0_85",
+      "time": "未公布",
+      "name": "彰化 520 心田中音樂節 選手之夜",
+      "location": "彰化縣景崧文化教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E6%99%AF%E5%B4%A7%E6%96%87%E5%8C%96%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩"
+    },
+    {
+      "id": "upcoming-row-457",
+      "date": "20261107",
+      "band": "band_6gp8um_29",
+      "time": "未公布",
+      "name": "彰化 520 心田中音樂節 選手之夜",
+      "location": "彰化縣景崧文化教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E6%99%AF%E5%B4%A7%E6%96%87%E5%8C%96%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩"
+    },
+    {
+      "id": "upcoming-row-458",
+      "date": "20261107",
+      "band": "band_drsiw0_87",
+      "time": "未公布",
+      "name": "彰化 520 心田中音樂節 選手之夜",
+      "location": "彰化縣景崧文化教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E6%99%AF%E5%B4%A7%E6%96%87%E5%8C%96%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩"
+    },
+    {
       "id": "upcoming-row-15",
       "date": "20261108",
       "band": "bisiugroup",
@@ -13213,6 +13289,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "a770d8c5-77c4-42e9-82ea-77b937c0eb89",
-  "updatedAt": "2026-10-19T12:34:27.102Z"
+  "revision": "ee9a30ec-727f-4801-84df-76ef9bfaa749",
+  "updatedAt": "2026-10-19T12:39:27.191Z"
 }
