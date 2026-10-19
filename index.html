@@ -140,7 +140,7 @@
 
         .am-list { padding: 10px 14px; overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 7px; flex: 1; min-height: 0; align-content: start; }
 
-        /* ★ 新增：單日活動浮動視窗頂部「單行快速跳轉導覽列 (Quick-Jump Bar)」 ★ */
+        /* 單日活動浮動視窗頂部「單行快速跳轉導覽列 (Quick-Jump Bar)」 */
         .cdm-quick-nav {
             padding: 8px 14px;
             background: var(--bg-subtle);
@@ -187,7 +187,7 @@
             font-weight: 900;
         }
 
-        /* ★ 修正問題 1：行事曆單日活動浮動視窗內部清單，強制子卡片 flex-shrink: 0 絕不壓扁裁切！ ★ */
+        /* 行事曆單日活動浮動視窗內部清單，強制子卡片 flex-shrink: 0 絕不壓扁裁切 */
         .day-modal-body {
             padding: 12px 14px 20px 14px;
             overflow-y: auto;
@@ -479,7 +479,7 @@
             <div class="footer-meta">
                 <span>開發者：<strong>Blues32767</strong></span>
                 <span class="footer-dot">·</span>
-                <span>維護日期：<strong id="footer-maintained-date">20261017</strong></span>
+                <span>維護日期：<strong id="footer-maintained-date">20261019</strong></span>
             </div>
             <div class="footer-links">
                 <a href="https://github.com/blues32767?tab=repositories" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="前往開發者 GitHub">
@@ -525,7 +525,7 @@
         </div>
     </div>
 
-    <!-- ★ 行事曆單日現場清單浮動視窗 (含頂部單行快速跳轉膠囊列 + 修正 Flex 卡片壓縮 Bug) ★ -->
+    <!-- 行事曆單日現場清單浮動視窗 (含頂部單行快速跳轉膠囊列 + 修正 Flex 卡片壓縮 Bug) -->
     <div id="calendar-day-modal-backdrop" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="cdm-title">
         <div class="artist-modal day-events-modal" onclick="event.stopPropagation()">
             <div class="am-header">
@@ -583,7 +583,7 @@
 
     <script>
         // ★ 開發者更新 index.html 時，只需修改此處的維護日期即可自動反映於頁尾 ★
-        const MAINTAINED_DATE = '20261017';
+        const MAINTAINED_DATE = '20261019';
         const GAS_URL = 'https://script.google.com/macros/s/AKfycbwR49SJXjZM55RzbhpQyDv39sVM2J91U8BSs7gKlATQihm_QC60HOHH6FQtiA4CvLJexg/exec';
         const DATA_URL = './data.json';
         const TOP_PINNED_LIMIT = 6;
@@ -626,7 +626,6 @@
             lastScrollY = currentScrollY;
         }, { passive: true });
 
-        // 統一控制彈窗開啟時的背景防滾動鎖定
         function syncBodyModalLock() {
             const anyOpen = document.querySelectorAll('.modal-backdrop.open').length > 0;
             document.body.classList.toggle('modal-open', anyOpen);
@@ -636,6 +635,25 @@
             let str = String(s || '');
             try { str = str.normalize('NFKC'); } catch (e) {}
             return str.trim();
+        }
+
+        /**
+         * ★ 新增：智慧解析藝人演出開始時間（換算為當日分鐘數，讓同場藝人嚴格依「由早到晚」排序）
+         * 例如 "14:00-14:25" -> 840；跨夜 "00:30-01:10" -> 1470；無時間或 "未公布" -> 99999
+         */
+        function parseStartTimeMinutes(timeStr) {
+            const s = normText(timeStr);
+            if (!s || isPlaceholderTitle(s)) return 99999;
+            const m = s.match(/(?:(PM|下午|晚上)\s*)?(\d{1,2})\s*[:：.]\s*(\d{2})/i);
+            if (!m) return 99999;
+            const isPm = Boolean(m[1]);
+            let hh = parseInt(m[2], 10);
+            const mm = parseInt(m[3], 10);
+            if (isNaN(hh) || isNaN(mm)) return 99999;
+            if (isPm && hh < 12) hh += 12;
+            // 若音樂祭或跨年場在凌晨 00:00~04:59 開唱，視為當日深夜 (24:00 後)，排在 23:59 之後
+            if (hh < 5) hh += 24;
+            return hh * 60 + mm;
         }
 
         function normBandCompareKey(name) {
@@ -1377,6 +1395,12 @@
             });
         }
 
+        /**
+         * ★ 核心升級：三段式藝人與時間軸排序 ★
+         * 1. 使用者勾選的關注藝人永遠置頂（★）
+         * 2. 接著嚴格依據演出開始時間「由早到晚（Chronological Order）」排序
+         * 3. 若無時間或同時間，再依資料庫場次熱門度 (sortRank) 排序
+         */
         function buildCard(g, historical, idx = 0, customDomId = '') {
             const k = dateKey(g.date), map = safeUrl(g.mapLink), ticket = safeUrl(g.ticketUrl), dayStr = getDayOfWeek(k);
             const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
@@ -1387,6 +1411,9 @@
                     const bPicked = selectedBands.has(b.id) ? 1 : 0;
                     if (aPicked !== bPicked) return bPicked - aPicked;
                 }
+                const timeA = parseStartTimeMinutes(a.time);
+                const timeB = parseStartTimeMinutes(b.time);
+                if (timeA !== timeB) return timeA - timeB;
                 return (bandInfo(a.id).sortRank ?? 9999) - (bandInfo(b.id).sortRank ?? 9999);
             });
 
@@ -1499,9 +1526,6 @@
             $('#content').innerHTML = html + '</div>';
         }
 
-        /**
-         * ★ 修正問題 1 & 2：彈出單日現場清單視窗（支援頂部單行「地點/關注藝人快速定位膠囊列」＋ 完整展開不壓扁卡片）
-         */
         function renderCalendarDateEvents(dateStr) {
             const clickedDate = dateStr.replace(/-/g, '');
             const dayStr = getDayOfWeek(clickedDate);
@@ -1518,7 +1542,6 @@
             $('#cdm-title').innerText = `📌 ${formattedDate} 現場清單`;
             $('#cdm-subtitle').innerText = `共 ${groupedList.length} 場活動 (${totalBandsCount} 組演出) · 上下滑動檢視詳細卡司`;
 
-            // 建立頂部單行橫向快速跳轉列（當該日有 >= 2 場活動時顯示，點擊可直達該活動卡片）
             const quickNavEl = $('#cdm-quick-nav');
             const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
             if (groupedList.length >= 2) {
