@@ -3196,7 +3196,7 @@
     {
       "id": "band_qqiyec_17",
       "name": "氣球互動秀",
-      "short": "氣球",
+      "short": "氣球互動秀",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -3204,7 +3204,7 @@
     {
       "id": "band_32tclr_2",
       "name": "糖果星球派對",
-      "short": "糖果",
+      "short": "糖果星球派對",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -3212,7 +3212,7 @@
     {
       "id": "band_drsiw0_127",
       "name": "朱海君",
-      "short": "朱海",
+      "short": "朱海君",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -3228,7 +3228,7 @@
     {
       "id": "band_drsiw0_128",
       "name": "杜忻恬",
-      "short": "杜忻",
+      "short": "杜忻恬",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -3236,7 +3236,7 @@
     {
       "id": "unigirls",
       "name": "UniGirls 啦啦隊",
-      "short": "Un",
+      "short": "UniGirls 啦啦隊",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -3244,7 +3244,7 @@
     {
       "id": "band_drsiw0_129",
       "name": "張秀卿",
-      "short": "張秀",
+      "short": "張秀卿",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -3260,7 +3260,7 @@
     {
       "id": "band_drsiw0_130",
       "name": "蕭煌奇",
-      "short": "蕭煌",
+      "short": "蕭煌奇",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -3268,7 +3268,7 @@
     {
       "id": "band_drsiw0_131",
       "name": "戴佩妮",
-      "short": "戴佩",
+      "short": "戴佩妮",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -3276,7 +3276,7 @@
     {
       "id": "band_drsiw0_132",
       "name": "范逸臣",
-      "short": "范逸",
+      "short": "范逸臣",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -3292,7 +3292,7 @@
     {
       "id": "band_drsiw0_133",
       "name": "謝宇威",
-      "short": "謝宇",
+      "short": "謝宇威",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -3300,7 +3300,7 @@
     {
       "id": "band_drsiw0_134",
       "name": "曾昱嘉",
-      "short": "曾昱",
+      "short": "曾昱嘉",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -3308,7 +3308,7 @@
     {
       "id": "band_6u8lrj_35",
       "name": "旺福樂團",
-      "short": "旺福",
+      "short": "旺福樂團",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -3316,7 +3316,7 @@
     {
       "id": "pallas_1",
       "name": "PALLAS 帕拉斯",
-      "short": "PA",
+      "short": "PALLAS 帕拉斯",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -12576,5 +12576,5 @@
   },
   "schemaVersion": 2,
   "revision": "6f9a4a26-3246-4531-9c35-1c9487a8cf56",
-  "updatedAt": "2026-10-19T03:38:33.238Z"
+  "updatedAt": "2026-10-19T03:41:35.099Z"
 }
