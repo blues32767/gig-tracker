@@ -498,6 +498,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6gp8um_13",
+      "name": "孝琳",
+      "short": "孝琳",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_qqiyec_2",
       "name": "東部壞男孩",
       "short": "東部",
@@ -838,6 +846,14 @@
       "name": "米津玄師 KENSHI YONEZU",
       "short": "米津玄師",
       "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_115",
+      "name": "謝金燕",
+      "short": "謝金燕",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 2
     },
@@ -1383,14 +1399,6 @@
       "short": "AtHeart",
       "color": "#ff006e",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_13",
-      "name": "孝琳",
-      "short": "孝琳",
-      "color": "#fb5607",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -2870,14 +2878,6 @@
       "name": "安心亞",
       "short": "安心亞",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_115",
-      "name": "謝金燕",
-      "short": "謝金燕",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
     },
@@ -11288,6 +11288,26 @@
       "note": "［免費］\n活動包含兩日演出:10/31(南向製菸工廠、巴洛克花園)及 11/01(南向製菸工廠、巴洛克花園)。\n卡司名單:Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
     },
     {
+      "id": "upcoming-row-451",
+      "date": "20261101",
+      "band": "band_6gp8um_13",
+      "time": "未公布",
+      "name": "livetws2小時2026新竹市立棒球場50周年交流賽《COMEBACK竹風再起》",
+      "location": "新竹市立棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AB%8B%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n活動採免費索票,10月24日新竹通用戶優先領票,10月26日開放全台球迷索取。卡司:孝淵、謝金燕。"
+    },
+    {
+      "id": "upcoming-row-452",
+      "date": "20261101",
+      "band": "band_drsiw0_115",
+      "time": "未公布",
+      "name": "livetws2小時2026新竹市立棒球場50周年交流賽《COMEBACK竹風再起》",
+      "location": "新竹市立棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AB%8B%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n活動採免費索票,10月24日新竹通用戶優先領票,10月26日開放全台球迷索取。卡司:孝淵、謝金燕。"
+    },
+    {
       "id": "upcoming-row-442",
       "date": "20261104",
       "band": "band_drsiw0_25",
@@ -13193,6 +13213,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "1ab98e5f-4d0f-4717-97e5-843a0746ee58",
-  "updatedAt": "2026-10-19T12:21:15.991Z"
+  "revision": "a770d8c5-77c4-42e9-82ea-77b937c0eb89",
+  "updatedAt": "2026-10-19T12:21:47.128Z"
 }
