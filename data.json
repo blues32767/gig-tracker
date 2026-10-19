@@ -74,6 +74,22 @@
       "eventCount": 6
     },
     {
+      "id": "band_6gp8um_3",
+      "name": "白安",
+      "short": "白安",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富凱",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "band_6gp8um_11",
       "name": "艾薇",
       "short": "艾薇",
@@ -102,22 +118,6 @@
       "name": "呂允",
       "short": "呂允",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_6gp8um_3",
-      "name": "白安",
-      "short": "白安",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_drsiw0_25",
-      "name": "許富凱",
-      "short": "許富凱",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 5
     },
@@ -3318,6 +3318,30 @@
       "name": "鄭怡",
       "short": "鄭怡",
       "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_36",
+      "name": "草屯囝仔",
+      "short": "草屯",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_137",
+      "name": "郭家瑋",
+      "short": "郭家",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "willy",
+      "name": "Willy 簡嘉彣",
+      "short": "Wi",
+      "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
     },
@@ -11011,6 +11035,56 @@
       "note": "［免費］\n活動包含兩日演出:10/31(南向製菸工廠、巴洛克花園)及 11/01(南向製菸工廠、巴洛克花園)。\n卡司名單:Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
     },
     {
+      "id": "upcoming-row-442",
+      "date": "20261104",
+      "band": "band_drsiw0_25",
+      "time": "17:00-20:00",
+      "name": "正修科技大學校慶晚會",
+      "location": "高雄市正修科技大學人文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%AD%A3%E4%BF%AE%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%BA%BA%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司:許富凱、白安、草屯囝仔、郭家瑋、Willy 簡嘉彣,主持:少康"
+    },
+    {
+      "id": "upcoming-row-443",
+      "date": "20261104",
+      "band": "band_6gp8um_3",
+      "time": "17:00-20:00",
+      "name": "正修科技大學校慶晚會",
+      "location": "高雄市正修科技大學人文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%AD%A3%E4%BF%AE%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%BA%BA%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司:許富凱、白安、草屯囝仔、郭家瑋、Willy 簡嘉彣,主持:少康"
+    },
+    {
+      "id": "upcoming-row-444",
+      "date": "20261104",
+      "band": "band_6u8lrj_36",
+      "time": "17:00-20:00",
+      "name": "正修科技大學校慶晚會",
+      "location": "高雄市正修科技大學人文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%AD%A3%E4%BF%AE%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%BA%BA%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司:許富凱、白安、草屯囝仔、郭家瑋、Willy 簡嘉彣,主持:少康"
+    },
+    {
+      "id": "upcoming-row-445",
+      "date": "20261104",
+      "band": "band_drsiw0_137",
+      "time": "17:00-20:00",
+      "name": "正修科技大學校慶晚會",
+      "location": "高雄市正修科技大學人文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%AD%A3%E4%BF%AE%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%BA%BA%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司:許富凱、白安、草屯囝仔、郭家瑋、Willy 簡嘉彣,主持:少康"
+    },
+    {
+      "id": "upcoming-row-446",
+      "date": "20261104",
+      "band": "willy",
+      "time": "17:00-20:00",
+      "name": "正修科技大學校慶晚會",
+      "location": "高雄市正修科技大學人文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%AD%A3%E4%BF%AE%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%BA%BA%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司:許富凱、白安、草屯囝仔、郭家瑋、Willy 簡嘉彣,主持:少康"
+    },
+    {
       "id": "upcoming-row-11",
       "date": "20261107",
       "band": "mango",
@@ -12826,6 +12900,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "0e30eb60-6eeb-44a6-9a56-19761077454b",
-  "updatedAt": "2026-10-19T12:07:17.327Z"
+  "revision": "16af118c-1dc8-4b5a-b53c-c04098ed9cf5",
+  "updatedAt": "2026-10-19T12:07:56.502Z"
 }
