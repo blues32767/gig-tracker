@@ -3276,7 +3276,7 @@
     {
       "id": "band_qqiyec_17",
       "name": "打倒三明治",
-      "short": "打倒",
+      "short": "打倒三明治",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -12506,5 +12506,5 @@
   },
   "schemaVersion": 2,
   "revision": "4f3610e4-7586-41ea-af2b-9c66fa2fdcd3",
-  "updatedAt": "2026-10-19T07:26:01.439Z"
+  "updatedAt": "2026-10-19T07:49:14.225Z"
 }
