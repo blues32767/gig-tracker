@@ -6,6 +6,7 @@
     <title>聽團網 — 下一場，在現場見。</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" rel="stylesheet">
     <style>
         :root {
             --bg-main: #f4f5ef;
@@ -187,7 +188,6 @@
             font-weight: 900;
         }
 
-        /* 行事曆單日活動浮動視窗內部清單，強制子卡片 flex-shrink: 0 絕不壓扁裁切 */
         .day-modal-body {
             padding: 12px 14px 20px 14px;
             overflow-y: auto;
@@ -306,6 +306,60 @@
         html.dark .fc .fc-button-primary { color: var(--text-main); background-color: var(--bg-subtle); }
         html.dark .fc .fc-button-primary:hover { background-color: var(--text-main); color: var(--bg-main); }
         html.dark .fc-event { color: #111 !important; }
+
+        /* ★ 新增：現場版圖（台灣互動地圖 & 縣市解鎖牆）與聽團時數存摺樣式 ★ */
+        .map-hero-card { background: var(--bg-card); border: 2px solid var(--text-main); border-radius: 12px; box-shadow: 5px 5px 0px var(--text-main); padding: 14px; margin-bottom: 16px; }
+        .map-mode-switch { display: inline-flex; border: 2px solid var(--text-main); border-radius: 99px; overflow: hidden; background: var(--bg-subtle); }
+        .map-mode-btn { font-size: 0.72rem; font-weight: 900; padding: 5px 12px; border: none; background: transparent; color: var(--text-secondary); cursor: pointer; transition: all 0.15s; }
+        .map-mode-btn.active { background: var(--accent); color: #111; }
+        
+        #taiwan-map-box { width: 100%; height: 390px; border: 2px solid var(--text-main); border-radius: 10px; overflow: hidden; z-index: 10; background: #cad2d3; position: relative; }
+        @media (min-width: 768px) { #taiwan-map-box { height: 480px; } }
+        html.dark #taiwan-map-box .leaflet-tile-pane { filter: brightness(0.82) contrast(1.15) saturate(0.85); }
+
+        .ting-map-marker {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: var(--accent);
+            color: #111;
+            border: 2px solid #111;
+            border-radius: 99px;
+            font-weight: 900;
+            font-size: 11px;
+            padding: 2px 7px;
+            box-shadow: 2px 2px 0px #111;
+            white-space: nowrap;
+            transition: transform 0.15s;
+        }
+        .ting-map-marker:hover { transform: scale(1.12); z-index: 999 !important; }
+        .ting-map-marker.has-picked { background: #ff6600; color: #fff; }
+
+        .leaflet-popup-content-wrapper, .leaflet-tooltip {
+            background: var(--bg-card) !important;
+            color: var(--text-main) !important;
+            border: 2px solid var(--text-main) !important;
+            border-radius: 10px !important;
+            box-shadow: 4px 4px 0px var(--text-main) !important;
+            padding: 2px !important;
+            font-family: 'Inter', system-ui, sans-serif !important;
+        }
+        .leaflet-popup-tip { background: var(--text-main) !important; }
+        .map-popup-list { max-height: 230px; overflow-y: auto; padding-right: 4px; margin-top: 6px; display: flex; flex-direction: column; gap: 6px; }
+        .map-popup-item { padding: 6px 8px; background: var(--bg-subtle); border: 1.5px solid var(--border); border-radius: 6px; font-size: 11.5px; }
+
+        .city-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(105px, 1fr)); gap: 8px; margin-top: 12px; }
+        .city-badge-btn { padding: 8px 10px; border: 2px solid var(--text-main); border-radius: 8px; background: var(--bg-card); color: var(--text-main); cursor: pointer; display: flex; align-items: center; justify-content: space-between; font-size: 0.78rem; font-weight: 900; box-shadow: 2px 2px 0px var(--text-main); transition: transform 0.12s, background 0.15s; }
+        .city-badge-btn:hover { transform: translate(-1px, -1px); box-shadow: 3px 3px 0px var(--text-main); }
+        .city-badge-btn.active { background: var(--accent); color: #111; }
+        .city-badge-btn.locked { opacity: 0.42; border-style: dashed; box-shadow: none; cursor: default; }
+
+        /* 我的足跡：藝人時間與場次分類卡片 */
+        .fp-artist-row { border: 2px solid var(--text-main); border-radius: 10px; background: var(--bg-card); box-shadow: 3px 3px 0px var(--text-main); padding: 10px 12px; margin-bottom: 10px; transition: transform 0.12s; }
+        .fp-artist-row.is-fav { border-width: 2.5px; box-shadow: 4px 4px 0px var(--accent); }
+        .fp-artist-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; cursor: pointer; user-select: none; }
+        .fp-artist-events { display: none; margin-top: 10px; padding-top: 8px; border-top: 1.5px dashed var(--border); font-size: 12px; }
+        .fp-artist-events.open { display: block; animation: slideUp 0.18s ease-out; }
         
         .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text-main); color: var(--bg-main); padding: 10px 20px; font-size: 13px; font-weight: 800; border-radius: 8px; z-index: 3000; box-shadow: 5px 5px 0px var(--accent); max-width: 90vw; text-align: center;}
 
@@ -409,8 +463,8 @@
         <div class="nav-links">
             <div class="nav-item active" data-tab="upcoming">預告列表</div>
             <div class="nav-item" data-tab="calendar">行事曆</div>
-            <div class="nav-item" data-tab="events">歷史歌單</div>
-            <div class="nav-item" data-tab="stats">歌曲統計</div>
+            <div class="nav-item" data-tab="events">歷史場次</div>
+            <div class="nav-item" data-tab="map">現場版圖</div>
             <div class="nav-item" data-tab="footprints">我的足跡</div>
         </div>
     </nav>
@@ -422,7 +476,7 @@
         </div>
         
         <div class="search-container" id="search-bar-wrapper">
-            <input type="text" id="search" class="search-input" placeholder="搜尋活動、地點、藝人或歌曲...">
+            <input type="text" id="search" class="search-input" placeholder="搜尋活動、地點或藝人...">
             <div id="status" style="font-size:10.5px; font-weight:800; color:var(--text-secondary); text-align:right;"></div>
         </div>
         
@@ -454,7 +508,7 @@
             </div>
             <div id="footprints-analysis" style="margin-bottom:20px;"></div>
             
-            <div style="display:flex; gap:10px; flex-wrap:wrap;">
+            <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:14px;">
                 <button class="cc-btn" id="export">匯出備份 (.json)</button>
                 <label>
                     <input type="file" id="import" accept="application/json" hidden>
@@ -525,7 +579,7 @@
         </div>
     </div>
 
-    <!-- 行事曆單日現場清單浮動視窗 (含頂部單行快速跳轉膠囊列 + 修正 Flex 卡片壓縮 Bug) -->
+    <!-- 行事曆單日現場清單浮動視窗 -->
     <div id="calendar-day-modal-backdrop" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="cdm-title">
         <div class="artist-modal day-events-modal" onclick="event.stopPropagation()">
             <div class="am-header">
@@ -580,6 +634,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/locales/zh-tw.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
     <script>
         // ★ 開發者更新 index.html 時，只需修改此處的維護日期即可自動反映於頁尾 ★
@@ -587,10 +642,14 @@
         const GAS_URL = 'https://script.google.com/macros/s/AKfycbwR49SJXjZM55RzbhpQyDv39sVM2J91U8BSs7gKlATQihm_QC60HOHH6FQtiA4CvLJexg/exec';
         const DATA_URL = './data.json';
         const TOP_PINNED_LIMIT = 6;
+        const DEFAULT_GIG_MINUTES = 30; // 若未公布具體起訖演出時間，預設每場以 30 分鐘計算
         
         let BANDS_MAP = {}; 
         let BAND_ALIAS_MAP = {};
         let rawBands = [];
+        let leafletMap = null;
+        let mapScopeMode = 'footprints'; // 'footprints' (我的足跡) | 'all' (全站版圖)
+        let selectedMapCity = '';
         
         const DAY_NAMES = ['日', '一', '二', '三', '四', '五', '六'];
         const $ = s => document.querySelector(s);
@@ -599,8 +658,55 @@
 
         $('#footer-maintained-date').innerText = MAINTAINED_DATE;
 
+        // ★ 台灣 22 縣市與熱門音樂祭場館精準座標字典（免 API Key 即時定位） ★
+        const TAIWAN_CITIES_META = [
+            { name: '台北', region: '北部', lat: 25.0478, lng: 121.5319, regex: /台北|臺北|信義|華山|北流|南港|圓山|花博|天母|公館|大佳|西門|中山堂|河岸留言|Legacy\s*Taipei|CORNER\s*MAX|Zepp/i },
+            { name: '新北', region: '北部', lat: 25.0120, lng: 121.4657, regex: /新北|板橋|淡水|漁人碼頭|貢寮|福隆|新莊|三重|永和|中和|八里/i },
+            { name: '基隆', region: '北部', lat: 25.1276, lng: 121.7392, regex: /基隆|正濱|和平島|碧砂/i },
+            { name: '桃園', region: '北部', lat: 24.9936, lng: 121.3010, regex: /桃園|中壢|高鐵桃園|青埔|陽光劇場|竹圍漁港|樂天桃園|萬能科大/i },
+            { name: '新竹', region: '北部', lat: 24.8138, lng: 120.9675, regex: /新竹|竹北|竹塹|大湳雅|六福村/i },
+            { name: '苗栗', region: '中部', lat: 24.5602, lng: 120.8214, regex: /苗栗|後龍|頭份|竹南|通霄/i },
+            { name: '台中', region: '中部', lat: 24.1477, lng: 120.6736, regex: /台中|臺中|文心森林|圓滿戶外|水湳|中央公園|洲際|清水|鰲峰山|后里|麗寶|豐原|大安港|一中|霧峰|朝馬/i },
+            { name: '彰化', region: '中部', lat: 24.0518, lng: 120.5161, regex: /彰化|鹿港|員林|溪湖|二水|田中/i },
+            { name: '南投', region: '中部', lat: 23.9610, lng: 120.9719, regex: /南投|埔里|暨南|竹山|日月潭|魚池/i },
+            { name: '雲林', region: '南部', lat: 23.7092, lng: 120.4313, regex: /雲林|斗六|虎尾|四湖|三條崙|北港|西螺/i },
+            { name: '嘉義', region: '南部', lat: 23.4801, lng: 120.4491, regex: /嘉義|諸羅|民雄|故宮南院|阿里山/i },
+            { name: '台南', region: '南部', lat: 22.9997, lng: 120.2270, regex: /台南|臺南|安平|觀夕|漁光島|南紡|新市|迎曦湖|官田|小北門|成大|成功大學|善化|奇美/i },
+            { name: '高雄', region: '南部', lat: 22.6273, lng: 120.3014, regex: /高雄|駁二|高流|流行音樂中心|海風廣場|巨蛋|衛武營|夢時代|西子灣|旗津|岡山|旗山|楠梓|大港/i },
+            { name: '屏東', region: '南部', lat: 22.6713, lng: 120.4880, regex: /屏東|墾丁|恆春|大灣|鵝鑾鼻|新園|鹽琉|屏科大|潮州/i },
+            { name: '宜蘭', region: '東部', lat: 24.7570, lng: 121.7533, regex: /宜蘭|羅東|礁溪|頭城|蘇澳|冬山/i },
+            { name: '花蓮', region: '東部', lat: 23.9872, lng: 121.6015, regex: /花蓮|富里|吉安|知卡宣|玉里|太魯閣|七星潭|東大門/i },
+            { name: '台東', region: '東部', lat: 22.7583, lng: 121.1444, regex: /台東|臺東|都歷|成功鎮|大武|池上|鹿野|鐵花|知本/i },
+            { name: '澎湖', region: '離島与海外', lat: 23.5712, lng: 119.5793, regex: /澎湖|馬公|觀音亭/i },
+            { name: '金門', region: '離島与海外', lat: 24.4321, lng: 118.3171, regex: /金門|金城|后湖|莒光/i },
+            { name: '馬祖', region: '離島与海外', lat: 26.1505, lng: 119.9289, regex: /馬祖|連江|南竿|北竿/i },
+            { name: '海外', region: '離島与海外', lat: 25.35, lng: 122.45, regex: /香港|澳門|馬來西亞|吉隆坡|東京|日本|溫哥華|加拿大|首爾|韓國|泰國|新加坡|Macau|Hong\s*Kong|Vancouver|Kuala\s*Lumpur/i }
+        ];
+
+        // 特定知名場館微調座標（讓同縣市不同場館在地圖上自然分開不重疊）
+        const VENUE_FINE_COORDS = [
+            { regex: /華山/i, lat: 25.0441, lng: 121.5294 },
+            { regex: /圓山|花博/i, lat: 25.0697, lng: 121.5224 },
+            { regex: /北流|臺北流行音樂中心|台北流行音樂中心/i, lat: 25.0525, lng: 121.5986 },
+            { regex: /天母/i, lat: 25.1136, lng: 121.5319 },
+            { regex: /信義|101|ATT/i, lat: 25.0356, lng: 121.5662 },
+            { regex: /大佳/i, lat: 25.0754, lng: 121.5382 },
+            { regex: /淡水|漁人碼頭|淡江/i, lat: 25.1828, lng: 121.4105 },
+            { regex: /福隆|貢寮/i, lat: 25.0195, lng: 121.9445 },
+            { regex: /陽光劇場|青埔|樂天桃園/i, lat: 25.0165, lng: 121.2045 },
+            { regex: /文心森林|圓滿戶外/i, lat: 24.1458, lng: 120.6458 },
+            { regex: /水湳|中央公園球場/i, lat: 24.1856, lng: 120.6531 },
+            { regex: /鰲峰山|清水/i, lat: 24.2695, lng: 120.5872 },
+            { regex: /麗寶|后里/i, lat: 24.3238, lng: 120.6975 },
+            { regex: /鹿港/i, lat: 24.0615, lng: 120.4345 },
+            { regex: /漁光島|觀夕|安平/i, lat: 22.9805, lng: 120.1562 },
+            { regex: /駁二|海風廣場|流行音樂中心|高流|打狗|大港/i, lat: 22.6188, lng: 120.2862 },
+            { regex: /墾丁|恆春|大灣/i, lat: 21.9442, lng: 120.7995 },
+            { regex: /富里/i, lat: 23.1795, lng: 121.2488 }
+        ];
+
         let data = { upcoming: [], events: [], bands: [] };
-        let tab = 'upcoming', query = '', limit = 24, statsBand = 'all';
+        let tab = 'upcoming', query = '', limit = 24;
 
         const savedBandsArr = storage.get('ting-selected-bands', ['all']);
         let selectedBands = new Set(Array.isArray(savedBandsArr) && savedBandsArr.length > 0 ? savedBandsArr : ['all']);
@@ -638,8 +744,7 @@
         }
 
         /**
-         * ★ 新增：智慧解析藝人演出開始時間（換算為當日分鐘數，讓同場藝人嚴格依「由早到晚」排序）
-         * 例如 "14:00-14:25" -> 840；跨夜 "00:30-01:10" -> 1470；無時間或 "未公布" -> 99999
+         * 智慧解析藝人演出開始時間（換算為當日分鐘數，讓同場藝人嚴格依「由早到晚」排序）
          */
         function parseStartTimeMinutes(timeStr) {
             const s = normText(timeStr);
@@ -651,9 +756,101 @@
             const mm = parseInt(m[3], 10);
             if (isNaN(hh) || isNaN(mm)) return 99999;
             if (isPm && hh < 12) hh += 12;
-            // 若音樂祭或跨年場在凌晨 00:00~04:59 開唱，視為當日深夜 (24:00 後)，排在 23:59 之後
             if (hh < 5) hh += 24;
             return hh * 60 + mm;
+        }
+
+        /**
+         * ★ 新增：計算單筆活動紀錄的演出時長（分鐘）與時間字串 ★
+         * 規則：優先從 time、note（如「時間：16:00-16:40」或「表演 16:00-16:40」）、name 中提取起訖時間；
+         * 若無起訖區間或尚未公布活動時間，一律依規則以 30 分鐘 (DEFAULT_GIG_MINUTES) 計算！
+         */
+        function getEventTimeAndDuration(ev) {
+            const candidates = [ev.time, ev.name, ev.note];
+            const rangeRegex = /(\d{1,2})\s*[:：]\s*(\d{2})\s*[-\~～至–—]\s*(\d{1,2})\s*[:：]\s*(\d{2})/g;
+
+            // 先檢查明確的 time 欄位或名稱欄位
+            for (let i = 0; i < 2; i++) {
+                const txt = normText(candidates[i]);
+                if (!txt) continue;
+                const m = /(\d{1,2})\s*[:：]\s*(\d{2})\s*[-\~～至–—]\s*(\d{1,2})\s*[:：]\s*(\d{2})/.exec(txt);
+                if (m) {
+                    let sMin = parseInt(m[1], 10) * 60 + parseInt(m[2], 10);
+                    let eMin = parseInt(m[3], 10) * 60 + parseInt(m[4], 10);
+                    if (eMin < sMin) eMin += 24 * 60;
+                    const diff = eMin - sMin;
+                    if (diff >= 10 && diff <= 240) {
+                        return { minutes: diff, label: `${m[1].padStart(2,'0')}:${m[2]}-${m[3].padStart(2,'0')}:${m[4]}`, isExact: true };
+                    }
+                }
+            }
+
+            // 檢查 note 裡面是否有明確標註「時間：HH:MM-HH:MM」或該團專屬時段
+            const noteTxt = normText(ev.note);
+            if (noteTxt) {
+                const specificMatch = /(?:時間\s*[：:]|表演\s*)\s*(\d{1,2})\s*[:：]\s*(\d{2})\s*[-\~～至–—]\s*(\d{1,2})\s*[:：]\s*(\d{2})/.exec(noteTxt);
+                if (specificMatch) {
+                    let sMin = parseInt(specificMatch[1], 10) * 60 + parseInt(specificMatch[2], 10);
+                    let eMin = parseInt(specificMatch[3], 10) * 60 + parseInt(specificMatch[4], 10);
+                    if (eMin < sMin) eMin += 24 * 60;
+                    const diff = eMin - sMin;
+                    if (diff >= 10 && diff <= 180) {
+                        return { minutes: diff, label: `${specificMatch[1].padStart(2,'0')}:${specificMatch[2]}-${specificMatch[3].padStart(2,'0')}:${specificMatch[4]}`, isExact: true };
+                    }
+                }
+            }
+
+            return { minutes: DEFAULT_GIG_MINUTES, label: '預設 30分', isExact: false };
+        }
+
+        function formatMinutesToHoursText(totalMins) {
+            const hrs = Math.floor(totalMins / 60);
+            const mins = totalMins % 60;
+            if (hrs === 0) return `${mins} 分鐘`;
+            if (mins === 0) return `${hrs} 小時`;
+            return `${hrs} 小時 ${mins} 分鐘`;
+        }
+
+        /**
+         * ★ 新增：智慧判斷活動所屬縣市、區域與地圖經緯度座標 ★
+         */
+        function detectEventGeo(g) {
+            const combined = normText(`${g.location || ''} ${g.name || ''} ${(g.notes || []).join(' ')}`);
+            let matchedCity = null;
+            for (const c of TAIWAN_CITIES_META) {
+                if (c.regex.test(combined)) {
+                    matchedCity = c;
+                    break;
+                }
+            }
+            if (!matchedCity) {
+                matchedCity = { name: '台北', region: '北部', lat: 25.0478, lng: 121.5319 };
+            }
+
+            let lat = matchedCity.lat;
+            let lng = matchedCity.lng;
+            let matchedFine = false;
+            for (const v of VENUE_FINE_COORDS) {
+                if (v.regex.test(combined)) {
+                    lat = v.lat;
+                    lng = v.lng;
+                    matchedFine = true;
+                    break;
+                }
+            }
+            // 若未命中精確場館，以場館名稱雜湊做微小偏移，讓同縣市不同場地在地圖上自然散開不重疊
+            if (!matchedFine && g.location) {
+                let h = 0;
+                for (let i = 0; i < g.location.length; i++) h = (h * 31 + g.location.charCodeAt(i)) % 1000;
+                lat += ((h % 21) - 10) * 0.0022;
+                lng += (((Math.floor(h / 21)) % 21) - 10) * 0.0022;
+            }
+            return {
+                city: matchedCity.name,
+                region: matchedCity.region,
+                lat,
+                lng
+            };
         }
 
         function normBandCompareKey(name) {
@@ -829,9 +1026,10 @@
             const ids = idsStr.split(','), isActive = btn.classList.contains('active');
             ids.forEach(id => { if (isActive) footprints.delete(id); else footprints.add(id); });
             storage.set('ting-footprints', [...footprints]);
-            btn.classList.toggle('active'); btn.innerText = isActive ? '✓ 足跡' : '＋ 足跡';
+            btn.classList.toggle('active');
+            btn.innerText = isActive ? '＋ 足跡' : '✓ 足跡';
             scheduleSilentCloudPush();
-            if(tab === 'footprints') render();
+            if (tab === 'footprints' || tab === 'map') render();
         }
 
         function toggleContent(el) {
@@ -1061,6 +1259,19 @@
 
             (upcomingList || []).forEach(e => { if (e.band) e.band = resolveCanonicalBandId(e.band); });
             (eventsList || []).forEach(e => { if (e.band) e.band = resolveCanonicalBandId(e.band); });
+
+            // 修正早期歷史場次若活動名稱與地點欄位對調（如 name="18:45"、location="桃園 2026鐵玫瑰音樂節"）的情況
+            (eventsList || []).forEach(e => {
+                if (/^\d{1,2}:\d{2}/.test(normText(e.name)) || normText(e.name) === '未定') {
+                    if (!e.time) e.time = normText(e.name);
+                    if (e.location && e.note && !/^https?:\/\//.test(normText(e.note))) {
+                        e.name = normText(e.location);
+                        e.location = normText(e.note).split(/\r?\n/)[0];
+                    } else if (e.location) {
+                        e.name = normText(e.location);
+                    }
+                }
+            });
 
             const upcomingCounts = new Map();
             const historyCounts = new Map();
@@ -1314,10 +1525,10 @@
                 tab = e.target.dataset.tab; limit = 24;
                 
                 $('#footprints-actions').style.display = tab === 'footprints' ? 'block' : 'none';
-                $('#search-bar-wrapper').style.display = tab === 'calendar' ? 'none' : 'flex';
-                $('#filter-section').style.display = tab === 'stats' ? 'none' : 'block';
+                $('#search-bar-wrapper').style.display = (tab === 'calendar' || tab === 'map') ? 'none' : 'flex';
+                $('#filter-section').style.display = 'block';
                 
-                const titles = { upcoming: '預告列表', calendar: '行事曆', events: '歷史歌單', stats: '歌曲統計', footprints: '我的現場足跡' };
+                const titles = { upcoming: '預告列表', calendar: '行事曆', events: '歷史場次（點「＋足跡」記錄你的現場）', map: '台灣現場足跡版圖', footprints: '我的現場足跡與聽團時數' };
                 $('#tab-title').innerText = titles[tab];
                 $('#section-title-wrap').style.display = tab === 'calendar' ? 'none' : 'flex';
                 
@@ -1372,11 +1583,21 @@
                 }
                 group.originalIds.push(item.id);
                 if (item.note && !group.notes.includes(item.note)) group.notes.push(item.note);
+                const durObj = getEventTimeAndDuration(item);
                 const existingBand = group.bands.find(b => b.id === canonicalBand);
                 if (!existingBand) {
-                    group.bands.push({ id: canonicalBand, time: item.time, name: normText(item.name), setlist: item.setlist || [] });
+                    group.bands.push({
+                        id: canonicalBand,
+                        time: item.time || (durObj.isExact ? durObj.label : ''),
+                        durationMins: durObj.minutes,
+                        isExactTime: durObj.isExact,
+                        name: normText(item.name),
+                        setlist: item.setlist || []
+                    });
                 } else if ((!existingBand.time || existingBand.time === '未定' || existingBand.time === '未公布') && item.time && item.time !== '未定' && item.time !== '未公布') {
                     existingBand.time = item.time;
+                    existingBand.durationMins = durObj.minutes;
+                    existingBand.isExactTime = durObj.isExact;
                 }
             });
             return groups.map(g => {
@@ -1395,12 +1616,6 @@
             });
         }
 
-        /**
-         * ★ 核心升級：三段式藝人與時間軸排序 ★
-         * 1. 使用者勾選的關注藝人永遠置頂（★）
-         * 2. 接著嚴格依據演出開始時間「由早到晚（Chronological Order）」排序
-         * 3. 若無時間或同時間，再依資料庫場次熱門度 (sortRank) 排序
-         */
         function buildCard(g, historical, idx = 0, customDomId = '') {
             const k = dateKey(g.date), map = safeUrl(g.mapLink), ticket = safeUrl(g.ticketUrl), dayStr = getDayOfWeek(k);
             const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
@@ -1426,7 +1641,7 @@
             sortedBands.forEach(b => {
                 if(b.time && b.time !== '未定' && b.time !== '未公布') {
                     const isPicked = isCustomFilter && selectedBands.has(b.id);
-                    combinedNotes.push(`${isPicked ? '★ ' : ''}[${bandInfo(b.id).short}] 時間：${b.time}`);
+                    combinedNotes.push(`${isPicked ? '★ ' : ''}[${bandInfo(b.id).short}] 時間：${b.time} (${b.durationMins || 30}分)`);
                 }
             });
             combinedNotes = combinedNotes.concat(g.notes);
@@ -1443,7 +1658,7 @@
 
             let setlistsHtml = '';
             if (historical && g.totalSongs > 0) {
-                setlistsHtml = `<div class="setlists-wrap"><div class="setlist-summary" onclick="toggleContent(this)">▶ 展開歷史歌單 (${g.totalSongs} 首)</div><div class="setlist-content">`;
+                setlistsHtml = `<div class="setlists-wrap"><div class="setlist-summary" onclick="toggleContent(this)">▶ 展開此場曲目紀錄 (${g.totalSongs} 首)</div><div class="setlist-content">`;
                 sortedBands.forEach(b => {
                     if (b.setlist && b.setlist.length > 0) {
                         setlistsHtml += `<div class="sl-band-title">${esc(bandInfo(b.id).name)}</div>`;
@@ -1472,58 +1687,379 @@
             </div>`;
         }
 
+        /**
+         * ★ 升級重點 3：我的足跡 — 移除歌曲統計，改為「累積聽團總時間 + 總參與場次 + 關注藝人參戰時數與場次分類表」 ★
+         */
         function renderFootprintStats() {
-            const attended = data.events.filter(e => footprints.has(e.id));
-            if(attended.length === 0) { $('#footprints-analysis').innerHTML = `<div class="empty-state">尚未有足跡紀錄。先去「歷史歌單」找找你去過的現場吧！</div>`; return; }
-            let bCount = new Map(), sCount = new Map();
-            attended.forEach(e => { bCount.set(e.band, (bCount.get(e.band)||0) + 1); if(e.setlist) e.setlist.forEach(s => sCount.set(s.songName, (sCount.get(s.songName)||0) + 1)); });
-            const topBand = [...bCount].sort((a,b)=>b[1]-a[1])[0]?.[0], topSong = [...sCount].sort((a,b)=>b[1]-a[1])[0]?.[0];
-            
+            const attendedRaw = [...data.events, ...data.upcoming].filter(e => footprints.has(e.id));
+            if (attendedRaw.length === 0) {
+                $('#footprints-analysis').innerHTML = `
+                <div class="empty-state" style="padding:2.5rem 1rem;">
+                    👣 尚未有現場足跡紀錄。<br>
+                    <span style="font-size:12px;display:block;margin-top:6px;">請先點選上方「歷史場次」分頁，找到你去過的演出點擊「＋ 足跡」，系統就會自動幫你計算累積聽團時數與各團參戰統計！</span>
+                </div>`;
+                return;
+            }
+
+            const attendedGroups = groupEvents(attendedRaw);
+            const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
+
+            // 統計每位藝人的參戰場次、總分鐘數與場次明細
+            const bandStatsMap = new Map();
+            let totalSetsCount = 0;
+            let totalMinutesAll = 0;
+            const visitedCities = new Set();
+
+            attendedGroups.forEach(g => {
+                const geo = detectEventGeo(g);
+                if (geo.city) visitedCities.add(geo.city);
+
+                // 若使用者有挑選特定關注藝人，優先計算該場次中他關注的藝人；若該場沒有他關注的藝人則全數計入
+                const relevantBands = isCustomFilter && g.bands.some(b => selectedBands.has(b.id))
+                    ? g.bands
+                    : g.bands;
+
+                relevantBands.forEach(b => {
+                    const bId = resolveCanonicalBandId(b.id);
+                    const mins = b.durationMins || DEFAULT_GIG_MINUTES;
+                    totalSetsCount++;
+                    totalMinutesAll += mins;
+
+                    if (!bandStatsMap.has(bId)) {
+                        bandStatsMap.set(bId, {
+                            id: bId,
+                            count: 0,
+                            minutes: 0,
+                            isPicked: !selectedBands.has('all') && selectedBands.has(bId),
+                            shows: []
+                        });
+                    }
+                    const st = bandStatsMap.get(bId);
+                    st.count++;
+                    st.minutes += mins;
+                    st.shows.push({
+                        date: g.date,
+                        name: g.name,
+                        location: g.location,
+                        timeLabel: b.time || `預設 ${DEFAULT_GIG_MINUTES}分`,
+                        minutes: mins
+                    });
+                });
+            });
+
+            // 亦有被使用者勾選關注、但目前足跡是 0 場的藝人，也列出來讓使用者一目了然
+            if (isCustomFilter) {
+                selectedBands.forEach(bId => {
+                    if (bId !== 'all' && BANDS_MAP[bId] && !bandStatsMap.has(bId)) {
+                        bandStatsMap.set(bId, {
+                            id: bId,
+                            count: 0,
+                            minutes: 0,
+                            isPicked: true,
+                            shows: []
+                        });
+                    }
+                });
+            }
+
+            const sortedBandStats = [...bandStatsMap.values()].sort((a, b) => {
+                if (a.isPicked !== b.isPicked) return (b.isPicked ? 1 : 0) - (a.isPicked ? 1 : 0);
+                if (b.count !== a.count) return b.count - a.count;
+                return b.minutes - a.minutes;
+            });
+
+            const topSoulBand = [...bandStatsMap.values()].filter(x => x.count > 0).sort((a, b) => b.minutes - a.minutes || b.count - a.count)[0];
+            const totalHours = Math.floor(totalMinutesAll / 60);
+            const remainMins = totalMinutesAll % 60;
+
+            const artistRowsHtml = sortedBandStats.map((st, idx) => {
+                const bi = bandInfo(st.id);
+                const maxMins = Math.max(60, sortedBandStats[0]?.minutes || 60);
+                const barPct = Math.min(100, Math.round((st.minutes / maxMins) * 100));
+                const showsDetailHtml = st.shows.length > 0
+                    ? st.shows.sort((a, b) => dateKey(b.date).localeCompare(dateKey(a.date))).map(sh => {
+                        const dStr = dateKey(sh.date);
+                        return `<div style="display:flex;justify-content:space-between;gap:8px;padding:4px 0;border-bottom:1px dashed rgba(128,128,128,0.25);">
+                            <span style="font-weight:800;">${esc(dStr.slice(0,4))}/${esc(dStr.slice(4,6))}/${esc(dStr.slice(6,8))} · ${esc(sh.name)}</span>
+                            <span style="color:var(--text-secondary);white-space:nowrap;font-weight:800;">⏱️ ${sh.minutes}分 (${esc(sh.timeLabel)})</span>
+                        </div>`;
+                    }).join('')
+                    : `<div style="color:var(--text-secondary);font-weight:700;">尚未在「歷史場次」打卡過此藝人的現場（快去新增足跡吧！）</div>`;
+
+                return `
+                <div class="fp-artist-row ${st.isPicked ? 'is-fav' : ''}">
+                    <div class="fp-artist-head" onclick="this.nextElementSibling.classList.toggle('open')">
+                        <div style="display:flex;align-items:center;gap:8px;min-width:0;flex:1;">
+                            <span style="width:12px;height:12px;border-radius:50%;background:${esc(bi.color)};border:1.5px solid var(--text-main);flex-shrink:0;"></span>
+                            <div style="min-width:0;flex:1;">
+                                <div style="font-size:14px;font-weight:900;display:flex;align-items:center;gap:5px;flex-wrap:wrap;">
+                                    <span>${st.isPicked ? '★ ' : ''}${esc(bi.name)}</span>
+                                    ${st.isPicked ? `<span style="font-size:10px;background:var(--accent);color:#111;padding:1px 6px;border-radius:99px;border:1px solid #111;">關注中</span>` : ''}
+                                </div>
+                                <div style="height:6px;background:var(--bg-subtle);border:1px solid var(--text-main);border-radius:99px;overflow:hidden;margin-top:5px;max-width:220px;">
+                                    <div style="height:100%;width:${barPct}%;background:${esc(bi.color)};"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="text-align:right;flex-shrink:0;">
+                            <div style="font-size:14px;font-weight:900;color:var(--text-main);">共 ${st.count} 場</div>
+                            <div style="font-size:11.5px;font-weight:800;color:var(--text-secondary);">⏱️ ${formatMinutesToHoursText(st.minutes)} ▾</div>
+                        </div>
+                    </div>
+                    <div class="fp-artist-events">${showsDetailHtml}</div>
+                </div>`;
+            }).join('');
+
             $('#footprints-analysis').innerHTML = `
-            <div style="display:grid; grid-template-columns:1fr 1fr; gap:14px;">
-                <div style="background:var(--bg-card); border:2px solid var(--text-main); padding:16px; border-radius:12px; box-shadow:4px 4px 0px var(--text-main);">
-                    <div style="font-size:12px; color:var(--text-secondary); font-weight:900;">參戰場次</div>
-                    <div style="font-size:28px; font-weight:900; color:var(--text-main); margin-top:6px;">${attended.length} <span style="font-size:14px;">場</span></div>
+            <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:16px;">
+                <div style="background:var(--bg-card); border:2px solid var(--text-main); padding:15px; border-radius:12px; box-shadow:4px 4px 0px var(--text-main);">
+                    <div style="font-size:11.5px; color:var(--text-secondary); font-weight:900;">🎪 總參與活動 / 演出組數</div>
+                    <div style="font-size:26px; font-weight:900; color:var(--text-main); margin-top:6px;">${attendedGroups.length} <span style="font-size:13px;">場活動</span> <span style="font-size:13px;color:var(--text-secondary);">(${totalSetsCount}組演出)</span></div>
                 </div>
-                <div style="background:var(--bg-card); border:2px solid var(--text-main); padding:16px; border-radius:12px; box-shadow:4px 4px 0px var(--text-main);">
-                    <div style="font-size:12px; color:var(--text-secondary); font-weight:900;">解鎖歌曲</div>
-                    <div style="font-size:28px; font-weight:900; color:var(--text-main); margin-top:6px;">${sCount.size} <span style="font-size:14px;">首</span></div>
+                <div style="background:var(--bg-card); border:2px solid var(--text-main); padding:15px; border-radius:12px; box-shadow:4px 4px 0px var(--text-main);">
+                    <div style="font-size:11.5px; color:var(--text-secondary); font-weight:900;">⏱️ 累積聽團總時數</div>
+                    <div style="font-size:24px; font-weight:900; color:var(--text-main); margin-top:6px;">${totalHours} <span style="font-size:13px;">小時</span> ${remainMins} <span style="font-size:13px;">分</span></div>
                 </div>
-                <div style="grid-column:1/-1; background:var(--accent); border:2px solid var(--text-main); padding:16px; border-radius:12px; box-shadow:4px 4px 0px var(--text-main);">
-                    <div style="font-size:12px; color:#111; font-weight:900;">${esc(userNickname || userId || '我')} 的靈魂最愛</div>
-                    <div style="font-size:18px; font-weight:900; color:#111; margin-top:6px; line-height:1.5;">👑 藝人：${bandInfo(topBand).name} <br>🎵 歌曲：${esc(topSong || '無')}</div>
+                <div style="grid-column:1/-1; background:var(--accent); border:2px solid var(--text-main); padding:15px; border-radius:12px; box-shadow:4px 4px 0px var(--text-main); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
+                    <div>
+                        <div style="font-size:11.5px; color:#111; font-weight:900;">👑 ${esc(userNickname || userId || '我')} 的本命陪伴冠軍</div>
+                        <div style="font-size:17px; font-weight:900; color:#111; margin-top:4px;">
+                            ${topSoulBand ? `${esc(bandInfo(topSoulBand.id).name)} · 共參戰 ${topSoulBand.count} 場 (${formatMinutesToHoursText(topSoulBand.minutes)})` : '尚無紀錄'}
+                        </div>
+                    </div>
+                    <button type="button" class="cc-btn" style="background:#111;color:var(--accent);border-color:#111;" onclick="document.querySelector('[data-tab=map]').click()">🗺️ 查看我的台灣版圖 (${visitedCities.size}縣市) →</button>
                 </div>
+            </div>
+
+            <div style="background:var(--bg-card); border:2px solid var(--text-main); padding:16px; border-radius:12px; box-shadow:4px 4px 0px var(--text-main);">
+                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;flex-wrap:wrap;gap:6px;">
+                    <div style="font-size:14px;font-weight:900;">🎸 各藝人參戰場次與時數統計（點擊可展開場次明細）</div>
+                    <div style="font-size:11px;font-weight:700;color:var(--text-secondary);">* 未公布時段之場次預設以 30 分鐘計</div>
+                </div>
+                ${artistRowsHtml}
             </div>`;
         }
 
-        function renderStats() {
-            let list = data.events.filter(e => statsBand === 'all' || e.band === statsBand);
-            let shows = list.filter(e => e.setlist && e.setlist.length > 0);
-            let counts = new Map(); shows.forEach(e => new Set(e.setlist.map(s => s.songName)).forEach(name => counts.set(name, (counts.get(name) || 0) + 1)));
-            const songs = [...counts].sort((a, b) => b[1] - a[1]);
+        /**
+         * ★ 升級重點 2：全新第 4 分頁「🗺️ 現場版圖（台灣互動足跡地圖 + 縣市解鎖徽章 + 區域熱度與場館王）」 ★
+         */
+        function switchMapScope(mode) {
+            mapScopeMode = mode;
+            selectedMapCity = '';
+            renderMapTab();
+        }
 
-            const groupedOpts = ['樂團', '團體', '個人'].map(cat => {
-                const items = rawBands.filter(b => b.category === cat);
-                if (items.length === 0) return '';
-                return `<optgroup label="${cat}">` + items.map(b => `<option value="${esc(b.id)}" ${statsBand === b.id ? 'selected' : ''}>${esc(b.name)} (${b.totalCount}場)</option>`).join('') + `</optgroup>`;
+        function filterMapByCity(cityName) {
+            selectedMapCity = (selectedMapCity === cityName) ? '' : cityName;
+            renderMapTab();
+        }
+
+        function renderMapTab() {
+            const hasFootprints = footprints.size > 0;
+            // 若使用者尚未打勾任何足跡，自動貼心切換顯示「全站活動版圖」並在上方提示
+            const effectiveMode = (mapScopeMode === 'footprints' && !hasFootprints) ? 'all' : mapScopeMode;
+
+            const rawSource = effectiveMode === 'footprints'
+                ? [...data.events, ...data.upcoming].filter(e => footprints.has(e.id))
+                : [...data.upcoming.filter(e => dateKey(e.date) >= taipeiToday), ...data.events];
+
+            const groupedAll = filterGrouped(groupEvents(rawSource));
+
+            // 依縣市與場館聚合資料
+            const cityStats = new Map();
+            const regionCounts = { '北部': 0, '中部': 0, '南部': 0, '東部': 0, '離島与海外': 0 };
+            const venueCounts = new Map();
+            const markerGroups = new Map(); // 以微調後的經緯度或場館分組
+
+            groupedAll.forEach(g => {
+                const geo = detectEventGeo(g);
+                g._geo = geo;
+                cityStats.set(geo.city, (cityStats.get(geo.city) || 0) + 1);
+                if (regionCounts[geo.region] !== undefined) regionCounts[geo.region]++;
+
+                const cleanVenue = normText(g.location || g.name).replace(/（.*?）|\(.*?\)/g, '').trim();
+                if (cleanVenue && !isPlaceholderTitle(cleanVenue)) {
+                    venueCounts.set(cleanVenue, (venueCounts.get(cleanVenue) || 0) + 1);
+                }
+
+                const mKey = `${geo.lat.toFixed(3)},${geo.lng.toFixed(3)}`;
+                if (!markerGroups.has(mKey)) {
+                    markerGroups.set(mKey, {
+                        lat: geo.lat,
+                        lng: geo.lng,
+                        city: geo.city,
+                        venueTitle: cleanVenue || geo.city,
+                        events: []
+                    });
+                }
+                markerGroups.get(mKey).events.push(g);
+            });
+
+            const unlockedCitiesCount = [...cityStats.keys()].filter(c => c !== '海外').length;
+            const unlockPct = Math.round((unlockedCitiesCount / 20) * 100);
+            let rankTitle = '🌱 初入現場的新星';
+            if (unlockedCitiesCount >= 12) rankTitle = '👑 制霸全台的傳奇聽團神';
+            else if (unlockedCitiesCount >= 7) rankTitle = '🔥 南征北討的熱血聽團仔';
+            else if (unlockedCitiesCount >= 3) rankTitle = '🎸 跨區移動的現場漫遊者';
+
+            const topVenues = [...venueCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5);
+            const totalEventsCount = Math.max(1, groupedAll.length);
+
+            const cityBadgesHtml = TAIWAN_CITIES_META.map(c => {
+                const cnt = cityStats.get(c.name) || 0;
+                const isSelected = selectedMapCity === c.name;
+                return `
+                <button type="button" class="city-badge-btn ${cnt === 0 ? 'locked' : ''} ${isSelected ? 'active' : ''}" ${cnt > 0 ? `onclick="filterMapByCity('${esc(c.name)}')"` : ''}>
+                    <span>${cnt > 0 ? '📍' : '🔒'} ${esc(c.name)}</span>
+                    <span style="font-size:0.7rem;background:${cnt > 0 ? 'var(--text-main)' : 'transparent'};color:${cnt > 0 ? 'var(--bg-main)' : 'inherit'};padding:1px 6px;border-radius:99px;">${cnt}場</span>
+                </button>`;
             }).join('');
 
-            let bandOpts = `<option value="all">全部藝人 (${rawBands.length}組)</option>` + groupedOpts;
+            const filteredCityEvents = selectedMapCity
+                ? groupedAll.filter(g => g._geo?.city === selectedMapCity)
+                : groupedAll.slice(0, 12);
 
-            let html = `<div style="background:var(--bg-card); padding:20px; border:2px solid var(--text-main); box-shadow:5px 5px 0px var(--text-main); border-radius:12px; overflow-x:auto;">
-                <select style="padding:10px; font-size:14px; font-weight:800; border:2px solid var(--text-main); border-radius:8px; box-shadow:3px 3px 0px var(--text-main); margin-bottom:16px; max-width:100%; background:var(--bg-card); color:var(--text-main);" onchange="statsBand=this.value; renderStats();">${bandOpts}</select>
-                <div style="font-size:12px; color:var(--text-secondary); margin-bottom:16px; font-weight:800;">母數為 ${shows.length} 場有歌單的演出。同場重複曲目只計一次。</div>`;
-            
-            if (songs.length === 0) html += '<div class="empty-state">尚無歌單統計</div>';
-            else songs.slice(0, 50).forEach(([name, count], idx) => {
-                const pct = shows.length ? (count / shows.length * 100).toFixed(1) : 0;
-                html += `<div style="display:grid; grid-template-columns:140px 1fr 50px; align-items:center; gap:14px; margin:14px 0; font-size:13px; font-weight:900; min-width:300px;">
-                    <div style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;"><span style="color:var(--bg-main); background:var(--text-main); padding:2px 7px; border-radius:6px; margin-right:6px;">#${idx+1}</span> ${esc(name)}</div>
-                    <div style="height:12px; background:var(--bg-subtle); border-radius:10px; overflow:hidden; border:2px solid var(--text-main);"><div style="height:100%; background:var(--text-main); width:${pct}%;"></div></div>
-                    <div style="text-align:right;">${count}場</div>
-                </div>`;
-            });
-            $('#content').innerHTML = html + '</div>';
+            let html = `
+            <div class="map-hero-card">
+                <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:12px;">
+                    <div>
+                        <div style="font-size:15px;font-weight:900;">🗺️ ${effectiveMode === 'footprints' ? `${esc(userNickname || userId || '我')} 的現場足跡版圖` : '全站現場熱力版圖'}</div>
+                        <div style="font-size:11.5px;color:var(--text-secondary);font-weight:700;margin-top:2px;">
+                            ${!hasFootprints && mapScopeMode === 'footprints' ? '💡 你尚未在「歷史場次」打勾足跡，目前為你預覽全站活動版圖！' : '滑鼠移上或手機點擊地圖標記，即可檢視該地「日期、追團陣容與活動名稱」'}
+                        </div>
+                    </div>
+                    <div class="map-mode-switch">
+                        <button type="button" class="map-mode-btn ${effectiveMode === 'footprints' ? 'active' : ''}" onclick="switchMapScope('footprints')">👣 我的足跡 (${footprints.size})</button>
+                        <button type="button" class="map-mode-btn ${effectiveMode === 'all' ? 'active' : ''}" onclick="switchMapScope('all')">🌏 全站版圖</button>
+                    </div>
+                </div>
+
+                <!-- 制霸率與區域熱度統計列 -->
+                <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;margin-bottom:12px;">
+                    <div style="background:var(--bg-subtle);border:1.5px solid var(--text-main);border-radius:10px;padding:10px 12px;">
+                        <div style="display:flex;justify-content:space-between;font-size:11.5px;font-weight:900;">
+                            <span>🏆 台灣縣市解鎖進度</span>
+                            <span>${unlockedCitiesCount} / 20 縣市 (${unlockPct}%)</span>
+                        </div>
+                        <div style="height:10px;background:var(--bg-card);border:1.5px solid var(--text-main);border-radius:99px;overflow:hidden;margin:6px 0;">
+                            <div style="height:100%;width:${unlockPct}%;background:var(--accent);"></div>
+                        </div>
+                        <div style="font-size:11.5px;font-weight:800;color:var(--text-secondary);">稱號：<strong style="color:var(--text-main);">${rankTitle}</strong></div>
+                    </div>
+                    <div style="background:var(--bg-subtle);border:1.5px solid var(--text-main);border-radius:10px;padding:10px 12px;">
+                        <div style="font-size:11.5px;font-weight:900;margin-bottom:6px;">🧭 區域現場分佈 & 熱門場館王</div>
+                        <div style="display:flex;gap:6px;flex-wrap:wrap;font-size:11px;font-weight:800;margin-bottom:6px;">
+                            <span style="background:var(--bg-card);padding:2px 7px;border-radius:4px;border:1px solid var(--border);">北部 ${regionCounts['北部']}場</span>
+                            <span style="background:var(--bg-card);padding:2px 7px;border-radius:4px;border:1px solid var(--border);">中部 ${regionCounts['中部']}場</span>
+                            <span style="background:var(--bg-card);padding:2px 7px;border-radius:4px;border:1px solid var(--border);">南部 ${regionCounts['南部']}場</span>
+                            <span style="background:var(--bg-card);padding:2px 7px;border-radius:4px;border:1px solid var(--border);">東部/離島 ${regionCounts['東部'] + regionCounts['離島与海外']}場</span>
+                        </div>
+                        <div style="font-size:11px;font-weight:800;color:var(--text-secondary);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">
+                            🏟️ 最常造訪：${topVenues.length > 0 ? topVenues.slice(0, 2).map(([v, c]) => `${esc(v.slice(0,10))}(${c})`).join('、') : '尚無紀錄'}
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 台灣互動式地圖容器 -->
+                <div id="taiwan-map-box"></div>
+
+                <!-- 台灣縣市解鎖徽章牆（點擊可快速篩選該縣市活動並飛行定位） -->
+                <div style="margin-top:14px;">
+                    <div style="display:flex;justify-content:space-between;align-items:center;">
+                        <span style="font-size:12.5px;font-weight:900;">📌 點擊已解鎖縣市快速定位並檢視場次：</span>
+                        ${selectedMapCity ? `<button type="button" class="clear-filter-btn" onclick="filterMapByCity('')">✕ 顯示全台灣</button>` : ''}
+                    </div>
+                    <div class="city-grid">${cityBadgesHtml}</div>
+                </div>
+            </div>
+
+            <div class="section-title" style="margin-top:20px;">
+                <span>${selectedMapCity ? `📍 【${esc(selectedMapCity)}】現場清單 (${filteredCityEvents.length} 場)` : `📋 近期版圖現場紀錄`}</span>
+            </div>
+            <div class="events-grid">
+                ${filteredCityEvents.length > 0 ? filteredCityEvents.map((g, idx) => buildCard(g, dateKey(g.date) < taipeiToday, idx)).join('') : '<div class="empty-state">尚無符合條件的版圖場次</div>'}
+            </div>`;
+
+            $('#content').innerHTML = html;
+
+            // 初始化 Leaflet 台灣互動地圖並繪製地標與滑鼠移入/手機點擊卡片
+            setTimeout(() => {
+                const mapEl = document.getElementById('taiwan-map-box');
+                if (!mapEl || typeof L === 'undefined') return;
+                if (leafletMap) {
+                    leafletMap.remove();
+                    leafletMap = null;
+                }
+
+                leafletMap = L.map('taiwan-map-box', {
+                    center: [23.75, 120.95],
+                    zoom: window.innerWidth < 768 ? 7 : 7.5,
+                    scrollWheelZoom: false
+                });
+
+                L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+                    attribution: '&copy; OpenStreetMap & CARTO',
+                    maxZoom: 18
+                }).addTo(leafletMap);
+
+                const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
+                const bounds = [];
+
+                markerGroups.forEach(mg => {
+                    if (selectedMapCity && mg.city !== selectedMapCity) return;
+                    bounds.push([mg.lat, mg.lng]);
+
+                    const hasPickedInGroup = isCustomFilter && mg.events.some(ev => ev.bands.some(b => selectedBands.has(b.id)));
+                    const iconHtml = `<div class="ting-map-marker ${hasPickedInGroup ? 'has-picked' : ''}">📍${esc(mg.city)} (${mg.events.length})</div>`;
+                    const customIcon = L.divIcon({
+                        className: '',
+                        html: iconHtml,
+                        iconSize: [74, 26],
+                        iconAnchor: [37, 13]
+                    });
+
+                    const evItemsHtml = mg.events.slice(0, 8).map(ev => {
+                        const dStr = dateKey(ev.date);
+                        const sortedB = [...ev.bands].sort((a, b) => {
+                            const aP = (!selectedBands.has('all') && selectedBands.has(a.id)) ? 1 : 0;
+                            const bP = (!selectedBands.has('all') && selectedBands.has(b.id)) ? 1 : 0;
+                            return bP - aP;
+                        });
+                        const bBadges = sortedB.slice(0, 5).map(b => {
+                            const bi = bandInfo(b.id);
+                            const isP = !selectedBands.has('all') && selectedBands.has(b.id);
+                            return `<span style="background:${esc(bi.color)};color:#fff;padding:1px 5px;border-radius:4px;font-size:10px;font-weight:800;display:inline-block;margin:1px;">${isP ? '★' : ''}${esc(bi.short)}</span>`;
+                        }).join('') + (sortedB.length > 5 ? `<span style="font-size:10px;font-weight:800;"> +${sortedB.length - 5}組</span>` : '');
+
+                        return `
+                        <div class="map-popup-item">
+                            <div style="font-weight:900;color:var(--text-main);">${esc(dStr.slice(0,4))}/${esc(dStr.slice(4,6))}/${esc(dStr.slice(6,8))} · ${esc(ev.name)}</div>
+                            <div style="font-size:10.5px;color:var(--text-secondary);margin:2px 0;">📍 ${esc(ev.location || mg.city)}</div>
+                            <div style="margin-top:3px;">${bBadges}</div>
+                        </div>`;
+                    }).join('');
+
+                    const popupHtml = `
+                    <div style="min-width:210px;max-width:260px;padding:4px;">
+                        <div style="font-size:13px;font-weight:900;border-bottom:1.5px dashed var(--border);padding-bottom:4px;">
+                            📍 ${esc(mg.city)} · 共 ${mg.events.length} 場現場
+                        </div>
+                        <div class="map-popup-list">${evItemsHtml}</div>
+                    </div>`;
+
+                    const marker = L.marker([mg.lat, mg.lng], { icon: customIcon }).addTo(leafletMap);
+                    marker.bindPopup(popupHtml, { maxWidth: 280 });
+
+                    // 桌機滑鼠移上去直接預覽 (Hover 觸發 Popup)
+                    marker.on('mouseover', function() {
+                        this.openPopup();
+                    });
+                });
+
+                if (selectedMapCity && bounds.length > 0) {
+                    leafletMap.setView(bounds[0], 11);
+                }
+            }, 60);
         }
 
         function renderCalendarDateEvents(dateStr) {
@@ -1639,14 +2175,19 @@
 
         function render() {
             if (tab === 'calendar') return;
-            if (tab === 'stats') { $('#result-count').style.display = 'none'; renderStats(); return; }
+            if (tab === 'map') { $('#result-count').style.display = 'none'; renderMapTab(); return; }
             $('#result-count').style.display = 'inline-block';
 
-            const historical = tab !== 'events' ? false : true;
-            let sourceList = tab === 'upcoming' ? data.upcoming.filter(e => dateKey(e.date) >= taipeiToday) : data.events;
+            const historical = tab !== 'upcoming';
+            let sourceList = tab === 'upcoming'
+                ? data.upcoming.filter(e => dateKey(e.date) >= taipeiToday)
+                : (tab === 'footprints' ? [...data.events, ...data.upcoming] : data.events);
             let groupedList = filterGrouped(groupEvents(sourceList));
             
-            if (tab === 'footprints') { groupedList = groupedList.filter(g => g.originalIds.some(id => footprints.has(id))); renderFootprintStats(); }
+            if (tab === 'footprints') {
+                groupedList = groupedList.filter(g => g.originalIds.some(id => footprints.has(id)));
+                renderFootprintStats();
+            }
 
             groupedList.sort((a, b) => historical ? dateKey(b.date).localeCompare(dateKey(a.date)) : dateKey(a.date).localeCompare(dateKey(b.date)));
             $('#result-count').innerText = `${groupedList.length} 場`;
