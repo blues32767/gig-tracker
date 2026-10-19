@@ -12628,46 +12628,6 @@
       "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
     },
     {
-      "id": "upcoming-row-447",
-      "date": "20261211",
-      "band": "band_drsiw0_27",
-      "time": "15:00-17:30",
-      "name": "彰化社頭織襪芭樂觀光節",
-      "location": "彰化縣社頭鄉果菜市場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
-      "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
-    },
-    {
-      "id": "upcoming-row-448",
-      "date": "20261211",
-      "band": "band_6gp8um_27",
-      "time": "15:00-17:30",
-      "name": "彰化社頭織襪芭樂觀光節",
-      "location": "彰化縣社頭鄉果菜市場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
-      "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
-    },
-    {
-      "id": "upcoming-row-449",
-      "date": "20261211",
-      "band": "cholly",
-      "time": "15:00-17:30",
-      "name": "彰化社頭織襪芭樂觀光節",
-      "location": "彰化縣社頭鄉果菜市場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
-      "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
-    },
-    {
-      "id": "upcoming-row-450",
-      "date": "20261211",
-      "band": "djswallow",
-      "time": "15:00-17:30",
-      "name": "彰化社頭織襪芭樂觀光節",
-      "location": "彰化縣社頭鄉果菜市場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
-      "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
-    },
-    {
       "id": "upcoming-row-24",
       "date": "20261212",
       "band": "mango",
@@ -12906,6 +12866,46 @@
       "location": "高雄巨蛋",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A10",
       "note": "［售票］\n結束時間未定"
+    },
+    {
+      "id": "upcoming-row-447",
+      "date": "20261213",
+      "band": "band_drsiw0_27",
+      "time": "15:00-17:30",
+      "name": "彰化社頭織襪芭樂觀光節",
+      "location": "彰化縣社頭鄉果菜市場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
+      "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
+    },
+    {
+      "id": "upcoming-row-448",
+      "date": "20261213",
+      "band": "band_6gp8um_27",
+      "time": "15:00-17:30",
+      "name": "彰化社頭織襪芭樂觀光節",
+      "location": "彰化縣社頭鄉果菜市場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
+      "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
+    },
+    {
+      "id": "upcoming-row-449",
+      "date": "20261213",
+      "band": "cholly",
+      "time": "15:00-17:30",
+      "name": "彰化社頭織襪芭樂觀光節",
+      "location": "彰化縣社頭鄉果菜市場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
+      "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
+    },
+    {
+      "id": "upcoming-row-450",
+      "date": "20261213",
+      "band": "djswallow",
+      "time": "15:00-17:30",
+      "name": "彰化社頭織襪芭樂觀光節",
+      "location": "彰化縣社頭鄉果菜市場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
+      "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
     },
     {
       "id": "upcoming-row-26",
@@ -13193,6 +13193,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e4f68a08-8829-4c0b-97d8-8bde3c36e3c9",
-  "updatedAt": "2026-10-19T12:17:51.725Z"
+  "revision": "ee2ad4a5-f5ad-49fb-a983-d84147f6f1ae",
+  "updatedAt": "2026-10-19T12:20:37.620Z"
 }
