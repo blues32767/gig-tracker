@@ -39,7 +39,7 @@
       "short": "PIZZALI",
       "color": "#06d6a0",
       "category": "個人",
-      "eventCount": 7
+      "eventCount": 8
     },
     {
       "id": "icyball",
@@ -71,6 +71,14 @@
       "short": "甜約翰",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 6
+    },
+    {
+      "id": "band_6gp8um_11",
+      "name": "艾薇",
+      "short": "艾薇",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 6
     },
     {
@@ -130,11 +138,11 @@
       "eventCount": 5
     },
     {
-      "id": "band_6gp8um_11",
-      "name": "艾薇",
-      "short": "艾薇",
-      "color": "#fb5607",
-      "category": "個人",
+      "id": "band_qqiyec_5",
+      "name": "傻子與白痴",
+      "short": "傻白",
+      "color": "#3a86ff",
+      "category": "樂團",
       "eventCount": 5
     },
     {
@@ -186,11 +194,11 @@
       "eventCount": 4
     },
     {
-      "id": "band_qqiyec_5",
-      "name": "傻子與白痴",
-      "short": "傻白",
+      "id": "fei",
+      "name": "吳霏 FEI",
+      "short": "吳霏 FEI",
       "color": "#3a86ff",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 4
     },
     {
@@ -343,14 +351,6 @@
       "short": "PALLAS",
       "color": "#8338ec",
       "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "fei",
-      "name": "吳霏 FEI",
-      "short": "吳霏 FEI",
-      "color": "#3a86ff",
-      "category": "個人",
       "eventCount": 3
     },
     {
@@ -3295,6 +3295,30 @@
       "short": "Wa",
       "color": "#2ec4b6",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_135",
+      "name": "施孝榮",
+      "short": "施孝",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_136",
+      "name": "金智娟",
+      "short": "金智",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_42",
+      "name": "鄭怡",
+      "short": "鄭怡",
+      "color": "#06d6a0",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -11177,6 +11201,76 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
+      "id": "upcoming-row-433",
+      "date": "20261107",
+      "band": "band_drsiw0_135",
+      "time": "08:00-08:30",
+      "name": "阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:施孝榮、金智娟、鄭怡、吳霏、艾薇、傻子與白痴、PIZZALI"
+    },
+    {
+      "id": "upcoming-row-434",
+      "date": "20261107",
+      "band": "band_drsiw0_136",
+      "time": "08:30-09:00",
+      "name": "阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:施孝榮、金智娟、鄭怡、吳霏、艾薇、傻子與白痴、PIZZALI"
+    },
+    {
+      "id": "upcoming-row-435",
+      "date": "20261107",
+      "band": "band_6gp8um_42",
+      "time": "09:00-09:30",
+      "name": "阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:施孝榮、金智娟、鄭怡、吳霏、艾薇、傻子與白痴、PIZZALI"
+    },
+    {
+      "id": "upcoming-row-436",
+      "date": "20261107",
+      "band": "fei",
+      "time": "未公布",
+      "name": "阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:施孝榮、金智娟、鄭怡、吳霏、艾薇、傻子與白痴、PIZZALI"
+    },
+    {
+      "id": "upcoming-row-437",
+      "date": "20261107",
+      "band": "band_6gp8um_11",
+      "time": "未公布",
+      "name": "阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:施孝榮、金智娟、鄭怡、吳霏、艾薇、傻子與白痴、PIZZALI"
+    },
+    {
+      "id": "upcoming-row-438",
+      "date": "20261107",
+      "band": "band_qqiyec_5",
+      "time": "未公布",
+      "name": "阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:施孝榮、金智娟、鄭怡、吳霏、艾薇、傻子與白痴、PIZZALI"
+    },
+    {
+      "id": "upcoming-row-439",
+      "date": "20261107",
+      "band": "pizzali",
+      "time": "未公布",
+      "name": "阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:施孝榮、金智娟、鄭怡、吳霏、艾薇、傻子與白痴、PIZZALI"
+    },
+    {
       "id": "upcoming-row-15",
       "date": "20261108",
       "band": "bisiugroup",
@@ -12712,6 +12806,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "62f31852-e774-45cf-8869-b2b7ae6308a1",
-  "updatedAt": "2026-10-19T10:31:45.056Z"
+  "revision": "d544bbf4-b28d-4c69-ac52-ca11109f184b",
+  "updatedAt": "2026-10-19T12:06:20.816Z"
 }
