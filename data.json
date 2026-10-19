@@ -3362,6 +3362,14 @@
       "eventCount": 1
     },
     {
+      "id": "band_6gp8um_43",
+      "name": "孝淵",
+      "short": "孝淵",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "band_6gp8um_5",
       "name": "安吉",
       "short": "安吉",
@@ -11318,7 +11326,7 @@
       "date": "20261101",
       "band": "band_6gp8um_13",
       "time": "未公布",
-      "name": "2026新竹市立棒球場50周年交流賽《COMEBACK竹風再起》",
+      "name": "新竹 2026 新竹市立棒球場 50 周年交流賽《COMEBACK 竹風再起》",
       "location": "新竹市立棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AB%8B%E6%A3%92%E7%90%83%E5%A0%B4",
       "note": "［免費］\n活動採免費索票,10月24日新竹通用戶優先領票,10月26日開放全台球迷索取。卡司:孝淵、謝金燕。"
@@ -11328,7 +11336,17 @@
       "date": "20261101",
       "band": "band_drsiw0_115",
       "time": "未公布",
-      "name": "2026新竹市立棒球場50周年交流賽《COMEBACK竹風再起》",
+      "name": "新竹 2026 新竹市立棒球場 50 周年交流賽《COMEBACK 竹風再起》",
+      "location": "新竹市立棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AB%8B%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n活動採免費索票,10月24日新竹通用戶優先領票,10月26日開放全台球迷索取。卡司:孝淵、謝金燕。"
+    },
+    {
+      "id": "upcoming-row-460",
+      "date": "20261101",
+      "band": "band_6gp8um_43",
+      "time": "未公布",
+      "name": "新竹 2026 新竹市立棒球場 50 周年交流賽《COMEBACK 竹風再起》",
       "location": "新竹市立棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AB%8B%E6%A3%92%E7%90%83%E5%A0%B4",
       "note": "［免費］\n活動採免費索票,10月24日新竹通用戶優先領票,10月26日開放全台球迷索取。卡司:孝淵、謝金燕。"
@@ -13299,6 +13317,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "4eff1d12-5951-4b09-9af6-803c68786ca6",
-  "updatedAt": "2026-10-19T12:42:43.652Z"
+  "revision": "16e78c63-bfdb-4cee-b432-1cd42d5f847b",
+  "updatedAt": "2026-10-19T12:43:55.187Z"
 }
