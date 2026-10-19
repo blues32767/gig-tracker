@@ -74,14 +74,6 @@
       "eventCount": 6
     },
     {
-      "id": "band_drsiw0_25",
-      "name": "許富凱",
-      "short": "許富凱",
-      "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 6
-    },
-    {
       "id": "band_6gp8um",
       "name": "呂允",
       "short": "呂允",
@@ -94,6 +86,14 @@
       "name": "白安",
       "short": "白安",
       "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富凱",
+      "color": "#ef476f",
       "category": "個人",
       "eventCount": 5
     },
@@ -230,14 +230,6 @@
       "name": "梁河懸",
       "short": "梁河懸",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_28",
-      "name": "曾瑋中",
-      "short": "曾瑋中",
-      "color": "#8338ec",
       "category": "個人",
       "eventCount": 3
     },
@@ -442,6 +434,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_28",
+      "name": "曾瑋中",
+      "short": "曾瑋中",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_32",
       "name": "李翊君",
       "short": "李翊君",
@@ -495,14 +495,6 @@
       "short": "帕崎拉",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_51",
-      "name": "李子森",
-      "short": "李子森",
-      "color": "#06d6a0",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -1462,6 +1454,14 @@
       "name": "孫盛希",
       "short": "孫盛希",
       "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_51",
+      "name": "李子森",
+      "short": "李子森",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
     },
@@ -3194,38 +3194,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_127",
-      "name": "朱海君",
-      "short": "朱海君",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_39",
-      "name": "林姍",
-      "short": "林姍",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_128",
-      "name": "杜忻恬",
-      "short": "杜忻恬",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "unigirls",
-      "name": "UniGirls 啦啦隊",
-      "short": "UniGirls 啦啦隊",
-      "color": "#00b4d8",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_129",
       "name": "張秀卿",
       "short": "張秀卿",
@@ -3306,6 +3274,22 @@
       "eventCount": 1
     },
     {
+      "id": "band_qqiyec_17",
+      "name": "打倒三明治",
+      "short": "打倒",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_nvubu5",
+      "name": "RA",
+      "short": "RA",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "band_6gp8um_5",
       "name": "安吉",
       "short": "安吉",
@@ -3335,6 +3319,38 @@
       "short": "新響大派對",
       "color": "#ef476f",
       "category": "樂團",
+      "eventCount": 0
+    },
+    {
+      "id": "band_drsiw0_127",
+      "name": "朱海君",
+      "short": "朱海君",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 0
+    },
+    {
+      "id": "band_6gp8um_39",
+      "name": "林姍",
+      "short": "林姍",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 0
+    },
+    {
+      "id": "band_drsiw0_128",
+      "name": "杜忻恬",
+      "short": "杜忻恬",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 0
+    },
+    {
+      "id": "unigirls",
+      "name": "UniGirls 啦啦隊",
+      "short": "UniGirls 啦啦隊",
+      "color": "#00b4d8",
+      "category": "團體",
       "eventCount": 0
     }
   ],
@@ -8984,7 +9000,7 @@
       "note": "［免費］\n卡司:Ozone、FEniX、羅文裕、留聲樂團、拷秋勤、Yappy、賈斯汀、山攪坂樂團、王鳳珠。活動日期為 2026/10/24。"
     },
     {
-      "id": "upcoming-row-433",
+      "id": "upcoming-row-426",
       "date": "20261024",
       "band": "band_drsiw0_129",
       "time": "未公布",
@@ -9164,77 +9180,7 @@
       "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25,兩日皆有演出。卡司包含:SONNIE 桑尼、守夜人、夕陽武士、許富凱(10/24);閃閃閃閃、擊沈女孩、甜約翰、怕胖團(10/25)。"
     },
     {
-      "id": "upcoming-row-416",
-      "date": "20261025",
-      "band": "band_drsiw0_25",
-      "time": "未公布",
-      "name": "秋之盛典7小時2026",
-      "location": "嘉義中埔獨角仙休閒農場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
-      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
-    },
-    {
-      "id": "upcoming-row-417",
-      "date": "20261025",
-      "band": "band_drsiw0_127",
-      "time": "未公布",
-      "name": "秋之盛典7小時2026",
-      "location": "嘉義中埔獨角仙休閒農場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
-      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
-    },
-    {
-      "id": "upcoming-row-418",
-      "date": "20261025",
-      "band": "band_6gp8um_39",
-      "time": "未公布",
-      "name": "秋之盛典7小時2026",
-      "location": "嘉義中埔獨角仙休閒農場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
-      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
-    },
-    {
-      "id": "upcoming-row-419",
-      "date": "20261025",
-      "band": "band_drsiw0_51",
-      "time": "未公布",
-      "name": "秋之盛典7小時2026",
-      "location": "嘉義中埔獨角仙休閒農場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
-      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
-    },
-    {
-      "id": "upcoming-row-420",
-      "date": "20261025",
-      "band": "band_drsiw0_128",
-      "time": "未公布",
-      "name": "秋之盛典7小時2026",
-      "location": "嘉義中埔獨角仙休閒農場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
-      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
-    },
-    {
-      "id": "upcoming-row-421",
-      "date": "20261025",
-      "band": "band_drsiw0_28",
-      "time": "未公布",
-      "name": "秋之盛典7小時2026",
-      "location": "嘉義中埔獨角仙休閒農場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
-      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
-    },
-    {
-      "id": "upcoming-row-422",
-      "date": "20261025",
-      "band": "unigirls",
-      "time": "未公布",
-      "name": "秋之盛典7小時2026",
-      "location": "嘉義中埔獨角仙休閒農場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
-      "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
-    },
-    {
-      "id": "upcoming-row-434",
+      "id": "upcoming-row-427",
       "date": "20261025",
       "band": "band_drsiw0_85",
       "time": "未公布",
@@ -9244,7 +9190,7 @@
       "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。\n活動期間為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
-      "id": "upcoming-row-435",
+      "id": "upcoming-row-428",
       "date": "20261025",
       "band": "band_drsiw0_87",
       "time": "未公布",
@@ -9254,7 +9200,7 @@
       "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。\n活動期間為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
-      "id": "upcoming-row-436",
+      "id": "upcoming-row-429",
       "date": "20261025",
       "band": "band_6gp8um_40",
       "time": "未公布",
@@ -9411,7 +9357,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-43",
@@ -9527,131 +9473,131 @@
       "id": "upcoming-row-151",
       "date": "20261031",
       "band": "band_drsiw0_58",
-      "time": "未公布",
+      "time": "20:50-21:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-152",
       "date": "20261031",
       "band": "band_qqiyec_8",
-      "time": "未公布",
+      "time": "19:10-19:50",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-153",
       "date": "20261031",
       "band": "band_6gp8um_3",
-      "time": "未公布",
+      "time": "14:10-14:50",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-154",
       "date": "20261031",
       "band": "band_6u8lrj_2",
-      "time": "未公布",
+      "time": "15:50-16:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-155",
       "date": "20261031",
       "band": "band",
-      "time": "未公布",
+      "time": "12:30-13:10",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-156",
       "date": "20261031",
       "band": "band_drsiw0_59",
-      "time": "未公布",
+      "time": "20:10-20:50",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-157",
       "date": "20261031",
       "band": "band_6u8lrj_13",
-      "time": "未公布",
+      "time": "17:50-18:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-158",
       "date": "20261031",
       "band": "band_6gp8um_18",
-      "time": "未公布",
+      "time": "12:40-13:20",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-159",
       "date": "20261031",
       "band": "riki",
-      "time": "未公布",
+      "time": "20:30-21:10",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-160",
       "date": "20261031",
       "band": "theorchestra",
-      "time": "未公布",
+      "time": "15:40-16:20",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-161",
       "date": "20261031",
       "band": "band_drsiw0_60",
-      "time": "未公布",
+      "time": "14:10-14:50",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-162",
       "date": "20261031",
       "band": "shootup",
-      "time": "未公布",
+      "time": "17:10-17:50",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-163",
       "date": "20261031",
       "band": "thesalitus",
-      "time": "未公布",
+      "time": "12:30-13:10",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-164",
@@ -9661,67 +9607,67 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-165",
       "date": "20261031",
       "band": "band_drsiw0_61",
-      "time": "未公布",
+      "time": "19:10-19:50",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-166",
       "date": "20261031",
       "band": "goosesg",
-      "time": "未公布",
+      "time": "16:30-17:10",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-167",
       "date": "20261031",
       "band": "whoou",
-      "time": "未公布",
+      "time": "13:50-14:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-168",
       "date": "20261031",
       "band": "confinedwhit",
-      "time": "未公布",
+      "time": "18:40-19:20",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-169",
       "date": "20261031",
       "band": "band_feibnk",
-      "time": "未公布",
+      "time": "20:50-21:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-170",
       "date": "20261031",
       "band": "yubiorijp",
-      "time": "未公布",
+      "time": "16:20-17:00",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-205",
@@ -9937,31 +9883,31 @@
       "id": "upcoming-row-278",
       "date": "20261031",
       "band": "band_6gp8um_28",
-      "time": "未公布",
+      "time": "17:50-18:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-279",
       "date": "20261031",
       "band": "band_6u8lrj_23",
-      "time": "未公布",
+      "time": "19:20-20:00",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-280",
       "date": "20261031",
       "band": "arootfeat",
-      "time": "未公布",
+      "time": "14:50-15:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-287",
@@ -10244,6 +10190,26 @@
       "note": "［免費］\n卡司:阿布絲、CJ MiT、卡尼特、泰雅原舞工坊。活動日期為 2026 年 10 月 31 日。"
     },
     {
+      "id": "upcoming-row-431",
+      "date": "20261031",
+      "band": "band_qqiyec_17",
+      "time": "13:20-14:00",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
+    },
+    {
+      "id": "upcoming-row-432",
+      "date": "20261031",
+      "band": "band_nvubu5",
+      "time": "15:10-15:50",
+      "name": "2026 搖滾台中 ROCK IN TAICHUNG",
+      "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
+      "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
+    },
+    {
       "id": "upcoming-row-9",
       "date": "20261101",
       "band": "papunband",
@@ -10271,7 +10237,7 @@
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-47",
@@ -10357,231 +10323,231 @@
       "id": "upcoming-row-171",
       "date": "20261101",
       "band": "band_6u8lrj_14",
-      "time": "未公布",
+      "time": "17:30-18:10",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-172",
       "date": "20261101",
       "band": "band_drsiw0_17",
-      "time": "未公布",
+      "time": "15:50-16:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-173",
       "date": "20261101",
       "band": "band_maaxir_1",
-      "time": "未公布",
+      "time": "20:50-21:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-174",
       "date": "20261101",
       "band": "psco",
-      "time": "未公布",
+      "time": "20:50-21:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-175",
       "date": "20261101",
       "band": "band_drsiw0_62",
-      "time": "未公布",
+      "time": "20:30-21:10",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-176",
       "date": "20261101",
       "band": "band_drsiw0_63",
-      "time": "未公布",
+      "time": "20:10-20:50",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-177",
       "date": "20261101",
       "band": "durdnjp",
-      "time": "未公布",
+      "time": "17:50-18:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-178",
       "date": "20261101",
       "band": "catchtheyoun",
-      "time": "未公布",
+      "time": "16:20-17:00",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-179",
       "date": "20261101",
       "band": "hue",
-      "time": "未公布",
+      "time": "14:10-14:50",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-180",
       "date": "20261101",
       "band": "band_6gp8um_19",
-      "time": "未公布",
+      "time": "12:40-13:20",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-181",
       "date": "20261101",
       "band": "slapkissth",
-      "time": "未公布",
+      "time": "14:50-15:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-182",
       "date": "20261101",
       "band": "band_drsiw0_64",
-      "time": "未公布",
+      "time": "19:20-20:00",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-183",
       "date": "20261101",
       "band": "band_lilbmt",
-      "time": "未公布",
+      "time": "18:40-19:20",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-184",
       "date": "20261101",
       "band": "band_6u8lrj_15",
-      "time": "未公布",
+      "time": "17:10-17:50",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-185",
       "date": "20261101",
       "band": "ohan",
-      "time": "未公布",
+      "time": "15:40-16:20",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-186",
       "date": "20261101",
       "band": "band_6u8lrj_16",
-      "time": "未公布",
+      "time": "19:10-19:50",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-187",
       "date": "20261101",
       "band": "marswalk",
-      "time": "未公布",
+      "time": "13:20-14:00",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-188",
       "date": "20261101",
       "band": "band_qqiyec_9",
-      "time": "未公布",
+      "time": "16:30-17:10",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-189",
       "date": "20261101",
       "band": "borome",
-      "time": "未公布",
+      "time": "12:30-13:10",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-190",
       "date": "20261101",
       "band": "band_6u8lrj_17",
-      "time": "未公布",
+      "time": "17:50-18:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-191",
       "date": "20261101",
       "band": "band_6gp8um_20",
-      "time": "未公布",
+      "time": "15:10-15:50",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-192",
       "date": "20261101",
       "band": "ugoslabierth",
-      "time": "未公布",
+      "time": "14:10-14:50",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-193",
       "date": "20261101",
       "band": "band_maaxir_2",
-      "time": "未公布",
+      "time": "13:50-14:30",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-216",
@@ -10647,11 +10613,11 @@
       "id": "upcoming-row-281",
       "date": "20261101",
       "band": "gongguan",
-      "time": "未公布",
+      "time": "12:30-13:10",
       "name": "2026 搖滾台中 ROCK IN TAICHUNG",
       "location": "台中市南屯區文心森林公園/圓滿戶外劇場",
       "mapLink": "https://maps.app.goo.gl/pd3hmGdwuMrB9eheA",
-      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n活動日期為 10/31 至 11/01。主要卡司包括:麋先生、血肉果汁機、芒果醬、白安、溫室雜草、粗大Band、固定客、異族亡魂、癢癢、RIKI、THE ORCHESTRA TOKYO [JP]、羊米人、SHOOTUP、The Salitus、RA、白頻率、Goose 我鳥 [SG]、來者何人 Whoou!、Confined White (컨파인드 화이트) [KR]。Rookie A GO-GO Stage 陣容:ハシリコミーズ [JP]、yubiori [JP]、普通隊長、紙鳶、打倒三明治、同根生 feat. 蔡家蓁。"
+      "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
       "id": "upcoming-row-282",
@@ -10934,7 +10900,7 @@
       "note": "［售票］\n活動日期為 2026年11月7日,入場時間為 16:00,活動預計於 16:30 開始。卡司包含持修及更多藝人。\n卡司:持修 and more....\n活動日期為 2026 年 11 月 7 日。預售票價格為 250 元/張,卡司包含持修及更多藝人。\n預售票價為 250元/張。活動時間:16:00 入場,16:30 開始。"
     },
     {
-      "id": "upcoming-row-423",
+      "id": "upcoming-row-416",
       "date": "20261107",
       "band": "band_drsiw0_130",
       "time": "未公布",
@@ -10944,7 +10910,7 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
-      "id": "upcoming-row-424",
+      "id": "upcoming-row-417",
       "date": "20261107",
       "band": "band_drsiw0_131",
       "time": "未公布",
@@ -10954,7 +10920,7 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
-      "id": "upcoming-row-425",
+      "id": "upcoming-row-418",
       "date": "20261107",
       "band": "band_drsiw0_132",
       "time": "未公布",
@@ -10964,7 +10930,7 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
-      "id": "upcoming-row-426",
+      "id": "upcoming-row-419",
       "date": "20261107",
       "band": "band_6gp8um_41",
       "time": "未公布",
@@ -10974,7 +10940,7 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
-      "id": "upcoming-row-427",
+      "id": "upcoming-row-420",
       "date": "20261107",
       "band": "band_drsiw0_133",
       "time": "未公布",
@@ -10984,7 +10950,7 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
-      "id": "upcoming-row-428",
+      "id": "upcoming-row-421",
       "date": "20261107",
       "band": "band_drsiw0_134",
       "time": "未公布",
@@ -10994,7 +10960,7 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
-      "id": "upcoming-row-429",
+      "id": "upcoming-row-422",
       "date": "20261107",
       "band": "band_6u8lrj_35",
       "time": "未公布",
@@ -11644,7 +11610,7 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
-      "id": "upcoming-row-430",
+      "id": "upcoming-row-423",
       "date": "20261121",
       "band": "band_drsiw0_20",
       "time": "未公布",
@@ -11654,7 +11620,7 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
-      "id": "upcoming-row-431",
+      "id": "upcoming-row-424",
       "date": "20261121",
       "band": "icyball",
       "time": "未公布",
@@ -11664,7 +11630,7 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
-      "id": "upcoming-row-432",
+      "id": "upcoming-row-425",
       "date": "20261121",
       "band": "pallas_1",
       "time": "未公布",
@@ -11674,7 +11640,7 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
-      "id": "upcoming-row-437",
+      "id": "upcoming-row-430",
       "date": "20261121",
       "band": "pallas",
       "time": "未公布",
@@ -12539,6 +12505,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "6f9a4a26-3246-4531-9c35-1c9487a8cf56",
-  "updatedAt": "2026-10-19T03:46:34.764Z"
+  "revision": "4f3610e4-7586-41ea-af2b-9c66fa2fdcd3",
+  "updatedAt": "2026-10-19T07:26:01.439Z"
 }
