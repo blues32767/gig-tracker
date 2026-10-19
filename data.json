@@ -7,7 +7,7 @@
       "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
-      "eventCount": 58
+      "eventCount": 59
     },
     {
       "id": "gongguan",
@@ -23,7 +23,7 @@
       "short": "怕胖",
       "color": "#1d3557",
       "category": "樂團",
-      "eventCount": 12
+      "eventCount": 13
     },
     {
       "id": "bisiugroup",
@@ -9441,6 +9441,26 @@
       "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。\n活動期間為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
+      "id": "upcoming-row-440",
+      "date": "20261025",
+      "band": "mango",
+      "time": "14:00-21:00",
+      "name": "嘉義縣中埔・獨角仙休閒農場 秋之盛典",
+      "location": "嘉義縣中埔・獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E3%83%BB%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n卡司:芒果醬、怕胖團;演出日期為2026年10月25日,時間為14:00-21:00。"
+    },
+    {
+      "id": "upcoming-row-441",
+      "date": "20261025",
+      "band": "papunband",
+      "time": "未公布",
+      "name": "嘉義縣中埔・獨角仙休閒農場 秋之盛典",
+      "location": "嘉義縣中埔・獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E3%83%BB%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n卡司:芒果醬、怕胖團;演出日期為2026年10月25日,時間為14:00-21:00。"
+    },
+    {
       "id": "upcoming-row-214",
       "date": "20261026",
       "band": "skaraoke",
@@ -12806,6 +12826,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d544bbf4-b28d-4c69-ac52-ca11109f184b",
-  "updatedAt": "2026-10-19T12:06:20.816Z"
+  "revision": "0e30eb60-6eeb-44a6-9a56-19761077454b",
+  "updatedAt": "2026-10-19T12:07:17.327Z"
 }
