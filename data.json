@@ -3182,7 +3182,7 @@
       "name": "卡尼特",
       "short": "卡尼特",
       "color": "#118ab2",
-      "category": "個人",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -3190,23 +3190,7 @@
       "name": "泰雅原舞工坊",
       "short": "泰雅原舞工坊",
       "color": "#8338ec",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_qqiyec_17",
-      "name": "氣球互動秀",
-      "short": "氣球互動秀",
-      "color": "#118ab2",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_32tclr_2",
-      "name": "糖果星球派對",
-      "short": "糖果星球派對",
-      "color": "#8338ec",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -3238,7 +3222,7 @@
       "name": "UniGirls 啦啦隊",
       "short": "UniGirls 啦啦隊",
       "color": "#00b4d8",
-      "category": "個人",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -3318,7 +3302,7 @@
       "name": "PALLAS 帕拉斯",
       "short": "PALLAS 帕拉斯",
       "color": "#00b4d8",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -9000,7 +8984,7 @@
       "note": "［免費］\n卡司:Ozone、FEniX、羅文裕、留聲樂團、拷秋勤、Yappy、賈斯汀、山攪坂樂團、王鳳珠。活動日期為 2026/10/24。"
     },
     {
-      "id": "upcoming-row-435",
+      "id": "upcoming-row-433",
       "date": "20261024",
       "band": "band_drsiw0_129",
       "time": "未公布",
@@ -9180,7 +9164,7 @@
       "note": "［免費］\n時間表:https://www.threads.com/share/HuyUrzFYN/\n卡司:怕胖團。演出日期待公佈。\n活動日期為 10/24 及 10/25,兩日皆有演出。卡司包含:SONNIE 桑尼、守夜人、夕陽武士、許富凱(10/24);閃閃閃閃、擊沈女孩、甜約翰、怕胖團(10/25)。"
     },
     {
-      "id": "upcoming-row-418",
+      "id": "upcoming-row-416",
       "date": "20261025",
       "band": "band_drsiw0_25",
       "time": "未公布",
@@ -9190,7 +9174,7 @@
       "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
     },
     {
-      "id": "upcoming-row-419",
+      "id": "upcoming-row-417",
       "date": "20261025",
       "band": "band_drsiw0_127",
       "time": "未公布",
@@ -9200,7 +9184,7 @@
       "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
     },
     {
-      "id": "upcoming-row-420",
+      "id": "upcoming-row-418",
       "date": "20261025",
       "band": "band_6gp8um_39",
       "time": "未公布",
@@ -9210,7 +9194,7 @@
       "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
     },
     {
-      "id": "upcoming-row-421",
+      "id": "upcoming-row-419",
       "date": "20261025",
       "band": "band_drsiw0_51",
       "time": "未公布",
@@ -9220,7 +9204,7 @@
       "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
     },
     {
-      "id": "upcoming-row-422",
+      "id": "upcoming-row-420",
       "date": "20261025",
       "band": "band_drsiw0_128",
       "time": "未公布",
@@ -9230,7 +9214,7 @@
       "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
     },
     {
-      "id": "upcoming-row-423",
+      "id": "upcoming-row-421",
       "date": "20261025",
       "band": "band_drsiw0_28",
       "time": "未公布",
@@ -9240,7 +9224,7 @@
       "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
     },
     {
-      "id": "upcoming-row-424",
+      "id": "upcoming-row-422",
       "date": "20261025",
       "band": "unigirls",
       "time": "未公布",
@@ -9250,7 +9234,7 @@
       "note": "［免費］\n卡司:許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊;主持人:小倩。活動日期為2026年10月25日。"
     },
     {
-      "id": "upcoming-row-436",
+      "id": "upcoming-row-434",
       "date": "20261025",
       "band": "band_drsiw0_85",
       "time": "未公布",
@@ -9260,7 +9244,7 @@
       "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。\n活動期間為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
-      "id": "upcoming-row-437",
+      "id": "upcoming-row-435",
       "date": "20261025",
       "band": "band_drsiw0_87",
       "time": "未公布",
@@ -9270,7 +9254,7 @@
       "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。\n活動期間為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
-      "id": "upcoming-row-438",
+      "id": "upcoming-row-436",
       "date": "20261025",
       "band": "band_6gp8um_40",
       "time": "未公布",
@@ -10260,26 +10244,6 @@
       "note": "［免費］\n卡司:阿布絲、CJ MiT、卡尼特、泰雅原舞工坊。活動日期為 2026 年 10 月 31 日。"
     },
     {
-      "id": "upcoming-row-416",
-      "date": "20261031",
-      "band": "band_qqiyec_17",
-      "time": "14:00-18:00",
-      "name": "二水跑水之夜晚會",
-      "location": "彰化縣二水鄉水心之初大草原",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E4%BA%8C%E6%B0%B4%E9%84%89%E6%B0%B4%E5%BF%83%E4%B9%8B%E5%88%9D%E5%A4%A7%E8%8D%89%E5%8E%9F",
-      "note": "［免費］\n活動分為兩個時段:草地音樂會(14:00-18:00)與跑水之夜(19:00-21:00)。卡司包含:Crispy脆樂團、幽靈水晶、翁鈺鈞、Sabrina 胡恂舞,以及氣球互動秀和糖果星球派對。跑水之夜演出陣容為許富凱、斑恩、FEniX、王詩安、DJ Swallow妖嬌。"
-    },
-    {
-      "id": "upcoming-row-417",
-      "date": "20261031",
-      "band": "band_32tclr_2",
-      "time": "14:00-18:00",
-      "name": "二水跑水之夜晚會",
-      "location": "彰化縣二水鄉水心之初大草原",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E4%BA%8C%E6%B0%B4%E9%84%89%E6%B0%B4%E5%BF%83%E4%B9%8B%E5%88%9D%E5%A4%A7%E8%8D%89%E5%8E%9F",
-      "note": "［免費］\n活動分為兩個時段:草地音樂會(14:00-18:00)與跑水之夜(19:00-21:00)。卡司包含:Crispy脆樂團、幽靈水晶、翁鈺鈞、Sabrina 胡恂舞,以及氣球互動秀和糖果星球派對。跑水之夜演出陣容為許富凱、斑恩、FEniX、王詩安、DJ Swallow妖嬌。"
-    },
-    {
       "id": "upcoming-row-9",
       "date": "20261101",
       "band": "papunband",
@@ -10970,7 +10934,7 @@
       "note": "［售票］\n活動日期為 2026年11月7日,入場時間為 16:00,活動預計於 16:30 開始。卡司包含持修及更多藝人。\n卡司:持修 and more....\n活動日期為 2026 年 11 月 7 日。預售票價格為 250 元/張,卡司包含持修及更多藝人。\n預售票價為 250元/張。活動時間:16:00 入場,16:30 開始。"
     },
     {
-      "id": "upcoming-row-425",
+      "id": "upcoming-row-423",
       "date": "20261107",
       "band": "band_drsiw0_130",
       "time": "未公布",
@@ -10980,7 +10944,7 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
-      "id": "upcoming-row-426",
+      "id": "upcoming-row-424",
       "date": "20261107",
       "band": "band_drsiw0_131",
       "time": "未公布",
@@ -10990,7 +10954,7 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
-      "id": "upcoming-row-427",
+      "id": "upcoming-row-425",
       "date": "20261107",
       "band": "band_drsiw0_132",
       "time": "未公布",
@@ -11000,7 +10964,7 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
-      "id": "upcoming-row-428",
+      "id": "upcoming-row-426",
       "date": "20261107",
       "band": "band_6gp8um_41",
       "time": "未公布",
@@ -11010,7 +10974,7 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
-      "id": "upcoming-row-429",
+      "id": "upcoming-row-427",
       "date": "20261107",
       "band": "band_drsiw0_133",
       "time": "未公布",
@@ -11020,7 +10984,7 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
-      "id": "upcoming-row-430",
+      "id": "upcoming-row-428",
       "date": "20261107",
       "band": "band_drsiw0_134",
       "time": "未公布",
@@ -11030,7 +10994,7 @@
       "note": "［免費］\n活動日期為 2026年11月7日,卡司包含:蕭煌奇、戴佩妮、范逸臣、家家、謝宇威、曾昱嘉、旺福樂團。"
     },
     {
-      "id": "upcoming-row-431",
+      "id": "upcoming-row-429",
       "date": "20261107",
       "band": "band_6u8lrj_35",
       "time": "未公布",
@@ -11680,7 +11644,7 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
-      "id": "upcoming-row-432",
+      "id": "upcoming-row-430",
       "date": "20261121",
       "band": "band_drsiw0_20",
       "time": "未公布",
@@ -11690,7 +11654,7 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
-      "id": "upcoming-row-433",
+      "id": "upcoming-row-431",
       "date": "20261121",
       "band": "icyball",
       "time": "未公布",
@@ -11700,7 +11664,7 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
-      "id": "upcoming-row-434",
+      "id": "upcoming-row-432",
       "date": "20261121",
       "band": "pallas_1",
       "time": "未公布",
@@ -11710,7 +11674,7 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
-      "id": "upcoming-row-439",
+      "id": "upcoming-row-437",
       "date": "20261121",
       "band": "pallas",
       "time": "未公布",
@@ -12576,5 +12540,5 @@
   },
   "schemaVersion": 2,
   "revision": "6f9a4a26-3246-4531-9c35-1c9487a8cf56",
-  "updatedAt": "2026-10-19T03:41:35.099Z"
+  "updatedAt": "2026-10-19T03:46:34.764Z"
 }
