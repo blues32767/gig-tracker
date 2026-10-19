@@ -386,6 +386,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_6gp8um_29",
+      "name": "小魏",
+      "short": "小魏",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_87",
       "name": "魏嘉瑩",
       "short": "魏嘉瑩",
@@ -762,6 +770,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_83",
+      "name": "宋德鶴",
+      "short": "宋德鶴",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "band_6gp8um_27",
       "name": "潤少",
       "short": "潤少",
@@ -783,14 +799,6 @@
       "short": "A_Root 同根生 feat. 蔡家蓁",
       "color": "#ffd166",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6gp8um_29",
-      "name": "小魏",
-      "short": "小魏",
-      "color": "#06d6a0",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -2186,14 +2194,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_83",
-      "name": "宋德鶴",
-      "short": "宋德鶴",
-      "color": "#118ab2",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_84",
       "name": "周湯豪",
       "short": "周湯豪",
@@ -3367,6 +3367,62 @@
       "short": "孝淵",
       "color": "#00b4d8",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_19",
+      "name": "熱門舞蹈社",
+      "short": "熱門",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir_7",
+      "name": "中山高中熱舞社",
+      "short": "中山",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_20",
+      "name": "熱門音樂社",
+      "short": "熱門",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_32tclr_2",
+      "name": "弦之苑吉他社",
+      "short": "弦之",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir_8",
+      "name": "輔英嘻哈文化社",
+      "short": "輔英",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "bozone",
+      "name": "Bozone",
+      "short": "Bo",
+      "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "young",
+      "name": "原Young社",
+      "short": "原Y",
+      "color": "#ff006e",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -8652,6 +8708,96 @@
       "note": "［免費］\n活動日期為 2026/10/21-10/22。開票資訊:10/09 開放免費索票。\n活動日期:2026/10/21 - 2026/10/22。卡司包含公館青少年、C.Holly、Gummy B X 陳嫺靜、Flowstrong、Mong Tong,以及呂允、That's My Shhh、聲子蟲、Kangziwon(KR)。\n18:30-19:00|公館青少年\n19:30-20:00|Gummy B × 陳嫺靜"
     },
     {
+      "id": "upcoming-row-461",
+      "date": "20261021",
+      "band": "band_drsiw0_83",
+      "time": "未公布",
+      "name": "高雄 聲浪祭草地音樂會",
+      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
+    },
+    {
+      "id": "upcoming-row-462",
+      "date": "20261021",
+      "band": "band_6gp8um_29",
+      "time": "未公布",
+      "name": "高雄 聲浪祭草地音樂會",
+      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
+    },
+    {
+      "id": "upcoming-row-463",
+      "date": "20261021",
+      "band": "band_qqiyec_19",
+      "time": "未公布",
+      "name": "高雄 聲浪祭草地音樂會",
+      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
+    },
+    {
+      "id": "upcoming-row-464",
+      "date": "20261021",
+      "band": "band_maaxir_7",
+      "time": "未公布",
+      "name": "高雄 聲浪祭草地音樂會",
+      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
+    },
+    {
+      "id": "upcoming-row-465",
+      "date": "20261021",
+      "band": "band_qqiyec_20",
+      "time": "未公布",
+      "name": "高雄 聲浪祭草地音樂會",
+      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
+    },
+    {
+      "id": "upcoming-row-466",
+      "date": "20261021",
+      "band": "band_32tclr_2",
+      "time": "未公布",
+      "name": "高雄 聲浪祭草地音樂會",
+      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
+    },
+    {
+      "id": "upcoming-row-467",
+      "date": "20261021",
+      "band": "band_maaxir_8",
+      "time": "未公布",
+      "name": "高雄 聲浪祭草地音樂會",
+      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
+    },
+    {
+      "id": "upcoming-row-468",
+      "date": "20261021",
+      "band": "bozone",
+      "time": "未公布",
+      "name": "高雄 聲浪祭草地音樂會",
+      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
+    },
+    {
+      "id": "upcoming-row-469",
+      "date": "20261021",
+      "band": "young",
+      "time": "未公布",
+      "name": "高雄 聲浪祭草地音樂會",
+      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
+    },
+    {
       "id": "upcoming-row-232",
       "date": "20261022",
       "band": "band_6gp8um",
@@ -13317,6 +13463,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "16e78c63-bfdb-4cee-b432-1cd42d5f847b",
-  "updatedAt": "2026-10-19T12:43:55.187Z"
+  "revision": "6d287470-b6b0-4321-ba6a-16303e91a8bc",
+  "updatedAt": "2026-10-19T13:39:41.451Z"
 }
