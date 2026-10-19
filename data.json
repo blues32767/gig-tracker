@@ -12978,7 +12978,7 @@
       "date": "20261213",
       "band": "band_drsiw0_27",
       "time": "15:00-17:30",
-      "name": "彰化社頭織襪芭樂觀光節",
+      "name": "彰化 社頭織襪芭樂觀光節",
       "location": "彰化縣社頭鄉果菜市場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
       "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
@@ -12988,7 +12988,7 @@
       "date": "20261213",
       "band": "band_6gp8um_27",
       "time": "15:00-17:30",
-      "name": "彰化社頭織襪芭樂觀光節",
+      "name": "彰化 社頭織襪芭樂觀光節",
       "location": "彰化縣社頭鄉果菜市場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
       "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
@@ -12998,7 +12998,7 @@
       "date": "20261213",
       "band": "cholly",
       "time": "15:00-17:30",
-      "name": "彰化社頭織襪芭樂觀光節",
+      "name": "彰化 社頭織襪芭樂觀光節",
       "location": "彰化縣社頭鄉果菜市場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
       "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
@@ -13008,7 +13008,7 @@
       "date": "20261213",
       "band": "djswallow",
       "time": "15:00-17:30",
-      "name": "彰化社頭織襪芭樂觀光節",
+      "name": "彰化 社頭織襪芭樂觀光節",
       "location": "彰化縣社頭鄉果菜市場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
       "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
@@ -13299,6 +13299,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7fd4f2d1-aff7-4e52-a27d-ca8b157b052b",
-  "updatedAt": "2026-10-19T12:42:08.499Z"
+  "revision": "4eff1d12-5951-4b09-9af6-803c68786ca6",
+  "updatedAt": "2026-10-19T12:42:43.652Z"
 }
