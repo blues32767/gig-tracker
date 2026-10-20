@@ -202,6 +202,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_59",
+      "name": "固定客",
+      "short": "固定客",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "fei",
       "name": "吳霏 FEI",
       "short": "吳霏 FEI",
@@ -330,11 +338,11 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_59",
-      "name": "固定客",
-      "short": "固定客",
-      "color": "#ffd166",
-      "category": "樂團",
+      "id": "band_6u8lrj_12",
+      "name": "安妮塔克",
+      "short": "安妮塔克",
+      "color": "#8338ec",
+      "category": "團體",
       "eventCount": 3
     },
     {
@@ -342,6 +350,14 @@
       "name": "白頻率",
       "short": "白頻率",
       "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "whoou",
+      "name": "來者何人 Whoou!",
+      "short": "來者何人 Whoou!",
+      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 3
     },
@@ -367,6 +383,14 @@
       "short": "沈默紳士",
       "color": "#00b4d8",
       "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_65",
+      "name": "林頤原",
+      "short": "林頤原",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -570,14 +594,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_6u8lrj_12",
-      "name": "安妮塔克",
-      "short": "安妮塔克",
-      "color": "#8338ec",
-      "category": "團體",
-      "eventCount": 2
-    },
-    {
       "id": "band_6u8lrj_13",
       "name": "異族亡魂",
       "short": "異族亡魂",
@@ -614,14 +630,6 @@
       "name": "The Salitus",
       "short": "The Salitus",
       "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "whoou",
-      "name": "來者何人 Whoou!",
-      "short": "來者何人 Whoou!",
-      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 2
     },
@@ -682,10 +690,42 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_65",
-      "name": "林頤原",
-      "short": "林頤原",
-      "color": "#fb5607",
+      "id": "band_uhxcnu",
+      "name": "吳永吉與礦工兄弟",
+      "short": "吳永吉與礦工兄弟",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_66",
+      "name": "裝咖人",
+      "short": "裝咖人",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_67",
+      "name": "卜星慧",
+      "short": "卜星慧",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_bqaniu",
+      "name": "奏手候& 羅威堂 [JP]",
+      "short": "奏手候& 羅威堂 [JP]",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_68",
+      "name": "柯大堡",
+      "short": "柯大堡",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -1810,30 +1850,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_uhxcnu",
-      "name": "吳永吉與礦工兄弟",
-      "short": "吳永吉與礦工兄弟",
-      "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_66",
-      "name": "裝咖人",
-      "short": "裝咖人",
-      "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_67",
-      "name": "卜星慧",
-      "short": "卜星慧",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_mphthj",
       "name": "鳳鳴齋國樂團&法比",
       "short": "鳳鳴齋國樂團&法比",
@@ -1847,22 +1863,6 @@
       "short": "SilkywarmS [KR]",
       "color": "#ffd166",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_bqaniu",
-      "name": "奏手候& 羅威堂 [JP]",
-      "short": "奏手候& 羅威堂 [JP]",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_68",
-      "name": "柯大堡",
-      "short": "柯大堡",
-      "color": "#118ab2",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -3470,6 +3470,30 @@
       "name": "babyMINT",
       "short": "ba",
       "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_c6fa6t",
+      "name": "扮仙+霹靂疏文",
+      "short": "扮仙",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_21",
+      "name": "法比鳳鳴齋",
+      "short": "法比",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "silkywarms",
+      "name": "SilkywarmS",
+      "short": "Si",
+      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
     },
@@ -9496,6 +9520,46 @@
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
     },
     {
+      "id": "upcoming-row-476",
+      "date": "20261024",
+      "band": "whoou",
+      "time": "17:00-17:45",
+      "name": "台北 信徒文化季",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n時段:10/24(17:00-21:45)、10/25(16:00-21:45);卡司:10/24(來者何人、安妮塔克、卜星慧、柯大堡)、10/25(扮仙+霹靂疏文、法比鳳鳴齋、SILKYWARMS、固定客、奏手候&羅威堂、裝咖人、林頤原、吳永吉與礦工兄弟)"
+    },
+    {
+      "id": "upcoming-row-477",
+      "date": "20261024",
+      "band": "band_6u8lrj_12",
+      "time": "18:00-18:30",
+      "name": "台北 信徒文化季",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n時段:10/24(17:00-21:45)、10/25(16:00-21:45);卡司:10/24(來者何人、安妮塔克、卜星慧、柯大堡)、10/25(扮仙+霹靂疏文、法比鳳鳴齋、SILKYWARMS、固定客、奏手候&羅威堂、裝咖人、林頤原、吳永吉與礦工兄弟)"
+    },
+    {
+      "id": "upcoming-row-478",
+      "date": "20261024",
+      "band": "band_drsiw0_67",
+      "time": "18:45-19:05",
+      "name": "台北 信徒文化季",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n時段:10/24(17:00-21:45)、10/25(16:00-21:45);卡司:10/24(來者何人、安妮塔克、卜星慧、柯大堡)、10/25(扮仙+霹靂疏文、法比鳳鳴齋、SILKYWARMS、固定客、奏手候&羅威堂、裝咖人、林頤原、吳永吉與礦工兄弟)"
+    },
+    {
+      "id": "upcoming-row-479",
+      "date": "20261024",
+      "band": "band_drsiw0_68",
+      "time": "19:20-19:50",
+      "name": "台北 信徒文化季",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n時段:10/24(17:00-21:45)、10/25(16:00-21:45);卡司:10/24(來者何人、安妮塔克、卜星慧、柯大堡)、10/25(扮仙+霹靂疏文、法比鳳鳴齋、SILKYWARMS、固定客、奏手候&羅威堂、裝咖人、林頤原、吳永吉與礦工兄弟)"
+    },
+    {
       "id": "upcoming-row-4",
       "date": "20261025",
       "band": "papunband",
@@ -9784,6 +9848,86 @@
       "location": "新竹縣政府文化局 文化廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%20%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4",
       "note": "［免費］\n時段:15:00-未公布;卡司:2026/10/25(脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對)"
+    },
+    {
+      "id": "upcoming-row-480",
+      "date": "20261025",
+      "band": "band_c6fa6t",
+      "time": "16:00-16:30",
+      "name": "台北 信徒文化季",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n時段:10/24(17:00-21:45)、10/25(16:00-21:45);卡司:10/24(來者何人、安妮塔克、卜星慧、柯大堡)、10/25(扮仙+霹靂疏文、法比鳳鳴齋、SILKYWARMS、固定客、奏手候&羅威堂、裝咖人、林頤原、吳永吉與礦工兄弟)"
+    },
+    {
+      "id": "upcoming-row-481",
+      "date": "20261025",
+      "band": "band_qqiyec_21",
+      "time": "16:45-17:15",
+      "name": "台北 信徒文化季",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n時段:10/24(17:00-21:45)、10/25(16:00-21:45);卡司:10/24(來者何人、安妮塔克、卜星慧、柯大堡)、10/25(扮仙+霹靂疏文、法比鳳鳴齋、SILKYWARMS、固定客、奏手候&羅威堂、裝咖人、林頤原、吳永吉與礦工兄弟)"
+    },
+    {
+      "id": "upcoming-row-482",
+      "date": "20261025",
+      "band": "silkywarms",
+      "time": "17:30-18:00",
+      "name": "台北 信徒文化季",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n時段:10/24(17:00-21:45)、10/25(16:00-21:45);卡司:10/24(來者何人、安妮塔克、卜星慧、柯大堡)、10/25(扮仙+霹靂疏文、法比鳳鳴齋、SILKYWARMS、固定客、奏手候&羅威堂、裝咖人、林頤原、吳永吉與礦工兄弟)"
+    },
+    {
+      "id": "upcoming-row-483",
+      "date": "20261025",
+      "band": "band_drsiw0_59",
+      "time": "18:15-18:45",
+      "name": "台北 信徒文化季",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n時段:10/24(17:00-21:45)、10/25(16:00-21:45);卡司:10/24(來者何人、安妮塔克、卜星慧、柯大堡)、10/25(扮仙+霹靂疏文、法比鳳鳴齋、SILKYWARMS、固定客、奏手候&羅威堂、裝咖人、林頤原、吳永吉與礦工兄弟)"
+    },
+    {
+      "id": "upcoming-row-484",
+      "date": "20261025",
+      "band": "band_bqaniu",
+      "time": "19:00-19:30",
+      "name": "台北 信徒文化季",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n時段:10/24(17:00-21:45)、10/25(16:00-21:45);卡司:10/24(來者何人、安妮塔克、卜星慧、柯大堡)、10/25(扮仙+霹靂疏文、法比鳳鳴齋、SILKYWARMS、固定客、奏手候&羅威堂、裝咖人、林頤原、吳永吉與礦工兄弟)"
+    },
+    {
+      "id": "upcoming-row-485",
+      "date": "20261025",
+      "band": "band_drsiw0_66",
+      "time": "19:45-20:15",
+      "name": "台北 信徒文化季",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n時段:10/24(17:00-21:45)、10/25(16:00-21:45);卡司:10/24(來者何人、安妮塔克、卜星慧、柯大堡)、10/25(扮仙+霹靂疏文、法比鳳鳴齋、SILKYWARMS、固定客、奏手候&羅威堂、裝咖人、林頤原、吳永吉與礦工兄弟)"
+    },
+    {
+      "id": "upcoming-row-486",
+      "date": "20261025",
+      "band": "band_drsiw0_65",
+      "time": "20:30-21:00",
+      "name": "台北 信徒文化季",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n時段:10/24(17:00-21:45)、10/25(16:00-21:45);卡司:10/24(來者何人、安妮塔克、卜星慧、柯大堡)、10/25(扮仙+霹靂疏文、法比鳳鳴齋、SILKYWARMS、固定客、奏手候&羅威堂、裝咖人、林頤原、吳永吉與礦工兄弟)"
+    },
+    {
+      "id": "upcoming-row-487",
+      "date": "20261025",
+      "band": "band_uhxcnu",
+      "time": "21:15-21:45",
+      "name": "台北 信徒文化季",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n時段:10/24(17:00-21:45)、10/25(16:00-21:45);卡司:10/24(來者何人、安妮塔克、卜星慧、柯大堡)、10/25(扮仙+霹靂疏文、法比鳳鳴齋、SILKYWARMS、固定客、奏手候&羅威堂、裝咖人、林頤原、吳永吉與礦工兄弟)"
     },
     {
       "id": "upcoming-row-211",
@@ -13521,6 +13665,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "c456e7bb-b2b4-431c-9548-b0b1f3a6ab21",
-  "updatedAt": "2026-10-20T13:43:02.854Z"
+  "revision": "77023bfc-4498-413d-827a-31ccd95701a8",
+  "updatedAt": "2026-10-20T13:44:15.888Z"
 }
