@@ -21,6 +21,8 @@
 
 [聽團網 (ting-tuan)](https://blues32767.github.io/gig-tracker/) 是一個專為台灣獨立音樂樂迷與現場聽團仔量身打造的 **現代化演出時程探索與個人參戰足跡 Web App**。
 
+[https://blues32767.github.io/gig-tracker/](https://blues32767.github.io/gig-tracker/) 
+
 結合跨樂團演出行事曆、歷史場次歌單（Setlist）、台灣雙模現場地圖，以及免帳號密碼的 Google 雲端無縫同步機制，讓樂迷隨時掌握全台 Livehouse、音樂祭與專場動態，輕鬆記錄每一趟熱血奔赴的現場記憶。
 
 ---
