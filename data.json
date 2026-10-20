@@ -122,14 +122,6 @@
       "eventCount": 5
     },
     {
-      "id": "WhoCares",
-      "name": "胡凱兒",
-      "short": "胡凱兒",
-      "color": "#385c6e",
-      "category": "樂團",
-      "eventCount": 5
-    },
-    {
       "id": "LuYun",
       "name": "呂允",
       "short": "呂允",
@@ -152,6 +144,14 @@
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 5
+    },
+    {
+      "id": "WhoCares",
+      "name": "胡凱兒",
+      "short": "胡凱兒",
+      "color": "#385c6e",
+      "category": "樂團",
+      "eventCount": 4
     },
     {
       "id": "SHOU",
@@ -5429,16 +5429,6 @@
       "name": "金門 2026 搖擺-金各演音樂祭 LIVE IN HOPE",
       "location": "金門縣金城鎮莒光公園",
       "note": "免費\n停車指引：https://www.facebook.com/share/p/19hGMJfisg/\n地圖：https://maps.app.goo.gl/ZHYBne16V2krQ2Y69",
-      "setlist": []
-    },
-    {
-      "id": "EV_20261003_WHOC_08bb55",
-      "date": "20261003",
-      "band": "WhoCares",
-      "time": "",
-      "name": "2026澎湖追風音樂燈光節",
-      "location": "澎湖觀音亭園區",
-      "note": "［免費］\n卡司:日月重光藝術舞蹈團、怕胖團 PAPUN BAND、安心亞、周湯豪\n來源：https://www.threads.com/@penghu_music_fest\n地圖：https://www.google.com/maps/search/?api=1&query=%E6%BE%8E%E6%B9%96%E8%A7%80%E9%9F%B3%E4%BA%AD%E5%9C%92%E5%8D%80",
       "setlist": []
     },
     {
@@ -13494,5 +13484,5 @@
   },
   "schemaVersion": 2,
   "revision": "adfc67b3-fe8b-47b2-8af2-f77acad23697",
-  "updatedAt": "2026-10-20T02:26:37.511Z"
+  "updatedAt": "2026-10-20T05:33:00.268Z"
 }
