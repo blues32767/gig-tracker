@@ -66,7 +66,7 @@
         
         /* 智慧型頂部精簡篩選列 */
         .filter-section { margin-bottom: 12px; }
-        .filter-mode-hint { font-size: 0.68rem; font-weight: 800; color: var(--text-secondary); margin-bottom: 5px; display: flex; align-items: center; justify-content: space-between; gap: 6px; }
+        .filter-mode-hint { font-size: 0.68rem; font-weight: 800; color: var(--text-secondary); margin-bottom: 5px; display: flex; align-items: center; justify-content: space-between; gap: 6px; flex-wrap: wrap; }
         .filter-bar { display: flex; gap: 5px; flex-wrap: wrap; align-items: center; }
         .filter-btn { font-size: 0.72rem; font-weight: 800; padding: 4px 10px; border: 1.5px solid var(--text-main); background: var(--bg-card); color: var(--text-main); cursor: pointer; border-radius: 99px; box-shadow: 1.5px 1.5px 0px var(--text-main); transition: transform 0.12s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.12s, background 0.2s; white-space: nowrap; display: inline-flex; align-items: center; gap: 4px; line-height: 1.2; }
         .filter-btn:hover { transform: translate(-1px, -1px); box-shadow: 2.5px 2.5px 0px var(--text-main); }
@@ -74,6 +74,25 @@
         .filter-count-pill { font-size: 0.62rem; font-weight: 900; padding: 0px 5px; border-radius: 99px; background: var(--bg-subtle); color: var(--text-secondary); border: 1px solid var(--border); }
         .filter-btn.active .filter-count-pill { background: rgba(0, 0, 0, 0.28); color: #fff; border-color: rgba(255, 255, 255, 0.4); }
         
+        /* 首頁篩選列的自訂分組膠囊專屬樣式 */
+        .filter-btn.fb-group {
+            background: var(--bg-subtle);
+            border: 2px solid var(--text-main);
+            font-weight: 900;
+        }
+        .filter-btn.fb-group.active {
+            background: var(--accent) !important;
+            color: #111 !important;
+            border-color: var(--text-main) !important;
+            box-shadow: none !important;
+            transform: translate(1.5px, 1.5px);
+        }
+        .filter-btn.fb-group.active .filter-count-pill {
+            background: #111;
+            color: var(--accent);
+            border-color: #111;
+        }
+
         .explore-trigger-btn { font-size: 0.72rem; font-weight: 900; padding: 4px 11px; border: 1.5px solid var(--text-main); background: var(--accent); color: #111; cursor: pointer; border-radius: 99px; box-shadow: 2px 2px 0px var(--text-main); display: inline-flex; align-items: center; gap: 4px; transition: transform 0.12s, box-shadow 0.12s; white-space: nowrap; line-height: 1.2; }
         .explore-trigger-btn:hover { transform: translate(-1px, -1px); box-shadow: 3px 3px 0px var(--text-main); }
         .explore-trigger-btn:active { transform: translate(1.5px, 1.5px); box-shadow: none; }
@@ -106,6 +125,28 @@
         .modal-backdrop.open { display: flex; }
         @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 
+        /* ★ 修正 2：手機版「挑選藝人」視窗固定於頂部，防止軟鍵盤彈出時往中間拉扯擋住下方藝人資訊 */
+        @media (max-width: 767px) {
+            #artist-modal-backdrop {
+                align-items: flex-start !important;
+                padding-top: max(8px, env(safe-area-inset-top, 8px)) !important;
+                padding-bottom: 8px !important;
+            }
+            #artist-modal-backdrop .artist-modal {
+                max-height: calc(100dvh - 16px) !important;
+                margin-top: 0 !important;
+            }
+            #artist-modal-backdrop.keyboard-active .am-header {
+                padding: 6px 12px;
+            }
+            #artist-modal-backdrop.keyboard-active .am-title-wrap p {
+                display: none;
+            }
+            #artist-modal-backdrop.keyboard-active .am-footer {
+                padding: 6px 12px;
+            }
+        }
+
         .artist-modal {
             width: 100%;
             max-width: 760px;
@@ -128,6 +169,122 @@
         .am-close-btn { background: var(--accent); color: #111; border: 2px solid var(--bg-main); border-radius: 8px; padding: 4px 10px; font-weight: 900; font-size: 0.78rem; cursor: pointer; box-shadow: 2px 2px 0px rgba(0,0,0,0.3); flex-shrink: 0; white-space: nowrap; }
         
         .am-controls { padding: 9px 14px; background: var(--bg-subtle); border-bottom: 1.5px dashed var(--text-main); display: flex; flex-direction: column; gap: 7px; flex-shrink: 0; }
+        
+        /* ★ 修正 1：自訂藝人分組 (Custom Artist Groups) 工作區樣式 */
+        .am-group-bar {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            overflow-x: auto;
+            padding-bottom: 5px;
+            border-bottom: 1.5px dashed var(--border);
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+        .am-group-bar::-webkit-scrollbar { display: none; }
+        .am-group-chip {
+            font-size: 0.72rem;
+            font-weight: 900;
+            padding: 4px 10px;
+            border: 1.5px solid var(--text-main);
+            border-radius: 99px;
+            background: var(--bg-card);
+            color: var(--text-main);
+            cursor: pointer;
+            white-space: nowrap;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            box-shadow: 1.5px 1.5px 0px var(--text-main);
+            transition: all 0.12s;
+            flex-shrink: 0;
+        }
+        .am-group-chip.active {
+            background: var(--accent);
+            color: #111;
+            box-shadow: 2px 2px 0px var(--text-main);
+            transform: translateY(-1px);
+        }
+        .am-group-add-btn {
+            font-size: 0.7rem;
+            font-weight: 900;
+            padding: 4px 10px;
+            border: 1.5px dashed var(--text-main);
+            border-radius: 99px;
+            background: var(--bg-card);
+            color: var(--text-main);
+            cursor: pointer;
+            white-space: nowrap;
+            flex-shrink: 0;
+            transition: all 0.15s;
+        }
+        .am-group-add-btn:hover { background: var(--accent); color: #111; border-style: solid; }
+        .am-group-manage-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 6px;
+            background: var(--bg-card);
+            border: 1.5px solid var(--text-main);
+            border-radius: 8px;
+            padding: 5px 9px;
+            font-size: 0.72rem;
+            font-weight: 800;
+        }
+
+        /* ★ 修正 2 & 3：通用搜尋框外層與最右邊 X 清空按鈕 */
+        .search-input-box {
+            position: relative;
+            width: 100%;
+            display: flex;
+            align-items: center;
+        }
+        @media (min-width: 768px) {
+            .search-container .search-input-box { max-width: 340px; }
+        }
+        .search-input-box input {
+            width: 100% !important;
+            max-width: none !important;
+            padding-right: 36px !important;
+        }
+        input[type="search"]::-webkit-search-decoration,
+        input[type="search"]::-webkit-search-cancel-button,
+        input[type="search"]::-webkit-search-results-button,
+        input[type="search"]::-webkit-search-results-decoration {
+            -webkit-appearance: none;
+            appearance: none;
+            display: none;
+        }
+        .input-clear-btn {
+            position: absolute;
+            right: 8px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            border: 1.5px solid var(--text-main);
+            background: var(--bg-subtle);
+            color: var(--text-main);
+            font-size: 12px;
+            font-weight: 900;
+            line-height: 1;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            padding: 0;
+            z-index: 5;
+            transition: background 0.15s, transform 0.1s;
+        }
+        .input-clear-btn.visible { display: inline-flex; }
+        .input-clear-btn:hover, .input-clear-btn:active {
+            background: var(--accent);
+            color: #111;
+            transform: translateY(-50%) scale(1.08);
+        }
+
         .am-search-wrap { position: relative; width: 100%; }
         .am-search-input { width: 100%; padding: 7px 11px; border: 2px solid var(--text-main); border-radius: 8px; background: var(--bg-card); color: var(--text-main); font-size: 0.82rem; font-weight: 700; box-shadow: 2px 2px 0px var(--text-main); }
         .am-search-input:focus { outline: none; box-shadow: 3px 3px 0px var(--accent); }
@@ -256,27 +413,64 @@
         .compact-card { display: flex; padding: 12px; gap: 12px; background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 4px 4px 0px var(--text-main); border-radius: 8px; align-items: flex-start; transition: transform 0.2s, box-shadow 0.2s; width: 100%; box-sizing: border-box; overflow: hidden; animation: slideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) backwards; flex-shrink: 0;}
         .compact-card:hover { transform: translate(-2px, -2px); box-shadow: 6px 6px 0px var(--text-main); }
         
-        .cc-date { display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--text-main); color: var(--bg-main); min-width: 52px; padding: 7px 4px; border-radius: 6px; flex-shrink: 0; }
+        /* ★ 修正 5：左側「日期黑塊 ＋ 下方緊湊足跡按鈕」欄位，大幅減少卡片留白 */
+        .cc-left-col {
+            display: flex;
+            flex-direction: column;
+            align-items: stretch;
+            gap: 6px;
+            width: 56px;
+            flex-shrink: 0;
+        }
+        .cc-date { display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--text-main); color: var(--bg-main); width: 100%; padding: 7px 4px; border-radius: 6px; flex-shrink: 0; }
         .cc-date .m { font-size: 11px; font-weight: 800; margin-bottom: 2px; }
         .cc-date .d { font-size: 20px; font-weight: 900; line-height: 1; letter-spacing: -1px;}
         .cc-date .day { font-size: 10px; font-weight: 800; margin-top: 3px; }
         
+        .cc-footprint-side-btn {
+            width: 100%;
+            min-height: 27px;
+            padding: 4px 2px;
+            font-size: 11px;
+            font-weight: 900;
+            border: 2px solid var(--text-main);
+            border-radius: 6px;
+            background: var(--bg-card);
+            color: var(--text-main);
+            cursor: pointer;
+            box-shadow: 2px 2px 0px var(--text-main);
+            text-align: center;
+            white-space: nowrap;
+            transition: all 0.12s;
+            line-height: 1.1;
+        }
+        .cc-footprint-side-btn:hover {
+            background: var(--text-main);
+            color: var(--bg-main);
+        }
+        .cc-footprint-side-btn.active {
+            background: var(--accent);
+            color: #111;
+            box-shadow: none;
+            transform: translate(1.5px, 1.5px);
+        }
+
         .cc-info { flex: 1; min-width: 0; display: flex; flex-direction: column;}
         .cc-title { font-size: 15px; font-weight: 900; color: var(--text-main); line-height: 1.3; margin-bottom: 6px; word-wrap: break-word; }
         .cc-meta { font-size: 12.5px; color: var(--text-secondary); font-weight: 700; margin-bottom: 7px; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
-        .cc-bands { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 6px; }
+        .cc-bands { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 4px; }
         
         .band-tag { font-size: 10.5px; font-weight: 800; padding: 2px 7px; border: 1.5px solid var(--text-main); border-radius: 4px; display: inline-flex; align-items: center; white-space: nowrap; box-shadow: 1px 1px 0px rgba(0,0,0,0.1); transition: transform 0.15s;}
         .band-tag.is-picked { border: 2px solid var(--text-main); box-shadow: 2px 2px 0px var(--text-main); transform: translateY(-1px); font-weight: 900; }
         .b-default { background: var(--text-main); color: var(--bg-main); border-color: var(--text-main); }
         
-        .cc-actions { display: flex; gap: 8px; margin-top: auto; flex-wrap: wrap; }
+        .cc-actions { display: flex; gap: 8px; margin-top: 6px; flex-wrap: wrap; }
         .cc-btn { font-size: 12px; font-weight: 800; padding: 5px 12px; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); text-decoration: none; border-radius: 6px; cursor: pointer; box-shadow: 2px 2px 0px var(--text-main); transition: transform 0.1s, box-shadow 0.1s, background 0.2s; white-space: nowrap; }
         .cc-btn:hover { background: var(--text-main); color: var(--bg-main); }
         .cc-btn.active { background: var(--accent); color: #111; box-shadow: none; transform: translate(2px, 2px); border-color: var(--text-main); }
 
-        .cc-note-wrap, .setlists-wrap { width: 100%; margin-top: 8px; }
-        .cc-note-toggle, .setlist-summary { font-size: 11.5px; font-weight: 800; cursor: pointer; color: var(--text-main); padding: 3px 0; display: inline-block; text-decoration: underline; text-decoration-style: dashed; transition: color 0.2s;}
+        .cc-note-wrap, .setlists-wrap { width: 100%; margin-top: 6px; }
+        .cc-note-toggle, .setlist-summary { font-size: 11.5px; font-weight: 800; cursor: pointer; color: var(--text-main); padding: 2px 0; display: inline-block; text-decoration: underline; text-decoration-style: dashed; transition: color 0.2s;}
         .cc-note-toggle:hover, .setlist-summary:hover { color: var(--accent); }
         .cc-note-content, .setlist-content { font-size: 12px; color: var(--text-main); font-weight:600; background: var(--bg-subtle); padding: 8px 10px; border: 2px dashed var(--border); margin-top: 5px; line-height: 1.6; border-radius: 6px; white-space: pre-wrap; word-wrap: break-word; display: none; }
         .cc-note-content.open, .setlist-content.open { display: block; animation: slideUp 0.2s ease-out; }
@@ -311,7 +505,6 @@
         .map-mode-btn { font-size: 0.7rem; font-weight: 900; padding: 5px 11px; border: none; background: transparent; color: var(--text-secondary); cursor: pointer; transition: all 0.15s; white-space: nowrap; }
         .map-mode-btn.active { background: var(--accent); color: #111; }
 
-        /* 內建程式繪製的 SVG 台灣互動版圖舞台 */
         .svg-map-stage {
             display: grid;
             grid-template-columns: 1fr;
@@ -382,8 +575,8 @@
             padding-right: 4px;
         }
 
-        #taiwan-map-box { width: 100%; height: 400px; border: 2px solid var(--text-main); border-radius: 10px; overflow: hidden; z-index: 10; background: #dce7eb; position: relative; }
-        @media (min-width: 768px) { #taiwan-map-box { height: 460px; } }
+        #taiwan-map-box { width: 100%; height: 420px; border: 2px solid var(--text-main); border-radius: 10px; overflow: hidden; z-index: 10; background: #dce7eb; position: relative; }
+        @media (min-width: 768px) { #taiwan-map-box { height: 480px; } }
         html.dark #taiwan-map-box .leaflet-tile-pane { filter: brightness(0.84) contrast(1.12); }
 
         .ting-map-marker {
@@ -403,6 +596,35 @@
         }
         .ting-map-marker:hover { transform: scale(1.12); z-index: 999 !important; }
         .ting-map-marker.has-picked { background: #ff6600; color: #fff; }
+
+        /* ★ 修正 4：街道實景地圖放大至縣市（Zoom >= 10）時的個別山海/場館座標標籤 */
+        .ting-venue-marker {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            background: var(--bg-card);
+            color: var(--text-main);
+            border: 2px solid #111;
+            border-radius: 8px;
+            font-weight: 900;
+            font-size: 11px;
+            padding: 3px 8px;
+            box-shadow: 2.5px 2.5px 0px #111;
+            white-space: nowrap;
+            transition: transform 0.15s;
+        }
+        .ting-venue-marker:hover { transform: scale(1.1); z-index: 999 !important; }
+        .ting-venue-marker.has-picked {
+            background: var(--accent);
+            color: #111;
+        }
+        .ting-venue-marker .venue-type-badge {
+            font-size: 10px;
+            padding: 0 4px;
+            border-radius: 4px;
+            background: #111;
+            color: #fff;
+        }
 
         .leaflet-popup-content-wrapper, .leaflet-tooltip {
             background: var(--bg-card) !important;
@@ -429,6 +651,37 @@
         .fp-artist-events { display: none; margin-top: 10px; padding-top: 8px; border-top: 1.5px dashed var(--border); font-size: 12px; }
         .fp-artist-events.open { display: block; animation: slideUp 0.18s ease-out; }
         
+        /* ★ 修正 5：右上角浮動「足跡雲端同步狀態」按鈕膠囊 */
+        .floating-sync-pill {
+            position: fixed;
+            top: 82px;
+            right: 14px;
+            z-index: 2200;
+            background: var(--text-main);
+            color: var(--bg-main);
+            border: 2px solid var(--text-main);
+            border-radius: 99px;
+            padding: 7px 14px;
+            font-size: 12px;
+            font-weight: 900;
+            box-shadow: 3px 3px 0px var(--accent);
+            display: none;
+            align-items: center;
+            gap: 7px;
+            cursor: pointer;
+            animation: slideUp 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+            max-width: calc(100vw - 28px);
+        }
+        @media (max-width: 767px) {
+            .floating-sync-pill { top: 122px; right: 10px; }
+        }
+        .floating-sync-pill.show { display: inline-flex; }
+        .floating-sync-pill.synced {
+            background: var(--accent);
+            color: #111;
+            box-shadow: 3px 3px 0px var(--text-main);
+        }
+
         .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text-main); color: var(--bg-main); padding: 10px 20px; font-size: 13px; font-weight: 800; border-radius: 8px; z-index: 3000; box-shadow: 5px 5px 0px var(--accent); max-width: 90vw; text-align: center;}
 
         .site-footer {
@@ -483,6 +736,11 @@
         </div>
     </nav>
 
+    <!-- 右上角浮動足跡同步狀態膠囊 -->
+    <div id="floating-sync-pill" class="floating-sync-pill" onclick="handleFloatingSyncClick()">
+        <span id="floating-sync-text">☁️ 足跡已同步</span>
+    </div>
+
     <div class="container">
         <div class="filter-section" id="filter-section">
             <div class="filter-mode-hint" id="filter-mode-hint"></div>
@@ -490,7 +748,10 @@
         </div>
         
         <div class="search-container" id="search-bar-wrapper">
-            <input type="text" id="search" class="search-input" placeholder="搜尋活動、地點或藝人...">
+            <div class="search-input-box">
+                <input type="text" id="search" class="search-input" placeholder="搜尋活動、地點或藝人...">
+                <button type="button" id="search-clear-btn" class="input-clear-btn" onclick="clearMainSearch()" aria-label="清空搜尋">✕</button>
+            </div>
             <div id="status" style="font-size:10.5px; font-weight:800; color:var(--text-secondary); text-align:right;"></div>
         </div>
         
@@ -502,7 +763,7 @@
         <div id="footprints-actions" style="display:none; margin-bottom: 20px;">
             <div style="background:var(--bg-card); border:2px dashed var(--text-main); padding:16px; border-radius:12px; margin-bottom:18px; box-shadow:4px 4px 0px var(--bg-subtle);">
                 <div style="font-size:13.5px; font-weight:900; margin-bottom:10px; color:var(--text-main); display:flex; justify-content:space-between; align-items:center;">
-                    <span>☁ 我的雲端帳號（自動同步足跡與關注藝人）</span>
+                    <span>☁ 我的雲端帳號（自動同步足跡、關注藝人與自訂分組）</span>
                 </div>
                 <div style="display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-bottom:10px;">
                     <div>
@@ -547,7 +808,7 @@
             <div class="footer-meta">
                 <span>開發者：<strong>Blues32767</strong></span>
                 <span class="footer-dot">·</span>
-                <span>維護日期：<strong id="footer-maintained-date">20261019</strong></span>
+                <span>維護日期：<strong id="footer-maintained-date">20261020</strong></span>
             </div>
             <div class="footer-links">
                 <a href="https://github.com/blues32767?tab=repositories" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="前往開發者 GitHub">
@@ -566,19 +827,25 @@
         </div>
     </footer>
 
-    <!-- 陣容探索與分類篩選視窗 (Artist Explorer Modal) -->
+    <!-- 陣容探索與自訂分組設定視窗 (Artist Explorer & Custom Group Modal) -->
     <div id="artist-modal-backdrop" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="am-modal-title">
         <div class="artist-modal" onclick="event.stopPropagation()">
             <div class="am-header">
                 <div class="am-title-wrap">
-                    <h3 id="am-modal-title">🎸 挑選你關注的藝人陣容</h3>
-                    <p>選中後自動記憶於瀏覽器與雲端 · 首頁將只顯示你挑選的藝人</p>
+                    <h3 id="am-modal-title">🎸 挑選藝人 ＆ 自訂分組設定</h3>
+                    <p>可建立「女偶像」、「樂團」等專屬分組，設定後自動出現於首頁頂部並同步雲端</p>
                 </div>
                 <button class="am-close-btn" onclick="closeArtistModal()">✓ 完成</button>
             </div>
             <div class="am-controls">
-                <div class="am-search-wrap">
+                <!-- 自訂藝人分組切換與建立列 -->
+                <div class="am-group-bar" id="am-group-bar"></div>
+                <div id="am-group-manage" style="display:none;"></div>
+
+                <!-- 搜尋框（最右邊附帶 X 快速清空按鈕） -->
+                <div class="am-search-wrap search-input-box">
                     <input type="search" id="am-search" class="am-search-input" placeholder="🔍 點此輸入藝人名稱、簡稱或英文搜尋...">
+                    <button type="button" id="am-search-clear-btn" class="input-clear-btn" onclick="clearModalSearch()" aria-label="清空藝人搜尋">✕</button>
                 </div>
                 <div class="am-cat-tabs" id="am-cat-tabs"></div>
             </div>
@@ -587,7 +854,7 @@
                 <div class="am-selected-status" id="am-selected-status">目前顯示：全部藝人</div>
                 <div class="am-footer-btns">
                     <button class="cc-btn" onclick="resetBandFilter()">重設為全部</button>
-                    <button class="cc-btn active" onclick="closeArtistModal()">套用並記憶 →</button>
+                    <button class="cc-btn active" onclick="closeArtistModal()">套用並顯示於首頁 →</button>
                 </div>
             </div>
         </div>
@@ -614,7 +881,7 @@
             <div class="am-header">
                 <div class="am-title-wrap">
                     <h3>👤 雲端帳號與匿名設定</h3>
-                    <p>自動跨裝置同步「關注藝人清單」與「現場足跡」</p>
+                    <p>自動跨裝置同步「自訂藝人分組」、「關注清單」與「現場足跡」</p>
                 </div>
                 <button class="am-close-btn" onclick="closeAccountModal()">✕ 關閉</button>
             </div>
@@ -631,7 +898,7 @@
                     <input type="text" id="modal-user-nick" class="am-search-input" placeholder="例如：MJ-ADMIN" maxlength="20">
                 </div>
                 <div style="font-size:11.5px; color:var(--text-secondary); font-weight:700; line-height:1.5; background:var(--bg-subtle); padding:10px; border-radius:8px; border:1.5px dashed var(--border);">
-                    💡 登入後，你在網頁上挑選的<strong>關注藝人團體</strong>與<strong>參戰足跡</strong>都會自動綁定並儲存在雲端，下次換手機或電腦打開都能一鍵載入！
+                    💡 登入後，你在網頁上建立的<strong>自訂藝人分組（如女偶像、樂團）</strong>、<strong>關注清單</strong>與<strong>參戰足跡</strong>都會自動綁定並儲存在雲端，下次換手機或電腦打開都能一鍵載入！
                 </div>
             </div>
             <div class="am-footer">
@@ -652,7 +919,7 @@
 
     <script>
         // ★ 開發者更新 index.html 時，只需修改此處的維護日期即可自動反映於頁尾 ★
-        const MAINTAINED_DATE = '20261019';
+        const MAINTAINED_DATE = '20261020';
         const GAS_URL = 'https://script.google.com/macros/s/AKfycbwR49SJXjZM55RzbhpQyDv39sVM2J91U8BSs7gKlATQihm_QC60HOHH6FQtiA4CvLJexg/exec';
         const DATA_URL = './data.json';
         const TOP_PINNED_LIMIT = 6;
@@ -663,7 +930,7 @@
         let rawBands = [];
         let leafletMap = null;
         let mapScopeMode = 'footprints'; // 'footprints' | 'all'
-        let mapVisualType = 'svg';       // 'svg' (預設：內建手繪向量台灣地圖，免網路圖磚秒開) | 'tile' (台灣國土測繪中心/OSM 免費街道地圖)
+        let mapVisualType = 'svg';       // 'svg' (預設：內建手繪向量台灣地圖) | 'tile' (台灣國土測繪中心/OSM 免費街道地圖)
         let selectedMapCity = '';
         
         const DAY_NAMES = ['日', '一', '二', '三', '四', '五', '六'];
@@ -698,11 +965,94 @@
             { name: '海外', region: '離島与海外', lat: 25.3500, lng: 122.4500, svgX: 42,  svgY: 365, labelDir: 'right', regex: /香港|澳門|馬來西亞|吉隆坡|東京|日本|溫哥華|加拿大|首爾|韓國|泰國|新加坡|Macau|Hong\s*Kong|Vancouver|Kuala\s*Lumpur/i }
         ];
 
+        // ★ 修正 4：內建台灣各縣市山海景點、大學與展演場館精準經緯度字典（供街道實景地圖放大至縣市時標記實際地點） ★
+        const TAIWAN_SUBVENUE_COORDS = [
+            // 台北 / 新北 / 基隆
+            { regex: /華山|八德資訊商圈|八德路一段/, lat: 25.0441, lng: 121.5294, tag: '華山/八德商圈' },
+            { regex: /流行音樂中心|北流|南港/, lat: 25.0528, lng: 121.6075, tag: '北流/南港' },
+            { regex: /花博|圓山|MAJI/, lat: 25.0697, lng: 121.5222, tag: '圓山花博' },
+            { regex: /大佳河濱/, lat: 25.0762, lng: 121.5395, tag: '🌊 大佳河濱' },
+            { regex: /美堤河濱/, lat: 25.0772, lng: 121.5598, tag: '🌊 美堤河濱' },
+            { regex: /天母棒球場/, lat: 25.1136, lng: 121.5342, tag: '天母棒球場' },
+            { regex: /天母運動公園|天母/, lat: 25.1165, lng: 121.5320, tag: '天母運動公園' },
+            { regex: /中山堂|西門/, lat: 25.0432, lng: 121.5097, tag: '西門中山堂' },
+            { regex: /信義|香堤|ATT\s*4\s*FUN|101/, lat: 25.0356, lng: 121.5665, tag: '信義商圈' },
+            { regex: /林森公園|條通/, lat: 25.0525, lng: 121.5256, tag: '中山林森公園' },
+            { regex: /CORNER\s*MAX/, lat: 25.0226, lng: 121.5542, tag: 'CORNER MAX' },
+            { regex: /中國科技大學/, lat: 24.9992, lng: 121.5553, tag: '文山區中國科大' },
+            { regex: /福隆|貢寮/, lat: 25.0195, lng: 121.9447, tag: '🌊 貢寮福隆海邊' },
+            { regex: /淡水|漁人碼頭|淡江/, lat: 25.1828, lng: 121.4126, tag: '🌊 淡水漁人碼頭' },
+            // 桃園 / 新竹 / 苗栗
+            { regex: /竹圍漁港/, lat: 25.1118, lng: 121.2422, tag: '🌊 大園竹圍漁港' },
+            { regex: /陽光劇場|大園/, lat: 25.0185, lng: 121.2136, tag: '桃園陽光劇場' },
+            { regex: /樂天桃園棒球場/, lat: 25.0005, lng: 121.2016, tag: '青埔樂天棒球場' },
+            { regex: /萬能科技大學|中壢/, lat: 24.9912, lng: 121.2335, tag: '中壢萬能科大' },
+            { regex: /大湳雅公園/, lat: 24.8211, lng: 120.9612, tag: '新竹大湳雅公園' },
+            { regex: /竹蓮寺/, lat: 24.7982, lng: 120.9705, tag: '新竹竹蓮寺' },
+            { regex: /影像博物館/, lat: 24.8048, lng: 120.9692, tag: '新竹影像博物館' },
+            { regex: /新竹縣政府|竹北/, lat: 24.8268, lng: 121.0129, tag: '竹北縣府廣場' },
+            { regex: /好望角|新港國中小|後龍/, lat: 24.6025, lng: 120.7312, tag: '🌊 後龍好望角海邊' },
+            { regex: /後龍溪河濱公園|苗栗市/, lat: 24.5658, lng: 120.8295, tag: '苗栗後龍溪河濱' },
+            { regex: /頭份|六合綜合運動場|竹南/, lat: 24.6882, lng: 120.9065, tag: '頭份六合運動場' },
+            { regex: /泰安|南庄|三義|蟹逅/, lat: 24.4425, lng: 120.9312, tag: '⛰️ 苗栗山線場域' },
+            // 台中 / 彰化 / 南投
+            { regex: /大安港|嗨安祭/, lat: 24.3821, lng: 120.5852, tag: '🌊 台中大安港海邊' },
+            { regex: /鰲峰山|自由車場|清水/, lat: 24.2712, lng: 120.5885, tag: '⛰️ 清水鰲峰山' },
+            { regex: /水湳|中央公園/, lat: 24.1885, lng: 120.6525, tag: '水湳中央公園' },
+            { regex: /文心森林|圓滿戶外/, lat: 24.1456, lng: 120.6462, tag: '文心森林公園' },
+            { regex: /一中商圈|水利大樓|台中科技大學|中科大/, lat: 24.1512, lng: 120.6845, tag: '一中商圈/中科大' },
+            { regex: /豐原體育場|豐原/, lat: 24.2562, lng: 120.7125, tag: '豐原體育場' },
+            { regex: /水渼渼|外埔|后里/, lat: 24.3215, lng: 120.6582, tag: '⛰️ 外埔水渼渼牧場' },
+            { regex: /鹿港體育場/, lat: 24.0632, lng: 120.4395, tag: '鹿港體育場' },
+            { regex: /鹿港|龍山寺/, lat: 24.0505, lng: 120.4352, tag: '鹿港龍山寺周邊' },
+            { regex: /溪湖/, lat: 23.9612, lng: 120.4815, tag: '彰化溪湖' },
+            { regex: /員林/, lat: 23.9592, lng: 120.5715, tag: '彰化員林公園' },
+            { regex: /暨南國際大學|埔里/, lat: 23.9515, lng: 120.9275, tag: '⛰️ 埔里暨南大學' },
+            { regex: /竹山/, lat: 23.7575, lng: 120.6825, tag: '⛰️ 南投竹山' },
+            { regex: /農工商會展中心|南投市/, lat: 23.9025, lng: 120.6915, tag: '南投會展中心' },
+            // 雲林 / 嘉義 / 台南 / 高雄 / 屏東
+            { regex: /三條崙|四湖/, lat: 23.6585, lng: 120.1525, tag: '🌊 四湖三條崙海邊' },
+            { regex: /大同技術學院|嘉義市/, lat: 23.4712, lng: 120.4615, tag: '嘉義市大同學院' },
+            { regex: /漁光島/, lat: 22.9792, lng: 120.1565, tag: '🌊 台南漁光島海邊' },
+            { regex: /觀夕平台|安平/, lat: 22.9965, lng: 120.1455, tag: '🌊 安平觀夕海邊' },
+            { regex: /官田|西拉雅/, lat: 23.1892, lng: 120.3412, tag: '⛰️ 官田西拉雅草原' },
+            { regex: /迎曦湖|新市|南科/, lat: 23.0955, lng: 120.2815, tag: '南科迎曦湖' },
+            { regex: /台南應用科技大學|永康/, lat: 23.0385, lng: 120.2395, tag: '永康南應大' },
+            { regex: /南紡/, lat: 22.9912, lng: 120.2335, tag: '東區南紡廣場' },
+            { regex: /成功大學|成大/, lat: 22.9968, lng: 120.2195, tag: '台南成功大學' },
+            { regex: /小北門|西門路四段/, lat: 23.0092, lng: 120.2075, tag: '北區小北門廣場' },
+            { regex: /友愛街|一生弦命/, lat: 22.9918, lng: 120.2005, tag: '中西區友愛街' },
+            { regex: /高雄流行音樂中心|高流|海風廣場/, lat: 22.6185, lng: 120.2855, tag: '🌊 高流海風廣場' },
+            { regex: /駁二|大港/, lat: 22.6202, lng: 120.2815, tag: '🌊 駁二藝術特區' },
+            { regex: /高雄巨蛋/, lat: 22.6692, lng: 120.3025, tag: '左營高雄巨蛋' },
+            { regex: /中央公園/, lat: 22.6245, lng: 120.3012, tag: '高雄中央公園' },
+            { regex: /楠梓|中山高中/, lat: 22.7285, lng: 120.2965, tag: '楠梓中山高中' },
+            { regex: /岡山/, lat: 22.7815, lng: 120.2995, tag: '岡山樂購廣場' },
+            { regex: /屏東科技大學|屏科大|內埔/, lat: 22.6425, lng: 120.6055, tag: '⛰️ 內埔屏科大情人坡' },
+            { regex: /鹽琉趴|新園/, lat: 22.4735, lng: 120.4465, tag: '🌊 新園海洋園區' },
+            { regex: /墾丁|大灣|南國趴/, lat: 21.9435, lng: 120.7985, tag: '🌊 墾丁大灣海邊' },
+            { regex: /恆春/, lat: 22.0045, lng: 120.7435, tag: '恆春古城北門' },
+            // 宜蘭 / 花蓮 / 台東 / 離島
+            { regex: /宜蘭市運動公園/, lat: 24.7425, lng: 121.7615, tag: '宜蘭運動公園' },
+            { regex: /知卡宣|吉安/, lat: 23.9512, lng: 121.5825, tag: '吉安知卡宣公園' },
+            { regex: /富里|天使之眼/, lat: 23.1955, lng: 121.2615, tag: '⛰️ 富里天使之眼草原' },
+            { regex: /都歷|成功鎮|月光海/, lat: 23.0215, lng: 121.3315, tag: '🌊 成功鎮都歷海邊' },
+            { regex: /9420|大武/, lat: 22.3565, lng: 120.9055, tag: '🌊 大武9420濱海' },
+            { regex: /觀音亭|馬公/, lat: 23.5685, lng: 119.5615, tag: '🌊 馬公觀音亭海邊' },
+            { regex: /后湖海濱/, lat: 24.4125, lng: 118.3325, tag: '🌊 金門后湖海邊' },
+            { regex: /莒光公園|金城/, lat: 24.4265, lng: 118.3185, tag: '金門金城莒光公園' }
+        ];
+
         let data = { upcoming: [], events: [], bands: [] };
         let tab = 'upcoming', query = '', limit = 24;
 
         const savedBandsArr = storage.get('ting-selected-bands', ['all']);
         let selectedBands = new Set(Array.isArray(savedBandsArr) && savedBandsArr.length > 0 ? savedBandsArr : ['all']);
+
+        // ★ 修正 1：自訂藝人分組狀態（同時記憶於瀏覽器 localStorage 與雲端 UserData）
+        let customGroups = storage.get('ting-custom-groups', []);
+        let activeGroupFilterId = storage.get('ting-active-group-id', '');
+        let modalEditingTarget = 'default'; // 'default' | group.id
 
         let modalCategory = 'all';
         let modalSearchQuery = '';
@@ -712,6 +1062,7 @@
         let userNickname = storage.get('ting-user-nickname', '');
         let calendar;
         let autoSyncTimer = null;
+        let floatingPillTimer = null;
 
         const taipeiParts = Object.fromEntries(new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Taipei', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date()).map(p => [p.type, p.value]));
         const taipeiToday = taipeiParts.year + taipeiParts.month + taipeiParts.day;
@@ -792,7 +1143,6 @@
             return `${hrs} 小時 ${mins} 分鐘`;
         }
 
-        // 將場館名稱正規化（例如把「台北市八德路一段1號(華山1914...)」美化為知名場館名）
         function beautifyVenueName(rawLoc) {
             const s = normText(rawLoc).replace(/（.*?）|\(.*?\)/g, '').trim();
             if (!s || isPlaceholderTitle(s)) return '';
@@ -829,6 +1179,42 @@
                 svgX: matchedCity.svgX,
                 svgY: matchedCity.svgY,
                 labelDir: matchedCity.labelDir
+            };
+        }
+
+        // ★ 修正 4：解析單一活動在縣市內的精準山海/場館經緯度
+        function resolveVenueLatLng(g, indexInCity = 0) {
+            const baseGeo = g._geo || detectEventGeo(g);
+            const fullText = `${g.location || ''} ${g.name || ''} ${g.mapLink || ''} ${(g.notes || []).join(' ')}`;
+
+            // 1. 若 mapLink 或備註內含明確經緯度 (如 @24.123,120.456 或 q=24.123,120.456)
+            const coordMatch = fullText.match(/(?:@|q=|ll=)(2[1-6]\.\d{3,}),\s*(1(?:1[89]|2[012])\.\d{3,})/);
+            if (coordMatch) {
+                return {
+                    lat: parseFloat(coordMatch[1]),
+                    lng: parseFloat(coordMatch[2]),
+                    venueLabel: beautifyVenueName(g.location || g.name) || baseGeo.city
+                };
+            }
+
+            // 2. 比對內建山海景點與展演場館經緯度字典
+            for (const item of TAIWAN_SUBVENUE_COORDS) {
+                if (item.regex.test(fullText)) {
+                    return {
+                        lat: item.lat,
+                        lng: item.lng,
+                        venueLabel: item.tag
+                    };
+                }
+            }
+
+            // 3. 若無特定子場館命中，以縣市中心點做黃金角微幅環狀散開（避免重疊）
+            const angle = indexInCity * 2.39996;
+            const radius = 0.012 * Math.sqrt(indexInCity + 1);
+            return {
+                lat: baseGeo.lat + radius * Math.cos(angle),
+                lng: baseGeo.lng + radius * Math.sin(angle),
+                venueLabel: beautifyVenueName(g.location || g.name) || baseGeo.city
             };
         }
 
@@ -879,7 +1265,122 @@
             return false;
         }
 
+        // ============================================================================
+        // ★ 修正 1：自訂藝人分組管理邏輯
+        // ============================================================================
+        function saveCustomGroupsToStorage() {
+            storage.set('ting-custom-groups', customGroups);
+            storage.set('ting-active-group-id', activeGroupFilterId);
+            scheduleSilentCloudPush();
+        }
+
+        function getEffectiveSelectedBandSet() {
+            if (activeGroupFilterId) {
+                const grp = customGroups.find(g => g.id === activeGroupFilterId);
+                if (grp && Array.isArray(grp.bandIds) && grp.bandIds.length > 0) {
+                    return new Set(grp.bandIds.map(resolveCanonicalBandId));
+                }
+            }
+            return selectedBands;
+        }
+
+        function createNewArtistGroup() {
+            if (customGroups.length >= 8) {
+                showToast('最多可建立 8 個自訂分組喔！');
+                return;
+            }
+            const defaultName = `組別 ${customGroups.length + 1}`;
+            const name = prompt('請輸入自訂分組名稱（例如：女偶像、獨立樂團、必看本命）：', defaultName);
+            if (!name || !name.trim()) return;
+            const cleanName = name.trim().slice(0, 12);
+            const newGrp = {
+                id: 'grp_' + Date.now().toString(36),
+                name: cleanName,
+                bandIds: []
+            };
+            customGroups.push(newGrp);
+            modalEditingTarget = newGrp.id;
+            activeGroupFilterId = newGrp.id;
+            saveCustomGroupsToStorage();
+            renderFilters();
+            renderArtistModalContent();
+            showToast(`📁 已建立「${cleanName}」，請直接點選下方藝人卡片加入此分組！`);
+        }
+
+        function renameCurrentArtistGroup(grpId) {
+            const grp = customGroups.find(g => g.id === grpId);
+            if (!grp) return;
+            const nextName = prompt('修改分組名稱：', grp.name);
+            if (!nextName || !nextName.trim()) return;
+            grp.name = nextName.trim().slice(0, 12);
+            saveCustomGroupsToStorage();
+            renderFilters();
+            renderArtistModalContent();
+            showToast(`✏️ 已更名為「${grp.name}」`);
+        }
+
+        function deleteCurrentArtistGroup(grpId) {
+            const grp = customGroups.find(g => g.id === grpId);
+            if (!grp) return;
+            if (!confirm(`確定要刪除「${grp.name}」分組嗎？`)) return;
+            customGroups = customGroups.filter(g => g.id !== grpId);
+            if (activeGroupFilterId === grpId) activeGroupFilterId = '';
+            modalEditingTarget = 'default';
+            saveCustomGroupsToStorage();
+            renderFilters();
+            renderArtistModalContent();
+            if (tab === 'calendar') renderCalendar();
+            else render();
+            showToast(`🗑️ 已刪除分組「${grp.name}」`);
+        }
+
+        function selectModalEditingTarget(targetId) {
+            modalEditingTarget = targetId;
+            if (targetId !== 'default') {
+                const grp = customGroups.find(g => g.id === targetId);
+                if (grp && grp.bandIds.length > 0) {
+                    activeGroupFilterId = targetId;
+                }
+            } else {
+                activeGroupFilterId = '';
+            }
+            saveCustomGroupsToStorage();
+            renderFilters();
+            renderArtistModalContent();
+            if (tab === 'calendar') renderCalendar();
+            else render();
+        }
+
+        function activateGroupOnHome(grpId) {
+            const grp = customGroups.find(g => g.id === grpId);
+            if (!grp) return;
+            if (grp.bandIds.length === 0) {
+                modalEditingTarget = grpId;
+                openArtistModal();
+                showToast(`請先為「${grp.name}」勾選至少 1 組藝人！`);
+                return;
+            }
+            if (activeGroupFilterId === grpId) {
+                activeGroupFilterId = '';
+                selectedBands.clear();
+                selectedBands.add('all');
+            } else {
+                activeGroupFilterId = grpId;
+                modalEditingTarget = grpId;
+            }
+            saveCustomGroupsToStorage();
+            renderFilters();
+            limit = 24;
+            if (tab === 'calendar') renderCalendar();
+            else render();
+        }
+
         function openArtistModal() {
+            if (activeGroupFilterId && customGroups.some(g => g.id === activeGroupFilterId)) {
+                modalEditingTarget = activeGroupFilterId;
+            } else {
+                modalEditingTarget = 'default';
+            }
             $('#artist-modal-backdrop').classList.add('open');
             syncBodyModalLock();
             renderArtistModalContent();
@@ -891,7 +1392,11 @@
         function closeArtistModal() {
             $('#am-search').blur();
             $('#artist-modal-backdrop').classList.remove('open');
+            $('#artist-modal-backdrop').classList.remove('keyboard-active');
             syncBodyModalLock();
+            renderFilters();
+            if (tab === 'calendar') renderCalendar();
+            else render();
         }
 
         function closeCalendarDayModal() {
@@ -959,7 +1464,7 @@
             $('#user-nick-input').value = '';
             updateUserNavUI();
             closeAccountModal();
-            showToast('已登出雲端帳號（本地瀏覽器偏好仍保留）');
+            showToast('已登出雲端帳號（本地瀏覽器分組與偏好仍保留）');
         }
 
         function updateUserNavUI() {
@@ -989,8 +1494,11 @@
         }
 
         function resetBandFilter() {
+            activeGroupFilterId = '';
+            modalEditingTarget = 'default';
             selectedBands.clear();
             selectedBands.add('all');
+            saveCustomGroupsToStorage();
             persistBandSelection();
             renderFilters();
             if ($('#artist-modal-backdrop').classList.contains('open')) {
@@ -1001,13 +1509,54 @@
             else render();
         }
 
+        // ============================================================================
+        // ★ 修正 5：右上角浮動足跡同步狀態顯示 ＋ 自動背景雲端同步
+        // ============================================================================
+        function showFloatingSyncStatus(state) {
+            const pill = $('#floating-sync-pill');
+            const txt = $('#floating-sync-text');
+            if (!pill || !txt) return;
+
+            pill.classList.add('show');
+            clearTimeout(floatingPillTimer);
+
+            if (state === 'syncing') {
+                pill.classList.remove('synced');
+                txt.innerText = `⏳ 足跡自動儲存雲端中... (共 ${footprints.size} 場)`;
+            } else if (state === 'synced') {
+                pill.classList.add('synced');
+                txt.innerText = `☁️ 已自動同步雲端 (${userNickname || userId}) · 查看足跡 →`;
+                floatingPillTimer = setTimeout(() => pill.classList.remove('show'), 4500);
+            } else if (state === 'local_only') {
+                pill.classList.remove('synced');
+                txt.innerText = `💾 已存於瀏覽器 (${footprints.size}場) · 點此綁定雲端防遺失 →`;
+                floatingPillTimer = setTimeout(() => pill.classList.remove('show'), 5500);
+            }
+        }
+
+        function handleFloatingSyncClick() {
+            $('#floating-sync-pill')?.classList.remove('show');
+            if (!userId) {
+                openAccountModal();
+            } else {
+                document.querySelector('[data-tab="footprints"]')?.click();
+            }
+        }
+
         function toggleFootprint(idsStr, btn) {
             const ids = idsStr.split(','), isActive = btn.classList.contains('active');
             ids.forEach(id => { if (isActive) footprints.delete(id); else footprints.add(id); });
             storage.set('ting-footprints', [...footprints]);
             btn.classList.toggle('active');
             btn.innerText = isActive ? '＋ 足跡' : '✓ 足跡';
-            scheduleSilentCloudPush();
+
+            if (userId && GAS_URL.startsWith('https://script.google.com/')) {
+                showFloatingSyncStatus('syncing');
+                scheduleSilentCloudPush(true);
+            } else {
+                showFloatingSyncStatus('local_only');
+            }
+
             if (tab === 'footprints' || tab === 'map') render();
         }
 
@@ -1101,9 +1650,11 @@
 
         function buildCloudPayloadString() {
             return JSON.stringify({
-                v: 2,
+                v: 3,
                 nickname: userNickname || '',
                 selectedBands: [...selectedBands],
+                customGroups: customGroups,
+                activeGroupFilterId: activeGroupFilterId,
                 footprints: [...footprints]
             });
         }
@@ -1127,6 +1678,25 @@
                         $('#user-nick-input').value = userNickname;
                         storage.set('ting-user-nickname', userNickname);
                     }
+                    if (Array.isArray(parsed.customGroups) && parsed.customGroups.length > 0) {
+                        const mergedMap = new Map();
+                        customGroups.forEach(g => mergedMap.set(g.id, g));
+                        parsed.customGroups.forEach(cg => {
+                            if (cg && cg.id && cg.name) {
+                                mergedMap.set(cg.id, {
+                                    id: cg.id,
+                                    name: String(cg.name).slice(0, 12),
+                                    bandIds: Array.isArray(cg.bandIds) ? cg.bandIds.map(resolveCanonicalBandId) : []
+                                });
+                            }
+                        });
+                        customGroups = [...mergedMap.values()].slice(0, 8);
+                        storage.set('ting-custom-groups', customGroups);
+                    }
+                    if (typeof parsed.activeGroupFilterId === 'string' && preferCloudBands) {
+                        activeGroupFilterId = parsed.activeGroupFilterId;
+                        storage.set('ting-active-group-id', activeGroupFilterId);
+                    }
                     if (Array.isArray(parsed.selectedBands) && parsed.selectedBands.length > 0) {
                         const localIsAll = selectedBands.size === 1 && selectedBands.has('all');
                         const cloudIsSpecific = !(parsed.selectedBands.length === 1 && parsed.selectedBands[0] === 'all');
@@ -1141,7 +1711,7 @@
             } catch (e) {}
         }
 
-        function scheduleSilentCloudPush() {
+        function scheduleSilentCloudPush(showFeedback = false) {
             if (!userId || !GAS_URL.startsWith('https://script.google.com/')) return;
             clearTimeout(autoSyncTimer);
             autoSyncTimer = setTimeout(async () => {
@@ -1156,8 +1726,11 @@
                             data: buildCloudPayloadString()
                         })
                     });
-                } catch (e) {}
-            }, 1200);
+                    if (showFeedback) showFloatingSyncStatus('synced');
+                } catch (e) {
+                    if (showFeedback) showToast('⚠️ 雲端同步暫時失敗，已保留於本機');
+                }
+            }, 850);
         }
 
         async function cloudLoginAndSync() {
@@ -1306,6 +1879,20 @@
                 storage.set('ting-selected-bands', [...selectedBands]);
             }
 
+            // 同步清理自訂分組內的過期/合併藝人代號
+            customGroups.forEach(grp => {
+                if (Array.isArray(grp.bandIds)) {
+                    grp.bandIds = [...new Set(grp.bandIds.map(resolveCanonicalBandId).filter(id => BANDS_MAP[id]))];
+                } else {
+                    grp.bandIds = [];
+                }
+            });
+            if (activeGroupFilterId && !customGroups.some(g => g.id === activeGroupFilterId && g.bandIds.length > 0)) {
+                activeGroupFilterId = '';
+            }
+            storage.set('ting-custom-groups', customGroups);
+            storage.set('ting-active-group-id', activeGroupFilterId);
+
             const gradientColors = enriched.slice(0, 6).map(b => b.color);
             let css = `
                 @keyframes gradient-flow { 0% { background-position: 0% 50%; } 100% { background-position: 100% 50%; } }
@@ -1368,13 +1955,17 @@
         }
 
         function renderFilters() {
-            const isAllMode = selectedBands.has('all') || selectedBands.size === 0;
+            const activeGrp = activeGroupFilterId ? customGroups.find(g => g.id === activeGroupFilterId) : null;
+            const isAllMode = !activeGrp && (selectedBands.has('all') || selectedBands.size === 0);
             const hintEl = $('#filter-mode-hint');
 
             let visibleBands = [];
-            if (isAllMode) {
+            if (activeGrp) {
+                visibleBands = rawBands.filter(b => activeGrp.bandIds.includes(b.id));
+                hintEl.innerHTML = `<span>📁 目前檢視自訂分組：<strong>${esc(activeGrp.name)}</strong> (${visibleBands.length} 組藝人 · 點擊其他分組或全部可切換)</span>`;
+            } else if (isAllMode) {
                 visibleBands = rawBands.slice(0, TOP_PINNED_LIMIT);
-                hintEl.innerHTML = `<span>🔥 熱門排行前 ${visibleBands.length} 組（點選藝人可固定為你的專屬清單）</span>`;
+                hintEl.innerHTML = `<span>🔥 熱門排行前 ${visibleBands.length} 組${customGroups.length > 0 ? ' · 點選自訂組別可秒切' : '（點「挑選藝人/分組」可建立專屬組別）'}</span>`;
             } else {
                 visibleBands = rawBands.filter(b => selectedBands.has(b.id));
                 hintEl.innerHTML = `<span>📌 我的專屬關注藝人 (${visibleBands.length} 組 · 已自動記憶)</span>`;
@@ -1382,8 +1973,18 @@
 
             let html = `<button class="filter-btn fb-all ${isAllMode ? 'active' : ''}" data-band="all">全部</button>`;
             
+            // 使用者自訂分組膠囊直接排在「全部」後面
+            customGroups.forEach(grp => {
+                const isGrpActive = activeGroupFilterId === grp.id;
+                html += `
+                <button type="button" class="filter-btn fb-group ${isGrpActive ? 'active' : ''}" onclick="activateGroupOnHome('${esc(grp.id)}')" title="自訂分組：${esc(grp.name)} (共 ${grp.bandIds.length} 組藝人)">
+                    <span>📁 ${esc(grp.name)}</span>
+                    <span class="filter-count-pill">${grp.bandIds.length}</span>
+                </button>`;
+            });
+
             visibleBands.forEach(b => {
-                const isActive = !isAllMode && selectedBands.has(b.id);
+                const isActive = !activeGrp && !isAllMode && selectedBands.has(b.id);
                 html += `
                 <button class="filter-btn fb-${esc(b.id)} ${isActive ? 'active' : ''}" data-band="${esc(b.id)}" title="${esc(b.category)} · 共 ${b.totalCount} 場演出 (點擊可切換)">
                     <span>${esc(b.name)}</span>
@@ -1393,9 +1994,9 @@
 
             if (isAllMode) {
                 const hiddenCount = Math.max(0, rawBands.length - visibleBands.length);
-                html += `<button type="button" class="explore-trigger-btn" onclick="openArtistModal()">🔍 挑選藝人 (${rawBands.length}組 · +${hiddenCount}更多)</button>`;
+                html += `<button type="button" class="explore-trigger-btn" onclick="openArtistModal()">🔍 挑選藝人 / 分組 (${rawBands.length}組 · +${hiddenCount}更多)</button>`;
             } else {
-                html += `<button type="button" class="explore-trigger-btn" onclick="openArtistModal()">➕ 增減藝人 (共${rawBands.length}組)</button>`;
+                html += `<button type="button" class="explore-trigger-btn" onclick="openArtistModal()">➕ 增減藝人 / 分組 (共${rawBands.length}組)</button>`;
                 html += `<button type="button" class="clear-filter-btn" onclick="resetBandFilter()">✕ 顯示全部</button>`;
             }
 
@@ -1404,9 +2005,21 @@
 
         function toggleBandSelection(id) {
             if (id === 'all') {
+                activeGroupFilterId = '';
                 selectedBands.clear();
                 selectedBands.add('all');
+                saveCustomGroupsToStorage();
+            } else if ($('#artist-modal-backdrop').classList.contains('open') && modalEditingTarget !== 'default') {
+                const grp = customGroups.find(g => g.id === modalEditingTarget);
+                if (grp) {
+                    const idx = grp.bandIds.indexOf(id);
+                    if (idx === -1) grp.bandIds.push(id);
+                    else grp.bandIds.splice(idx, 1);
+                    activeGroupFilterId = grp.bandIds.length > 0 ? grp.id : '';
+                    saveCustomGroupsToStorage();
+                }
             } else {
+                activeGroupFilterId = '';
                 selectedBands.delete('all');
                 if (selectedBands.has(id)) {
                     selectedBands.delete(id);
@@ -1414,6 +2027,7 @@
                 } else {
                     selectedBands.add(id);
                 }
+                saveCustomGroupsToStorage();
             }
             persistBandSelection();
             renderFilters();
@@ -1432,12 +2046,69 @@
             }
         });
 
+        // ★ 修正 2 & 3：搜尋框 X 清空按鈕與手機鍵盤聚焦收合控制
+        function clearModalSearch() {
+            const input = $('#am-search');
+            input.value = '';
+            modalSearchQuery = '';
+            $('#am-search-clear-btn')?.classList.remove('visible');
+            renderArtistModalContent();
+            input.focus();
+        }
+
+        function clearMainSearch() {
+            const input = $('#search');
+            input.value = '';
+            query = '';
+            limit = 24;
+            $('#search-clear-btn')?.classList.remove('visible');
+            render();
+        }
+
         $('#am-search').addEventListener('input', e => {
             modalSearchQuery = e.target.value.trim().toLowerCase();
+            $('#am-search-clear-btn')?.classList.toggle('visible', modalSearchQuery.length > 0);
             renderArtistModalContent();
+        });
+        $('#am-search').addEventListener('focus', () => {
+            if (window.innerWidth < 768) $('#artist-modal-backdrop').classList.add('keyboard-active');
+        });
+        $('#am-search').addEventListener('blur', () => {
+            $('#artist-modal-backdrop').classList.remove('keyboard-active');
         });
 
         function renderArtistModalContent() {
+            // 1. 渲染頂部「自訂分組工作區」
+            let groupBarHtml = `
+                <button type="button" class="am-group-chip ${modalEditingTarget === 'default' ? 'active' : ''}" onclick="selectModalEditingTarget('default')">
+                    📌 單一挑選 (${selectedBands.has('all') ? 0 : selectedBands.size})
+                </button>`;
+            customGroups.forEach(grp => {
+                const isEditing = modalEditingTarget === grp.id;
+                groupBarHtml += `
+                <button type="button" class="am-group-chip ${isEditing ? 'active' : ''}" onclick="selectModalEditingTarget('${esc(grp.id)}')">
+                    📁 ${esc(grp.name)} (${grp.bandIds.length})
+                </button>`;
+            });
+            groupBarHtml += `<button type="button" class="am-group-add-btn" onclick="createNewArtistGroup()">＋ 新增分組</button>`;
+            $('#am-group-bar').innerHTML = groupBarHtml;
+
+            const currentEditingGrp = modalEditingTarget !== 'default' ? customGroups.find(g => g.id === modalEditingTarget) : null;
+            const manageEl = $('#am-group-manage');
+            if (currentEditingGrp) {
+                manageEl.style.display = 'flex';
+                manageEl.className = 'am-group-manage-row';
+                manageEl.innerHTML = `
+                    <span>正在勾選「<strong>📁 ${esc(currentEditingGrp.name)}</strong>」的藝人（已選 ${currentEditingGrp.bandIds.length} 組）</span>
+                    <div style="display:flex;gap:6px;">
+                        <button type="button" class="cc-btn" style="padding:2px 8px;font-size:11px;" onclick="renameCurrentArtistGroup('${esc(currentEditingGrp.id)}')">✎ 改名</button>
+                        <button type="button" class="cc-btn" style="padding:2px 8px;font-size:11px;color:#a5262d;border-color:#a5262d;" onclick="deleteCurrentArtistGroup('${esc(currentEditingGrp.id)}')">🗑 刪除組別</button>
+                    </div>`;
+            } else {
+                manageEl.style.display = 'none';
+            }
+
+            // 2. 渲染類別篩選籤頁
             const catCounts = { all: rawBands.length, '樂團': 0, '個人': 0, '團體': 0 };
             rawBands.forEach(b => {
                 if (catCounts[b.category] !== undefined) catCounts[b.category]++;
@@ -1458,6 +2129,7 @@
                 </button>
             `).join('');
 
+            // 3. 篩選並渲染藝人卡片
             const qNorm = normBandCompareKey(modalSearchQuery);
             const filtered = rawBands.filter(b => {
                 if (modalCategory !== 'all' && b.category !== modalCategory) return false;
@@ -1473,7 +2145,9 @@
                 $('#am-list').innerHTML = `<div class="empty-state" style="padding:2rem 1rem;">找不到符合「${esc(modalSearchQuery)}」的藝人。</div>`;
             } else {
                 $('#am-list').innerHTML = filtered.map((b, idx) => {
-                    const isSelected = !selectedBands.has('all') && selectedBands.has(b.id);
+                    const isSelected = currentEditingGrp
+                        ? currentEditingGrp.bandIds.includes(b.id)
+                        : (!selectedBands.has('all') && selectedBands.has(b.id));
                     const catIcon = b.category === '個人' ? '🎤' : (b.category === '團體' ? '👥' : '🎸');
                     return `
                     <div class="am-item ${isSelected ? 'selected' : ''}" onclick="toggleBandSelection('${esc(b.id)}')">
@@ -1489,8 +2163,11 @@
                 }).join('');
             }
 
-            if (selectedBands.has('all')) {
-                $('#am-selected-status').innerText = `目前顯示：全部藝人（點選卡片可建立專屬清單）`;
+            if (currentEditingGrp) {
+                const names = currentEditingGrp.bandIds.map(id => bandInfo(id).name).join('、') || '尚未勾選藝人';
+                $('#am-selected-status').innerText = `📁 [${currentEditingGrp.name}] (${currentEditingGrp.bandIds.length}組)：${names}`;
+            } else if (selectedBands.has('all')) {
+                $('#am-selected-status').innerText = `目前顯示：全部藝人（點上方「＋新增分組」可建立女偶像/樂團等分類）`;
             } else {
                 const names = Array.from(selectedBands).map(id => bandInfo(id).name).join('、');
                 $('#am-selected-status').innerText = `📌 已選 (${selectedBands.size}組)：${names}`;
@@ -1506,7 +2183,7 @@
                 $('#search-bar-wrapper').style.display = (tab === 'calendar' || tab === 'map') ? 'none' : 'flex';
                 $('#filter-section').style.display = 'block';
                 
-                const titles = { upcoming: '預告列表', calendar: '行事曆', events: '歷史場次（點「＋足跡」記錄你的現場）', map: '台灣現場足跡版圖', footprints: '我的現場足跡與聽團時數' };
+                const titles = { upcoming: '預告列表', calendar: '行事曆', events: '歷史場次（點「＋足跡」自動記錄雲端）', map: '台灣現場足跡版圖', footprints: '我的現場足跡與聽團時數' };
                 $('#tab-title').innerText = titles[tab];
                 $('#section-title-wrap').style.display = tab === 'calendar' ? 'none' : 'flex';
                 
@@ -1521,7 +2198,16 @@
         });
 
         let debounceTimer;
-        $('#search').addEventListener('input', e => { clearTimeout(debounceTimer); debounceTimer = setTimeout(() => { query = e.target.value.trim().toLowerCase(); limit = 24; render(); }, 200); });
+        $('#search').addEventListener('input', e => {
+            const val = e.target.value;
+            $('#search-clear-btn')?.classList.toggle('visible', val.trim().length > 0);
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(() => {
+                query = val.trim().toLowerCase();
+                limit = 24;
+                render();
+            }, 200);
+        });
 
         function toggleTheme() {
             const isDark = document.documentElement.classList.toggle('dark'); storage.set('ting-theme', isDark ? 'dark' : 'light');
@@ -1586,22 +2272,26 @@
         }
 
         function filterGrouped(list) {
+            const activeSet = getEffectiveSelectedBandSet();
+            const isAll = !activeGroupFilterId && activeSet.has('all');
             return list.filter(g => {
-                const matchBand = selectedBands.has('all') || g.bandIds.some(b => selectedBands.has(b));
+                const matchBand = isAll || g.bandIds.some(b => activeSet.has(b));
                 if (!matchBand) return false;
                 if (query) { const text = [g.name, g.location, g.notes.join(' '), ...g.bands.map(b => bandInfo(b.id).name), ...g.bands.flatMap(b => b.setlist.map(s => s.songName))].join(' ').toLowerCase(); return text.includes(query); }
                 return true;
             });
         }
 
+        // ★ 修正 5：將「＋足跡」按鈕放在左側黑色日期方塊正下方，大幅節省卡片垂直空間
         function buildCard(g, historical, idx = 0, customDomId = '') {
             const k = dateKey(g.date), map = safeUrl(g.mapLink), ticket = safeUrl(g.ticketUrl), dayStr = getDayOfWeek(k);
-            const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
+            const activeSet = getEffectiveSelectedBandSet();
+            const isCustomFilter = !activeSet.has('all') && activeSet.size > 0;
 
             const sortedBands = [...g.bands].sort((a, b) => {
                 if (isCustomFilter) {
-                    const aPicked = selectedBands.has(a.id) ? 1 : 0;
-                    const bPicked = selectedBands.has(b.id) ? 1 : 0;
+                    const aPicked = activeSet.has(a.id) ? 1 : 0;
+                    const bPicked = activeSet.has(b.id) ? 1 : 0;
                     if (aPicked !== bPicked) return bPicked - aPicked;
                 }
                 const timeA = parseStartTimeMinutes(a.time);
@@ -1611,14 +2301,14 @@
             });
 
             const bandsHtml = sortedBands.map(b => {
-                const isPicked = isCustomFilter && selectedBands.has(b.id);
+                const isPicked = isCustomFilter && activeSet.has(b.id);
                 return `<span class="band-tag ${bandInfo(b.id).class} ${isPicked ? 'is-picked' : ''}" title="${esc(bandInfo(b.id).name)} (${esc(bandInfo(b.id).category)})">${isPicked ? '★ ' : ''}${esc(bandInfo(b.id).short)}</span>`;
             }).join('');
             
             let combinedNotes = [];
             sortedBands.forEach(b => {
                 if(b.time && b.time !== '未定' && b.time !== '未公布') {
-                    const isPicked = isCustomFilter && selectedBands.has(b.id);
+                    const isPicked = isCustomFilter && activeSet.has(b.id);
                     combinedNotes.push(`${isPicked ? '★ ' : ''}[${bandInfo(b.id).short}] 時間：${b.time} (${b.durationMins || 30}分)`);
                 }
             });
@@ -1651,16 +2341,16 @@
             
             return `
             <div class="compact-card" ${customDomId ? `id="${esc(customDomId)}"` : ''} style="animation-delay: ${Math.min(idx * 0.03, 0.3)}s">
-                <div class="cc-date"><div class="m">${esc(k.slice(4,6))}月</div><div class="d">${esc(k.slice(6,8))}</div><div class="day">${dayStr}</div></div>
+                <div class="cc-left-col">
+                    <div class="cc-date"><div class="m">${esc(k.slice(4,6))}月</div><div class="d">${esc(k.slice(6,8))}</div><div class="day">${dayStr}</div></div>
+                    ${historical ? `<button type="button" class="cc-footprint-side-btn ${isAttended ? 'active' : ''}" onclick="toggleFootprint('${idsJoined}', this)">${isAttended ? '✓ 足跡' : '＋ 足跡'}</button>` : ''}
+                </div>
                 <div class="cc-info">
                     <div class="cc-title">${esc(g.name)}</div>
                     <div class="cc-meta">${finalMapLink ? `<a href="${esc(finalMapLink)}" target="_blank" style="color:inherit; text-decoration:underline;">📍 ${esc(g.location || '待公布')}</a>` : `📍 ${esc(g.location || '待公布')}`}</div>
                     <div class="cc-bands">${bandsHtml}</div>
                     ${notesHtml}${setlistsHtml}
-                    <div class="cc-actions">
-                        ${ticket ? `<a href="${esc(ticket)}" target="_blank" class="cc-btn">購票</a>` : ''}
-                        ${historical ? `<button class="cc-btn ${isAttended ? 'active' : ''}" onclick="toggleFootprint('${idsJoined}', this)">${isAttended ? '✓ 足跡' : '＋ 足跡'}</button>` : ''}
-                    </div>
+                    ${ticket ? `<div class="cc-actions"><a href="${esc(ticket)}" target="_blank" class="cc-btn">購票</a></div>` : ''}
                 </div>
             </div>`;
         }
@@ -1671,13 +2361,14 @@
                 $('#footprints-analysis').innerHTML = `
                 <div class="empty-state" style="padding:2.5rem 1rem;">
                     👣 尚未有現場足跡紀錄。<br>
-                    <span style="font-size:12px;display:block;margin-top:6px;">請先點選上方「歷史場次」分頁，找到你去過的演出點擊「＋ 足跡」，系統就會自動幫你計算累積聽團時數與各團參戰統計！</span>
+                    <span style="font-size:12px;display:block;margin-top:6px;">請先點選上方「歷史場次」分頁，找到你去過的演出點擊日期下方的「＋ 足跡」，系統就會自動幫你計算累積聽團時數與各團參戰統計！</span>
                 </div>`;
                 return;
             }
 
             const attendedGroups = groupEvents(attendedRaw);
-            const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
+            const activeSet = getEffectiveSelectedBandSet();
+            const isCustomFilter = !activeSet.has('all') && activeSet.size > 0;
 
             const bandStatsMap = new Map();
             let totalSetsCount = 0;
@@ -1699,7 +2390,7 @@
                             id: bId,
                             count: 0,
                             minutes: 0,
-                            isPicked: !selectedBands.has('all') && selectedBands.has(bId),
+                            isPicked: isCustomFilter && activeSet.has(bId),
                             shows: []
                         });
                     }
@@ -1717,7 +2408,7 @@
             });
 
             if (isCustomFilter) {
-                selectedBands.forEach(bId => {
+                activeSet.forEach(bId => {
                     if (bId !== 'all' && BANDS_MAP[bId] && !bandStatsMap.has(bId)) {
                         bandStatsMap.set(bId, {
                             id: bId,
@@ -1829,10 +2520,116 @@
             renderMapTab();
         }
 
-        /**
-         * ★ 修正重點：內建 100% 免費程式碼直接繪製的「SVG 向量台灣島嶼版圖」＋「台灣政府 NLSC 正體中文免費街道底圖」雙模式 ★
-         * 且將同一縣市的活動聚合為單一清晰節點，絕不再重疊或顯示 API KEY REQUIRED！
-         */
+        // ★ 修正 4：街道實景地圖支援「全台縣市聚合 (Zoom < 10)」與「縣市放大時自動標記山海/實際場館位置 (Zoom >= 10)」
+        function initOrUpdateTileMap(cityGroupsMap) {
+            const mapBox = document.getElementById('taiwan-map-box');
+            if (!mapBox || typeof L === 'undefined') return;
+
+            if (leafletMap) {
+                leafletMap.remove();
+                leafletMap = null;
+            }
+
+            const targetCityMeta = selectedMapCity ? TAIWAN_CITIES_META.find(c => c.name === selectedMapCity) : null;
+            const initCenter = targetCityMeta ? [targetCityMeta.lat, targetCityMeta.lng] : [23.75, 120.95];
+            const initZoom = targetCityMeta ? 11 : 7;
+
+            leafletMap = L.map('taiwan-map-box', {
+                center: initCenter,
+                zoom: initZoom,
+                minZoom: 6,
+                maxZoom: 17
+            });
+
+            L.tileLayer('https://wmts.nlsc.gov.tw/wmts/EMAP/default/GoogleMapsCompatible/{z}/{y}/{x}', {
+                attribution: '&copy; 內政部國土測繪中心 NLSC & OpenStreetMap'
+            }).addTo(leafletMap);
+
+            const markerLayer = L.layerGroup().addTo(leafletMap);
+            const activeSet = getEffectiveSelectedBandSet();
+            const isCustomFilter = !activeSet.has('all') && activeSet.size > 0;
+
+            function drawMarkersByZoom() {
+                markerLayer.clearLayers();
+                const currentZoom = leafletMap.getZoom();
+
+                // Zoom < 10：全台灣視角，顯示縣市聚合膠囊，點擊後直接放大飛入該縣市展開各場館位置
+                if (currentZoom < 10) {
+                    TAIWAN_CITIES_META.forEach(c => {
+                        const evs = cityGroupsMap.get(c.name) || [];
+                        if (evs.length === 0) return;
+                        const hasPicked = isCustomFilter && evs.some(ev => ev.bands.some(b => activeSet.has(b.id)));
+                        const icon = L.divIcon({
+                            className: '',
+                            html: `<div class="ting-map-marker ${hasPicked ? 'has-picked' : ''}" title="點擊放大檢視 ${esc(c.name)} 各場館實際山海位置">📍 ${esc(c.name)} (${evs.length})</div>`,
+                            iconSize: [90, 28],
+                            iconAnchor: [45, 14]
+                        });
+                        const marker = L.marker([c.lat, c.lng], { icon }).addTo(markerLayer);
+                        marker.on('click', () => {
+                            selectedMapCity = c.name;
+                            leafletMap.flyTo([c.lat, c.lng], 11, { duration: 0.55 });
+                        });
+                    });
+                } else {
+                    // Zoom >= 10（放大至縣市區塊）：自動將各活動拆解標記在山裡、海邊或各展演場館實際位置！
+                    cityGroupsMap.forEach((evs, cityName) => {
+                        const venueBuckets = new Map();
+                        evs.forEach((ev, idx) => {
+                            const pos = resolveVenueLatLng(ev, idx);
+                            const key = `${pos.lat.toFixed(3)},${pos.lng.toFixed(3)}`;
+                            if (!venueBuckets.has(key)) {
+                                venueBuckets.set(key, {
+                                    lat: pos.lat,
+                                    lng: pos.lng,
+                                    label: pos.venueLabel,
+                                    events: []
+                                });
+                            }
+                            venueBuckets.get(key).events.push(ev);
+                        });
+
+                        venueBuckets.forEach(bucket => {
+                            const hasPicked = isCustomFilter && bucket.events.some(ev => ev.bands.some(b => activeSet.has(b.id)));
+                            const icon = L.divIcon({
+                                className: '',
+                                html: `<div class="ting-venue-marker ${hasPicked ? 'has-picked' : ''}">
+                                          <span>${esc(bucket.label)}</span>
+                                          <span class="venue-type-badge">${bucket.events.length}場</span>
+                                       </div>`,
+                                iconSize: [120, 26],
+                                iconAnchor: [60, 13]
+                            });
+
+                            const popupItemsHtml = bucket.events.map(ev => {
+                                const dStr = dateKey(ev.date);
+                                const bNames = ev.bands.map(b => bandInfo(b.id).name).join('、');
+                                const mapUrl = safeUrl(ev.mapLink) || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(ev.location || ev.name)}`;
+                                return `
+                                <div class="map-popup-item">
+                                    <div style="font-weight:900;font-size:12px;">${esc(dStr.slice(0,4))}/${esc(dStr.slice(4,6))}/${esc(dStr.slice(6,8))} · ${esc(ev.name)}</div>
+                                    <div style="font-size:11px;color:var(--text-secondary);margin-top:2px;">📍 ${esc(ev.location || cityName)}</div>
+                                    <div style="font-size:11px;font-weight:800;margin-top:3px;">🎸 ${esc(bNames)}</div>
+                                    <a href="${esc(mapUrl)}" target="_blank" style="display:inline-block;margin-top:4px;font-size:11px;font-weight:900;color:var(--text-main);">↗ 在 Google Maps 開啟導航</a>
+                                </div>`;
+                            }).join('');
+
+                            const marker = L.marker([bucket.lat, bucket.lng], { icon }).addTo(markerLayer);
+                            marker.bindPopup(`
+                                <div style="padding:6px;min-width:210px;">
+                                    <div style="font-weight:900;font-size:13px;border-bottom:1.5px solid var(--border);padding-bottom:4px;">📍 ${esc(bucket.label)} (${bucket.events.length} 場演出)</div>
+                                    <div class="map-popup-list">${popupItemsHtml}</div>
+                                </div>
+                            `);
+                        });
+                    });
+                }
+            }
+
+            leafletMap.on('zoomend', drawMarkersByZoom);
+            drawMarkersByZoom();
+        }
+
         function renderMapTab() {
             const hasFootprints = footprints.size > 0;
             const effectiveMode = (mapScopeMode === 'footprints' && !hasFootprints) ? 'all' : mapScopeMode;
@@ -1873,13 +2670,13 @@
             const activeCityForPreview = selectedMapCity || ([...cityGroupsMap.entries()].sort((a, b) => b[1].length - a[1].length)[0]?.[0] || '台北');
             const previewEvents = cityGroupsMap.get(activeCityForPreview) || [];
 
-            // 繪製內建 SVG 台灣島嶼上的城市節點
-            const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
+            const activeSet = getEffectiveSelectedBandSet();
+            const isCustomFilter = !activeSet.has('all') && activeSet.size > 0;
             const svgNodesHtml = TAIWAN_CITIES_META.map(c => {
                 const evs = cityGroupsMap.get(c.name) || [];
                 const cnt = evs.length;
                 const isSelected = activeCityForPreview === c.name;
-                const hasPicked = isCustomFilter && evs.some(ev => ev.bands.some(b => selectedBands.has(b.id)));
+                const hasPicked = isCustomFilter && evs.some(ev => ev.bands.some(b => activeSet.has(b.id)));
 
                 if (cnt === 0) {
                     return `
@@ -1907,13 +2704,13 @@
                 ? previewEvents.map(ev => {
                     const dStr = dateKey(ev.date);
                     const sortedB = [...ev.bands].sort((a, b) => {
-                        const aP = (!selectedBands.has('all') && selectedBands.has(a.id)) ? 1 : 0;
-                        const bP = (!selectedBands.has('all') && selectedBands.has(b.id)) ? 1 : 0;
+                        const aP = (isCustomFilter && activeSet.has(a.id)) ? 1 : 0;
+                        const bP = (isCustomFilter && activeSet.has(b.id)) ? 1 : 0;
                         return bP - aP;
                     });
                     const bTags = sortedB.slice(0, 8).map(b => {
                         const bi = bandInfo(b.id);
-                        const isP = !selectedBands.has('all') && selectedBands.has(b.id);
+                        const isP = isCustomFilter && activeSet.has(b.id);
                         return `<span class="band-tag ${bi.class} ${isP ? 'is-picked' : ''}" style="font-size:10px;padding:1px 6px;">${isP ? '★ ' : ''}${esc(bi.short)}</span>`;
                     }).join('') + (sortedB.length > 8 ? `<span style="font-size:10px;font-weight:800;color:var(--text-secondary);">+${sortedB.length - 8}組</span>` : '');
 
@@ -1949,7 +2746,7 @@
                     <div>
                         <div style="font-size:15px;font-weight:900;">🗺️ ${effectiveMode === 'footprints' ? `${esc(userNickname || userId || '我')} 的現場足跡版圖` : '全站現場熱力版圖'}</div>
                         <div style="font-size:11.5px;color:var(--text-secondary);font-weight:700;margin-top:2px;">
-                            ${!hasFootprints && mapScopeMode === 'footprints' ? '💡 你尚未在「歷史場次」打勾足跡，目前為你預覽全站活動版圖！' : '點擊或滑鼠移上台灣各縣市節點，即可檢視該地「日期、追團陣容與活動名稱」'}
+                            ${!hasFootprints && mapScopeMode === 'footprints' ? '💡 你尚未在「歷史場次」打勾足跡，目前為你預覽全站活動版圖！' : (mapVisualType === 'tile' ? '💡 街道實景模式：點擊縣市或放大至縣市層級，將自動展開各活動在山區/海邊/場館的實際位置！' : '點擊或滑鼠移上台灣各縣市節點，即可檢視該地「日期、追團陣容與活動名稱」')}
                         </div>
                     </div>
                     <div style="display:flex;gap:6px;flex-wrap:wrap;">
@@ -1991,321 +2788,234 @@
                 </div>
 
                 ${mapVisualType === 'svg' ? `
-                <!-- 模式 A：100% 內建手繪向量 SVG 台灣島嶼互動版圖（零 API Key、永不破圖、標籤不重疊） -->
+                <!-- 模式 A：100% 內建手繪向量 SVG 台灣島嶼互動版圖 -->
                 <div class="svg-map-stage">
                     <div class="svg-canvas-wrap">
                         <svg class="tw-vector-svg" viewBox="0 0 320 450" xmlns="http://www.w3.org/2000/svg">
                             <defs>
                                 <pattern id="twGrid" width="20" height="20" patternUnits="userSpaceOnUse">
-                                    <path d="M 20 0 L 0 0 0 20" fill="none" stroke="var(--text-main)" stroke-width="0.4" stroke-opacity="0.15"/>
+                                    <path d="M 20 0 L 0 0 0 20" fill="none" stroke="var(--text-main)" stroke-width="0.5" stroke-opacity="0.12"/>
                                 </pattern>
                             </defs>
-                            <rect width="320" height="450" rx="10" fill="url(#twGrid)"/>
-                            <!-- 離島與海外專屬框線 -->
-                            <rect x="12" y="42" width="96" height="44" rx="6" fill="var(--bg-card)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.85"/>
-                            <rect x="12" y="112" width="96" height="44" rx="6" fill="var(--bg-card)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.85"/>
-                            <rect x="12" y="242" width="76" height="44" rx="6" fill="var(--bg-card)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.85"/>
-                            <rect x="12" y="342" width="84" height="44" rx="6" fill="var(--bg-card)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.85"/>
-
-                            <!-- 台灣本島向量輪廓 -->
-                            <path class="tw-island-shape" d="M 224 28 L 246 40 L 258 62 L 244 92 L 248 124 L 234 166 L 218 225 L 200 282 L 182 340 L 160 385 L 154 424 L 140 426 L 130 398 L 106 364 L 92 325 L 95 282 L 102 242 L 112 204 L 128 164 L 146 126 L 166 90 L 192 54 L 210 34 Z"/>
-                            <!-- 中央山脈裝飾脊線 -->
-                            <path d="M 222 65 L 205 135 L 185 215 L 165 295 L 148 365" fill="none" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.25"/>
-
-                            <!-- 各縣市互動節點與膠囊 -->
+                            <rect width="320" height="450" fill="url(#twGrid)" rx="10"/>
+                            <!-- 台灣本島流暢幾何輪廓 -->
+                            <path class="tw-island-shape" d="M 226 30 L 252 46 L 256 76 L 246 118 L 228 188 L 204 282 L 172 365 L 154 424 L 136 420 L 122 382 L 96 340 L 90 285 L 100 225 L 122 162 L 150 105 L 182 62 L 208 36 Z"/>
+                            <!-- 離島裝飾框 -->
+                            <rect x="14" y="42" width="68" height="44" rx="6" fill="var(--bg-card)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.6"/>
+                            <rect x="14" y="112" width="68" height="44" rx="6" fill="var(--bg-card)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.6"/>
+                            <rect x="14" y="242" width="68" height="44" rx="6" fill="var(--bg-card)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.6"/>
+                            <rect x="14" y="342" width="68" height="44" rx="6" fill="var(--bg-card)" stroke="var(--text-main)" stroke-width="1.5" stroke-dasharray="3,3" opacity="0.6"/>
                             ${svgNodesHtml}
                         </svg>
                     </div>
                     <div class="svg-preview-card">
                         <div style="display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid var(--text-main);padding-bottom:8px;">
-                            <div>
-                                <span style="font-size:14.5px;font-weight:900;">📍 ${esc(activeCityForPreview)} 現場紀錄</span>
-                                <span style="font-size:11.5px;font-weight:800;color:var(--text-secondary);margin-left:6px;">(共 ${previewEvents.length} 場)</span>
-                            </div>
-                            <span style="font-size:11px;font-weight:800;background:var(--accent);color:#111;padding:2px 8px;border-radius:99px;border:1.5px solid #111;">點地圖節點切換</span>
+                            <div style="font-size:14px;font-weight:900;">📍 ${esc(activeCityForPreview)} 現場清單</div>
+                            <span style="font-size:11.5px;font-weight:900;background:var(--accent);color:#111;padding:2px 8px;border-radius:99px;border:1.5px solid #111;">共 ${previewEvents.length} 場</span>
                         </div>
                         <div class="svg-preview-list">${previewCardsMiniHtml}</div>
                     </div>
                 </div>
                 ` : `
-                <!-- 模式 B：台灣內政部國土測繪中心 (NLSC) 免費繁體中文正版街道地圖（零 API Key、同城市自動聚合不重疊） -->
+                <!-- 模式 B：台灣政府國土測繪中心 NLSC 免費正體中文街道地圖（放大至縣市時自動標記山海/場館實際位置） -->
                 <div id="taiwan-map-box"></div>
                 `}
 
                 <div style="margin-top:14px;">
-                    <div style="display:flex;justify-content:space-between;align-items:center;">
-                        <span style="font-size:12.5px;font-weight:900;">📌 點擊已解鎖縣市快速篩選下方完整活動卡片：</span>
+                    <div style="font-size:12px;font-weight:900;color:var(--text-secondary);margin-bottom:6px;display:flex;justify-content:space-between;align-items:center;">
+                        <span>📌 點擊已解鎖縣市快速篩選下方完整活動卡片：</span>
                         ${selectedMapCity ? `<button type="button" class="clear-filter-btn" onclick="filterMapByCity('')">✕ 顯示全台灣</button>` : ''}
                     </div>
                     <div class="city-grid">${cityBadgesHtml}</div>
                 </div>
             </div>
 
-            <div class="section-title" style="margin-top:20px;">
-                <span>${selectedMapCity ? `📍 【${esc(selectedMapCity)}】現場詳細卡片 (${filteredCityEvents.length} 場)` : `📋 版圖現場詳細卡片 (${groupedAll.length} 場)`}</span>
+            <div class="section-title" style="margin-top:18px;">
+                <span>${selectedMapCity ? `📍 ${esc(selectedMapCity)} 的現場紀錄 (${filteredCityEvents.length} 場)` : `🔥 版圖代表現場紀錄`}</span>
             </div>
             <div class="events-grid">
-                ${filteredCityEvents.length > 0 ? filteredCityEvents.map((g, idx) => buildCard(g, dateKey(g.date) < taipeiToday, idx)).join('') : '<div class="empty-state">尚無符合條件的版圖場次</div>'}
+                ${filteredCityEvents.map((g, i) => buildCard(g, effectiveMode === 'footprints' || dateKey(g.date) < taipeiToday, i)).join('') || '<div class="empty-state">此區域尚無符合篩選條件的演出紀錄。</div>'}
             </div>`;
 
             $('#content').innerHTML = html;
+            $('#result-count').innerText = `${groupedAll.length} 場 (${unlockedCitiesCount} 縣市)`;
 
-            // 若使用者切換至「街道實景地圖」模式，使用台灣內政部國土測繪中心 (NLSC) 免費公開圖磚 + OSM 備援（完全免 API Key）
             if (mapVisualType === 'tile') {
-                setTimeout(() => {
-                    const mapEl = document.getElementById('taiwan-map-box');
-                    if (!mapEl || typeof L === 'undefined') return;
-                    if (leafletMap) {
-                        leafletMap.remove();
-                        leafletMap = null;
-                    }
-
-                    leafletMap = L.map('taiwan-map-box', {
-                        center: [23.75, 120.95],
-                        zoom: window.innerWidth < 768 ? 7 : 7.5,
-                        scrollWheelZoom: false
-                    });
-
-                    // 使用台灣內政部國土測繪中心 (NLSC) 官方免費正體中文電子地圖圖磚（免 API Key）
-                    const nlscLayer = L.tileLayer('https://wmts.nlsc.gov.tw/wmts/EMAP/default/GoogleMapsCompatible/{z}/{y}/{x}', {
-                        attribution: '&copy; 內政部國土測繪中心 NLSC & OpenStreetMap',
-                        maxZoom: 18
-                    });
-                    nlscLayer.on('tileerror', function() {
-                        // 若海外地區超出台灣國土測繪範圍，自動無縫疊加 OpenStreetMap 官方免費圖磚
-                        if (!leafletMap._osmAdded) {
-                            leafletMap._osmAdded = true;
-                            L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 18 }).addTo(leafletMap);
-                        }
-                    });
-                    nlscLayer.addTo(leafletMap);
-
-                    // ★ 以「縣市」為單位聚合圖釘，每個縣市只放 1 顆乾淨的總數圖釘（例如「📍台中 (10)」），徹底解決圖 1 圖釘重疊問題！
-                    TAIWAN_CITIES_META.forEach(c => {
-                        const evs = cityGroupsMap.get(c.name) || [];
-                        if (evs.length === 0) return;
-                        if (selectedMapCity && c.name !== selectedMapCity) return;
-
-                        const hasPickedInCity = isCustomFilter && evs.some(ev => ev.bands.some(b => selectedBands.has(b.id)));
-                        const iconHtml = `<div class="ting-map-marker ${hasPickedInCity ? 'has-picked' : ''}">📍${esc(c.name)} (${evs.length})</div>`;
-                        const customIcon = L.divIcon({
-                            className: '',
-                            html: iconHtml,
-                            iconSize: [82, 28],
-                            iconAnchor: [41, 14]
-                        });
-
-                        const evItemsHtml = evs.slice(0, 12).map(ev => {
-                            const dStr = dateKey(ev.date);
-                            const sortedB = [...ev.bands].sort((a, b) => {
-                                const aP = (!selectedBands.has('all') && selectedBands.has(a.id)) ? 1 : 0;
-                                const bP = (!selectedBands.has('all') && selectedBands.has(b.id)) ? 1 : 0;
-                                return bP - aP;
-                            });
-                            const bBadges = sortedB.slice(0, 6).map(b => {
-                                const bi = bandInfo(b.id);
-                                const isP = !selectedBands.has('all') && selectedBands.has(b.id);
-                                return `<span style="background:${esc(bi.color)};color:#fff;padding:1px 5px;border-radius:4px;font-size:10px;font-weight:800;display:inline-block;margin:1px;">${isP ? '★' : ''}${esc(bi.short)}</span>`;
-                            }).join('') + (sortedB.length > 6 ? `<span style="font-size:10px;font-weight:800;"> +${sortedB.length - 6}組</span>` : '');
-
-                            return `
-                            <div class="map-popup-item">
-                                <div style="font-weight:900;color:var(--text-main);">${esc(dStr.slice(0,4))}/${esc(dStr.slice(4,6))}/${esc(dStr.slice(6,8))} · ${esc(ev.name)}</div>
-                                <div style="font-size:10.5px;color:var(--text-secondary);margin:2px 0;">📍 ${esc(ev.location || c.name)}</div>
-                                <div style="margin-top:3px;">${bBadges}</div>
-                            </div>`;
-                        }).join('');
-
-                        const popupHtml = `
-                        <div style="min-width:220px;max-width:265px;padding:4px;">
-                            <div style="font-size:13px;font-weight:900;border-bottom:1.5px dashed var(--border);padding-bottom:4px;">
-                                📍 ${esc(c.name)} · 共 ${evs.length} 場現場
-                            </div>
-                            <div class="map-popup-list">${evItemsHtml}</div>
-                        </div>`;
-
-                        const marker = L.marker([c.lat, c.lng], { icon: customIcon }).addTo(leafletMap);
-                        marker.bindPopup(popupHtml, { maxWidth: 280 });
-                        marker.on('mouseover', function() { this.openPopup(); });
-                    });
-
-                    if (selectedMapCity) {
-                        const targetMeta = TAIWAN_CITIES_META.find(x => x.name === selectedMapCity);
-                        if (targetMeta) leafletMap.setView([targetMeta.lat, targetMeta.lng], 10);
-                    }
-                }, 60);
+                setTimeout(() => initOrUpdateTileMap(cityGroupsMap), 40);
             }
         }
 
-        function renderCalendarDateEvents(dateStr) {
-            const clickedDate = dateStr.replace(/-/g, '');
-            const dayStr = getDayOfWeek(clickedDate);
-            const formattedDate = `${clickedDate.slice(0,4)}/${clickedDate.slice(4,6)}/${clickedDate.slice(6,8)}${dayStr ? ` (${dayStr})` : ''}`;
-
-            let groupedList = filterGrouped(groupEvents([...data.upcoming, ...data.events])).filter(g => dateKey(g.date) === clickedDate);
-
-            if (groupedList.length === 0) {
-                showToast(`📅 ${formattedDate} 沒有符合目前篩選的演出`);
-                return;
-            }
-
-            const totalBandsCount = groupedList.reduce((sum, g) => sum + g.bands.length, 0);
-            $('#cdm-title').innerText = `📌 ${formattedDate} 現場清單`;
-            $('#cdm-subtitle').innerText = `共 ${groupedList.length} 場活動 (${totalBandsCount} 組演出) · 上下滑動檢視詳細卡司`;
+        function openCalendarDayModal(dateStr, dayGroups) {
+            if (!dayGroups || dayGroups.length === 0) return;
+            const k = dateKey(dateStr);
+            const dayName = getDayOfWeek(k);
+            $('#cdm-title').innerText = `📅 ${k.slice(0,4)}/${k.slice(4,6)}/${k.slice(6,8)} (${dayName}) 現場清單`;
+            $('#cdm-subtitle').innerText = dayGroups.length > 1
+                ? `當日共有 ${dayGroups.length} 場活動 · 可點下方膠囊快速跳轉或上下滑動檢視`
+                : `當日共有 1 場活動 · 點擊「▶ 查看活動資訊與時間」可展開完整卡司與連結`;
 
             const quickNavEl = $('#cdm-quick-nav');
-            const isCustomFilter = !selectedBands.has('all') && selectedBands.size > 0;
-            if (groupedList.length >= 2) {
+            if (dayGroups.length > 1) {
                 quickNavEl.style.display = 'flex';
-                quickNavEl.innerHTML = groupedList.map((g, idx) => {
-                    const cityPrefix = (g.location || g.name || '').substring(0, 2);
-                    const shortEventTitle = (g.name || '活動').replace(/^(台北|臺北|新北|桃園|台中|臺中|台南|臺南|高雄|基隆|新竹|嘉義|苗栗|彰化|南投|雲林|屏東|宜蘭|花蓮|台東|臺東|澎湖|金門)\s*/, '').slice(0, 8);
-                    let badgeText = `${g.bands.length}組`;
-                    if (isCustomFilter) {
-                        const pickedNames = g.bands.filter(b => selectedBands.has(b.id)).map(b => bandInfo(b.id).short);
-                        if (pickedNames.length > 0) {
-                            badgeText = '★' + pickedNames.slice(0, 2).join('/') + (pickedNames.length > 2 ? `+${pickedNames.length - 2}` : '');
-                        }
-                    }
-                    return `
-                    <button type="button" class="cdm-jump-pill" onclick="jumpToDayModalCard('cdm-card-${idx}')">
-                        <span>📍${esc(cityPrefix)}·${esc(shortEventTitle)}</span>
-                        <span class="pill-highlight">${esc(badgeText)}</span>
-                    </button>`;
-                }).join('');
-                quickNavEl.scrollLeft = 0;
+                quickNavEl.innerHTML = `<span style="font-size:11px;font-weight:900;color:var(--text-secondary);white-space:nowrap;">⚡ 快速跳轉：</span>` +
+                    dayGroups.map((g, i) => {
+                        const shortTitle = g.name.length > 14 ? g.name.slice(0, 14) + '…' : g.name;
+                        return `<button type="button" class="cdm-jump-pill" onclick="jumpToDayModalCard('cdm-event-card-${i}')">
+                            <span class="pill-highlight">#${i + 1}</span>
+                            <span>${esc(shortTitle)}</span>
+                        </button>`;
+                    }).join('');
             } else {
                 quickNavEl.style.display = 'none';
                 quickNavEl.innerHTML = '';
             }
 
-            const isHistorical = clickedDate < taipeiToday;
-            const cardsHtml = groupedList.map((g, idx) => buildCard(g, isHistorical, idx, `cdm-card-${idx}`)).join('');
-            const bodyEl = $('#cdm-body');
-            bodyEl.innerHTML = cardsHtml;
-            bodyEl.scrollTop = 0;
-
+            const isHistoricalDay = k < taipeiToday;
+            $('#cdm-body').innerHTML = dayGroups.map((g, i) => buildCard(g, isHistoricalDay, i, `cdm-event-card-${i}`)).join('');
+            $('#cdm-body').scrollTop = 0;
             $('#calendar-day-modal-backdrop').classList.add('open');
             syncBodyModalLock();
         }
-        
+
         function renderCalendar() {
-            if (calendar) calendar.destroy();
-            let calEvents = [];
-            const isAllMode = selectedBands.has('all') || selectedBands.size === 0;
-
-            filterGrouped(groupEvents([...data.upcoming, ...data.events])).forEach(g => {
-                if(g.date.length === 8) {
-                    const isoDate = `${g.date.substring(0,4)}-${g.date.substring(4,6)}-${g.date.substring(6,8)}`;
-                    const bandsForCalendar = isAllMode
-                        ? g.bands
-                        : g.bands.filter(b => selectedBands.has(b.id));
-
-                    bandsForCalendar.forEach(b => {
-                        const bi = bandInfo(b.id);
-                        calEvents.push({
-                            title: `${(g.location || '').substring(0, 2) || '未定'}\n[${bi.short}]`,
-                            start: isoDate,
-                            backgroundColor: bi.color,
-                            borderColor: bi.color,
-                            textColor: '#fff'
-                        });
-                    });
-                }
-            });
-
-            calendar = new FullCalendar.Calendar(document.getElementById('calendar'), {
-                locale: 'zh-tw',
-                initialView: 'dayGridMonth',
-                headerToolbar: { left: 'prev,next today', center: 'title', right: 'dayGridMonth' },
-                events: calEvents,
-                height: 'auto',
-                contentHeight: 'auto',
-                aspectRatio: 1.35,
-                dayMaxEvents: 4,
-                moreLinkClick: info => {
-                    const d = info.date;
-                    const y = d.getFullYear();
-                    const m = String(d.getMonth() + 1).padStart(2, '0');
-                    const day = String(d.getDate()).padStart(2, '0');
-                    renderCalendarDateEvents(`${y}-${m}-${day}`);
-                    return 'none';
-                },
-                dateClick: info => renderCalendarDateEvents(info.dateStr),
-                eventClick: info => {
-                    if (info.jsEvent) info.jsEvent.preventDefault();
-                    renderCalendarDateEvents(info.event.startStr);
-                },
-                windowResize: function() {
-                    calendar.setOption('aspectRatio', window.innerWidth < 768 ? 0.85 : 1.35);
-                    calendar.setOption('headerToolbar', window.innerWidth < 768 ? { left: 'prev,next', center: 'title', right: 'today' } : { left: 'prev,next today', center: 'title', right: 'dayGridMonth' });
-                }
-            });
-            calendar.render();
-            if(window.innerWidth < 768) {
-                calendar.setOption('aspectRatio', 0.85);
-                calendar.setOption('headerToolbar', { left: 'prev,next', center: 'title', right: 'today' });
+            const calendarEl = document.getElementById('calendar');
+            if (!calendar) {
+                calendar = new FullCalendar.Calendar(calendarEl, {
+                    initialView: 'dayGridMonth',
+                    locale: 'zh-tw',
+                    height: 'auto',
+                    dayMaxEvents: 4,
+                    headerToolbar: { left: 'prev,next today', center: 'title', right: 'dayGridMonth' },
+                    eventClick: function(info) {
+                        info.jsEvent.preventDefault();
+                        const dKey = info.event.extendedProps.dateKey;
+                        const dayGroups = getCalendarFilteredDayGroups(dKey);
+                        openCalendarDayModal(dKey, dayGroups);
+                    },
+                    dateClick: function(info) {
+                        const dKey = dateKey(info.dateStr);
+                        const dayGroups = getCalendarFilteredDayGroups(dKey);
+                        if (dayGroups.length > 0) {
+                            openCalendarDayModal(dKey, dayGroups);
+                        }
+                    },
+                    moreLinkClick: function(info) {
+                        const dKey = dateKey(info.date.toISOString().slice(0, 10));
+                        const dayGroups = getCalendarFilteredDayGroups(dKey);
+                        openCalendarDayModal(dKey, dayGroups);
+                        return 'none';
+                    }
+                });
+                calendar.render();
             }
+
+            calendar.removeAllEvents();
+            const allRaw = [...(data.upcoming || []), ...(data.events || [])];
+            const grouped = filterGrouped(groupEvents(allRaw));
+            const activeSet = getEffectiveSelectedBandSet();
+            const isCustomFilter = !activeSet.has('all') && activeSet.size > 0;
+
+            const fcEvents = [];
+            grouped.forEach(g => {
+                const k = dateKey(g.date);
+                if (k.length !== 8) return;
+                const isoDate = `${k.slice(0,4)}-${k.slice(4,6)}-${k.slice(6,8)}`;
+                const primaryBand = isCustomFilter
+                    ? (g.bands.find(b => activeSet.has(b.id)) || g.bands[0])
+                    : g.bands[0];
+                const bInfo = bandInfo(primaryBand?.id || 'mango');
+                const bandLabel = g.bands.length > 1 ? `${bInfo.short}+${g.bands.length - 1}` : bInfo.short;
+
+                fcEvents.push({
+                    title: `[${bandLabel}] ${g.name}`,
+                    start: isoDate,
+                    allDay: true,
+                    backgroundColor: bInfo.color,
+                    borderColor: '#111111',
+                    extendedProps: { dateKey: k }
+                });
+            });
+
+            calendar.addEventSource(fcEvents);
+        }
+
+        function getCalendarFilteredDayGroups(targetDateKey) {
+            const allRaw = [...(data.upcoming || []), ...(data.events || [])].filter(e => dateKey(e.date) === targetDateKey);
+            return filterGrouped(groupEvents(allRaw));
         }
 
         function render() {
-            if (tab === 'calendar') return;
-            if (tab === 'map') { $('#result-count').style.display = 'none'; renderMapTab(); return; }
-            $('#result-count').style.display = 'inline-block';
-
-            const historical = tab !== 'upcoming';
-            let sourceList = tab === 'upcoming'
-                ? data.upcoming.filter(e => dateKey(e.date) >= taipeiToday)
-                : (tab === 'footprints' ? [...data.events, ...data.upcoming] : data.events);
-            let groupedList = filterGrouped(groupEvents(sourceList));
-            
+            if (tab === 'map') {
+                renderMapTab();
+                return;
+            }
             if (tab === 'footprints') {
-                groupedList = groupedList.filter(g => g.originalIds.some(id => footprints.has(id)));
                 renderFootprintStats();
+                const attendedRaw = [...data.events, ...data.upcoming].filter(e => footprints.has(e.id));
+                const list = filterGrouped(groupEvents(attendedRaw)).sort((a, b) => dateKey(b.date).localeCompare(dateKey(a.date)));
+                $('#result-count').innerText = `${list.length} 場`;
+                $('#content').innerHTML = `<div class="events-grid">${list.map((g, i) => buildCard(g, true, i)).join('')}</div>`;
+                return;
             }
 
-            groupedList.sort((a, b) => historical ? dateKey(b.date).localeCompare(dateKey(a.date)) : dateKey(a.date).localeCompare(dateKey(b.date)));
-            $('#result-count').innerText = `${groupedList.length} 場`;
+            const isHistory = tab === 'events';
+            const rawList = isHistory
+                ? data.events
+                : (data.upcoming || []).filter(e => dateKey(e.date) >= taipeiToday);
 
-            let html = '<div class="events-grid">';
-            if (groupedList.length === 0) html += '<div class="empty-state">目前沒有符合條件的演出。</div>';
-            else groupedList.slice(0, limit).forEach((g, idx) => { html += buildCard(g, tab === 'upcoming' ? false : true, idx); });
-            html += '</div>';
+            const grouped = filterGrouped(groupEvents(rawList));
+            grouped.sort((a, b) => isHistory ? dateKey(b.date).localeCompare(dateKey(a.date)) : dateKey(a.date).localeCompare(dateKey(b.date)));
 
-            if (groupedList.length > limit) html += `<button class="btn-more" onclick="limit+=24; render();">載入更多 ↓</button>`;
+            $('#result-count').innerText = `${grouped.length} 場`;
+
+            if (grouped.length === 0) {
+                $('#content').innerHTML = `<div class="empty-state">找不到符合篩選條件的演出場次。</div>`;
+                return;
+            }
+
+            const visible = grouped.slice(0, limit);
+            let html = `<div class="events-grid">${visible.map((g, i) => buildCard(g, isHistory, i)).join('')}</div>`;
+            if (grouped.length > limit) {
+                html += `<button class="btn-more" onclick="limit += 24; render();">顯示更多場次 (${grouped.length - limit}) ↓</button>`;
+            }
             $('#content').innerHTML = html;
         }
 
+        // 匯出與匯入備份（包含自訂分組與足跡）
         $('#export').addEventListener('click', () => {
-            const blob = new Blob([JSON.stringify({
-                version: 2,
+            const payload = {
+                v: 3,
+                exportedAt: new Date().toISOString(),
+                userId,
                 nickname: userNickname,
                 selectedBands: [...selectedBands],
-                ids: [...footprints]
-            }, null, 2)], { type: 'application/json' });
-            const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = '聽團網-現場足跡與偏好.json'; a.click();
+                customGroups,
+                activeGroupFilterId,
+                footprints: [...footprints]
+            };
+            const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = `ting-footprints-${taipeiToday}.json`;
+            a.click();
         });
 
-        $('#import').addEventListener('change', async e => {
-            try {
-                const file = e.target.files[0]; if (!file) return; const d = JSON.parse(await file.text());
-                if (!Array.isArray(d.ids)) throw Error('格式錯誤');
-                d.ids.forEach(id => footprints.add(id));
-                storage.set('ting-footprints', [...footprints]);
-                if (Array.isArray(d.selectedBands) && d.selectedBands.length > 0) {
-                    selectedBands = new Set(d.selectedBands.map(resolveCanonicalBandId));
-                    storage.set('ting-selected-bands', [...selectedBands]);
+        $('#import').addEventListener('change', e => {
+            const file = e.target.files?.[0];
+            if (!file) return;
+            const reader = new FileReader();
+            reader.onload = ev => {
+                try {
+                    applyCloudDataFromServer(ev.target.result, true);
+                    renderFilters();
+                    render();
+                    scheduleSilentCloudPush(true);
+                    showToast('✅ 備份匯入成功！');
+                } catch (err) {
+                    showToast('匯入檔案格式錯誤');
                 }
-                if (d.nickname) {
-                    userNickname = String(d.nickname).trim();
-                    $('#user-nick-input').value = userNickname;
-                    storage.set('ting-user-nickname', userNickname);
-                    updateUserNavUI();
-                }
-                scheduleSilentCloudPush();
-                renderFilters();
-                showToast('匯入成功！'); render();
-            } catch (err) { showToast(err.message); }
+            };
+            reader.readAsText(file);
         });
 
         load();
