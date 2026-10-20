@@ -19,7 +19,7 @@
 
 ## 📖 專案簡介
 
-[聽團網 (ting-tuan)](https://blues32767.github.io/gig-tracker/) 是一個專為台灣獨立音樂樂迷與現場聽團仔量身打造的 **現代化演出時程探索與個人參戰足跡 Web App**。
+[聽團網 (ting-tuan)](https://blues32767.github.io/gig-tracker/) 是一個專為台灣獨立音樂樂迷與現場聽團仔量身打造的 **現代化演出時程探索與個人參戰足跡 Web 網頁**。
 
 [https://blues32767.github.io/gig-tracker/](https://blues32767.github.io/gig-tracker/) 
 
