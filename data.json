@@ -130,7 +130,7 @@
       "eventCount": 5
     },
     {
-      "id": "band_6gp8um",
+      "id": "LuYun",
       "name": "呂允",
       "short": "呂允",
       "color": "#00b4d8",
@@ -154,7 +154,7 @@
       "eventCount": 5
     },
     {
-      "id": "band_drsiw0",
+      "id": "SHOU",
       "name": "婁峻碩",
       "short": "婁峻碩",
       "color": "#3a86ff",
@@ -5294,7 +5294,7 @@
     {
       "id": "EV_20261015_BAND_3ad61e",
       "date": "20261015",
-      "band": "band_drsiw0",
+      "band": "SHOU",
       "time": "",
       "name": "《Ocean 偶想聽你唱》校慶演唱會",
       "location": "基隆市國立臺灣海洋大學育樂館",
@@ -8800,7 +8800,7 @@
     {
       "id": "upcoming-row-231",
       "date": "20261022",
-      "band": "band_6gp8um",
+      "band": "LuYun",
       "time": "18:30-19:00",
       "name": "GIMA LIVE",
       "location": "台北市CORNER MAX 大角落多功能展演館",
@@ -10450,7 +10450,7 @@
     {
       "id": "upcoming-row-205",
       "date": "20261031",
-      "band": "band_drsiw0",
+      "band": "SHOU",
       "time": "未公布",
       "name": "成功高中秋季舞會",
       "location": "台北市成功高中操場",
@@ -10600,7 +10600,7 @@
     {
       "id": "upcoming-row-271",
       "date": "20261031",
-      "band": "band_drsiw0",
+      "band": "SHOU",
       "time": "未公布",
       "name": "傳說十週年演唱會",
       "location": "台北市臺北大巨蛋",
@@ -11320,7 +11320,7 @@
     {
       "id": "upcoming-row-215",
       "date": "20261101",
-      "band": "band_6gp8um",
+      "band": "LuYun",
       "time": "未公布",
       "name": "漢堡好港節",
       "location": "高雄市高雄流行音樂中心珊瑚礁群",
@@ -12140,7 +12140,7 @@
     {
       "id": "upcoming-row-241",
       "date": "20261114",
-      "band": "band_6gp8um",
+      "band": "LuYun",
       "time": "未公布",
       "name": "青春探索樂園",
       "location": "桃園市銀河廣場",
@@ -12360,7 +12360,7 @@
     {
       "id": "upcoming-row-222",
       "date": "20261120",
-      "band": "band_6gp8um",
+      "band": "LuYun",
       "time": "未公布",
       "name": "國立虎尾科技大學46週年校慶《虤虎祭》演唱會",
       "location": "雲林縣虎尾科大第一校區大草坪",
@@ -12450,7 +12450,7 @@
     {
       "id": "upcoming-row-35",
       "date": "20261121",
-      "band": "band_drsiw0",
+      "band": "SHOU",
       "time": "15:30-20:00",
       "name": "國立屏東科技大學102週年校慶草地音樂會",
       "location": "屏東縣國立屏東科技大學情人坡",
@@ -12460,7 +12460,7 @@
     {
       "id": "upcoming-row-36",
       "date": "20261121",
-      "band": "band_6gp8um",
+      "band": "LuYun",
       "time": "15:30-20:00",
       "name": "國立屏東科技大學102週年校慶草地音樂會",
       "location": "屏東縣國立屏東科技大學情人坡",
@@ -13514,5 +13514,5 @@
   },
   "schemaVersion": 2,
   "revision": "e04a6fb8-bd1b-4dd9-9094-5baa12df5ed9",
-  "updatedAt": "2026-10-20T02:13:17.946Z"
+  "updatedAt": "2026-10-20T02:17:01.328Z"
 }
