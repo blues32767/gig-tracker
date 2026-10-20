@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%23111111'/><path d='M7 9 C7 6.5 9 5 16 5 C23 5 25 6.5 25 9 C25 15 19 23 16 27 C13 23 7 15 7 9 Z' fill='%23ffffff'/><polygon points='13,11 20,15 13,19' fill='%23111111'/></svg>">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%23111111'/><path d='M7 9 C7 6.5 9 5 16 5 C23 5 25 6.5 25 9 C25 15 19 23 16 27 C13 23 7 15 7 9 Z' fill='%23ffffff'/><polygon points='13,11 20,15 13,19' fill='%23111111'/></svg>">
     <title>聽團網 — 下一場，在現場見。</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.css" rel="stylesheet">
@@ -18,6 +21,7 @@
             --accent: #d4f55a;
             --border: #111111;
         }
+
         html.dark {
             --bg-main: #0c0c0e;
             --bg-card: #141417;
@@ -27,60 +31,313 @@
             --border: #f4f4f5;
             --accent: #d4f55a;
         }
-        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', system-ui, sans-serif; letter-spacing: -0.015em; }
-        body { background: var(--bg-main); color: var(--text-main); padding-top: 118px; transition: background-color 0.3s, color 0.3s; overflow-x: hidden; min-height: 100vh; min-height: 100dvh; display: flex; flex-direction: column; }
-        body.modal-open { overflow: hidden !important; touch-action: none; }
-        @media (min-width: 768px) { body { padding-top: 96px; } }
-        
-        .hero-grid { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(to right, var(--text-main) 1px, transparent 1px), linear-gradient(to bottom, var(--text-main) 1px, transparent 1px); background-size: 40px 40px; opacity: 0.05; pointer-events: none; z-index: -1; }
-        html.dark .hero-grid { opacity: 0.1; }
 
-        nav { position: fixed; top: 10px; left: 0.75rem; right: 0.75rem; max-width: 1200px; margin: 0 auto; background: var(--bg-card); border: 2px solid var(--text-main); z-index: 1000; box-shadow: 4px 4px 0px var(--text-main); display: flex; flex-direction: column; padding: 0.45rem 0.6rem; gap: 6px; transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
-        nav.nav-hidden { transform: translateY(-150%); box-shadow: none; }
-        
-        .nav-top { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
-        .nav-brand { font-size: 1.05rem; font-weight: 900; color: var(--text-main); text-transform: uppercase; letter-spacing: -0.5px; white-space: nowrap; }
-        .nav-top-right { display: flex; align-items: center; gap: 6px; }
-        
-        .user-nav-btn { font-size: 0.72rem; font-weight: 900; background: var(--bg-subtle); color: var(--text-main); border: 2px solid var(--text-main); padding: 3px 9px; border-radius: 99px; cursor: pointer; box-shadow: 2px 2px 0px var(--text-main); display: inline-flex; align-items: center; gap: 5px; max-width: 150px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; transition: transform 0.1s, background 0.2s; }
-        .user-nav-btn.logged-in { background: var(--accent); color: #111; border-color: var(--text-main); }
-        .user-nav-btn:active { transform: translate(2px, 2px); box-shadow: none; }
-        .user-dot { width: 7px; height: 7px; border-radius: 50%; background: #888; flex-shrink: 0; }
-        .user-nav-btn.logged-in .user-dot { background: #16a34a; box-shadow: 0 0 0 2px rgba(22,163,74,0.25); }
-
-        .nav-links { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; border-top: 1.5px dashed var(--text-main); padding-top: 6px; }
-        .nav-item { font-size: 0.72rem; font-weight: 800; text-align: center; padding: 5px 0; border: 1.5px solid var(--border); background: var(--bg-subtle); color: var(--text-secondary); cursor: pointer; white-space: nowrap; transition: all 0.2s;}
-        .nav-item:hover { background: var(--text-main); color: var(--bg-main); }
-        .nav-item.active { background: var(--text-main); color: var(--bg-main); border-color: var(--text-main); transform: translateY(-1px); box-shadow: 2px 2px 0px var(--accent);}
-        .theme-btn { font-size: 0.72rem; font-weight: 900; background: var(--bg-subtle); border: 2px solid var(--text-main); padding: 3px 8px; cursor: pointer; box-shadow: 2px 2px 0px var(--text-main); transition: transform 0.1s; color: var(--text-main); white-space: nowrap; }
-        .theme-btn:active { transform: translate(2px,2px); box-shadow: none; }
-        
-        @media (min-width: 768px) {
-            nav { flex-direction: row; align-items: center; justify-content: space-between; padding: 0 1.25rem; height: 62px; }
-            .nav-brand { font-size: 1.15rem; }
-            .nav-links { display: flex; border-top: none; padding-top: 0; gap: 6px; }
-            .nav-item { padding: 6px 12px; font-size: 0.82rem; border-width: 2px; }
-            .user-nav-btn, .theme-btn { font-size: 0.78rem; padding: 4px 10px; }
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', system-ui, sans-serif;
+            letter-spacing: -0.015em;
         }
 
-        .container { max-width: 1200px; margin: 0 auto 1.5rem auto; padding: 0 0.85rem; width: 100%; overflow-x: hidden; flex: 1; }
-        
+        body {
+            background: var(--bg-main);
+            color: var(--text-main);
+            padding-top: 118px;
+            transition: background-color 0.3s, color 0.3s;
+            overflow-x: hidden;
+            min-height: 100vh;
+            min-height: 100dvh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        body.modal-open {
+            overflow: hidden !important;
+            touch-action: none;
+        }
+
+        @media (min-width: 768px) {
+            body {
+                padding-top: 96px;
+            }
+        }
+
+        .hero-grid {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: linear-gradient(to right, var(--text-main) 1px, transparent 1px), linear-gradient(to bottom, var(--text-main) 1px, transparent 1px);
+            background-size: 40px 40px;
+            opacity: 0.05;
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        html.dark .hero-grid {
+            opacity: 0.1;
+        }
+
+        nav {
+            position: fixed;
+            top: 10px;
+            left: 0.75rem;
+            right: 0.75rem;
+            max-width: 1200px;
+            margin: 0 auto;
+            background: var(--bg-card);
+            border: 2px solid var(--text-main);
+            z-index: 1000;
+            box-shadow: 4px 4px 0px var(--text-main);
+            display: flex;
+            flex-direction: column;
+            padding: 0.45rem 0.6rem;
+            gap: 6px;
+            transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        nav.nav-hidden {
+            transform: translateY(-150%);
+            box-shadow: none;
+        }
+
+        .nav-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .nav-brand {
+            font-size: 1.05rem;
+            font-weight: 900;
+            color: var(--text-main);
+            text-transform: uppercase;
+            letter-spacing: -0.5px;
+            white-space: nowrap;
+        }
+
+        .nav-top-right {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .user-nav-btn {
+            font-size: 0.72rem;
+            font-weight: 900;
+            background: var(--bg-subtle);
+            color: var(--text-main);
+            border: 2px solid var(--text-main);
+            padding: 3px 9px;
+            border-radius: 99px;
+            cursor: pointer;
+            box-shadow: 2px 2px 0px var(--text-main);
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            max-width: 150px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            transition: transform 0.1s, background 0.2s;
+        }
+
+        .user-nav-btn.logged-in {
+            background: var(--accent);
+            color: #111;
+            border-color: var(--text-main);
+        }
+
+        .user-nav-btn:active {
+            transform: translate(2px, 2px);
+            box-shadow: none;
+        }
+
+        .user-dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: #888;
+            flex-shrink: 0;
+        }
+
+        .user-nav-btn.logged-in .user-dot {
+            background: #16a34a;
+            box-shadow: 0 0 0 2px rgba(22, 163, 74, 0.25);
+        }
+
+        .nav-links {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 4px;
+            border-top: 1.5px dashed var(--text-main);
+            padding-top: 6px;
+        }
+
+        .nav-item {
+            font-size: 0.72rem;
+            font-weight: 800;
+            text-align: center;
+            padding: 5px 0;
+            border: 1.5px solid var(--border);
+            background: var(--bg-subtle);
+            color: var(--text-secondary);
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.2s;
+        }
+
+        .nav-item:hover {
+            background: var(--text-main);
+            color: var(--bg-main);
+        }
+
+        .nav-item.active {
+            background: var(--text-main);
+            color: var(--bg-main);
+            border-color: var(--text-main);
+            transform: translateY(-1px);
+            box-shadow: 2px 2px 0px var(--accent);
+        }
+
+        .theme-btn {
+            font-size: 0.72rem;
+            font-weight: 900;
+            background: var(--bg-subtle);
+            border: 2px solid var(--text-main);
+            padding: 3px 8px;
+            cursor: pointer;
+            box-shadow: 2px 2px 0px var(--text-main);
+            transition: transform 0.1s;
+            color: var(--text-main);
+            white-space: nowrap;
+        }
+
+        .theme-btn:active {
+            transform: translate(2px, 2px);
+            box-shadow: none;
+        }
+
+        @media (min-width: 768px) {
+            nav {
+                flex-direction: row;
+                align-items: center;
+                justify-content: space-between;
+                padding: 0 1.25rem;
+                height: 62px;
+            }
+
+            .nav-brand {
+                font-size: 1.15rem;
+            }
+
+            .nav-links {
+                display: flex;
+                border-top: none;
+                padding-top: 0;
+                gap: 6px;
+            }
+
+            .nav-item {
+                padding: 6px 12px;
+                font-size: 0.82rem;
+                border-width: 2px;
+            }
+
+            .user-nav-btn,
+            .theme-btn {
+                font-size: 0.78rem;
+                padding: 4px 10px;
+            }
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto 1.5rem auto;
+            padding: 0 0.85rem;
+            width: 100%;
+            overflow-x: hidden;
+            flex: 1;
+        }
+
         /* 智慧型頂部精簡篩選列 */
-        .filter-section { margin-bottom: 12px; }
-        .filter-mode-hint { font-size: 0.68rem; font-weight: 800; color: var(--text-secondary); margin-bottom: 5px; display: flex; align-items: center; justify-content: space-between; gap: 6px; flex-wrap: wrap; }
-        .filter-bar { display: flex; gap: 5px; flex-wrap: wrap; align-items: center; }
-        .filter-btn { font-size: 0.72rem; font-weight: 800; padding: 4px 10px; border: 1.5px solid var(--text-main); background: var(--bg-card); color: var(--text-main); cursor: pointer; border-radius: 99px; box-shadow: 1.5px 1.5px 0px var(--text-main); transition: transform 0.12s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.12s, background 0.2s; white-space: nowrap; display: inline-flex; align-items: center; gap: 4px; line-height: 1.2; }
-        .filter-btn:hover { transform: translate(-1px, -1px); box-shadow: 2.5px 2.5px 0px var(--text-main); }
-        .filter-btn:active { transform: translate(1.5px, 1.5px); box-shadow: none; }
-        .filter-count-pill { font-size: 0.62rem; font-weight: 900; padding: 0px 5px; border-radius: 99px; background: var(--bg-subtle); color: var(--text-secondary); border: 1px solid var(--border); }
-        .filter-btn.active .filter-count-pill { background: rgba(0, 0, 0, 0.28); color: #fff; border-color: rgba(255, 255, 255, 0.4); }
-        
+        .filter-section {
+            margin-bottom: 12px;
+        }
+
+        .filter-mode-hint {
+            font-size: 0.68rem;
+            font-weight: 800;
+            color: var(--text-secondary);
+            margin-bottom: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+
+        .filter-bar {
+            display: flex;
+            gap: 5px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .filter-btn {
+            font-size: 0.72rem;
+            font-weight: 800;
+            padding: 4px 10px;
+            border: 1.5px solid var(--text-main);
+            background: var(--bg-card);
+            color: var(--text-main);
+            cursor: pointer;
+            border-radius: 99px;
+            box-shadow: 1.5px 1.5px 0px var(--text-main);
+            transition: transform 0.12s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.12s, background 0.2s;
+            white-space: nowrap;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            line-height: 1.2;
+        }
+
+        .filter-btn:hover {
+            transform: translate(-1px, -1px);
+            box-shadow: 2.5px 2.5px 0px var(--text-main);
+        }
+
+        .filter-btn:active {
+            transform: translate(1.5px, 1.5px);
+            box-shadow: none;
+        }
+
+        .filter-count-pill {
+            font-size: 0.62rem;
+            font-weight: 900;
+            padding: 0px 5px;
+            border-radius: 99px;
+            background: var(--bg-subtle);
+            color: var(--text-secondary);
+            border: 1px solid var(--border);
+        }
+
+        .filter-btn.active .filter-count-pill {
+            background: rgba(0, 0, 0, 0.28);
+            color: #fff;
+            border-color: rgba(255, 255, 255, 0.4);
+        }
+
         /* 首頁篩選列的自訂分組膠囊專屬樣式 */
         .filter-btn.fb-group {
             background: var(--bg-subtle);
             border: 2px solid var(--text-main);
             font-weight: 900;
         }
+
         .filter-btn.fb-group.active {
             background: var(--accent) !important;
             color: #111 !important;
@@ -88,22 +345,70 @@
             box-shadow: none !important;
             transform: translate(1.5px, 1.5px);
         }
+
         .filter-btn.fb-group.active .filter-count-pill {
             background: #111;
             color: var(--accent);
             border-color: #111;
         }
 
-        .explore-trigger-btn { font-size: 0.72rem; font-weight: 900; padding: 4px 11px; border: 1.5px solid var(--text-main); background: var(--accent); color: #111; cursor: pointer; border-radius: 99px; box-shadow: 2px 2px 0px var(--text-main); display: inline-flex; align-items: center; gap: 4px; transition: transform 0.12s, box-shadow 0.12s; white-space: nowrap; line-height: 1.2; }
-        .explore-trigger-btn:hover { transform: translate(-1px, -1px); box-shadow: 3px 3px 0px var(--text-main); }
-        .explore-trigger-btn:active { transform: translate(1.5px, 1.5px); box-shadow: none; }
-        
-        .clear-filter-btn { font-size: 0.68rem; font-weight: 800; padding: 3px 9px; border: 1.5px dashed var(--text-main); background: transparent; color: var(--text-secondary); cursor: pointer; border-radius: 99px; transition: all 0.15s; line-height: 1.2; }
-        .clear-filter-btn:hover { background: var(--bg-subtle); color: var(--text-main); }
+        .explore-trigger-btn {
+            font-size: 0.72rem;
+            font-weight: 900;
+            padding: 4px 11px;
+            border: 1.5px solid var(--text-main);
+            background: var(--accent);
+            color: #111;
+            cursor: pointer;
+            border-radius: 99px;
+            box-shadow: 2px 2px 0px var(--text-main);
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            transition: transform 0.12s, box-shadow 0.12s;
+            white-space: nowrap;
+            line-height: 1.2;
+        }
+
+        .explore-trigger-btn:hover {
+            transform: translate(-1px, -1px);
+            box-shadow: 3px 3px 0px var(--text-main);
+        }
+
+        .explore-trigger-btn:active {
+            transform: translate(1.5px, 1.5px);
+            box-shadow: none;
+        }
+
+        .clear-filter-btn {
+            font-size: 0.68rem;
+            font-weight: 800;
+            padding: 3px 9px;
+            border: 1.5px dashed var(--text-main);
+            background: transparent;
+            color: var(--text-secondary);
+            cursor: pointer;
+            border-radius: 99px;
+            transition: all 0.15s;
+            line-height: 1.2;
+        }
+
+        .clear-filter-btn:hover {
+            background: var(--bg-subtle);
+            color: var(--text-main);
+        }
 
         @media (min-width: 768px) {
-            .filter-bar { gap: 7px; }
-            .filter-btn, .explore-trigger-btn { font-size: 0.78rem; padding: 5px 13px; border-width: 2px; }
+            .filter-bar {
+                gap: 7px;
+            }
+
+            .filter-btn,
+            .explore-trigger-btn {
+                font-size: 0.78rem;
+                padding: 5px 13px;
+                border-width: 2px;
+            }
         }
 
         /* 彈出式通用遮罩與對話框 */
@@ -123,8 +428,20 @@
             overscroll-behavior: contain;
             animation: fadeIn 0.18s ease-out;
         }
-        .modal-backdrop.open { display: flex; }
-        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+        .modal-backdrop.open {
+            display: flex;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
 
         /* ★ 修正 2：手機版「挑選藝人」視窗固定於頂部，防止軟鍵盤彈出時往中間拉扯擋住下方藝人資訊 */
         @media (max-width: 767px) {
@@ -133,16 +450,20 @@
                 padding-top: max(8px, env(safe-area-inset-top, 8px)) !important;
                 padding-bottom: 8px !important;
             }
+
             #artist-modal-backdrop .artist-modal {
                 max-height: calc(100dvh - 16px) !important;
                 margin-top: 0 !important;
             }
+
             #artist-modal-backdrop.keyboard-active .am-header {
                 padding: 6px 12px;
             }
+
             #artist-modal-backdrop.keyboard-active .am-title-wrap p {
                 display: none;
             }
+
             #artist-modal-backdrop.keyboard-active .am-footer {
                 padding: 6px 12px;
             }
@@ -162,15 +483,68 @@
             overflow: hidden;
             animation: slideUp 0.22s cubic-bezier(0.16, 1, 0.3, 1);
         }
-        .account-modal { max-width: 440px; }
-        .day-events-modal { max-width: 680px; }
-        .am-header { padding: 10px 14px; background: var(--text-main); color: var(--bg-main); display: flex; justify-content: space-between; align-items: center; gap: 10px; border-bottom: 2px solid var(--text-main); flex-shrink: 0; }
-        .am-title-wrap h3 { font-size: 0.92rem; font-weight: 900; letter-spacing: -0.5px; display: flex; align-items: center; gap: 5px; }
-        .am-title-wrap p { font-size: 0.68rem; opacity: 0.82; font-weight: 600; margin-top: 1px; line-height: 1.3; }
-        .am-close-btn { background: var(--accent); color: #111; border: 2px solid var(--bg-main); border-radius: 8px; padding: 4px 10px; font-weight: 900; font-size: 0.78rem; cursor: pointer; box-shadow: 2px 2px 0px rgba(0,0,0,0.3); flex-shrink: 0; white-space: nowrap; }
-        
-        .am-controls { padding: 9px 14px; background: var(--bg-subtle); border-bottom: 1.5px dashed var(--text-main); display: flex; flex-direction: column; gap: 7px; flex-shrink: 0; }
-        
+
+        .account-modal {
+            max-width: 440px;
+        }
+
+        .day-events-modal {
+            max-width: 680px;
+        }
+
+        .am-header {
+            padding: 10px 14px;
+            background: var(--text-main);
+            color: var(--bg-main);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+            border-bottom: 2px solid var(--text-main);
+            flex-shrink: 0;
+        }
+
+        .am-title-wrap h3 {
+            font-size: 0.92rem;
+            font-weight: 900;
+            letter-spacing: -0.5px;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .am-title-wrap p {
+            font-size: 0.68rem;
+            opacity: 0.82;
+            font-weight: 600;
+            margin-top: 1px;
+            line-height: 1.3;
+        }
+
+        .am-close-btn {
+            background: var(--accent);
+            color: #111;
+            border: 2px solid var(--bg-main);
+            border-radius: 8px;
+            padding: 4px 10px;
+            font-weight: 900;
+            font-size: 0.78rem;
+            cursor: pointer;
+            box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.3);
+            flex-shrink: 0;
+            white-space: nowrap;
+        }
+
+        .am-controls {
+            padding: 9px 14px;
+            background: var(--bg-subtle);
+            border-bottom: 1.5px dashed var(--text-main);
+            display: flex;
+            flex-direction: column;
+            gap: 7px;
+            flex-shrink: 0;
+        }
+
         /* ★ 修正 1：自訂藝人分組 (Custom Artist Groups) 工作區樣式 */
         .am-group-bar {
             display: flex;
@@ -182,7 +556,11 @@
             scrollbar-width: none;
             -ms-overflow-style: none;
         }
-        .am-group-bar::-webkit-scrollbar { display: none; }
+
+        .am-group-bar::-webkit-scrollbar {
+            display: none;
+        }
+
         .am-group-chip {
             font-size: 0.72rem;
             font-weight: 900;
@@ -200,12 +578,14 @@
             transition: all 0.12s;
             flex-shrink: 0;
         }
+
         .am-group-chip.active {
             background: var(--accent);
             color: #111;
             box-shadow: 2px 2px 0px var(--text-main);
             transform: translateY(-1px);
         }
+
         .am-group-add-btn {
             font-size: 0.7rem;
             font-weight: 900;
@@ -219,7 +599,13 @@
             flex-shrink: 0;
             transition: all 0.15s;
         }
-        .am-group-add-btn:hover { background: var(--accent); color: #111; border-style: solid; }
+
+        .am-group-add-btn:hover {
+            background: var(--accent);
+            color: #111;
+            border-style: solid;
+        }
+
         .am-group-manage-row {
             display: flex;
             align-items: center;
@@ -241,14 +627,19 @@
             display: flex;
             align-items: center;
         }
+
         @media (min-width: 768px) {
-            .search-container .search-input-box { max-width: 340px; }
+            .search-container .search-input-box {
+                max-width: 340px;
+            }
         }
+
         .search-input-box input {
             width: 100% !important;
             max-width: none !important;
             padding-right: 36px !important;
         }
+
         input[type="search"]::-webkit-search-decoration,
         input[type="search"]::-webkit-search-cancel-button,
         input[type="search"]::-webkit-search-results-button,
@@ -257,6 +648,7 @@
             appearance: none;
             display: none;
         }
+
         .input-clear-btn {
             position: absolute;
             right: 8px;
@@ -279,24 +671,92 @@
             z-index: 5;
             transition: background 0.15s, transform 0.1s;
         }
-        .input-clear-btn.visible { display: inline-flex; }
-        .input-clear-btn:hover, .input-clear-btn:active {
+
+        .input-clear-btn.visible {
+            display: inline-flex;
+        }
+
+        .input-clear-btn:hover,
+        .input-clear-btn:active {
             background: var(--accent);
             color: #111;
             transform: translateY(-50%) scale(1.08);
         }
 
-        .am-search-wrap { position: relative; width: 100%; }
-        .am-search-input { width: 100%; padding: 7px 11px; border: 2px solid var(--text-main); border-radius: 8px; background: var(--bg-card); color: var(--text-main); font-size: 0.82rem; font-weight: 700; box-shadow: 2px 2px 0px var(--text-main); }
-        .am-search-input:focus { outline: none; box-shadow: 3px 3px 0px var(--accent); }
-        
-        .am-cat-tabs { display: flex; gap: 5px; overflow-x: auto; padding-bottom: 2px; scrollbar-width: none; -ms-overflow-style: none; }
-        .am-cat-tabs::-webkit-scrollbar { display: none; }
-        .am-cat-btn { font-size: 0.72rem; font-weight: 800; padding: 4px 9px; border: 1.5px solid var(--text-main); border-radius: 8px; background: var(--bg-card); color: var(--text-secondary); cursor: pointer; display: inline-flex; align-items: center; gap: 4px; transition: all 0.15s; white-space: nowrap; flex-shrink: 0; }
-        .am-cat-btn:hover { color: var(--text-main); }
-        .am-cat-btn.active { background: var(--text-main); color: var(--bg-main); box-shadow: 2px 2px 0px var(--accent); }
+        .am-search-wrap {
+            position: relative;
+            width: 100%;
+        }
 
-        .am-list { padding: 10px 14px; overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 7px; flex: 1; min-height: 0; align-content: start; }
+        .am-search-input {
+            width: 100%;
+            padding: 7px 11px;
+            border: 2px solid var(--text-main);
+            border-radius: 8px;
+            background: var(--bg-card);
+            color: var(--text-main);
+            font-size: 0.82rem;
+            font-weight: 700;
+            box-shadow: 2px 2px 0px var(--text-main);
+        }
+
+        .am-search-input:focus {
+            outline: none;
+            box-shadow: 3px 3px 0px var(--accent);
+        }
+
+        .am-cat-tabs {
+            display: flex;
+            gap: 5px;
+            overflow-x: auto;
+            padding-bottom: 2px;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+
+        .am-cat-tabs::-webkit-scrollbar {
+            display: none;
+        }
+
+        .am-cat-btn {
+            font-size: 0.72rem;
+            font-weight: 800;
+            padding: 4px 9px;
+            border: 1.5px solid var(--text-main);
+            border-radius: 8px;
+            background: var(--bg-card);
+            color: var(--text-secondary);
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            transition: all 0.15s;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        .am-cat-btn:hover {
+            color: var(--text-main);
+        }
+
+        .am-cat-btn.active {
+            background: var(--text-main);
+            color: var(--bg-main);
+            box-shadow: 2px 2px 0px var(--accent);
+        }
+
+        .am-list {
+            padding: 10px 14px;
+            overflow-y: auto;
+            overscroll-behavior: contain;
+            -webkit-overflow-scrolling: touch;
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 7px;
+            flex: 1;
+            min-height: 0;
+            align-content: start;
+        }
 
         .cdm-quick-nav {
             padding: 8px 14px;
@@ -312,7 +772,11 @@
             scrollbar-width: none;
             -ms-overflow-style: none;
         }
-        .cdm-quick-nav::-webkit-scrollbar { display: none; }
+
+        .cdm-quick-nav::-webkit-scrollbar {
+            display: none;
+        }
+
         .cdm-jump-pill {
             font-size: 0.7rem;
             font-weight: 800;
@@ -330,11 +794,14 @@
             gap: 4px;
             transition: transform 0.12s, background 0.15s;
         }
-        .cdm-jump-pill:hover, .cdm-jump-pill:active {
+
+        .cdm-jump-pill:hover,
+        .cdm-jump-pill:active {
             background: var(--accent);
             color: #111;
             transform: translateY(-1px);
         }
+
         .cdm-jump-pill .pill-highlight {
             background: var(--text-main);
             color: var(--accent);
@@ -357,63 +824,293 @@
             background: var(--bg-main);
             touch-action: pan-y;
         }
-        .day-modal-body > .compact-card {
+
+        .day-modal-body>.compact-card {
             flex-shrink: 0 !important;
             overflow: visible !important;
         }
+
         @keyframes cardHighlightPulse {
-            0% { box-shadow: 0 0 0 0 var(--accent), 4px 4px 0px var(--text-main); }
-            50% { box-shadow: 0 0 0 5px var(--accent), 6px 6px 0px var(--text-main); transform: translateY(-2px); }
-            100% { box-shadow: 4px 4px 0px var(--text-main); }
+            0% {
+                box-shadow: 0 0 0 0 var(--accent), 4px 4px 0px var(--text-main);
+            }
+
+            50% {
+                box-shadow: 0 0 0 5px var(--accent), 6px 6px 0px var(--text-main);
+                transform: translateY(-2px);
+            }
+
+            100% {
+                box-shadow: 4px 4px 0px var(--text-main);
+            }
         }
+
         .compact-card.jump-highlight {
             animation: cardHighlightPulse 1.1s ease-out !important;
         }
 
         @media (min-width: 640px) {
-            .am-header { padding: 14px 18px; }
-            .am-title-wrap h3 { font-size: 1rem; }
-            .am-controls { padding: 12px 18px; gap: 8px; }
-            .am-list { padding: 14px 18px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; }
-            .day-modal-body { padding: 16px 18px 24px 18px; gap: 14px; }
-        }
-        .am-item { display: flex; align-items: center; justify-content: space-between; padding: 7px 9px; border: 2px solid var(--text-main); border-radius: 9px; background: var(--bg-card); cursor: pointer; transition: transform 0.12s, box-shadow 0.12s, background 0.15s; box-shadow: 2px 2px 0px var(--text-main); gap: 5px; user-select: none; }
-        .am-item:hover { transform: translate(-1px, -1px); box-shadow: 3px 3px 0px var(--text-main); }
-        .am-item.selected { background: var(--accent); color: #111; box-shadow: 2.5px 2.5px 0px var(--text-main); }
-        .am-item-left { display: flex; align-items: center; gap: 6px; min-width: 0; flex: 1; }
-        .am-dot { width: 10px; height: 10px; border-radius: 50%; border: 1.5px solid #111; flex-shrink: 0; }
-        .am-name-box { min-width: 0; flex: 1; }
-        .am-name { font-size: 0.76rem; font-weight: 900; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-        .am-sub { font-size: 0.6rem; font-weight: 700; opacity: 0.75; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 1px; }
-        .am-badge { font-size: 0.64rem; font-weight: 900; padding: 1.5px 5px; border-radius: 99px; border: 1.5px solid var(--text-main); background: var(--bg-subtle); color: var(--text-main); white-space: nowrap; flex-shrink: 0; }
-        .am-item.selected .am-badge { background: #111; color: var(--accent); border-color: #111; }
+            .am-header {
+                padding: 14px 18px;
+            }
 
-        .am-footer { padding: 9px 14px; background: var(--bg-card); border-top: 2px solid var(--text-main); display: flex; flex-direction: column; gap: 7px; flex-shrink: 0; }
-        .am-selected-status { font-size: 0.72rem; font-weight: 800; color: var(--text-secondary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%; }
-        .am-footer-btns { display: flex; justify-content: space-between; align-items: center; gap: 8px; width: 100%; }
-        .am-footer-btns .cc-btn { flex: 1; text-align: center; padding: 7px 10px; font-size: 0.78rem; }
+            .am-title-wrap h3 {
+                font-size: 1rem;
+            }
+
+            .am-controls {
+                padding: 12px 18px;
+                gap: 8px;
+            }
+
+            .am-list {
+                padding: 14px 18px;
+                grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+                gap: 10px;
+            }
+
+            .day-modal-body {
+                padding: 16px 18px 24px 18px;
+                gap: 14px;
+            }
+        }
+
+        .am-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 7px 9px;
+            border: 2px solid var(--text-main);
+            border-radius: 9px;
+            background: var(--bg-card);
+            cursor: pointer;
+            transition: transform 0.12s, box-shadow 0.12s, background 0.15s;
+            box-shadow: 2px 2px 0px var(--text-main);
+            gap: 5px;
+            user-select: none;
+        }
+
+        .am-item:hover {
+            transform: translate(-1px, -1px);
+            box-shadow: 3px 3px 0px var(--text-main);
+        }
+
+        .am-item.selected {
+            background: var(--accent);
+            color: #111;
+            box-shadow: 2.5px 2.5px 0px var(--text-main);
+        }
+
+        .am-item-left {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            min-width: 0;
+            flex: 1;
+        }
+
+        .am-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            border: 1.5px solid #111;
+            flex-shrink: 0;
+        }
+
+        .am-name-box {
+            min-width: 0;
+            flex: 1;
+        }
+
+        .am-name {
+            font-size: 0.76rem;
+            font-weight: 900;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .am-sub {
+            font-size: 0.6rem;
+            font-weight: 700;
+            opacity: 0.75;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            margin-top: 1px;
+        }
+
+        .am-badge {
+            font-size: 0.64rem;
+            font-weight: 900;
+            padding: 1.5px 5px;
+            border-radius: 99px;
+            border: 1.5px solid var(--text-main);
+            background: var(--bg-subtle);
+            color: var(--text-main);
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        .am-item.selected .am-badge {
+            background: #111;
+            color: var(--accent);
+            border-color: #111;
+        }
+
+        .am-footer {
+            padding: 9px 14px;
+            background: var(--bg-card);
+            border-top: 2px solid var(--text-main);
+            display: flex;
+            flex-direction: column;
+            gap: 7px;
+            flex-shrink: 0;
+        }
+
+        .am-selected-status {
+            font-size: 0.72rem;
+            font-weight: 800;
+            color: var(--text-secondary);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            width: 100%;
+        }
+
+        .am-footer-btns {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 8px;
+            width: 100%;
+        }
+
+        .am-footer-btns .cc-btn {
+            flex: 1;
+            text-align: center;
+            padding: 7px 10px;
+            font-size: 0.78rem;
+        }
+
         @media (min-width: 640px) {
-            .am-footer { flex-direction: row; justify-content: space-between; align-items: center; padding: 10px 18px; }
-            .am-selected-status { width: auto; flex: 1; }
-            .am-footer-btns { width: auto; }
-            .am-footer-btns .cc-btn { flex: initial; padding: 6px 14px; }
+            .am-footer {
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: center;
+                padding: 10px 18px;
+            }
+
+            .am-selected-status {
+                width: auto;
+                flex: 1;
+            }
+
+            .am-footer-btns {
+                width: auto;
+            }
+
+            .am-footer-btns .cc-btn {
+                flex: initial;
+                padding: 6px 14px;
+            }
         }
 
-        .search-container { display: flex; flex-direction: column; gap: 6px; margin-bottom: 18px; width: 100%; max-width: 100%; }
-        @media (min-width: 768px) { .search-container { flex-direction: row; justify-content: space-between; align-items: center; } }
-        .search-input { width: 100%; max-width: 100%; padding: 8px 12px; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); font-size: 0.85rem; font-weight: 700; box-shadow: 3px 3px 0px var(--text-main); transition: box-shadow 0.2s; border-radius: 6px; }
-        .search-input:focus { outline: none; box-shadow: 4px 4px 0px var(--accent); }
-        @media (min-width: 768px) { .search-input { max-width: 320px; } }
+        .search-container {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            margin-bottom: 18px;
+            width: 100%;
+            max-width: 100%;
+        }
 
-        .events-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; width: 100%; }
-        @media (min-width: 768px) { .events-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-        @media (min-width: 1024px) { .events-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+        @media (min-width: 768px) {
+            .search-container {
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: center;
+            }
+        }
 
-        @keyframes slideUp { from { opacity: 0; transform: translateY(15px); } to { opacity: 1; transform: translateY(0); } }
-        
-        .compact-card { display: flex; padding: 12px; gap: 12px; background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 4px 4px 0px var(--text-main); border-radius: 8px; align-items: flex-start; transition: transform 0.2s, box-shadow 0.2s; width: 100%; box-sizing: border-box; overflow: hidden; animation: slideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) backwards; flex-shrink: 0;}
-        .compact-card:hover { transform: translate(-2px, -2px); box-shadow: 6px 6px 0px var(--text-main); }
-        
+        .search-input {
+            width: 100%;
+            max-width: 100%;
+            padding: 8px 12px;
+            border: 2px solid var(--text-main);
+            background: var(--bg-card);
+            color: var(--text-main);
+            font-size: 0.85rem;
+            font-weight: 700;
+            box-shadow: 3px 3px 0px var(--text-main);
+            transition: box-shadow 0.2s;
+            border-radius: 6px;
+        }
+
+        .search-input:focus {
+            outline: none;
+            box-shadow: 4px 4px 0px var(--accent);
+        }
+
+        @media (min-width: 768px) {
+            .search-input {
+                max-width: 320px;
+            }
+        }
+
+        .events-grid {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr);
+            gap: 14px;
+            width: 100%;
+        }
+
+        @media (min-width: 768px) {
+            .events-grid {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .events-grid {
+                grid-template-columns: repeat(3, minmax(0, 1fr));
+            }
+        }
+
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(15px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .compact-card {
+            display: flex;
+            padding: 12px;
+            gap: 12px;
+            background: var(--bg-card);
+            border: 2px solid var(--text-main);
+            box-shadow: 4px 4px 0px var(--text-main);
+            border-radius: 8px;
+            align-items: flex-start;
+            transition: transform 0.2s, box-shadow 0.2s;
+            width: 100%;
+            box-sizing: border-box;
+            overflow: hidden;
+            animation: slideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) backwards;
+            flex-shrink: 0;
+        }
+
+        .compact-card:hover {
+            transform: translate(-2px, -2px);
+            box-shadow: 6px 6px 0px var(--text-main);
+        }
+
         /* ★ 修正 5：左側「日期黑塊 ＋ 下方緊湊足跡按鈕」欄位，大幅減少卡片留白 */
         .cc-left-col {
             display: flex;
@@ -423,11 +1120,39 @@
             width: 56px;
             flex-shrink: 0;
         }
-        .cc-date { display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--text-main); color: var(--bg-main); width: 100%; padding: 7px 4px; border-radius: 6px; flex-shrink: 0; }
-        .cc-date .m { font-size: 11px; font-weight: 800; margin-bottom: 2px; }
-        .cc-date .d { font-size: 20px; font-weight: 900; line-height: 1; letter-spacing: -1px;}
-        .cc-date .day { font-size: 10px; font-weight: 800; margin-top: 3px; }
-        
+
+        .cc-date {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: var(--text-main);
+            color: var(--bg-main);
+            width: 100%;
+            padding: 7px 4px;
+            border-radius: 6px;
+            flex-shrink: 0;
+        }
+
+        .cc-date .m {
+            font-size: 11px;
+            font-weight: 800;
+            margin-bottom: 2px;
+        }
+
+        .cc-date .d {
+            font-size: 20px;
+            font-weight: 900;
+            line-height: 1;
+            letter-spacing: -1px;
+        }
+
+        .cc-date .day {
+            font-size: 10px;
+            font-weight: 800;
+            margin-top: 3px;
+        }
+
         .cc-footprint-side-btn {
             width: 100%;
             min-height: 27px;
@@ -445,10 +1170,12 @@
             transition: all 0.12s;
             line-height: 1.1;
         }
+
         .cc-footprint-side-btn:hover {
             background: var(--text-main);
             color: var(--bg-main);
         }
+
         .cc-footprint-side-btn.active {
             background: var(--accent);
             color: #111;
@@ -456,55 +1183,357 @@
             transform: translate(1.5px, 1.5px);
         }
 
-        .cc-info { flex: 1; min-width: 0; display: flex; flex-direction: column;}
-        .cc-title { font-size: 15px; font-weight: 900; color: var(--text-main); line-height: 1.3; margin-bottom: 6px; word-wrap: break-word; }
-        .cc-meta { font-size: 12.5px; color: var(--text-secondary); font-weight: 700; margin-bottom: 7px; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
-        .cc-bands { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 4px; }
-        
-        .band-tag { font-size: 10.5px; font-weight: 800; padding: 2px 7px; border: 1.5px solid var(--text-main); border-radius: 4px; display: inline-flex; align-items: center; white-space: nowrap; box-shadow: 1px 1px 0px rgba(0,0,0,0.1); transition: transform 0.15s;}
-        .band-tag.is-picked { border: 2px solid var(--text-main); box-shadow: 2px 2px 0px var(--text-main); transform: translateY(-1px); font-weight: 900; }
-        .b-default { background: var(--text-main); color: var(--bg-main); border-color: var(--text-main); }
-        
-        .cc-actions { display: flex; gap: 8px; margin-top: 6px; flex-wrap: wrap; }
-        .cc-btn { font-size: 12px; font-weight: 800; padding: 5px 12px; border: 2px solid var(--text-main); background: var(--bg-card); color: var(--text-main); text-decoration: none; border-radius: 6px; cursor: pointer; box-shadow: 2px 2px 0px var(--text-main); transition: transform 0.1s, box-shadow 0.1s, background 0.2s; white-space: nowrap; }
-        .cc-btn:hover { background: var(--text-main); color: var(--bg-main); }
-        .cc-btn.active { background: var(--accent); color: #111; box-shadow: none; transform: translate(2px, 2px); border-color: var(--text-main); }
+        .cc-info {
+            flex: 1;
+            min-width: 0;
+            display: flex;
+            flex-direction: column;
+        }
 
-        .cc-note-wrap, .setlists-wrap { width: 100%; margin-top: 6px; }
-        .cc-note-toggle, .setlist-summary { font-size: 11.5px; font-weight: 800; cursor: pointer; color: var(--text-main); padding: 2px 0; display: inline-block; text-decoration: underline; text-decoration-style: dashed; transition: color 0.2s;}
-        .cc-note-toggle:hover, .setlist-summary:hover { color: var(--accent); }
-        .cc-note-content, .setlist-content { font-size: 12px; color: var(--text-main); font-weight:600; background: var(--bg-subtle); padding: 8px 10px; border: 2px dashed var(--border); margin-top: 5px; line-height: 1.6; border-radius: 6px; white-space: pre-wrap; word-wrap: break-word; display: none; }
-        .cc-note-content.open, .setlist-content.open { display: block; animation: slideUp 0.2s ease-out; }
-        
-        .sl-band-title { font-weight: 900; color: var(--text-main); margin: 8px 0 4px 0; border-bottom: 2px solid var(--border); padding-bottom: 4px; font-size:13px;}
-        .sl-song { padding: 3px 0; color: var(--text-secondary); display: flex; align-items: center; gap: 6px; flex-wrap: wrap; font-size:12px;}
-        
-        .section-title { font-size: 1.2rem; font-weight: 900; margin-bottom: 14px; color: var(--text-main); display: flex; justify-content: space-between; align-items: center; letter-spacing: -0.5px;}
-        .empty-state { text-align: center; padding: 3.5rem 1rem; border: 2px dashed var(--text-main); background: var(--bg-card); border-radius: 12px; font-weight: 800; color: var(--text-secondary); grid-column: 1 / -1; width: 100%; }
-        .btn-more { display: block; width: 100%; max-width: 220px; margin: 26px auto; text-align: center; font-size: 0.95rem; padding: 10px; font-weight: 900; background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 4px 4px 0px var(--text-main); cursor: pointer; color: var(--text-main); border-radius: 6px; transition: transform 0.1s;}
-        .btn-more:active { transform: translate(4px, 4px); box-shadow: none; }
-        
-        #calendar-container { background: var(--bg-card); border: 2px solid var(--text-main); box-shadow: 5px 5px 0px var(--text-main); border-radius: 12px; padding: 12px; margin-top: 10px; width: 100%; overflow-x: auto; }
-        .calendar-tip { font-size: 0.72rem; font-weight: 800; color: var(--text-secondary); margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 6px 10px; background: var(--bg-subtle); border-radius: 6px; border: 1.5px dashed var(--border); }
-        .fc-theme-standard td, .fc-theme-standard th { border: 1px solid var(--border); }
-        .fc-theme-standard .fc-scrollgrid { border: 2px solid var(--text-main); }
-        .fc .fc-toolbar-title { font-weight: 900; color: var(--text-main); font-size: 1.15rem; letter-spacing:-0.5px;}
-        .fc .fc-button-primary { background-color: var(--text-main); border-color: var(--text-main); color: var(--bg-main); font-weight: 800; box-shadow: 2px 2px 0px var(--accent); transition: all 0.2s;}
-        .fc .fc-button-primary:hover { background-color: var(--text-secondary); border-color: var(--text-secondary); transform: translate(1px, 1px); box-shadow:1px 1px 0px var(--accent);}
-        .fc .fc-daygrid-day-number { color: var(--text-main); font-weight: 900; }
-        .fc .fc-col-header-cell-cushion { color: var(--text-main); font-weight: 900; padding: 8px 4px; }
-        .fc-event { border: 1.5px solid var(--text-main); border-radius: 4px; padding: 2px !important; font-size: 10px; font-weight: 800; color: var(--text-main) !important; cursor: pointer; box-shadow: 1.5px 1.5px 0px var(--text-main); margin-bottom: 2px; white-space: normal !important; text-align: center; }
-        .fc .fc-daygrid-more-link { font-size: 10.5px; font-weight: 900; color: #111 !important; background: var(--accent); border: 1.5px solid var(--text-main); border-radius: 4px; padding: 1px 5px; display: inline-block; margin-top: 2px; text-decoration: none !important; box-shadow: 1.5px 1.5px 0px var(--text-main); }
-        
-        html.dark .fc .fc-button-primary { color: var(--text-main); background-color: var(--bg-subtle); }
-        html.dark .fc .fc-button-primary:hover { background-color: var(--text-main); color: var(--bg-main); }
-        html.dark .fc-event { color: #111 !important; }
+        .cc-title {
+            font-size: 15px;
+            font-weight: 900;
+            color: var(--text-main);
+            line-height: 1.3;
+            margin-bottom: 6px;
+            word-wrap: break-word;
+        }
+
+        .cc-meta {
+            font-size: 12.5px;
+            color: var(--text-secondary);
+            font-weight: 700;
+            margin-bottom: 7px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+
+        .cc-bands {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-bottom: 4px;
+        }
+
+        .band-tag {
+            font-size: 10.5px;
+            font-weight: 800;
+            padding: 2px 7px;
+            border: 1.5px solid var(--text-main);
+            border-radius: 4px;
+            display: inline-flex;
+            align-items: center;
+            white-space: nowrap;
+            box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1);
+            transition: transform 0.15s;
+        }
+
+        .band-tag.is-picked {
+            border: 2px solid var(--text-main);
+            box-shadow: 2px 2px 0px var(--text-main);
+            transform: translateY(-1px);
+            font-weight: 900;
+        }
+
+        .b-default {
+            background: var(--text-main);
+            color: var(--bg-main);
+            border-color: var(--text-main);
+        }
+
+        .cc-actions {
+            display: flex;
+            gap: 8px;
+            margin-top: 6px;
+            flex-wrap: wrap;
+        }
+
+        .cc-btn {
+            font-size: 12px;
+            font-weight: 800;
+            padding: 5px 12px;
+            border: 2px solid var(--text-main);
+            background: var(--bg-card);
+            color: var(--text-main);
+            text-decoration: none;
+            border-radius: 6px;
+            cursor: pointer;
+            box-shadow: 2px 2px 0px var(--text-main);
+            transition: transform 0.1s, box-shadow 0.1s, background 0.2s;
+            white-space: nowrap;
+        }
+
+        .cc-btn:hover {
+            background: var(--text-main);
+            color: var(--bg-main);
+        }
+
+        .cc-btn.active {
+            background: var(--accent);
+            color: #111;
+            box-shadow: none;
+            transform: translate(2px, 2px);
+            border-color: var(--text-main);
+        }
+
+        .cc-note-wrap,
+        .setlists-wrap {
+            width: 100%;
+            margin-top: 6px;
+        }
+
+        .cc-note-toggle,
+        .setlist-summary {
+            font-size: 11.5px;
+            font-weight: 800;
+            cursor: pointer;
+            color: var(--text-main);
+            padding: 2px 0;
+            display: inline-block;
+            text-decoration: underline;
+            text-decoration-style: dashed;
+            transition: color 0.2s;
+        }
+
+        .cc-note-toggle:hover,
+        .setlist-summary:hover {
+            color: var(--accent);
+        }
+
+        .cc-note-content,
+        .setlist-content {
+            font-size: 12px;
+            color: var(--text-main);
+            font-weight: 600;
+            background: var(--bg-subtle);
+            padding: 8px 10px;
+            border: 2px dashed var(--border);
+            margin-top: 5px;
+            line-height: 1.6;
+            border-radius: 6px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            display: none;
+        }
+
+        .cc-note-content.open,
+        .setlist-content.open {
+            display: block;
+            animation: slideUp 0.2s ease-out;
+        }
+
+        .sl-band-title {
+            font-weight: 900;
+            color: var(--text-main);
+            margin: 8px 0 4px 0;
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 4px;
+            font-size: 13px;
+        }
+
+        .sl-song {
+            padding: 3px 0;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
+            font-size: 12px;
+        }
+
+        .section-title {
+            font-size: 1.2rem;
+            font-weight: 900;
+            margin-bottom: 14px;
+            color: var(--text-main);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            letter-spacing: -0.5px;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 3.5rem 1rem;
+            border: 2px dashed var(--text-main);
+            background: var(--bg-card);
+            border-radius: 12px;
+            font-weight: 800;
+            color: var(--text-secondary);
+            grid-column: 1 / -1;
+            width: 100%;
+        }
+
+        .btn-more {
+            display: block;
+            width: 100%;
+            max-width: 220px;
+            margin: 26px auto;
+            text-align: center;
+            font-size: 0.95rem;
+            padding: 10px;
+            font-weight: 900;
+            background: var(--bg-card);
+            border: 2px solid var(--text-main);
+            box-shadow: 4px 4px 0px var(--text-main);
+            cursor: pointer;
+            color: var(--text-main);
+            border-radius: 6px;
+            transition: transform 0.1s;
+        }
+
+        .btn-more:active {
+            transform: translate(4px, 4px);
+            box-shadow: none;
+        }
+
+        #calendar-container {
+            background: var(--bg-card);
+            border: 2px solid var(--text-main);
+            box-shadow: 5px 5px 0px var(--text-main);
+            border-radius: 12px;
+            padding: 12px;
+            margin-top: 10px;
+            width: 100%;
+            overflow-x: auto;
+        }
+
+        .calendar-tip {
+            font-size: 0.72rem;
+            font-weight: 800;
+            color: var(--text-secondary);
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 8px;
+            padding: 6px 10px;
+            background: var(--bg-subtle);
+            border-radius: 6px;
+            border: 1.5px dashed var(--border);
+        }
+
+        .fc-theme-standard td,
+        .fc-theme-standard th {
+            border: 1px solid var(--border);
+        }
+
+        .fc-theme-standard .fc-scrollgrid {
+            border: 2px solid var(--text-main);
+        }
+
+        .fc .fc-toolbar-title {
+            font-weight: 900;
+            color: var(--text-main);
+            font-size: 1.15rem;
+            letter-spacing: -0.5px;
+        }
+
+        .fc .fc-button-primary {
+            background-color: var(--text-main);
+            border-color: var(--text-main);
+            color: var(--bg-main);
+            font-weight: 800;
+            box-shadow: 2px 2px 0px var(--accent);
+            transition: all 0.2s;
+        }
+
+        .fc .fc-button-primary:hover {
+            background-color: var(--text-secondary);
+            border-color: var(--text-secondary);
+            transform: translate(1px, 1px);
+            box-shadow: 1px 1px 0px var(--accent);
+        }
+
+        .fc .fc-daygrid-day-number {
+            color: var(--text-main);
+            font-weight: 900;
+        }
+
+        .fc .fc-col-header-cell-cushion {
+            color: var(--text-main);
+            font-weight: 900;
+            padding: 8px 4px;
+        }
+
+        .fc-event {
+            border: 1.5px solid var(--text-main);
+            border-radius: 4px;
+            padding: 2px !important;
+            font-size: 10px;
+            font-weight: 800;
+            color: var(--text-main) !important;
+            cursor: pointer;
+            box-shadow: 1.5px 1.5px 0px var(--text-main);
+            margin-bottom: 2px;
+            white-space: normal !important;
+            text-align: center;
+        }
+
+        .fc .fc-daygrid-more-link {
+            font-size: 10.5px;
+            font-weight: 900;
+            color: #111 !important;
+            background: var(--accent);
+            border: 1.5px solid var(--text-main);
+            border-radius: 4px;
+            padding: 1px 5px;
+            display: inline-block;
+            margin-top: 2px;
+            text-decoration: none !important;
+            box-shadow: 1.5px 1.5px 0px var(--text-main);
+        }
+
+        html.dark .fc .fc-button-primary {
+            color: var(--text-main);
+            background-color: var(--bg-subtle);
+        }
+
+        html.dark .fc .fc-button-primary:hover {
+            background-color: var(--text-main);
+            color: var(--bg-main);
+        }
+
+        html.dark .fc-event {
+            color: #111 !important;
+        }
 
         /* ★ 現場版圖（內建手繪向量 SVG 台灣島嶼圖 ＋ 免費台灣國土測繪/OSM 實景圖雙模） ★ */
-        .map-hero-card { background: var(--bg-card); border: 2px solid var(--text-main); border-radius: 12px; box-shadow: 5px 5px 0px var(--text-main); padding: 14px; margin-bottom: 16px; }
-        .map-mode-switch { display: inline-flex; border: 2px solid var(--text-main); border-radius: 99px; overflow: hidden; background: var(--bg-subtle); }
-        .map-mode-btn { font-size: 0.7rem; font-weight: 900; padding: 5px 11px; border: none; background: transparent; color: var(--text-secondary); cursor: pointer; transition: all 0.15s; white-space: nowrap; }
-        .map-mode-btn.active { background: var(--accent); color: #111; }
+        .map-hero-card {
+            background: var(--bg-card);
+            border: 2px solid var(--text-main);
+            border-radius: 12px;
+            box-shadow: 5px 5px 0px var(--text-main);
+            padding: 14px;
+            margin-bottom: 16px;
+        }
+
+        .map-mode-switch {
+            display: inline-flex;
+            border: 2px solid var(--text-main);
+            border-radius: 99px;
+            overflow: hidden;
+            background: var(--bg-subtle);
+        }
+
+        .map-mode-btn {
+            font-size: 0.7rem;
+            font-weight: 900;
+            padding: 5px 11px;
+            border: none;
+            background: transparent;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.15s;
+            white-space: nowrap;
+        }
+
+        .map-mode-btn.active {
+            background: var(--accent);
+            color: #111;
+        }
 
         .svg-map-stage {
             display: grid;
@@ -517,9 +1546,15 @@
             position: relative;
             overflow: hidden;
         }
+
         @media (min-width: 768px) {
-            .svg-map-stage { grid-template-columns: 1.15fr 1fr; align-items: stretch; padding: 16px; }
+            .svg-map-stage {
+                grid-template-columns: 1.15fr 1fr;
+                align-items: stretch;
+                padding: 16px;
+            }
         }
+
         .svg-canvas-wrap {
             position: relative;
             width: 100%;
@@ -529,30 +1564,50 @@
             align-items: center;
             justify-content: center;
         }
+
         .tw-vector-svg {
             width: 100%;
             height: auto;
             max-height: 440px;
             display: block;
-            filter: drop-shadow(4px 4px 0px rgba(0,0,0,0.18));
+            filter: drop-shadow(4px 4px 0px rgba(0, 0, 0, 0.18));
         }
+
         .tw-island-shape {
             fill: var(--bg-card);
             stroke: var(--text-main);
             stroke-width: 3;
             stroke-linejoin: round;
         }
-        .tw-city-node { cursor: pointer; transition: transform 0.18s ease; }
-        .tw-city-node:hover { transform: scale(1.08); }
+
+        .tw-city-node {
+            cursor: pointer;
+            transition: transform 0.18s ease;
+        }
+
+        .tw-city-node:hover {
+            transform: scale(1.08);
+        }
+
         .tw-node-pulse {
             fill: var(--accent);
             opacity: 0.35;
             transform-origin: center;
             animation: nodePulse 2s infinite ease-in-out;
         }
+
         @keyframes nodePulse {
-            0%, 100% { r: 10px; opacity: 0.35; }
-            50% { r: 17px; opacity: 0.12; }
+
+            0%,
+            100% {
+                r: 10px;
+                opacity: 0.35;
+            }
+
+            50% {
+                r: 17px;
+                opacity: 0.12;
+            }
         }
 
         .svg-preview-card {
@@ -565,6 +1620,7 @@
             flex-direction: column;
             max-height: 420px;
         }
+
         .svg-preview-list {
             overflow-y: auto;
             overscroll-behavior: contain;
@@ -576,9 +1632,26 @@
             padding-right: 4px;
         }
 
-        #taiwan-map-box { width: 100%; height: 420px; border: 2px solid var(--text-main); border-radius: 10px; overflow: hidden; z-index: 10; background: #dce7eb; position: relative; }
-        @media (min-width: 768px) { #taiwan-map-box { height: 480px; } }
-        html.dark #taiwan-map-box .leaflet-tile-pane { filter: brightness(0.84) contrast(1.12); }
+        #taiwan-map-box {
+            width: 100%;
+            height: 420px;
+            border: 2px solid var(--text-main);
+            border-radius: 10px;
+            overflow: hidden;
+            z-index: 10;
+            background: #dce7eb;
+            position: relative;
+        }
+
+        @media (min-width: 768px) {
+            #taiwan-map-box {
+                height: 480px;
+            }
+        }
+
+        html.dark #taiwan-map-box .leaflet-tile-pane {
+            filter: brightness(0.84) contrast(1.12);
+        }
 
         .ting-map-marker {
             display: inline-flex;
@@ -595,8 +1668,16 @@
             white-space: nowrap;
             transition: transform 0.15s;
         }
-        .ting-map-marker:hover { transform: scale(1.12); z-index: 999 !important; }
-        .ting-map-marker.has-picked { background: #ff6600; color: #fff; }
+
+        .ting-map-marker:hover {
+            transform: scale(1.12);
+            z-index: 999 !important;
+        }
+
+        .ting-map-marker.has-picked {
+            background: #ff6600;
+            color: #fff;
+        }
 
         /* ★ 修正 4：街道實景地圖放大至縣市（Zoom >= 10）時的個別山海/場館座標標籤 */
         .ting-venue-marker {
@@ -614,11 +1695,17 @@
             white-space: nowrap;
             transition: transform 0.15s;
         }
-        .ting-venue-marker:hover { transform: scale(1.1); z-index: 999 !important; }
+
+        .ting-venue-marker:hover {
+            transform: scale(1.1);
+            z-index: 999 !important;
+        }
+
         .ting-venue-marker.has-picked {
             background: var(--accent);
             color: #111;
         }
+
         .ting-venue-marker .venue-type-badge {
             font-size: 10px;
             padding: 0 4px;
@@ -627,7 +1714,8 @@
             color: #fff;
         }
 
-        .leaflet-popup-content-wrapper, .leaflet-tooltip {
+        .leaflet-popup-content-wrapper,
+        .leaflet-tooltip {
             background: var(--bg-card) !important;
             color: var(--text-main) !important;
             border: 2px solid var(--text-main) !important;
@@ -636,22 +1724,106 @@
             padding: 2px !important;
             font-family: 'Inter', system-ui, sans-serif !important;
         }
-        .leaflet-popup-tip { background: var(--text-main) !important; }
-        .map-popup-list { max-height: 230px; overflow-y: auto; padding-right: 4px; margin-top: 6px; display: flex; flex-direction: column; gap: 6px; }
-        .map-popup-item { padding: 6px 8px; background: var(--bg-subtle); border: 1.5px solid var(--border); border-radius: 6px; font-size: 11.5px; }
 
-        .city-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(105px, 1fr)); gap: 8px; margin-top: 12px; }
-        .city-badge-btn { padding: 8px 10px; border: 2px solid var(--text-main); border-radius: 8px; background: var(--bg-card); color: var(--text-main); cursor: pointer; display: flex; align-items: center; justify-content: space-between; font-size: 0.78rem; font-weight: 900; box-shadow: 2px 2px 0px var(--text-main); transition: transform 0.12s, background 0.15s; }
-        .city-badge-btn:hover { transform: translate(-1px, -1px); box-shadow: 3px 3px 0px var(--text-main); }
-        .city-badge-btn.active { background: var(--accent); color: #111; }
-        .city-badge-btn.locked { opacity: 0.42; border-style: dashed; box-shadow: none; cursor: default; }
+        .leaflet-popup-tip {
+            background: var(--text-main) !important;
+        }
 
-        .fp-artist-row { border: 2px solid var(--text-main); border-radius: 10px; background: var(--bg-card); box-shadow: 3px 3px 0px var(--text-main); padding: 10px 12px; margin-bottom: 10px; transition: transform 0.12s; }
-        .fp-artist-row.is-fav { border-width: 2.5px; box-shadow: 4px 4px 0px var(--accent); }
-        .fp-artist-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; cursor: pointer; user-select: none; }
-        .fp-artist-events { display: none; margin-top: 10px; padding-top: 8px; border-top: 1.5px dashed var(--border); font-size: 12px; }
-        .fp-artist-events.open { display: block; animation: slideUp 0.18s ease-out; }
-        
+        .map-popup-list {
+            max-height: 230px;
+            overflow-y: auto;
+            padding-right: 4px;
+            margin-top: 6px;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .map-popup-item {
+            padding: 6px 8px;
+            background: var(--bg-subtle);
+            border: 1.5px solid var(--border);
+            border-radius: 6px;
+            font-size: 11.5px;
+        }
+
+        .city-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(105px, 1fr));
+            gap: 8px;
+            margin-top: 12px;
+        }
+
+        .city-badge-btn {
+            padding: 8px 10px;
+            border: 2px solid var(--text-main);
+            border-radius: 8px;
+            background: var(--bg-card);
+            color: var(--text-main);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 0.78rem;
+            font-weight: 900;
+            box-shadow: 2px 2px 0px var(--text-main);
+            transition: transform 0.12s, background 0.15s;
+        }
+
+        .city-badge-btn:hover {
+            transform: translate(-1px, -1px);
+            box-shadow: 3px 3px 0px var(--text-main);
+        }
+
+        .city-badge-btn.active {
+            background: var(--accent);
+            color: #111;
+        }
+
+        .city-badge-btn.locked {
+            opacity: 0.42;
+            border-style: dashed;
+            box-shadow: none;
+            cursor: default;
+        }
+
+        .fp-artist-row {
+            border: 2px solid var(--text-main);
+            border-radius: 10px;
+            background: var(--bg-card);
+            box-shadow: 3px 3px 0px var(--text-main);
+            padding: 10px 12px;
+            margin-bottom: 10px;
+            transition: transform 0.12s;
+        }
+
+        .fp-artist-row.is-fav {
+            border-width: 2.5px;
+            box-shadow: 4px 4px 0px var(--accent);
+        }
+
+        .fp-artist-head {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 8px;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .fp-artist-events {
+            display: none;
+            margin-top: 10px;
+            padding-top: 8px;
+            border-top: 1.5px dashed var(--border);
+            font-size: 12px;
+        }
+
+        .fp-artist-events.open {
+            display: block;
+            animation: slideUp 0.18s ease-out;
+        }
+
         /* ★ 修正 5：右上角浮動「足跡雲端同步狀態」按鈕膠囊 */
         .floating-sync-pill {
             position: fixed;
@@ -673,17 +1845,40 @@
             animation: slideUp 0.2s cubic-bezier(0.16, 1, 0.3, 1);
             max-width: calc(100vw - 28px);
         }
+
         @media (max-width: 767px) {
-            .floating-sync-pill { top: 122px; right: 10px; }
+            .floating-sync-pill {
+                top: 122px;
+                right: 10px;
+            }
         }
-        .floating-sync-pill.show { display: inline-flex; }
+
+        .floating-sync-pill.show {
+            display: inline-flex;
+        }
+
         .floating-sync-pill.synced {
             background: var(--accent);
             color: #111;
             box-shadow: 3px 3px 0px var(--text-main);
         }
 
-        .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--text-main); color: var(--bg-main); padding: 10px 20px; font-size: 13px; font-weight: 800; border-radius: 8px; z-index: 3000; box-shadow: 5px 5px 0px var(--accent); max-width: 90vw; text-align: center;}
+        .toast {
+            position: fixed;
+            bottom: 24px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--text-main);
+            color: var(--bg-main);
+            padding: 10px 20px;
+            font-size: 13px;
+            font-weight: 800;
+            border-radius: 8px;
+            z-index: 3000;
+            box-shadow: 5px 5px 0px var(--accent);
+            max-width: 90vw;
+            text-align: center;
+        }
 
         .site-footer {
             max-width: 1200px;
@@ -691,6 +1886,7 @@
             margin: 2rem auto 0 auto;
             padding: 0 0.85rem calc(1.5rem + env(safe-area-inset-bottom, 0px)) 0.85rem;
         }
+
         .footer-inner {
             border-top: 1.5px dashed var(--border);
             padding-top: 14px;
@@ -702,19 +1898,150 @@
             opacity: 0.72;
             transition: opacity 0.25s ease;
         }
-        .footer-inner:hover, .footer-inner:focus-within { opacity: 1; }
-        .footer-meta { font-size: 0.72rem; font-weight: 800; color: var(--text-secondary); display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 6px; }
-        .footer-meta strong { color: var(--text-main); font-weight: 900; }
-        .footer-dot { opacity: 0.45; }
-        .footer-links { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; justify-content: center; }
-        .footer-social-link { font-size: 0.68rem; font-weight: 800; color: var(--text-main); background: var(--bg-card); border: 1.5px solid var(--text-main); padding: 3px 9px; border-radius: 99px; text-decoration: none; display: inline-flex; align-items: center; gap: 4px; box-shadow: 1.5px 1.5px 0px var(--text-main); transition: transform 0.12s, box-shadow 0.12s, background 0.15s, color 0.15s; }
-        .footer-social-link:hover { background: var(--accent); color: #111; transform: translate(-1px, -1px); box-shadow: 2.5px 2.5px 0px var(--text-main); }
-        .footer-social-link:active { transform: translate(1.5px, 1.5px); box-shadow: none; }
-        .footer-social-link svg { width: 12px; height: 12px; fill: currentColor; flex-shrink: 0; }
-        @media (min-width: 640px) { .footer-inner { flex-direction: row; } }
+
+        .footer-inner:hover,
+        .footer-inner:focus-within {
+            opacity: 1;
+        }
+
+        .footer-meta {
+            font-size: 0.72rem;
+            font-weight: 800;
+            color: var(--text-secondary);
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+        }
+
+        .footer-meta strong {
+            color: var(--text-main);
+            font-weight: 900;
+        }
+
+        .footer-dot {
+            opacity: 0.45;
+        }
+
+        .footer-links {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .footer-social-link {
+            font-size: 0.68rem;
+            font-weight: 800;
+            color: var(--text-main);
+            background: var(--bg-card);
+            border: 1.5px solid var(--text-main);
+            padding: 3px 9px;
+            border-radius: 99px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            box-shadow: 1.5px 1.5px 0px var(--text-main);
+            transition: transform 0.12s, box-shadow 0.12s, background 0.15s, color 0.15s;
+        }
+
+        .footer-social-link:hover {
+            background: var(--accent);
+            color: #111;
+            transform: translate(-1px, -1px);
+            box-shadow: 2.5px 2.5px 0px var(--text-main);
+        }
+
+        .footer-social-link:active {
+            transform: translate(1.5px, 1.5px);
+            box-shadow: none;
+        }
+
+        .footer-social-link svg {
+            width: 12px;
+            height: 12px;
+            fill: currentColor;
+            flex-shrink: 0;
+        }
+
+        @media (min-width: 640px) {
+            .footer-inner {
+                flex-direction: row;
+            }
+        }
+
+        /* ==========================================================================
+           ★ 頂部篩選列雙軌精簡化（防止分組藝人過多吃滿手機版面）
+           ========================================================================== */
+        #filters.filter-bar {
+            display: flex;
+            flex-direction: column;
+            align-items: stretch;
+            gap: 0;
+            width: 100%;
+        }
+
+        /* 主分組軌道：固定平鋪在第一排 */
+        .filter-primary-track {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+            align-items: center;
+            width: 100%;
+            margin-bottom: 4px;
+        }
+
+        /* 次級成員軌道容器：外層維持定位與邊緣遮罩 */
+        .filter-sub-scroll-wrap {
+            position: relative;
+            width: 100%;
+            margin-top: 4px;
+            padding-top: 5px;
+            border-top: 1.5px dashed var(--border);
+            animation: fadeIn 0.18s ease-out;
+        }
+
+        /* 次級成員滑動軌道：單排橫向滑動，不換行 */
+        .filter-sub-track {
+            display: flex;
+            gap: 6px;
+            overflow-x: auto;
+            overscroll-behavior-x: contain;
+            -webkit-overflow-scrolling: touch;
+            scroll-behavior: smooth;
+            padding-bottom: 4px;
+            padding-right: 36px;
+            /* 右側保留安全邊界，防止最後一顆按鈕被漸層遮罩遮擋 */
+            scrollbar-width: none;
+            /* Firefox 隱藏捲軸 */
+            -ms-overflow-style: none;
+            /* IE/Edge */
+        }
+
+        .filter-sub-track::-webkit-scrollbar {
+            display: none;
+            /* Chrome/Safari 隱藏原生粗捲軸 */
+        }
+
+        /* 右側微淡出遮罩：提示使用者右方還有藝人可滑動 */
+        .filter-sub-scroll-wrap::after {
+            content: '';
+            position: absolute;
+            top: 5px;
+            right: 0;
+            bottom: 4px;
+            width: 32px;
+            background: linear-gradient(to right, rgba(0, 0, 0, 0), var(--bg-main) 92%);
+            pointer-events: none;
+            z-index: 2;
+        }
     </style>
     <style id="dynamic-styles"></style>
 </head>
+
 <body>
     <div class="hero-grid"></div>
     <nav id="navbar">
@@ -747,43 +2074,56 @@
             <div class="filter-mode-hint" id="filter-mode-hint"></div>
             <div class="filter-bar" id="filters"></div>
         </div>
-        
+
         <div class="search-container" id="search-bar-wrapper">
             <div class="search-input-box">
                 <input type="text" id="search" class="search-input" placeholder="搜尋活動、地點或藝人...">
-                <button type="button" id="search-clear-btn" class="input-clear-btn" onclick="clearMainSearch()" aria-label="清空搜尋">✕</button>
+                <button type="button" id="search-clear-btn" class="input-clear-btn" onclick="clearMainSearch()"
+                    aria-label="清空搜尋">✕</button>
             </div>
-            <div id="status" style="font-size:10.5px; font-weight:800; color:var(--text-secondary); text-align:right;"></div>
+            <div id="status" style="font-size:10.5px; font-weight:800; color:var(--text-secondary); text-align:right;">
+            </div>
         </div>
-        
+
         <div class="section-title" id="section-title-wrap">
             <span id="tab-title">預告列表</span>
-            <span id="result-count" style="font-size: 0.8rem; background: var(--text-main); color: var(--bg-main); padding: 2px 10px; border-radius: 20px; box-shadow:2px 2px 0px var(--accent);">0 場</span>
+            <span id="result-count"
+                style="font-size: 0.8rem; background: var(--text-main); color: var(--bg-main); padding: 2px 10px; border-radius: 20px; box-shadow:2px 2px 0px var(--accent);">0
+                場</span>
         </div>
 
         <div id="footprints-actions" style="display:none; margin-bottom: 20px;">
-            <div style="background:var(--bg-card); border:2px dashed var(--text-main); padding:16px; border-radius:12px; margin-bottom:18px; box-shadow:4px 4px 0px var(--bg-subtle);">
-                <div style="font-size:13.5px; font-weight:900; margin-bottom:10px; color:var(--text-main); display:flex; justify-content:space-between; align-items:center;">
+            <div
+                style="background:var(--bg-card); border:2px dashed var(--text-main); padding:16px; border-radius:12px; margin-bottom:18px; box-shadow:4px 4px 0px var(--bg-subtle);">
+                <div
+                    style="font-size:13.5px; font-weight:900; margin-bottom:10px; color:var(--text-main); display:flex; justify-content:space-between; align-items:center;">
                     <span>☁ 我的雲端帳號（自動同步足跡、關注藝人與自訂分組）</span>
                 </div>
                 <div style="display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-bottom:10px;">
                     <div>
-                        <label style="font-size:11px; font-weight:800; color:var(--text-secondary); display:block; margin-bottom:4px;">登入帳號 ID (必填)</label>
-                        <input type="text" id="user-id-input" placeholder="例如：MANGO_FAN_01" style="width:100%; padding:8px 10px; border:2px solid var(--text-main); border-radius:6px; font-weight:800; font-size:13px; background:var(--bg-card); color:var(--text-main);">
+                        <label
+                            style="font-size:11px; font-weight:800; color:var(--text-secondary); display:block; margin-bottom:4px;">登入帳號
+                            ID (必填)</label>
+                        <input type="text" id="user-id-input" placeholder="例如：MANGO_FAN_01"
+                            style="width:100%; padding:8px 10px; border:2px solid var(--text-main); border-radius:6px; font-weight:800; font-size:13px; background:var(--bg-card); color:var(--text-main);">
                     </div>
                     <div>
-                        <label style="font-size:11px; font-weight:800; color:var(--text-secondary); display:block; margin-bottom:4px;">自訂匿名暱稱 (顯示於頂部列)</label>
-                        <input type="text" id="user-nick-input" placeholder="例如：聽團仔阿奇" maxlength="20" style="width:100%; padding:8px 10px; border:2px solid var(--text-main); border-radius:6px; font-weight:800; font-size:13px; background:var(--bg-card); color:var(--text-main);">
+                        <label
+                            style="font-size:11px; font-weight:800; color:var(--text-secondary); display:block; margin-bottom:4px;">自訂匿名暱稱
+                            (顯示於頂部列)</label>
+                        <input type="text" id="user-nick-input" placeholder="例如：聽團仔阿奇" maxlength="20"
+                            style="width:100%; padding:8px 10px; border:2px solid var(--text-main); border-radius:6px; font-weight:800; font-size:13px; background:var(--bg-card); color:var(--text-main);">
                     </div>
                 </div>
                 <div style="display:flex; gap:8px; flex-wrap:wrap; align-items:center;">
                     <button class="cc-btn" onclick="generateId()">🎲 隨機產生帳號</button>
                     <button class="cc-btn active" id="cloud-sync" onclick="cloudLoginAndSync()">☁ 登入 / 立即同步雲端</button>
-                    <button class="cc-btn" id="cloud-logout-btn" onclick="logoutAccount()" style="display:none; color:#a5262d; border-color:#a5262d;">登出帳號</button>
+                    <button class="cc-btn" id="cloud-logout-btn" onclick="logoutAccount()"
+                        style="display:none; color:#a5262d; border-color:#a5262d;">登出帳號</button>
                 </div>
             </div>
             <div id="footprints-analysis" style="margin-bottom:20px;"></div>
-            
+
             <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:14px;">
                 <button class="cc-btn" id="export">匯出備份 (.json)</button>
                 <label>
@@ -794,7 +2134,7 @@
         </div>
 
         <div id="content"></div>
-        
+
         <div id="calendar-container" style="display: none;">
             <div class="calendar-tip">
                 <span>💡 點擊有色塊的日期，即可直接彈出當日活動視窗（關閉後維持原瀏覽位置）</span>
@@ -812,16 +2152,28 @@
                 <span>維護日期：<strong id="footer-maintained-date">20261020</strong></span>
             </div>
             <div class="footer-links">
-                <a href="https://github.com/blues32767?tab=repositories" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="前往開發者 GitHub">
-                    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .3a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2c-3.3.7-4-1.6-4-1.6-.6-1.4-1.4-1.8-1.4-1.8-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-6 0-1.2.5-2.3 1.3-3.1-.2-.4-.6-1.6 0-3.2 0 0 1-.3 3.4 1.2a11.5 11.5 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.6 1.6.2 2.8 0 3.2.9.8 1.3 1.9 1.3 3.2 0 4.6-2.8 5.6-5.5 5.9.5.4.9 1.1.9 2.2v3.3c0 .3.1.7.8.6A12 12 0 0 0 12 .3"/></svg>
+                <a href="https://github.com/blues32767?tab=repositories" target="_blank" rel="noopener noreferrer"
+                    class="footer-social-link" title="前往開發者 GitHub">
+                    <svg viewBox="0 0 24 24" aria-hidden="true">
+                        <path
+                            d="M12 .3a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2c-3.3.7-4-1.6-4-1.6-.6-1.4-1.4-1.8-1.4-1.8-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-6 0-1.2.5-2.3 1.3-3.1-.2-.4-.6-1.6 0-3.2 0 0 1-.3 3.4 1.2a11.5 11.5 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.6 1.6.2 2.8 0 3.2.9.8 1.3 1.9 1.3 3.2 0 4.6-2.8 5.6-5.5 5.9.5.4.9 1.1.9 2.2v3.3c0 .3.1.7.8.6A12 12 0 0 0 12 .3" />
+                    </svg>
                     <span>GitHub</span>
                 </a>
-                <a href="https://www.threads.com/@blues_.g" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="前往開發者 Threads">
-                    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.186 24h-.007c-3.581-.024-6.334-1.205-8.184-3.509C2.35 18.44 1.5 15.586 1.472 12.01v-.017c.03-3.579.879-6.43 2.525-8.482C5.845 1.205 8.6.024 12.18 0h.014c2.746.02 5.043.725 6.826 2.098 1.677 1.29 2.858 3.13 3.509 5.467l-2.04.569c-1.104-3.96-3.898-5.984-8.304-6.015-2.91.022-5.11.936-6.54 2.717C4.307 6.504 3.616 8.914 3.589 12c.027 3.086.718 5.496 2.057 7.164 1.43 1.783 3.631 2.698 6.54 2.717 2.623-.02 4.358-.631 5.8-2.045 1.647-1.613 1.618-3.593 1.09-4.798-.31-.71-.873-1.3-1.634-1.75-.192 1.352-.622 2.446-1.284 3.272-.886 1.102-2.14 1.704-3.73 1.79-1.202.065-2.361-.218-3.259-.801-1.063-.689-1.685-1.74-1.752-2.96-.065-1.182.408-2.256 1.333-3.023.812-.672 1.928-1.073 3.222-1.16 1.07-.072 2.074.042 2.996.335-.083-.68-.298-1.217-.642-1.602-.482-.542-1.267-.822-2.333-.833h-.04c-.838 0-1.57.228-2.115.66-.422.334-.688.742-.813 1.246l-2.062-.513c.225-.907.725-1.682 1.486-2.303.93-.758 2.138-1.142 3.59-1.142h.062c1.662.017 2.976.5 3.904 1.435.853.86 1.32 2.083 1.389 3.635l.007.17c1.097.595 1.928 1.418 2.411 2.415.792 1.637.828 4.414-1.377 6.575-1.838 1.8-4.104 2.627-7.33 2.652zm-.884-8.545c-1.066.071-1.752.426-2.02.98-.145.3-.157.648-.022.97.232.556.872.927 1.777.977.997.055 1.81-.296 2.348-.967.416-.518.711-1.258.881-2.206-.826-.226-1.76-.31-2.774-.242l-.19.018z"/></svg>
+                <a href="https://www.threads.com/@blues_.g" target="_blank" rel="noopener noreferrer"
+                    class="footer-social-link" title="前往開發者 Threads">
+                    <svg viewBox="0 0 24 24" aria-hidden="true">
+                        <path
+                            d="M12.186 24h-.007c-3.581-.024-6.334-1.205-8.184-3.509C2.35 18.44 1.5 15.586 1.472 12.01v-.017c.03-3.579.879-6.43 2.525-8.482C5.845 1.205 8.6.024 12.18 0h.014c2.746.02 5.043.725 6.826 2.098 1.677 1.29 2.858 3.13 3.509 5.467l-2.04.569c-1.104-3.96-3.898-5.984-8.304-6.015-2.91.022-5.11.936-6.54 2.717C4.307 6.504 3.616 8.914 3.589 12c.027 3.086.718 5.496 2.057 7.164 1.43 1.783 3.631 2.698 6.54 2.717 2.623-.02 4.358-.631 5.8-2.045 1.647-1.613 1.618-3.593 1.09-4.798-.31-.71-.873-1.3-1.634-1.75-.192 1.352-.622 2.446-1.284 3.272-.886 1.102-2.14 1.704-3.73 1.79-1.202.065-2.361-.218-3.259-.801-1.063-.689-1.685-1.74-1.752-2.96-.065-1.182.408-2.256 1.333-3.023.812-.672 1.928-1.073 3.222-1.16 1.07-.072 2.074.042 2.996.335-.083-.68-.298-1.217-.642-1.602-.482-.542-1.267-.822-2.333-.833h-.04c-.838 0-1.57.228-2.115.66-.422.334-.688.742-.813 1.246l-2.062-.513c.225-.907.725-1.682 1.486-2.303.93-.758 2.138-1.142 3.59-1.142h.062c1.662.017 2.976.5 3.904 1.435.853.86 1.32 2.083 1.389 3.635l.007.17c1.097.595 1.928 1.418 2.411 2.415.792 1.637.828 4.414-1.377 6.575-1.838 1.8-4.104 2.627-7.33 2.652zm-.884-8.545c-1.066.071-1.752.426-2.02.98-.145.3-.157.648-.022.97.232.556.872.927 1.777.977.997.055 1.81-.296 2.348-.967.416-.518.711-1.258.881-2.206-.826-.226-1.76-.31-2.774-.242l-.19.018z" />
+                    </svg>
                     <span>Threads</span>
                 </a>
-                <a href="https://www.instagram.com/blues_.g/" target="_blank" rel="noopener noreferrer" class="footer-social-link" title="前往開發者 Instagram">
-                    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                <a href="https://www.instagram.com/blues_.g/" target="_blank" rel="noopener noreferrer"
+                    class="footer-social-link" title="前往開發者 Instagram">
+                    <svg viewBox="0 0 24 24" aria-hidden="true">
+                        <path
+                            d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
+                    </svg>
                     <span>IG</span>
                 </a>
             </div>
@@ -829,7 +2181,8 @@
     </footer>
 
     <!-- 陣容探索與自訂分組設定視窗 (Artist Explorer & Custom Group Modal) -->
-    <div id="artist-modal-backdrop" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="am-modal-title">
+    <div id="artist-modal-backdrop" class="modal-backdrop" role="dialog" aria-modal="true"
+        aria-labelledby="am-modal-title">
         <div class="artist-modal" onclick="event.stopPropagation()">
             <div class="am-header">
                 <div class="am-title-wrap">
@@ -846,7 +2199,8 @@
                 <!-- 搜尋框（最右邊附帶 X 快速清空按鈕） -->
                 <div class="am-search-wrap search-input-box">
                     <input type="search" id="am-search" class="am-search-input" placeholder="🔍 點此輸入藝人名稱、簡稱或英文搜尋...">
-                    <button type="button" id="am-search-clear-btn" class="input-clear-btn" onclick="clearModalSearch()" aria-label="清空藝人搜尋">✕</button>
+                    <button type="button" id="am-search-clear-btn" class="input-clear-btn" onclick="clearModalSearch()"
+                        aria-label="清空藝人搜尋">✕</button>
                 </div>
                 <div class="am-cat-tabs" id="am-cat-tabs"></div>
             </div>
@@ -862,7 +2216,8 @@
     </div>
 
     <!-- 行事曆單日現場清單浮動視窗 -->
-    <div id="calendar-day-modal-backdrop" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="cdm-title">
+    <div id="calendar-day-modal-backdrop" class="modal-backdrop" role="dialog" aria-modal="true"
+        aria-labelledby="cdm-title">
         <div class="artist-modal day-events-modal" onclick="event.stopPropagation()">
             <div class="am-header">
                 <div class="am-title-wrap">
@@ -888,30 +2243,37 @@
             </div>
             <div style="padding: 16px; display: flex; flex-direction: column; gap: 12px; overflow-y: auto;">
                 <div>
-                    <label style="font-size:12px; font-weight:900; display:block; margin-bottom:5px;">🔑 你的專屬登入 ID（好記的英數字組合）</label>
+                    <label style="font-size:12px; font-weight:900; display:block; margin-bottom:5px;">🔑 你的專屬登入
+                        ID（好記的英數字組合）</label>
                     <div style="display:flex; gap:6px;">
                         <input type="text" id="modal-user-id" class="am-search-input" placeholder="例如：MANGO_777">
                         <button type="button" class="cc-btn" onclick="generateIdInModal()">隨機產生</button>
                     </div>
                 </div>
                 <div>
-                    <label style="font-size:12px; font-weight:900; display:block; margin-bottom:5px;">🏷️ 自訂匿名暱稱（顯示於網頁右上角）</label>
-                    <input type="text" id="modal-user-nick" class="am-search-input" placeholder="例如：MJ-ADMIN" maxlength="20">
+                    <label style="font-size:12px; font-weight:900; display:block; margin-bottom:5px;">🏷️
+                        自訂匿名暱稱（顯示於網頁右上角）</label>
+                    <input type="text" id="modal-user-nick" class="am-search-input" placeholder="例如：MJ-ADMIN"
+                        maxlength="20">
                 </div>
-                <div style="font-size:11.5px; color:var(--text-secondary); font-weight:700; line-height:1.5; background:var(--bg-subtle); padding:10px; border-radius:8px; border:1.5px dashed var(--border);">
-                    💡 登入後，你在網頁上建立的<strong>自訂藝人分組（如女偶像、樂團）</strong>、<strong>關注清單</strong>與<strong>參戰足跡</strong>都會自動綁定並儲存在雲端，下次換手機或電腦打開都能一鍵載入！
+                <div
+                    style="font-size:11.5px; color:var(--text-secondary); font-weight:700; line-height:1.5; background:var(--bg-subtle); padding:10px; border-radius:8px; border:1.5px dashed var(--border);">
+                    💡
+                    登入後，你在網頁上建立的<strong>自訂藝人分組（如女偶像、樂團）</strong>、<strong>關注清單</strong>與<strong>參戰足跡</strong>都會自動綁定並儲存在雲端，下次換手機或電腦打開都能一鍵載入！
                 </div>
             </div>
             <div class="am-footer">
                 <div class="am-footer-btns">
-                    <button type="button" class="cc-btn" id="modal-logout-btn" onclick="logoutAccount()" style="display:none; color:#a5262d; border-color:#a5262d;">登出帳號</button>
+                    <button type="button" class="cc-btn" id="modal-logout-btn" onclick="logoutAccount()"
+                        style="display:none; color:#a5262d; border-color:#a5262d;">登出帳號</button>
                     <button type="button" class="cc-btn" onclick="closeAccountModal()">取消</button>
-                    <button type="button" class="cc-btn active" id="modal-login-btn" onclick="saveAccountFromModal()">☁ 登入並同步</button>
+                    <button type="button" class="cc-btn active" id="modal-login-btn" onclick="saveAccountFromModal()">☁
+                        登入並同步</button>
                 </div>
             </div>
         </div>
     </div>
-    
+
     <div id="toast" class="toast" style="display:none;"></div>
 
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.js"></script>
@@ -925,15 +2287,15 @@
         const DATA_URL = './data.json';
         const TOP_PINNED_LIMIT = 6;
         const DEFAULT_GIG_MINUTES = 30;
-        
-        let BANDS_MAP = {}; 
+
+        let BANDS_MAP = {};
         let BAND_ALIAS_MAP = {};
         let rawBands = [];
         let leafletMap = null;
         let mapScopeMode = 'footprints'; // 'footprints' | 'all'
         let mapVisualType = 'svg';       // 'svg' (預設：內建手繪向量台灣地圖) | 'tile' (台灣國土測繪中心/OSM 免費街道地圖)
         let selectedMapCity = '';
-        
+
         const DAY_NAMES = ['日', '一', '二', '三', '四', '五', '六'];
         const $ = s => document.querySelector(s);
         const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -943,27 +2305,27 @@
 
         // ★ 台灣各縣市座標與內建 SVG 台灣島嶼地圖繪製座標 (svgX, svgY) ★
         const TAIWAN_CITIES_META = [
-            { name: '台北', region: '北部', lat: 25.0478, lng: 121.5319, svgX: 222, svgY: 56,  labelDir: 'left',  regex: /台北|臺北|信義|華山|北流|南港|圓山|花博|天母|公館|大佳|西門|中山堂|河岸留言|Legacy\s*Taipei|CORNER\s*MAX|Zepp/i },
-            { name: '新北', region: '北部', lat: 25.0120, lng: 121.4657, svgX: 205, svgY: 74,  labelDir: 'left',  regex: /新北|板橋|淡水|漁人碼頭|貢寮|福隆|新莊|三重|永和|中和|八里/i },
-            { name: '基隆', region: '北部', lat: 25.1276, lng: 121.7392, svgX: 242, svgY: 42,  labelDir: 'right', regex: /基隆|正濱|和平島|碧砂/i },
-            { name: '桃園', region: '北部', lat: 24.9936, lng: 121.3010, svgX: 178, svgY: 82,  labelDir: 'left',  regex: /桃園|中壢|高鐵桃園|青埔|陽光劇場|竹圍漁港|樂天桃園|萬能科大/i },
-            { name: '新竹', region: '北部', lat: 24.8138, lng: 120.9675, svgX: 162, svgY: 112, labelDir: 'left',  regex: /新竹|竹北|竹塹|大湳雅|六福村/i },
-            { name: '苗栗', region: '中部', lat: 24.5602, lng: 120.8214, svgX: 146, svgY: 145, labelDir: 'left',  regex: /苗栗|後龍|頭份|竹南|通霄/i },
-            { name: '台中', region: '中部', lat: 24.1477, lng: 120.6736, svgX: 135, svgY: 185, labelDir: 'left',  regex: /台中|臺中|文心森林|圓滿戶外|水湳|中央公園|洲際|清水|鰲峰山|后里|麗寶|豐原|大安港|一中|霧峰|朝馬/i },
-            { name: '彰化', region: '中部', lat: 24.0518, lng: 120.5161, svgX: 116, svgY: 215, labelDir: 'left',  regex: /彰化|鹿港|員林|溪湖|二水|田中/i },
+            { name: '台北', region: '北部', lat: 25.0478, lng: 121.5319, svgX: 222, svgY: 56, labelDir: 'left', regex: /台北|臺北|信義|華山|北流|南港|圓山|花博|天母|公館|大佳|西門|中山堂|河岸留言|Legacy\s*Taipei|CORNER\s*MAX|Zepp/i },
+            { name: '新北', region: '北部', lat: 25.0120, lng: 121.4657, svgX: 205, svgY: 74, labelDir: 'left', regex: /新北|板橋|淡水|漁人碼頭|貢寮|福隆|新莊|三重|永和|中和|八里/i },
+            { name: '基隆', region: '北部', lat: 25.1276, lng: 121.7392, svgX: 242, svgY: 42, labelDir: 'right', regex: /基隆|正濱|和平島|碧砂/i },
+            { name: '桃園', region: '北部', lat: 24.9936, lng: 121.3010, svgX: 178, svgY: 82, labelDir: 'left', regex: /桃園|中壢|高鐵桃園|青埔|陽光劇場|竹圍漁港|樂天桃園|萬能科大/i },
+            { name: '新竹', region: '北部', lat: 24.8138, lng: 120.9675, svgX: 162, svgY: 112, labelDir: 'left', regex: /新竹|竹北|竹塹|大湳雅|六福村/i },
+            { name: '苗栗', region: '中部', lat: 24.5602, lng: 120.8214, svgX: 146, svgY: 145, labelDir: 'left', regex: /苗栗|後龍|頭份|竹南|通霄/i },
+            { name: '台中', region: '中部', lat: 24.1477, lng: 120.6736, svgX: 135, svgY: 185, labelDir: 'left', regex: /台中|臺中|文心森林|圓滿戶外|水湳|中央公園|洲際|清水|鰲峰山|后里|麗寶|豐原|大安港|一中|霧峰|朝馬/i },
+            { name: '彰化', region: '中部', lat: 24.0518, lng: 120.5161, svgX: 116, svgY: 215, labelDir: 'left', regex: /彰化|鹿港|員林|溪湖|二水|田中/i },
             { name: '南投', region: '中部', lat: 23.9610, lng: 120.9719, svgX: 166, svgY: 218, labelDir: 'right', regex: /南投|埔里|暨南|竹山|日月潭|魚池/i },
-            { name: '雲林', region: '南部', lat: 23.7092, lng: 120.4313, svgX: 108, svgY: 248, labelDir: 'left',  regex: /雲林|斗六|虎尾|四湖|三條崙|北港|西螺/i },
-            { name: '嘉義', region: '南部', lat: 23.4801, lng: 120.4491, svgX: 116, svgY: 280, labelDir: 'left',  regex: /嘉義|諸羅|民雄|故宮南院|阿里山/i },
-            { name: '台南', region: '南部', lat: 22.9997, lng: 120.2270, svgX: 102, svgY: 318, labelDir: 'left',  regex: /台南|臺南|安平|觀夕|漁光島|南紡|新市|迎曦湖|官田|小北門|成大|成功大學|善化|奇美/i },
-            { name: '高雄', region: '南部', lat: 22.6273, lng: 120.3014, svgX: 112, svgY: 360, labelDir: 'left',  regex: /高雄|駁二|高流|流行音樂中心|海風廣場|巨蛋|衛武營|夢時代|西子灣|旗津|岡山|旗山|楠梓|大港/i },
+            { name: '雲林', region: '南部', lat: 23.7092, lng: 120.4313, svgX: 108, svgY: 248, labelDir: 'left', regex: /雲林|斗六|虎尾|四湖|三條崙|北港|西螺/i },
+            { name: '嘉義', region: '南部', lat: 23.4801, lng: 120.4491, svgX: 116, svgY: 280, labelDir: 'left', regex: /嘉義|諸羅|民雄|故宮南院|阿里山/i },
+            { name: '台南', region: '南部', lat: 22.9997, lng: 120.2270, svgX: 102, svgY: 318, labelDir: 'left', regex: /台南|臺南|安平|觀夕|漁光島|南紡|新市|迎曦湖|官田|小北門|成大|成功大學|善化|奇美/i },
+            { name: '高雄', region: '南部', lat: 22.6273, lng: 120.3014, svgX: 112, svgY: 360, labelDir: 'left', regex: /高雄|駁二|高流|流行音樂中心|海風廣場|巨蛋|衛武營|夢時代|西子灣|旗津|岡山|旗山|楠梓|大港/i },
             { name: '屏東', region: '南部', lat: 22.6713, lng: 120.4880, svgX: 138, svgY: 398, labelDir: 'right', regex: /屏東|墾丁|恆春|大灣|鵝鑾鼻|新園|鹽琉|屏科大|潮州/i },
             { name: '宜蘭', region: '東部', lat: 24.7570, lng: 121.7533, svgX: 235, svgY: 108, labelDir: 'right', regex: /宜蘭|羅東|礁溪|頭城|蘇澳|冬山/i },
             { name: '花蓮', region: '東部', lat: 23.9872, lng: 121.6015, svgX: 214, svgY: 205, labelDir: 'right', regex: /花蓮|富里|吉安|知卡宣|玉里|太魯閣|七星潭|東大門/i },
             { name: '台東', region: '東部', lat: 22.7583, lng: 121.1444, svgX: 180, svgY: 325, labelDir: 'right', regex: /台東|臺東|都歷|成功鎮|大武|池上|鹿野|鐵花|知本/i },
-            { name: '澎湖', region: '離島与海外', lat: 23.5712, lng: 119.5793, svgX: 42,  svgY: 265, labelDir: 'right', regex: /澎湖|馬公|觀音亭/i },
-            { name: '金門', region: '離島与海外', lat: 24.4321, lng: 118.3171, svgX: 42,  svgY: 135, labelDir: 'right', regex: /金門|金城|后湖|莒光/i },
-            { name: '馬祖', region: '離島与海外', lat: 26.1505, lng: 119.9289, svgX: 42,  svgY: 65,  labelDir: 'right', regex: /馬祖|連江|南竿|北竿/i },
-            { name: '海外', region: '離島与海外', lat: 25.3500, lng: 122.4500, svgX: 42,  svgY: 365, labelDir: 'right', regex: /香港|澳門|馬來西亞|吉隆坡|東京|日本|溫哥華|加拿大|首爾|韓國|泰國|新加坡|Macau|Hong\s*Kong|Vancouver|Kuala\s*Lumpur/i }
+            { name: '澎湖', region: '離島与海外', lat: 23.5712, lng: 119.5793, svgX: 42, svgY: 265, labelDir: 'right', regex: /澎湖|馬公|觀音亭/i },
+            { name: '金門', region: '離島与海外', lat: 24.4321, lng: 118.3171, svgX: 42, svgY: 135, labelDir: 'right', regex: /金門|金城|后湖|莒光/i },
+            { name: '馬祖', region: '離島与海外', lat: 26.1505, lng: 119.9289, svgX: 42, svgY: 65, labelDir: 'right', regex: /馬祖|連江|南竿|北竿/i },
+            { name: '海外', region: '離島与海外', lat: 25.3500, lng: 122.4500, svgX: 42, svgY: 365, labelDir: 'right', regex: /香港|澳門|馬來西亞|吉隆坡|東京|日本|溫哥華|加拿大|首爾|韓國|泰國|新加坡|Macau|Hong\s*Kong|Vancouver|Kuala\s*Lumpur/i }
         ];
 
         // ★ 修正 4：內建台灣各縣市山海景點、大學與展演場館精準經緯度字典（供街道實景地圖放大至縣市時標記實際地點） ★
@@ -1057,7 +2419,7 @@
 
         let modalCategory = 'all';
         let modalSearchQuery = '';
-        
+
         let footprints = new Set(storage.get('ting-footprints', []));
         let userId = storage.get('ting-user-id', '');
         let userNickname = storage.get('ting-user-nickname', '');
@@ -1084,7 +2446,7 @@
 
         function normText(s) {
             let str = String(s || '');
-            try { str = str.normalize('NFKC'); } catch (e) {}
+            try { str = str.normalize('NFKC'); } catch (e) { }
             return str.trim();
         }
 
@@ -1114,7 +2476,7 @@
                     if (eMin < sMin) eMin += 24 * 60;
                     const diff = eMin - sMin;
                     if (diff >= 10 && diff <= 240) {
-                        return { minutes: diff, label: `${m[1].padStart(2,'0')}:${m[2]}-${m[3].padStart(2,'0')}:${m[4]}`, isExact: true };
+                        return { minutes: diff, label: `${m[1].padStart(2, '0')}:${m[2]}-${m[3].padStart(2, '0')}:${m[4]}`, isExact: true };
                     }
                 }
             }
@@ -1128,7 +2490,7 @@
                     if (eMin < sMin) eMin += 24 * 60;
                     const diff = eMin - sMin;
                     if (diff >= 10 && diff <= 180) {
-                        return { minutes: diff, label: `${specificMatch[1].padStart(2,'0')}:${specificMatch[2]}-${specificMatch[3].padStart(2,'0')}:${specificMatch[4]}`, isExact: true };
+                        return { minutes: diff, label: `${specificMatch[1].padStart(2, '0')}:${specificMatch[2]}-${specificMatch[3].padStart(2, '0')}:${specificMatch[4]}`, isExact: true };
                     }
                 }
             }
@@ -1583,7 +2945,7 @@
         $('#calendar-day-modal-backdrop').addEventListener('click', closeCalendarDayModal);
 
         function dateKey(s) { return String(s || '').replace(/[-/]/g, '').replace(/\.0$/, ''); }
-        function getDayOfWeek(dStr) { if (!dStr || dStr.length !== 8) return ''; return DAY_NAMES[new Date(dStr.slice(0,4), parseInt(dStr.slice(4,6))-1, dStr.slice(6,8)).getDay()]; }
+        function getDayOfWeek(dStr) { if (!dStr || dStr.length !== 8) return ''; return DAY_NAMES[new Date(dStr.slice(0, 4), parseInt(dStr.slice(4, 6)) - 1, dStr.slice(6, 8)).getDay()]; }
 
         function inferArtistCategory(name, existingCat) {
             const validCats = ['樂團', '個人', '團體'];
@@ -1611,16 +2973,16 @@
             return BAND_ALIAS_MAP[id] || id;
         }
 
-        function bandInfo(rawId) { 
+        function bandInfo(rawId) {
             const id = resolveCanonicalBandId(rawId);
             if (BANDS_MAP[id]) return BANDS_MAP[id];
             let shortName = id;
             if (id.length > 2) {
                 shortName = /^[a-zA-Z0-9_-]+$/.test(id) ? id.charAt(0).toUpperCase() : id.substring(0, 2);
             }
-            return { name: id, short: shortName, color: 'var(--text-main)', class: 'b-default', category: '樂團', totalCount: 0, sortRank: 9999 }; 
+            return { name: id, short: shortName, color: 'var(--text-main)', class: 'b-default', category: '樂團', totalCount: 0, sortRank: 9999 };
         }
-        
+
         function safeUrl(u) { try { const x = new URL(u); return x.protocol === 'https:' ? x.href : '' } catch { return '' } }
         function showToast(msg) { $('#toast').innerText = msg; $('#toast').style.display = 'block'; clearTimeout(showToast.t); showToast.t = setTimeout(() => $('#toast').style.display = 'none', 2600); }
 
@@ -1709,7 +3071,7 @@
                 }
                 storage.set('ting-footprints', [...footprints]);
                 updateUserNavUI();
-            } catch (e) {}
+            } catch (e) { }
         }
 
         function scheduleSilentCloudPush(showFeedback = false) {
@@ -1737,7 +3099,7 @@
         async function cloudLoginAndSync() {
             const uid = $('#user-id-input').value.trim();
             const nick = $('#user-nick-input').value.trim();
-            if(!uid) { showToast('請輸入或產生登入 ID'); return; }
+            if (!uid) { showToast('請輸入或產生登入 ID'); return; }
             userId = uid;
             if (nick) userNickname = nick;
             storage.set('ting-user-id', userId);
@@ -1748,7 +3110,7 @@
             try {
                 const getRes = await fetch(`${GAS_URL}?action=getUser&userId=${encodeURIComponent(uid)}&_t=${Date.now()}`, { credentials: 'omit' });
                 const getJson = await getRes.json();
-                if(getJson.success && getJson.data && getJson.data !== "[]") {
+                if (getJson.success && getJson.data && getJson.data !== "[]") {
                     const localHasCustomSelection = !selectedBands.has('all') && selectedBands.size > 0;
                     applyCloudDataFromServer(getJson.data, !localHasCustomSelection);
                     if (nick) {
@@ -1758,7 +3120,7 @@
                         updateUserNavUI();
                     }
                 }
-                
+
                 await fetch(GAS_URL, {
                     method: 'POST',
                     credentials: 'omit',
@@ -1769,19 +3131,19 @@
                         data: buildCloudPayloadString()
                     })
                 });
-                
+
                 renderFilters();
                 if (tab === 'calendar') renderCalendar();
                 else render();
                 showToast(`✅ 雲端同步成功！歡迎 ${userNickname || userId}`);
-            } catch(e) {
+            } catch (e) {
                 showToast('雲端同步失敗，請稍後再試');
             }
             $('#cloud-sync').innerText = '☁ 登入 / 立即同步雲端';
         }
 
         function enrichAndSortBands(bandsData, upcomingList, eventsList) {
-            if(!bandsData || bandsData.length === 0) return [];
+            if (!bandsData || bandsData.length === 0) return [];
             BAND_ALIAS_MAP = {};
             const canonicalByNormKey = new Map();
             const deduplicatedBands = [];
@@ -1919,28 +3281,28 @@
             try {
                 const cacheBusterUrl = `${DATA_URL}?v=${new Date().getTime()}`;
                 const response = await fetch(cacheBusterUrl, { cache: 'no-store' });
-                
+
                 if (!response.ok) throw Error('HTTP ' + response.status);
                 const d = await response.json();
                 data = d; storage.set('ting-data-v2', d);
                 $('#status').innerText = `已同步 (更新於 ${new Date(d.updatedAt || Date.now()).toLocaleTimeString()})`;
-                
+
                 rawBands = enrichAndSortBands(d.bands || [], d.upcoming || [], d.events || []);
                 renderFilters();
                 render();
 
-                if(userId && GAS_URL.startsWith('https://script.google.com/')) {
+                if (userId && GAS_URL.startsWith('https://script.google.com/')) {
                     fetch(`${GAS_URL}?action=getUser&userId=${encodeURIComponent(userId)}&_t=${Date.now()}`, { credentials: 'omit' })
                         .then(r => r.json())
                         .then(j => {
-                            if(j.success && j.data && j.data !== "[]") {
+                            if (j.success && j.data && j.data !== "[]") {
                                 applyCloudDataFromServer(j.data, true);
                                 enrichAndSortBands(d.bands || [], d.upcoming || [], d.events || []);
                                 renderFilters();
                                 if (tab === 'calendar') renderCalendar();
                                 else render();
                             }
-                        }).catch(e=>{});
+                        }).catch(e => { });
                 }
             } catch (e) {
                 const cached = storage.get('ting-data-v2', null);
@@ -1960,48 +3322,67 @@
             const isAllMode = !activeGrp && (selectedBands.has('all') || selectedBands.size === 0);
             const hintEl = $('#filter-mode-hint');
 
-            let visibleBands = [];
+            // 1. 提示列資訊
             if (activeGrp) {
-                visibleBands = rawBands.filter(b => activeGrp.bandIds.includes(b.id));
-                hintEl.innerHTML = `<span>📁 目前檢視自訂分組：<strong>${esc(activeGrp.name)}</strong> (${visibleBands.length} 組藝人 · 點擊其他分組或全部可切換)</span>`;
+                hintEl.innerHTML = `<span>📁 目前檢視分組：<strong>${esc(activeGrp.name)}</strong> (${activeGrp.bandIds.length} 組藝人 · 左右滑動可單選藝人)</span>`;
             } else if (isAllMode) {
-                visibleBands = rawBands.slice(0, TOP_PINNED_LIMIT);
-                hintEl.innerHTML = `<span>🔥 熱門排行前 ${visibleBands.length} 組${customGroups.length > 0 ? ' · 點選自訂組別可秒切' : '（點「挑選藝人/分組」可建立專屬組別）'}</span>`;
+                const visibleCount = Math.min(rawBands.length, TOP_PINNED_LIMIT);
+                hintEl.innerHTML = `<span>🔥 熱門排行前 ${visibleCount} 組 · 點選分組或藝人可快速篩選</span>`;
             } else {
-                visibleBands = rawBands.filter(b => selectedBands.has(b.id));
-                hintEl.innerHTML = `<span>📌 我的專屬關注藝人 (${visibleBands.length} 組 · 已自動記憶)</span>`;
+                hintEl.innerHTML = `<span>📌 我的專屬關注藝人 (${selectedBands.size} 組 · 已自動記憶)</span>`;
             }
 
-            let html = `<button class="filter-btn fb-all ${isAllMode ? 'active' : ''}" data-band="all">全部</button>`;
-            
-            // 使用者自訂分組膠囊直接排在「全部」後面
+            // 2. 第一軌道（Primary Track）：固定放 [全部] ＋ [各自訂分組] ＋ [管理分組]
+            let primaryHtml = `<div class="filter-primary-track">`;
+            primaryHtml += `<button class="filter-btn fb-all ${isAllMode ? 'active' : ''}" data-band="all">全部</button>`;
+
             customGroups.forEach(grp => {
                 const isGrpActive = activeGroupFilterId === grp.id;
-                html += `
+                primaryHtml += `
                 <button type="button" class="filter-btn fb-group ${isGrpActive ? 'active' : ''}" onclick="activateGroupOnHome('${esc(grp.id)}')" title="自訂分組：${esc(grp.name)} (共 ${grp.bandIds.length} 組藝人)">
                     <span>📁 ${esc(grp.name)}</span>
                     <span class="filter-count-pill">${grp.bandIds.length}</span>
                 </button>`;
             });
 
-            visibleBands.forEach(b => {
-                const isActive = !activeGrp && !isAllMode && selectedBands.has(b.id);
-                html += `
-                <button class="filter-btn fb-${esc(b.id)} ${isActive ? 'active' : ''}" data-band="${esc(b.id)}" title="${esc(b.category)} · 共 ${b.totalCount} 場演出 (點擊可切換)">
-                    <span>${esc(b.name)}</span>
-                    ${b.totalCount > 0 ? `<span class="filter-count-pill">${b.totalCount}</span>` : ''}
-                </button>`;
-            });
+            primaryHtml += `<button type="button" class="explore-trigger-btn" onclick="openArtistModal()">🔍 挑選藝人 / 分組 (${rawBands.length}組)</button>`;
+            if (!isAllMode) {
+                primaryHtml += `<button type="button" class="clear-filter-btn" onclick="resetBandFilter()">✕ 顯示全部</button>`;
+            }
+            primaryHtml += `</div>`;
 
-            if (isAllMode) {
-                const hiddenCount = Math.max(0, rawBands.length - visibleBands.length);
-                html += `<button type="button" class="explore-trigger-btn" onclick="openArtistModal()">🔍 挑選藝人 / 分組 (${rawBands.length}組 · +${hiddenCount}更多)</button>`;
+            // 3. 第二軌道（Sub Track）：橫向滑軌呈現成員，徹底消除多行換行吃版面問題
+            let subTrackHtml = '';
+            let membersList = [];
+
+            if (activeGrp) {
+                // 分組模式：取出該分組內的所有藝人
+                membersList = rawBands.filter(b => activeGrp.bandIds.includes(b.id));
+            } else if (!isAllMode) {
+                // 自訂多選模式：取出已勾選的藝人
+                membersList = rawBands.filter(b => selectedBands.has(b.id));
             } else {
-                html += `<button type="button" class="explore-trigger-btn" onclick="openArtistModal()">➕ 增減藝人 / 分組 (共${rawBands.length}組)</button>`;
-                html += `<button type="button" class="clear-filter-btn" onclick="resetBandFilter()">✕ 顯示全部</button>`;
+                // 全部模式：顯示熱門推薦前 TOP_PINNED_LIMIT 組
+                membersList = rawBands.slice(0, TOP_PINNED_LIMIT);
             }
 
-            $('#filters').innerHTML = html;
+            if (membersList.length > 0) {
+                const isScrollable = activeGrp || membersList.length > 5;
+                subTrackHtml = `
+                <div class="${isScrollable ? 'filter-sub-scroll-wrap' : ''}" style="width:100%;">
+                    <div class="${isScrollable ? 'filter-sub-track' : 'filter-bar'}" style="margin-top:2px;">
+                        ${membersList.map(b => {
+                    const isActive = !isAllMode && selectedBands.has(b.id) && !activeGroupFilterId;
+                    return `
+                            <button class="filter-btn fb-${esc(b.id)} ${isActive ? 'active' : ''}" data-band="${esc(b.id)}" title="${esc(b.category)} · 共 ${b.totalCount} 場演出">
+                                <span>${esc(b.name)}</span>${b.totalCount > 0 ? `<span class="filter-count-pill">${b.totalCount}</span>` : ''}
+                            </button>`;
+                }).join('')}
+                    </div>
+                </div>`;
+            }
+
+            $('#filters').innerHTML = primaryHtml + subTrackHtml;
         }
 
         function toggleBandSelection(id) {
@@ -2179,15 +3560,15 @@
             el.addEventListener('click', e => {
                 document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active')); e.target.classList.add('active');
                 tab = e.target.dataset.tab; limit = 24;
-                
+
                 $('#footprints-actions').style.display = tab === 'footprints' ? 'block' : 'none';
                 $('#search-bar-wrapper').style.display = (tab === 'calendar' || tab === 'map') ? 'none' : 'flex';
                 $('#filter-section').style.display = 'block';
-                
+
                 const titles = { upcoming: '預告列表', calendar: '行事曆', events: '歷史場次（點「＋足跡」自動記錄雲端）', map: '台灣現場足跡版圖', footprints: '我的現場足跡與聽團時數' };
                 $('#tab-title').innerText = titles[tab];
                 $('#section-title-wrap').style.display = tab === 'calendar' ? 'none' : 'flex';
-                
+
                 if (tab === 'calendar') {
                     $('#content').style.display = 'none'; $('#calendar-container').style.display = 'block';
                     renderCalendar();
@@ -2212,7 +3593,7 @@
 
         function toggleTheme() {
             const isDark = document.documentElement.classList.toggle('dark'); storage.set('ting-theme', isDark ? 'dark' : 'light');
-            if(tab === 'calendar' && calendar) calendar.render(); 
+            if (tab === 'calendar' && calendar) calendar.render();
         }
         if (storage.get('ting-theme') === 'dark') document.documentElement.classList.add('dark');
 
@@ -2305,16 +3686,16 @@
                 const isPicked = isCustomFilter && activeSet.has(b.id);
                 return `<span class="band-tag ${bandInfo(b.id).class} ${isPicked ? 'is-picked' : ''}" title="${esc(bandInfo(b.id).name)} (${esc(bandInfo(b.id).category)})">${isPicked ? '★ ' : ''}${esc(bandInfo(b.id).short)}</span>`;
             }).join('');
-            
+
             let combinedNotes = [];
             sortedBands.forEach(b => {
-                if(b.time && b.time !== '未定' && b.time !== '未公布') {
+                if (b.time && b.time !== '未定' && b.time !== '未公布') {
                     const isPicked = isCustomFilter && activeSet.has(b.id);
                     combinedNotes.push(`${isPicked ? '★ ' : ''}[${bandInfo(b.id).short}] 時間：${b.time} (${b.durationMins || 30}分)`);
                 }
             });
             combinedNotes = combinedNotes.concat(g.notes);
-            
+
             let notesHtml = '';
             if (combinedNotes.length > 0) {
                 const processed = combinedNotes.map(line => {
@@ -2339,11 +3720,11 @@
 
             const isAttended = g.originalIds.some(id => footprints.has(id)), idsJoined = g.originalIds.join(',');
             let finalMapLink = map ? map : (g.location ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(g.location)}` : '');
-            
+
             return `
             <div class="compact-card" ${customDomId ? `id="${esc(customDomId)}"` : ''} style="animation-delay: ${Math.min(idx * 0.03, 0.3)}s">
                 <div class="cc-left-col">
-                    <div class="cc-date"><div class="m">${esc(k.slice(4,6))}月</div><div class="d">${esc(k.slice(6,8))}</div><div class="day">${dayStr}</div></div>
+                    <div class="cc-date"><div class="m">${esc(k.slice(4, 6))}月</div><div class="d">${esc(k.slice(6, 8))}</div><div class="day">${dayStr}</div></div>
                     ${historical ? `<button type="button" class="cc-footprint-side-btn ${isAttended ? 'active' : ''}" onclick="toggleFootprint('${idsJoined}', this)">${isAttended ? '✓ 足跡' : '＋ 足跡'}</button>` : ''}
                 </div>
                 <div class="cc-info">
@@ -2440,7 +3821,7 @@
                     ? st.shows.sort((a, b) => dateKey(b.date).localeCompare(dateKey(a.date))).map(sh => {
                         const dStr = dateKey(sh.date);
                         return `<div style="display:flex;justify-content:space-between;gap:8px;padding:4px 0;border-bottom:1px dashed rgba(128,128,128,0.25);">
-                            <span style="font-weight:800;">${esc(dStr.slice(0,4))}/${esc(dStr.slice(4,6))}/${esc(dStr.slice(6,8))} · ${esc(sh.name)}</span>
+                            <span style="font-weight:800;">${esc(dStr.slice(0, 4))}/${esc(dStr.slice(4, 6))}/${esc(dStr.slice(6, 8))} · ${esc(sh.name)}</span>
                             <span style="color:var(--text-secondary);white-space:nowrap;font-weight:800;">⏱️ ${sh.minutes}分 (${esc(sh.timeLabel)})</span>
                         </div>`;
                     }).join('')
@@ -2608,7 +3989,7 @@
                                 const mapUrl = safeUrl(ev.mapLink) || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(ev.location || ev.name)}`;
                                 return `
                                 <div class="map-popup-item">
-                                    <div style="font-weight:900;font-size:12px;">${esc(dStr.slice(0,4))}/${esc(dStr.slice(4,6))}/${esc(dStr.slice(6,8))} · ${esc(ev.name)}</div>
+                                    <div style="font-weight:900;font-size:12px;">${esc(dStr.slice(0, 4))}/${esc(dStr.slice(4, 6))}/${esc(dStr.slice(6, 8))} · ${esc(ev.name)}</div>
                                     <div style="font-size:11px;color:var(--text-secondary);margin-top:2px;">📍 ${esc(ev.location || cityName)}</div>
                                     <div style="font-size:11px;font-weight:800;margin-top:3px;">🎸 ${esc(bNames)}</div>
                                     <a href="${esc(mapUrl)}" target="_blank" style="display:inline-block;margin-top:4px;font-size:11px;font-weight:900;color:var(--text-main);">↗ 在 Google Maps 開啟導航</a>
@@ -2719,7 +4100,7 @@
                     <div style="padding:9px 11px;background:var(--bg-subtle);border:1.5px solid var(--text-main);border-radius:8px;box-shadow:2px 2px 0px var(--text-main);">
                         <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:6px;">
                             <div style="font-size:13px;font-weight:900;color:var(--text-main);line-height:1.3;">${esc(ev.name)}</div>
-                            <span style="font-size:11px;font-weight:900;background:var(--text-main);color:var(--bg-main);padding:1px 6px;border-radius:4px;white-space:nowrap;">${esc(dStr.slice(0,4))}/${esc(dStr.slice(4,6))}/${esc(dStr.slice(6,8))}</span>
+                            <span style="font-size:11px;font-weight:900;background:var(--text-main);color:var(--bg-main);padding:1px 6px;border-radius:4px;white-space:nowrap;">${esc(dStr.slice(0, 4))}/${esc(dStr.slice(4, 6))}/${esc(dStr.slice(6, 8))}</span>
                         </div>
                         <div style="font-size:11px;font-weight:700;color:var(--text-secondary);margin:4px 0 6px 0;">📍 ${esc(ev.location || activeCityForPreview)}</div>
                         <div style="display:flex;flex-wrap:wrap;gap:4px;">${bTags}</div>
@@ -2850,7 +4231,7 @@
             if (!dayGroups || dayGroups.length === 0) return;
             const k = dateKey(dateStr);
             const dayName = getDayOfWeek(k);
-            $('#cdm-title').innerText = `📅 ${k.slice(0,4)}/${k.slice(4,6)}/${k.slice(6,8)} (${dayName}) 現場清單`;
+            $('#cdm-title').innerText = `📅 ${k.slice(0, 4)}/${k.slice(4, 6)}/${k.slice(6, 8)} (${dayName}) 現場清單`;
             $('#cdm-subtitle').innerText = dayGroups.length > 1
                 ? `當日共有 ${dayGroups.length} 場活動 · 可點下方膠囊快速跳轉或上下滑動檢視`
                 : `當日共有 1 場活動 · 點擊「▶ 查看活動資訊與時間」可展開完整卡司與連結`;
@@ -2887,20 +4268,20 @@
                     height: 'auto',
                     dayMaxEvents: 4,
                     headerToolbar: { left: 'prev,next today', center: 'title', right: 'dayGridMonth' },
-                    eventClick: function(info) {
+                    eventClick: function (info) {
                         info.jsEvent.preventDefault();
                         const dKey = info.event.extendedProps.dateKey;
                         const dayGroups = getCalendarFilteredDayGroups(dKey);
                         openCalendarDayModal(dKey, dayGroups);
                     },
-                    dateClick: function(info) {
+                    dateClick: function (info) {
                         const dKey = dateKey(info.dateStr);
                         const dayGroups = getCalendarFilteredDayGroups(dKey);
                         if (dayGroups.length > 0) {
                             openCalendarDayModal(dKey, dayGroups);
                         }
                     },
-                    moreLinkClick: function(info) {
+                    moreLinkClick: function (info) {
                         const dKey = dateKey(info.date.toISOString().slice(0, 10));
                         const dayGroups = getCalendarFilteredDayGroups(dKey);
                         openCalendarDayModal(dKey, dayGroups);
@@ -2920,7 +4301,7 @@
             grouped.forEach(g => {
                 const k = dateKey(g.date);
                 if (k.length !== 8) return;
-                const isoDate = `${k.slice(0,4)}-${k.slice(4,6)}-${k.slice(6,8)}`;
+                const isoDate = `${k.slice(0, 4)}-${k.slice(4, 6)}-${k.slice(6, 8)}`;
                 const primaryBand = isCustomFilter
                     ? (g.bands.find(b => activeSet.has(b.id)) || g.bands[0])
                     : g.bands[0];
@@ -3022,4 +4403,5 @@
         load();
     </script>
 </body>
+
 </html>
