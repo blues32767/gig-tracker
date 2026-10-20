@@ -1610,6 +1610,14 @@
       "eventCount": 1
     },
     {
+      "id": "band_qqiyec_7",
+      "name": "新響大派對",
+      "short": "新響大派對",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "band_6u8lrj_11",
       "name": "潮州土狗",
       "short": "潮州",
@@ -3487,14 +3495,6 @@
       "short": "茜茜溱妮",
       "color": "#ffd166",
       "category": "團體",
-      "eventCount": 0
-    },
-    {
-      "id": "band_qqiyec_7",
-      "name": "新響大派對",
-      "short": "新響大派對",
-      "color": "#ef476f",
-      "category": "樂團",
       "eventCount": 0
     }
   ],
@@ -9770,40 +9770,40 @@
       "date": "20261025",
       "band": "band_drsiw0_39",
       "time": "未公布",
-      "name": "新響之夜",
+      "name": "新竹 新響之夜",
       "location": "新竹縣政府文化局 文化廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%20%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n卡司:脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。活動時間預計於 15:00 開始。"
+      "note": "［免費］\n時段:15:00-未公布;卡司:2026/10/25(脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對)"
     },
     {
       "id": "upcoming-row-145",
       "date": "20261025",
       "band": "band_qqiyec_5",
       "time": "未公布",
-      "name": "新響之夜",
+      "name": "新竹 新響之夜",
       "location": "新竹縣政府文化局 文化廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%20%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n卡司:脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。活動時間預計於 15:00 開始。"
+      "note": "［免費］\n時段:15:00-未公布;卡司:2026/10/25(脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對)"
     },
     {
       "id": "upcoming-row-146",
       "date": "20261025",
       "band": "band_maaxir_1",
       "time": "未公布",
-      "name": "新響之夜",
+      "name": "新竹 新響之夜",
       "location": "新竹縣政府文化局 文化廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%20%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n卡司:脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。活動時間預計於 15:00 開始。"
+      "note": "［免費］\n時段:15:00-未公布;卡司:2026/10/25(脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對)"
     },
     {
       "id": "upcoming-row-147",
       "date": "20261025",
       "band": "band_qqiyec_6",
       "time": "未公布",
-      "name": "新響之夜",
+      "name": "新竹 新響之夜",
       "location": "新竹縣政府文化局 文化廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%20%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n卡司:脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。活動時間預計於 15:00 開始。"
+      "note": "［免費］\n時段:15:00-未公布;卡司:2026/10/25(脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對)"
     },
     {
       "id": "upcoming-row-209",
@@ -9964,6 +9964,16 @@
       "location": "嘉義縣中埔・獨角仙休閒農場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E3%83%BB%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
       "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)"
+    },
+    {
+      "id": "upcoming-row-474",
+      "date": "20261025",
+      "band": "band_qqiyec_7",
+      "time": "未公布",
+      "name": "新竹 新響之夜",
+      "location": "新竹縣政府文化局 文化廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%20%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n時段:15:00-未公布;卡司:2026/10/25(脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對)"
     },
     {
       "id": "upcoming-row-211",
@@ -13501,6 +13511,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3dc0a1e8-d2fc-458b-8db6-73e09ac70531",
-  "updatedAt": "2026-10-20T11:40:23.138Z"
+  "revision": "ce171d76-4520-4a17-a5a3-36e30d488bd4",
+  "updatedAt": "2026-10-20T12:40:12.935Z"
 }
