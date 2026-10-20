@@ -7,7 +7,7 @@
       "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
-      "eventCount": 59
+      "eventCount": 58
     },
     {
       "id": "gongguan",
@@ -23,7 +23,7 @@
       "short": "怕胖",
       "color": "#1d3557",
       "category": "樂團",
-      "eventCount": 13
+      "eventCount": 12
     },
     {
       "id": "bisiugroup",
@@ -40,6 +40,14 @@
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 8
+    },
+    {
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富凱",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 7
     },
     {
       "id": "band_6gp8um_11",
@@ -78,14 +86,6 @@
       "name": "白安",
       "short": "白安",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "band_drsiw0_25",
-      "name": "許富凱",
-      "short": "許富凱",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 6
     },
@@ -262,6 +262,14 @@
       "name": "梁河懸",
       "short": "梁河懸",
       "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_28",
+      "name": "曾瑋中",
+      "short": "曾瑋中",
+      "color": "#8338ec",
       "category": "個人",
       "eventCount": 3
     },
@@ -490,14 +498,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_28",
-      "name": "曾瑋中",
-      "short": "曾瑋中",
-      "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_32",
       "name": "李翊君",
       "short": "李翊君",
@@ -551,6 +551,14 @@
       "short": "帕崎拉",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_51",
+      "name": "李子森",
+      "short": "李子森",
+      "color": "#06d6a0",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -1502,14 +1510,6 @@
       "name": "孫盛希",
       "short": "孫盛希",
       "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_51",
-      "name": "李子森",
-      "short": "李子森",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
     },
@@ -3202,6 +3202,38 @@
       "eventCount": 1
     },
     {
+      "id": "band_drsiw0_127",
+      "name": "朱海君",
+      "short": "朱海君",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_39",
+      "name": "林姍",
+      "short": "林姍",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_128",
+      "name": "杜忻恬",
+      "short": "杜忻恬",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "unigirls",
+      "name": "UniGirls 啦啦隊",
+      "short": "UniGirls 啦啦隊",
+      "color": "#00b4d8",
+      "category": "團體",
+      "eventCount": 1
+    },
+    {
       "id": "band_drsiw0_129",
       "name": "張秀卿",
       "short": "張秀卿",
@@ -3455,38 +3487,6 @@
       "short": "新響大派對",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 0
-    },
-    {
-      "id": "band_drsiw0_127",
-      "name": "朱海君",
-      "short": "朱海君",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 0
-    },
-    {
-      "id": "band_6gp8um_39",
-      "name": "林姍",
-      "short": "林姍",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 0
-    },
-    {
-      "id": "band_drsiw0_128",
-      "name": "杜忻恬",
-      "short": "杜忻恬",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 0
-    },
-    {
-      "id": "unigirls",
-      "name": "UniGirls 啦啦隊",
-      "short": "UniGirls 啦啦隊",
-      "color": "#00b4d8",
-      "category": "團體",
       "eventCount": 0
     }
   ],
@@ -8708,7 +8708,7 @@
       "note": "［免費］\n活動日期為 2026/10/21-10/22。開票資訊:10/09 開放免費索票。\n活動日期:2026/10/21 - 2026/10/22。卡司包含公館青少年、C.Holly、Gummy B X 陳嫺靜、Flowstrong、Mong Tong,以及呂允、That's My Shhh、聲子蟲、Kangziwon(KR)。\n18:30-19:00|公館青少年\n19:30-20:00|Gummy B × 陳嫺靜"
     },
     {
-      "id": "upcoming-row-460",
+      "id": "upcoming-row-459",
       "date": "20261021",
       "band": "band_drsiw0_83",
       "time": "未公布",
@@ -8718,7 +8718,7 @@
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
     },
     {
-      "id": "upcoming-row-461",
+      "id": "upcoming-row-460",
       "date": "20261021",
       "band": "band_6gp8um_29",
       "time": "未公布",
@@ -8728,7 +8728,7 @@
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
     },
     {
-      "id": "upcoming-row-462",
+      "id": "upcoming-row-461",
       "date": "20261021",
       "band": "band_qqiyec_19",
       "time": "未公布",
@@ -8738,7 +8738,7 @@
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
     },
     {
-      "id": "upcoming-row-463",
+      "id": "upcoming-row-462",
       "date": "20261021",
       "band": "band_maaxir_7",
       "time": "未公布",
@@ -8748,7 +8748,7 @@
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
     },
     {
-      "id": "upcoming-row-464",
+      "id": "upcoming-row-463",
       "date": "20261021",
       "band": "band_qqiyec_20",
       "time": "未公布",
@@ -8758,7 +8758,7 @@
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
     },
     {
-      "id": "upcoming-row-465",
+      "id": "upcoming-row-464",
       "date": "20261021",
       "band": "band_32tclr_2",
       "time": "未公布",
@@ -8768,7 +8768,7 @@
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
     },
     {
-      "id": "upcoming-row-466",
+      "id": "upcoming-row-465",
       "date": "20261021",
       "band": "band_maaxir_8",
       "time": "未公布",
@@ -8778,7 +8778,7 @@
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
     },
     {
-      "id": "upcoming-row-467",
+      "id": "upcoming-row-466",
       "date": "20261021",
       "band": "bozone",
       "time": "未公布",
@@ -8788,7 +8788,7 @@
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏、熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)"
     },
     {
-      "id": "upcoming-row-468",
+      "id": "upcoming-row-467",
       "date": "20261021",
       "band": "young",
       "time": "未公布",
@@ -9890,22 +9890,82 @@
     {
       "id": "upcoming-row-439",
       "date": "20261025",
-      "band": "mango",
-      "time": "14:00-21:00",
-      "name": "嘉義縣中埔・獨角仙休閒農場 秋之盛典",
+      "band": "無",
+      "time": "未公布",
+      "name": "嘉義縣中埔・獨角仙休閒農場 秋之盛典(延期",
       "location": "嘉義縣中埔・獨角仙休閒農場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E3%83%BB%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
-      "note": "［免費］\n卡司:芒果醬、怕胖團;演出日期為2026年10月25日,時間為14:00-21:00。"
+      "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)"
     },
     {
-      "id": "upcoming-row-440",
+      "id": "upcoming-row-468",
       "date": "20261025",
-      "band": "papunband",
+      "band": "band_drsiw0_25",
       "time": "未公布",
-      "name": "嘉義縣中埔・獨角仙休閒農場 秋之盛典",
+      "name": "嘉義縣中埔・獨角仙休閒農場 秋之盛典(延期",
       "location": "嘉義縣中埔・獨角仙休閒農場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E3%83%BB%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
-      "note": "［免費］\n卡司:芒果醬、怕胖團;演出日期為2026年10月25日,時間為14:00-21:00。"
+      "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)"
+    },
+    {
+      "id": "upcoming-row-469",
+      "date": "20261025",
+      "band": "band_drsiw0_127",
+      "time": "未公布",
+      "name": "嘉義縣中埔・獨角仙休閒農場 秋之盛典(延期",
+      "location": "嘉義縣中埔・獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E3%83%BB%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)"
+    },
+    {
+      "id": "upcoming-row-470",
+      "date": "20261025",
+      "band": "band_6gp8um_39",
+      "time": "未公布",
+      "name": "嘉義縣中埔・獨角仙休閒農場 秋之盛典(延期",
+      "location": "嘉義縣中埔・獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E3%83%BB%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)"
+    },
+    {
+      "id": "upcoming-row-471",
+      "date": "20261025",
+      "band": "band_drsiw0_51",
+      "time": "未公布",
+      "name": "嘉義縣中埔・獨角仙休閒農場 秋之盛典(延期",
+      "location": "嘉義縣中埔・獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E3%83%BB%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)"
+    },
+    {
+      "id": "upcoming-row-472",
+      "date": "20261025",
+      "band": "band_drsiw0_128",
+      "time": "未公布",
+      "name": "嘉義縣中埔・獨角仙休閒農場 秋之盛典(延期",
+      "location": "嘉義縣中埔・獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E3%83%BB%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)"
+    },
+    {
+      "id": "upcoming-row-473",
+      "date": "20261025",
+      "band": "band_drsiw0_28",
+      "time": "未公布",
+      "name": "嘉義縣中埔・獨角仙休閒農場 秋之盛典(延期",
+      "location": "嘉義縣中埔・獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E3%83%BB%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)"
+    },
+    {
+      "id": "upcoming-row-474",
+      "date": "20261025",
+      "band": "unigirls",
+      "time": "未公布",
+      "name": "嘉義縣中埔・獨角仙休閒農場 秋之盛典(延期",
+      "location": "嘉義縣中埔・獨角仙休閒農場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E3%83%BB%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
+      "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)"
     },
     {
       "id": "upcoming-row-214",
@@ -10028,7 +10088,7 @@
       "note": "［免費］\n卡司:怕胖團、阿跨面、BELISH。活動時間及入場資格等待公告。"
     },
     {
-      "id": "upcoming-row-458",
+      "id": "upcoming-row-457",
       "date": "20261029",
       "band": "band_qqiyec_5",
       "time": "未公布",
@@ -11468,7 +11528,7 @@
       "note": "［免費］\n活動包含兩日演出:10/31(南向製菸工廠、巴洛克花園)及 11/01(南向製菸工廠、巴洛克花園)。\n卡司名單:Nick Tsai, 黃宇寒, 甜約翰, 女作之韻, MOLLY LIN(DJ SHOW), 持修, SUFU Project, JOYCE 就以斯, 傻子與白痴, Estelle Perrault 張婷雅, YELLOW SNAP(DJ SHOW), 艾怡良。"
     },
     {
-      "id": "upcoming-row-450",
+      "id": "upcoming-row-449",
       "date": "20261101",
       "band": "band_6gp8um_13",
       "time": "未公布",
@@ -11478,7 +11538,7 @@
       "note": "［免費］\n活動採免費索票,10月24日新竹通用戶優先領票,10月26日開放全台球迷索取。卡司:孝淵、謝金燕。"
     },
     {
-      "id": "upcoming-row-451",
+      "id": "upcoming-row-450",
       "date": "20261101",
       "band": "band_drsiw0_115",
       "time": "未公布",
@@ -11488,7 +11548,7 @@
       "note": "［免費］\n活動採免費索票,10月24日新竹通用戶優先領票,10月26日開放全台球迷索取。卡司:孝淵、謝金燕。"
     },
     {
-      "id": "upcoming-row-459",
+      "id": "upcoming-row-458",
       "date": "20261101",
       "band": "band_6gp8um_43",
       "time": "未公布",
@@ -11498,7 +11558,7 @@
       "note": "［免費］\n活動採免費索票,10月24日新竹通用戶優先領票,10月26日開放全台球迷索取。卡司:孝淵、謝金燕。"
     },
     {
-      "id": "upcoming-row-441",
+      "id": "upcoming-row-440",
       "date": "20261104",
       "band": "band_drsiw0_25",
       "time": "17:00-20:00",
@@ -11508,7 +11568,7 @@
       "note": "［免費］\n卡司:許富凱、白安、草屯囝仔、郭家瑋、Willy 簡嘉彣。時間:2026/11/04 17:00-20:00。地點:高雄市正修科技大學人文廣場。"
     },
     {
-      "id": "upcoming-row-442",
+      "id": "upcoming-row-441",
       "date": "20261104",
       "band": "band_6gp8um_3",
       "time": "17:00-20:00",
@@ -11518,7 +11578,7 @@
       "note": "［免費］\n卡司:許富凱、白安、草屯囝仔、郭家瑋、Willy 簡嘉彣。時間:2026/11/04 17:00-20:00。地點:高雄市正修科技大學人文廣場。"
     },
     {
-      "id": "upcoming-row-443",
+      "id": "upcoming-row-442",
       "date": "20261104",
       "band": "band_6u8lrj_36",
       "time": "17:00-20:00",
@@ -11528,7 +11588,7 @@
       "note": "［免費］\n卡司:許富凱、白安、草屯囝仔、郭家瑋、Willy 簡嘉彣。時間:2026/11/04 17:00-20:00。地點:高雄市正修科技大學人文廣場。"
     },
     {
-      "id": "upcoming-row-444",
+      "id": "upcoming-row-443",
       "date": "20261104",
       "band": "band_drsiw0_137",
       "time": "17:00-20:00",
@@ -11538,7 +11598,7 @@
       "note": "［免費］\n卡司:許富凱、白安、草屯囝仔、郭家瑋、Willy 簡嘉彣。時間:2026/11/04 17:00-20:00。地點:高雄市正修科技大學人文廣場。"
     },
     {
-      "id": "upcoming-row-445",
+      "id": "upcoming-row-444",
       "date": "20261104",
       "band": "willy",
       "time": "17:00-20:00",
@@ -11788,7 +11848,7 @@
       "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
     },
     {
-      "id": "upcoming-row-452",
+      "id": "upcoming-row-451",
       "date": "20261107",
       "band": "band_drsiw0_58",
       "time": "未公布",
@@ -11798,7 +11858,7 @@
       "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩"
     },
     {
-      "id": "upcoming-row-453",
+      "id": "upcoming-row-452",
       "date": "20261107",
       "band": "band_drsiw0_138",
       "time": "未公布",
@@ -11808,7 +11868,7 @@
       "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩"
     },
     {
-      "id": "upcoming-row-454",
+      "id": "upcoming-row-453",
       "date": "20261107",
       "band": "band_6gp8um_11",
       "time": "未公布",
@@ -11818,7 +11878,7 @@
       "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩"
     },
     {
-      "id": "upcoming-row-455",
+      "id": "upcoming-row-454",
       "date": "20261107",
       "band": "band_drsiw0_85",
       "time": "未公布",
@@ -11828,7 +11888,7 @@
       "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩"
     },
     {
-      "id": "upcoming-row-456",
+      "id": "upcoming-row-455",
       "date": "20261107",
       "band": "band_6gp8um_29",
       "time": "未公布",
@@ -11838,7 +11898,7 @@
       "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩"
     },
     {
-      "id": "upcoming-row-457",
+      "id": "upcoming-row-456",
       "date": "20261107",
       "band": "band_drsiw0_87",
       "time": "未公布",
@@ -13128,7 +13188,7 @@
       "note": "［售票］\n結束時間未定"
     },
     {
-      "id": "upcoming-row-446",
+      "id": "upcoming-row-445",
       "date": "20261213",
       "band": "band_drsiw0_27",
       "time": "15:00-17:30",
@@ -13138,7 +13198,7 @@
       "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
     },
     {
-      "id": "upcoming-row-447",
+      "id": "upcoming-row-446",
       "date": "20261213",
       "band": "band_6gp8um_27",
       "time": "15:00-17:30",
@@ -13148,7 +13208,7 @@
       "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
     },
     {
-      "id": "upcoming-row-448",
+      "id": "upcoming-row-447",
       "date": "20261213",
       "band": "cholly",
       "time": "15:00-17:30",
@@ -13158,7 +13218,7 @@
       "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
     },
     {
-      "id": "upcoming-row-449",
+      "id": "upcoming-row-448",
       "date": "20261213",
       "band": "djswallow",
       "time": "15:00-17:30",
@@ -13453,6 +13513,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "693fd456-7027-4f92-8272-1d81d7afc2f6",
-  "updatedAt": "2026-10-20T02:11:36.018Z"
+  "revision": "d3a281f0-229d-4b25-84a5-582c558b8e22",
+  "updatedAt": "2026-10-20T02:11:56.405Z"
 }
