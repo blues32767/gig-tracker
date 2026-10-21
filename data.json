@@ -266,6 +266,14 @@
       "eventCount": 3
     },
     {
+      "id": "saturnday",
+      "name": "Saturnday",
+      "short": "Saturnday",
+      "color": "#06d6a0",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
       "id": "arkis",
       "name": "ARKis",
       "short": "ARKis",
@@ -479,14 +487,6 @@
       "short": "黃偉晉",
       "color": "#118ab2",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "saturnday",
-      "name": "Saturnday",
-      "short": "Saturnday",
-      "color": "#06d6a0",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -12557,11 +12557,21 @@
       "id": "upcoming-row-452",
       "date": "20261114",
       "band": "babymint",
-      "time": "未公布",
+      "time": "17:30-21:30",
       "name": "雲林 young power2026 雲林 Young Power 青春雲林演唱會",
-      "location": "斗六膨鼠森林公園",
+      "location": "雲林縣斗六膨鼠森林公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)"
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於 2026/11/14 舉辦,新公佈卡司包含 Saturnday、babyMINT 等樂團。"
+    },
+    {
+      "id": "upcoming-row-491",
+      "date": "20261114",
+      "band": "saturnday",
+      "time": "17:30-21:30",
+      "name": "雲林 young power2026 雲林 Young Power 青春雲林演唱會",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於 2026/11/14 舉辦,新公佈卡司包含 Saturnday、babyMINT 等樂團。"
     },
     {
       "id": "upcoming-row-16",
@@ -13939,6 +13949,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ed10355e-3b67-4bc1-9141-bd50f66180e1",
-  "updatedAt": "2026-10-21T08:41:11.172Z"
+  "revision": "f0446a06-2215-4ebb-b640-05fbd94f953a",
+  "updatedAt": "2026-10-21T08:41:40.837Z"
 }
