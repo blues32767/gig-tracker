@@ -42,18 +42,18 @@
       "eventCount": 8
     },
     {
-      "id": "band_nmq1yt",
-      "name": "鼓鼓 呂思緯",
-      "short": "鼓鼓 呂思緯",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 7
-    },
-    {
       "id": "band_drsiw0_25",
       "name": "許富凱",
       "short": "許富凱",
       "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 8
+    },
+    {
+      "id": "band_nmq1yt",
+      "name": "鼓鼓 呂思緯",
+      "short": "鼓鼓 呂思緯",
+      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 7
     },
@@ -362,6 +362,14 @@
       "eventCount": 3
     },
     {
+      "id": "riki",
+      "name": "RIKI",
+      "short": "RIKI",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_61",
       "name": "白頻率",
       "short": "白頻率",
@@ -414,6 +422,14 @@
       "name": "PALLAS",
       "short": "PALLAS",
       "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_83",
+      "name": "宋德鶴",
+      "short": "宋德鶴",
+      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 3
     },
@@ -594,14 +610,6 @@
       "eventCount": 2
     },
     {
-      "id": "riki",
-      "name": "RIKI",
-      "short": "RIKI",
-      "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_60",
       "name": "羊米人",
       "short": "羊米人",
@@ -775,14 +783,6 @@
       "short": "BIDO",
       "color": "#2ec4b6",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_83",
-      "name": "宋德鶴",
-      "short": "宋德鶴",
-      "color": "#118ab2",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -3623,6 +3623,22 @@
       "short": "桂格",
       "color": "#3a86ff",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_37",
+      "name": "秀蘭瑪雅",
+      "short": "秀蘭",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_17",
+      "name": "曾宥嘉",
+      "short": "曾宥",
+      "color": "#2ec4b6",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -13004,6 +13020,56 @@
       "note": "［免費］\n[免費]不對外開放\n校內限定"
     },
     {
+      "id": "upcoming-row-492",
+      "date": "20261129",
+      "band": "band_6u8lrj_37",
+      "time": "18:00-18:20",
+      "name": "彰化 秀出幸福・豐收聚場",
+      "location": "彰化縣秀水鄉秀安路全線",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
+      "note": "［免費］"
+    },
+    {
+      "id": "upcoming-row-493",
+      "date": "20261129",
+      "band": "band_drsiw0_17",
+      "time": "18:20-18:40",
+      "name": "彰化 秀出幸福・豐收聚場",
+      "location": "彰化縣秀水鄉秀安路全線",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
+      "note": "［免費］"
+    },
+    {
+      "id": "upcoming-row-494",
+      "date": "20261129",
+      "band": "riki",
+      "time": "18:40-19:10",
+      "name": "彰化 秀出幸福・豐收聚場",
+      "location": "彰化縣秀水鄉秀安路全線",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
+      "note": "［免費］"
+    },
+    {
+      "id": "upcoming-row-495",
+      "date": "20261129",
+      "band": "band_drsiw0_83",
+      "time": "19:20-19:50",
+      "name": "彰化 秀出幸福・豐收聚場",
+      "location": "彰化縣秀水鄉秀安路全線",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
+      "note": "［免費］"
+    },
+    {
+      "id": "upcoming-row-496",
+      "date": "20261129",
+      "band": "band_drsiw0_25",
+      "time": "20:00-20:30",
+      "name": "彰化 秀出幸福・豐收聚場",
+      "location": "彰化縣秀水鄉秀安路全線",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
+      "note": "［免費］"
+    },
+    {
       "id": "upcoming-row-22",
       "date": "20261206",
       "band": "mango",
@@ -13949,6 +14015,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "f0446a06-2215-4ebb-b640-05fbd94f953a",
-  "updatedAt": "2026-10-21T08:41:40.837Z"
+  "revision": "5c133a6b-466b-4d23-aca6-1eaa59420b3e",
+  "updatedAt": "2026-10-21T13:40:51.777Z"
 }
