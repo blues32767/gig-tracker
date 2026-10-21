@@ -12220,6 +12220,56 @@
       "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩\n520 心田中音樂節選手之夜,由九孔主持。"
     },
     {
+      "id": "upcoming-row-482",
+      "date": "20261107",
+      "band": "band_6u8lrj_37",
+      "time": "18:00-18:20",
+      "name": "彰化 秀出幸福・豐收聚場",
+      "location": "彰化縣秀水鄉秀安路全線",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
+      "note": "［免費］"
+    },
+    {
+      "id": "upcoming-row-483",
+      "date": "20261107",
+      "band": "band_drsiw0_17",
+      "time": "18:20-18:40",
+      "name": "彰化 秀出幸福・豐收聚場",
+      "location": "彰化縣秀水鄉秀安路全線",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
+      "note": "［免費］"
+    },
+    {
+      "id": "upcoming-row-484",
+      "date": "20261107",
+      "band": "riki",
+      "time": "18:40-19:10",
+      "name": "彰化 秀出幸福・豐收聚場",
+      "location": "彰化縣秀水鄉秀安路全線",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
+      "note": "［免費］"
+    },
+    {
+      "id": "upcoming-row-485",
+      "date": "20261107",
+      "band": "band_drsiw0_83",
+      "time": "19:20-19:50",
+      "name": "彰化 秀出幸福・豐收聚場",
+      "location": "彰化縣秀水鄉秀安路全線",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
+      "note": "［免費］"
+    },
+    {
+      "id": "upcoming-row-486",
+      "date": "20261107",
+      "band": "band_drsiw0_25",
+      "time": "20:00-20:30",
+      "name": "彰化 秀出幸福・豐收聚場",
+      "location": "彰化縣秀水鄉秀安路全線",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
+      "note": "［免費］"
+    },
+    {
       "id": "upcoming-row-13",
       "date": "20261108",
       "band": "AmazingShow",
@@ -13018,56 +13068,6 @@
       "location": "高雄市楠梓區中山高中",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E4%B8%AD%E5%B1%B1%E9%AB%98%E4%B8%AD",
       "note": "［免費］\n[免費]不對外開放\n校內限定"
-    },
-    {
-      "id": "upcoming-row-482",
-      "date": "20261129",
-      "band": "band_6u8lrj_37",
-      "time": "18:00-18:20",
-      "name": "彰化 秀出幸福・豐收聚場",
-      "location": "彰化縣秀水鄉秀安路全線",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
-      "note": "［免費］"
-    },
-    {
-      "id": "upcoming-row-483",
-      "date": "20261129",
-      "band": "band_drsiw0_17",
-      "time": "18:20-18:40",
-      "name": "彰化 秀出幸福・豐收聚場",
-      "location": "彰化縣秀水鄉秀安路全線",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
-      "note": "［免費］"
-    },
-    {
-      "id": "upcoming-row-484",
-      "date": "20261129",
-      "band": "riki",
-      "time": "18:40-19:10",
-      "name": "彰化 秀出幸福・豐收聚場",
-      "location": "彰化縣秀水鄉秀安路全線",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
-      "note": "［免費］"
-    },
-    {
-      "id": "upcoming-row-485",
-      "date": "20261129",
-      "band": "band_drsiw0_83",
-      "time": "19:20-19:50",
-      "name": "彰化 秀出幸福・豐收聚場",
-      "location": "彰化縣秀水鄉秀安路全線",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
-      "note": "［免費］"
-    },
-    {
-      "id": "upcoming-row-486",
-      "date": "20261129",
-      "band": "band_drsiw0_25",
-      "time": "20:00-20:30",
-      "name": "彰化 秀出幸福・豐收聚場",
-      "location": "彰化縣秀水鄉秀安路全線",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A7%80%E6%B0%B4%E9%84%89%E7%A7%80%E5%AE%89%E8%B7%AF%E5%85%A8%E7%B7%9A",
-      "note": "［免費］"
     },
     {
       "id": "upcoming-row-21",
@@ -14015,6 +14015,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e9fdd6fe-77f9-47cd-9aad-6402b5c916f2",
-  "updatedAt": "2026-10-21T16:01:42.095Z"
+  "revision": "f3caab6a-6f15-4609-9a79-303de0d76a87",
+  "updatedAt": "2026-10-21T23:40:41.423Z"
 }
