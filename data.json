@@ -146,14 +146,6 @@
       "eventCount": 5
     },
     {
-      "id": "band_drsiw0_87",
-      "name": "魏嘉瑩",
-      "short": "魏嘉瑩",
-      "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
       "id": "WhoCares",
       "name": "胡凱兒",
       "short": "胡凱兒",
@@ -218,14 +210,6 @@
       "eventCount": 4
     },
     {
-      "id": "band_drsiw0_83",
-      "name": "宋德鶴",
-      "short": "宋德鶴",
-      "color": "#118ab2",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
       "id": "fei",
       "name": "吳霏 FEI",
       "short": "吳霏 FEI",
@@ -238,6 +222,14 @@
       "name": "蕭景鴻",
       "short": "蕭景鴻",
       "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
+      "id": "band_drsiw0_87",
+      "name": "魏嘉瑩",
+      "short": "魏嘉瑩",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 4
     },
@@ -422,6 +414,14 @@
       "name": "PALLAS",
       "short": "PALLAS",
       "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_83",
+      "name": "宋德鶴",
+      "short": "宋德鶴",
+      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 3
     },
@@ -8932,6 +8932,66 @@
       "location": "高雄市輔英科技大學幼保大樓前草皮",
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。\n地圖：https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
       "setlist": []
+    },
+    {
+      "id": "EV_20261021_BAND_89b968",
+      "date": "20261021",
+      "band": "band_maaxir_7",
+      "time": "",
+      "name": "高雄 2026 聲浪祭草地音樂會",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。\n地圖：https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261021_BAND_afa745",
+      "date": "20261021",
+      "band": "band_qqiyec_20",
+      "time": "",
+      "name": "高雄 2026 聲浪祭草地音樂會",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。\n地圖：https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261021_BAND_d473df",
+      "date": "20261021",
+      "band": "band_32tclr_2",
+      "time": "",
+      "name": "高雄 2026 聲浪祭草地音樂會",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。\n地圖：https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261021_BAND_390334",
+      "date": "20261021",
+      "band": "band_maaxir_8",
+      "time": "",
+      "name": "高雄 2026 聲浪祭草地音樂會",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。\n地圖：https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261021_BOZO_8957b7",
+      "date": "20261021",
+      "band": "bozone",
+      "time": "",
+      "name": "高雄 2026 聲浪祭草地音樂會",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。\n地圖：https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261021_YOUN_7ee9f2",
+      "date": "20261021",
+      "band": "young",
+      "time": "",
+      "name": "高雄 2026 聲浪祭草地音樂會",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。\n地圖：https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "setlist": []
     }
   ],
   "upcoming": [
@@ -9406,67 +9466,7 @@
       "note": "［免費］\n活動日期:2026/10/24 - 10/25。卡司包含黃妃、呂思緯、U:NUS、白安、張秀卿、米棧不一樣舞團(10/24);品冠、蕭景鴻、魏嘉瑩、琳誼、馬太鞍部落青年 Laniyaro’(10/25)。\n活動期間為 2026/10/24 至 2026/10/25。演出時間未公布。"
     },
     {
-      "id": "upcoming-row-429",
-      "date": "20261024",
-      "band": "band_maaxir_7",
-      "time": "未公布",
-      "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
-    },
-    {
-      "id": "upcoming-row-430",
-      "date": "20261024",
-      "band": "band_qqiyec_20",
-      "time": "未公布",
-      "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
-    },
-    {
-      "id": "upcoming-row-431",
-      "date": "20261024",
-      "band": "band_32tclr_2",
-      "time": "未公布",
-      "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
-    },
-    {
-      "id": "upcoming-row-432",
-      "date": "20261024",
-      "band": "band_maaxir_8",
-      "time": "未公布",
-      "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
-    },
-    {
-      "id": "upcoming-row-433",
-      "date": "20261024",
-      "band": "bozone",
-      "time": "未公布",
-      "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
-    },
-    {
-      "id": "upcoming-row-434",
-      "date": "20261024",
-      "band": "young",
-      "time": "未公布",
-      "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
-    },
-    {
-      "id": "upcoming-row-455",
+      "id": "upcoming-row-449",
       "date": "20261024",
       "band": "band_uhxcnu",
       "time": "21:15-21:45",
@@ -9474,26 +9474,6 @@
       "location": "雲林西螺福興宮前",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n活動因故延期,新日期尚未確定。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
-    },
-    {
-      "id": "upcoming-row-485",
-      "date": "20261024",
-      "band": "band_drsiw0_83",
-      "time": "未公布",
-      "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
-    },
-    {
-      "id": "upcoming-row-486",
-      "date": "20261024",
-      "band": "band_drsiw0_87",
-      "time": "未公布",
-      "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
     },
     {
       "id": "upcoming-row-3",
@@ -9533,7 +9513,7 @@
       "name": "花蓮 韓流原聲演唱會",
       "location": "花蓮市東大門廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動日期因颱風延期\n卡司:\n卡司:\n卡司:\n活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n卡司:\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
+      "note": "［免費］\n卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n原定活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
     },
     {
       "id": "upcoming-row-122",
@@ -9543,7 +9523,7 @@
       "name": "花蓮 韓流原聲演唱會",
       "location": "花蓮市東大門廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動日期為 2026/10/24(六)至 2026/10/25(日)。卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n活動時間:2026/10/24 (五) 19:00-22:00;2026/10/25 (六) 19:00-22:00。\n卡司:\n卡司:\n卡司:\n活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n卡司:\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
+      "note": "［免費］\n卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n原定活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
     },
     {
       "id": "upcoming-row-123",
@@ -9553,7 +9533,7 @@
       "name": "花蓮 韓流原聲演唱會",
       "location": "花蓮市東大門廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動日期為 2026/10/24(六)至 2026/10/25(日)。卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n活動時間:2026/10/24 (五) 19:00-22:00;2026/10/25 (六) 19:00-22:00。\n卡司:\n卡司:\n卡司:\n活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n卡司:\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
+      "note": "［免費］\n卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n原定活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
     },
     {
       "id": "upcoming-row-124",
@@ -9563,7 +9543,7 @@
       "name": "花蓮 韓流原聲演唱會",
       "location": "花蓮市東大門廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動日期為 2026/10/24(六)至 2026/10/25(日)。卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n活動時間:2026/10/24 (五) 19:00-22:00;2026/10/25 (六) 19:00-22:00。\n卡司:\n卡司:\n卡司:\n活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n卡司:\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
+      "note": "［免費］\n卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n原定活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
     },
     {
       "id": "upcoming-row-125",
@@ -9573,7 +9553,7 @@
       "name": "花蓮 韓流原聲演唱會",
       "location": "花蓮市東大門廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動日期為 2026/10/24(六)至 2026/10/25(日)。卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n活動時間:2026/10/24 (五) 19:00-22:00;2026/10/25 (六) 19:00-22:00。\n卡司:\n卡司:\n卡司:\n活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n卡司:\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
+      "note": "［免費］\n卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n原定活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
     },
     {
       "id": "upcoming-row-143",
@@ -9706,7 +9686,7 @@
       "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)\n原定於 2026/10/25 舉辦的《秋之盛典》秋天奇幻森林派對,因颱風影響延期,新舉辦日期尚未確定。\n來源：https://www.threads.com/share/D-0SYoRJo/"
     },
     {
-      "id": "upcoming-row-435",
+      "id": "upcoming-row-429",
       "date": "20261025",
       "band": "band_drsiw0_25",
       "time": "未公布",
@@ -9716,7 +9696,7 @@
       "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)\n原定於 2026/10/25 舉辦的《秋之盛典》秋天奇幻森林派對,因颱風影響延期,新舉辦日期尚未確定。\n來源：https://www.threads.com/share/D-0SYoRJo/"
     },
     {
-      "id": "upcoming-row-436",
+      "id": "upcoming-row-430",
       "date": "20261025",
       "band": "band_drsiw0_127",
       "time": "未公布",
@@ -9726,7 +9706,7 @@
       "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)\n原定於 2026/10/25 舉辦的《秋之盛典》秋天奇幻森林派對,因颱風影響延期,新舉辦日期尚未確定。\n來源：https://www.threads.com/share/D-0SYoRJo/"
     },
     {
-      "id": "upcoming-row-437",
+      "id": "upcoming-row-431",
       "date": "20261025",
       "band": "band_6gp8um_39",
       "time": "未公布",
@@ -9736,7 +9716,7 @@
       "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)\n原定於 2026/10/25 舉辦的《秋之盛典》秋天奇幻森林派對,因颱風影響延期,新舉辦日期尚未確定。\n來源：https://www.threads.com/share/D-0SYoRJo/"
     },
     {
-      "id": "upcoming-row-438",
+      "id": "upcoming-row-432",
       "date": "20261025",
       "band": "band_drsiw0_51",
       "time": "未公布",
@@ -9746,7 +9726,7 @@
       "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)\n原定於 2026/10/25 舉辦的《秋之盛典》秋天奇幻森林派對,因颱風影響延期,新舉辦日期尚未確定。\n來源：https://www.threads.com/share/D-0SYoRJo/"
     },
     {
-      "id": "upcoming-row-439",
+      "id": "upcoming-row-433",
       "date": "20261025",
       "band": "band_drsiw0_128",
       "time": "未公布",
@@ -9756,7 +9736,7 @@
       "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)\n原定於 2026/10/25 舉辦的《秋之盛典》秋天奇幻森林派對,因颱風影響延期,新舉辦日期尚未確定。\n來源：https://www.threads.com/share/D-0SYoRJo/"
     },
     {
-      "id": "upcoming-row-440",
+      "id": "upcoming-row-434",
       "date": "20261025",
       "band": "band_drsiw0_28",
       "time": "未公布",
@@ -9766,7 +9746,7 @@
       "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)\n原定於 2026/10/25 舉辦的《秋之盛典》秋天奇幻森林派對,因颱風影響延期,新舉辦日期尚未確定。\n來源：https://www.threads.com/share/D-0SYoRJo/"
     },
     {
-      "id": "upcoming-row-441",
+      "id": "upcoming-row-435",
       "date": "20261025",
       "band": "unigirls",
       "time": "未公布",
@@ -9776,7 +9756,7 @@
       "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)\n原定於 2026/10/25 舉辦的《秋之盛典》秋天奇幻森林派對,因颱風影響延期,新舉辦日期尚未確定。\n來源：https://www.threads.com/share/D-0SYoRJo/"
     },
     {
-      "id": "upcoming-row-444",
+      "id": "upcoming-row-438",
       "date": "20261025",
       "band": "band_qqiyec_7",
       "time": "17:30-18:00",
@@ -9786,7 +9766,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-457",
+      "id": "upcoming-row-451",
       "date": "20261025",
       "band": "band_6u8lrj",
       "time": "18:00-18:40",
@@ -9796,7 +9776,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-458",
+      "id": "upcoming-row-452",
       "date": "20261025",
       "band": "band_6gp8um",
       "time": "20:00-20:30",
@@ -9806,7 +9786,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-459",
+      "id": "upcoming-row-453",
       "date": "20261025",
       "band": "band_6u8lrj_1",
       "time": "20:30-21:00",
@@ -9816,7 +9796,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-460",
+      "id": "upcoming-row-454",
       "date": "20261025",
       "band": "uni",
       "time": "15:00-16:30",
@@ -9826,7 +9806,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-461",
+      "id": "upcoming-row-455",
       "date": "20261025",
       "band": "luxurmelon",
       "time": "15:00-16:30",
@@ -9836,7 +9816,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-462",
+      "id": "upcoming-row-456",
       "date": "20261025",
       "band": "chllker",
       "time": "15:00-16:30",
@@ -9846,7 +9826,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-463",
+      "id": "upcoming-row-457",
       "date": "20261025",
       "band": "oiching",
       "time": "15:00-16:30",
@@ -9856,7 +9836,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-464",
+      "id": "upcoming-row-458",
       "date": "20261025",
       "band": "band_drsiw0",
       "time": "15:00-16:30",
@@ -9866,7 +9846,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-465",
+      "id": "upcoming-row-459",
       "date": "20261025",
       "band": "band_qqiyec_22",
       "time": "17:00-18:00",
@@ -9876,7 +9856,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-466",
+      "id": "upcoming-row-460",
       "date": "20261025",
       "band": "ezt",
       "time": "18:40-19:00",
@@ -9886,7 +9866,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-467",
+      "id": "upcoming-row-461",
       "date": "20261025",
       "band": "emmalin",
       "time": "19:40-20:00",
@@ -9896,7 +9876,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-468",
+      "id": "upcoming-row-462",
       "date": "20261025",
       "band": "katrina",
       "time": "20:40-21:00",
@@ -9963,7 +9943,7 @@
       "name": "花蓮 韓流原聲演唱會",
       "location": "花蓮市東大門廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動日期為 2026/10/24(六)至 2026/10/25(日)。卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n活動時間:2026/10/24 (五) 19:00-22:00;2026/10/25 (六) 19:00-22:00。\n卡司:\n卡司:\n卡司:\n活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n卡司:\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
+      "note": "［免費］\n卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n原定活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
     },
     {
       "id": "upcoming-row-127",
@@ -9973,7 +9953,7 @@
       "name": "花蓮 韓流原聲演唱會",
       "location": "花蓮市東大門廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動日期為 2026/10/24(六)至 2026/10/25(日)。卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n活動時間:2026/10/24 (五) 19:00-22:00;2026/10/25 (六) 19:00-22:00。\n卡司:\n卡司:\n卡司:\n活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n卡司:\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
+      "note": "［免費］\n卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n原定活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
     },
     {
       "id": "upcoming-row-128",
@@ -9983,7 +9963,7 @@
       "name": "花蓮 韓流原聲演唱會",
       "location": "花蓮市東大門廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動日期為 2026/10/24(六)至 2026/10/25(日)。卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n活動時間:2026/10/24 (五) 19:00-22:00;2026/10/25 (六) 19:00-22:00。\n卡司:\n卡司:\n卡司:\n活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n卡司:\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
+      "note": "［免費］\n卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n原定活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
     },
     {
       "id": "upcoming-row-129",
@@ -9993,7 +9973,7 @@
       "name": "花蓮 韓流原聲演唱會",
       "location": "花蓮市東大門廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動日期為 2026/10/24(六)至 2026/10/25(日)。卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n活動時間:2026/10/24 (五) 19:00-22:00;2026/10/25 (六) 19:00-22:00。\n卡司:\n卡司:\n卡司:\n活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n卡司:\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
+      "note": "［免費］\n卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n原定活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
     },
     {
       "id": "upcoming-row-130",
@@ -10003,7 +9983,7 @@
       "name": "花蓮 韓流原聲演唱會",
       "location": "花蓮市東大門廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n活動日期為 2026/10/24(六)至 2026/10/25(日)。卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n活動時間:2026/10/24 (五) 19:00-22:00;2026/10/25 (六) 19:00-22:00。\n卡司:\n卡司:\n卡司:\n活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n卡司:\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
+      "note": "［免費］\n卡司:10/24 為 厲旭、梁文音、Xdinary Heroes、SHAUN、AtHeart;10/25 為 孝琳、Matzka、BTOB、李彩演、TNX。\n原定活動日期為 2026 年 10 月 24 日至 10 月 25 日。\n因颱風順延至 2026/10/25(日) 及 10/26(一),各藝人表演時間未公布。活動官網:https://concert.hl.gov.tw,播出平台:東森新聞 YouTube、縣長徐榛蔚 Facebook、東森超視33頻道。\n來源：https://www.facebook.com/share/p/1CT7JCKeiJ/"
     },
     {
       "id": "upcoming-row-199",
@@ -10116,7 +10096,7 @@
       "note": "［售票］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。"
     },
     {
-      "id": "upcoming-row-442",
+      "id": "upcoming-row-436",
       "date": "20261029",
       "band": "papunband",
       "time": "未公布",
@@ -10996,7 +10976,7 @@
       "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
-      "id": "upcoming-row-470",
+      "id": "upcoming-row-464",
       "date": "20261031",
       "band": "band_drsiw0_136",
       "time": "14:00-20:30",
@@ -11006,7 +10986,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-471",
+      "id": "upcoming-row-465",
       "date": "20261031",
       "band": "band_drsiw0_2",
       "time": "14:00-20:30",
@@ -11016,7 +10996,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-472",
+      "id": "upcoming-row-466",
       "date": "20261031",
       "band": "band_drsiw0_16",
       "time": "14:00-20:30",
@@ -11026,7 +11006,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-473",
+      "id": "upcoming-row-467",
       "date": "20261031",
       "band": "band_drsiw0_112",
       "time": "14:00-20:30",
@@ -11036,7 +11016,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-474",
+      "id": "upcoming-row-468",
       "date": "20261031",
       "band": "band_6u8lrj_11",
       "time": "14:00-20:30",
@@ -11046,7 +11026,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-475",
+      "id": "upcoming-row-469",
       "date": "20261031",
       "band": "band_6gp8um_44",
       "time": "14:00-20:30",
@@ -11056,7 +11036,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-476",
+      "id": "upcoming-row-470",
       "date": "20261031",
       "band": "arkis",
       "time": "14:00-20:30",
@@ -11066,7 +11046,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-477",
+      "id": "upcoming-row-471",
       "date": "20261031",
       "band": "band_6u8lrj_2",
       "time": "14:00-20:30",
@@ -11076,7 +11056,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-484",
+      "id": "upcoming-row-478",
       "date": "20261031",
       "band": "band_6u8lrj_38",
       "time": "未公布",
@@ -11086,7 +11066,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-487",
+      "id": "upcoming-row-479",
       "date": "20261031",
       "band": "band_drsiw0_47",
       "time": "未公布",
@@ -11096,7 +11076,7 @@
       "note": "［免費］\n時段:18:00-21:30;卡司包含王識賢、Bii畢書盡、陳勢安、徐暐翔、HOT SHOCK腳踏車。"
     },
     {
-      "id": "upcoming-row-488",
+      "id": "upcoming-row-480",
       "date": "20261031",
       "band": "band_drsiw0_88",
       "time": "未公布",
@@ -11106,7 +11086,7 @@
       "note": "［免費］\n時段:18:00-21:30;卡司包含王識賢、Bii畢書盡、陳勢安、徐暐翔、HOT SHOCK腳踏車。"
     },
     {
-      "id": "upcoming-row-489",
+      "id": "upcoming-row-481",
       "date": "20261031",
       "band": "band_drsiw0_69",
       "time": "未公布",
@@ -11116,7 +11096,7 @@
       "note": "［免費］\n時段:18:00-21:30;卡司包含王識賢、Bii畢書盡、陳勢安、徐暐翔、HOT SHOCK腳踏車。"
     },
     {
-      "id": "upcoming-row-490",
+      "id": "upcoming-row-482",
       "date": "20261031",
       "band": "band_drsiw0_139",
       "time": "未公布",
@@ -11126,7 +11106,7 @@
       "note": "［免費］\n時段:18:00-21:30;卡司包含王識賢、Bii畢書盡、陳勢安、徐暐翔、HOT SHOCK腳踏車。"
     },
     {
-      "id": "upcoming-row-491",
+      "id": "upcoming-row-483",
       "date": "20261031",
       "band": "hotshock",
       "time": "未公布",
@@ -12156,7 +12136,7 @@
       "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩\n520 心田中音樂節選手之夜,由九孔主持。"
     },
     {
-      "id": "upcoming-row-469",
+      "id": "upcoming-row-463",
       "date": "20261107",
       "band": "band_nmq1yt",
       "time": "未公布",
@@ -12166,7 +12146,7 @@
       "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩\n520 心田中音樂節選手之夜,由九孔主持。"
     },
     {
-      "id": "upcoming-row-479",
+      "id": "upcoming-row-473",
       "date": "20261107",
       "band": "band_6u8lrj_37",
       "time": "18:00-18:20",
@@ -12176,7 +12156,7 @@
       "note": "［免費］\n活動於11/07舉辦,卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
-      "id": "upcoming-row-480",
+      "id": "upcoming-row-474",
       "date": "20261107",
       "band": "band_drsiw0_17",
       "time": "18:20-18:40",
@@ -12186,7 +12166,7 @@
       "note": "［免費］\n活動於11/07舉辦,卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
-      "id": "upcoming-row-481",
+      "id": "upcoming-row-475",
       "date": "20261107",
       "band": "riki",
       "time": "18:40-19:10",
@@ -12196,7 +12176,7 @@
       "note": "［免費］\n活動於11/07舉辦,卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
-      "id": "upcoming-row-482",
+      "id": "upcoming-row-476",
       "date": "20261107",
       "band": "band_drsiw0_83",
       "time": "19:20-19:50",
@@ -12206,7 +12186,7 @@
       "note": "［免費］\n活動於11/07舉辦,卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
-      "id": "upcoming-row-483",
+      "id": "upcoming-row-477",
       "date": "20261107",
       "band": "band_drsiw0_25",
       "time": "20:00-20:30",
@@ -12566,7 +12546,7 @@
       "note": "［售票］\n活動日期為 2026年11月14日。卡司包含:Sabrina 胡恂舞、陳宇祥、INHON 胤宏、PIZZALI、Xinz、Ni!KA。入場時間為 15:00,活動開始於 15:20。"
     },
     {
-      "id": "upcoming-row-443",
+      "id": "upcoming-row-437",
       "date": "20261114",
       "band": "babymint",
       "time": "17:30-21:30",
@@ -12576,7 +12556,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於 2026/11/14 舉辦,新公佈卡司包含 Saturnday、babyMINT 等樂團。"
     },
     {
-      "id": "upcoming-row-478",
+      "id": "upcoming-row-472",
       "date": "20261114",
       "band": "saturnday",
       "time": "17:30-21:30",
@@ -13706,7 +13686,7 @@
       "note": "［售票］\n結束時間未定\n|售票頁面:https://ticketplus.com.tw/activity/73ed24f36dd62ca2b67a8b266c23df7f\n|登記抽選:https://ticketplus.com.tw/activity/b198888767747ce4f4fa722f8c183e11\n演出時間:12月26日(六)及12月27日(日)。每日開場時間為 15:00,開演時間為 18:00。備註:請留意各階段的優先購票和一般販售日期\n來源：https://www.instagram.com/p/DehIbRDjyyk/"
     },
     {
-      "id": "upcoming-row-445",
+      "id": "upcoming-row-439",
       "date": "20261226",
       "band": "whoou",
       "time": "17:00-17:45",
@@ -13716,7 +13696,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-446",
+      "id": "upcoming-row-440",
       "date": "20261226",
       "band": "band_6u8lrj_12",
       "time": "18:00-18:30",
@@ -13726,7 +13706,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-447",
+      "id": "upcoming-row-441",
       "date": "20261226",
       "band": "band_drsiw0_67",
       "time": "18:45-19:05",
@@ -13736,7 +13716,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-448",
+      "id": "upcoming-row-442",
       "date": "20261226",
       "band": "band_drsiw0_68",
       "time": "19:20-19:50",
@@ -13756,7 +13736,7 @@
       "note": "［售票］\n結束時間未定\n|售票頁面:https://ticketplus.com.tw/activity/73ed24f36dd62ca2b67a8b266c23df7f\n|登記抽選:https://ticketplus.com.tw/activity/b198888767747ce4f4fa722f8c183e11\n演出時間:12月26日(六)及12月27日(日)。每日開場時間為 15:00,開演時間為 18:00。備註:請留意各階段的優先購票和一般販售日期\n來源：https://www.instagram.com/p/DehIbRDjyyk/"
     },
     {
-      "id": "upcoming-row-449",
+      "id": "upcoming-row-443",
       "date": "20261227",
       "band": "band_qqiyec_21",
       "time": "16:45-17:15",
@@ -13766,7 +13746,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-450",
+      "id": "upcoming-row-444",
       "date": "20261227",
       "band": "silkywarms",
       "time": "17:30-18:00",
@@ -13776,7 +13756,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-451",
+      "id": "upcoming-row-445",
       "date": "20261227",
       "band": "band_drsiw0_59",
       "time": "18:15-18:45",
@@ -13786,7 +13766,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-452",
+      "id": "upcoming-row-446",
       "date": "20261227",
       "band": "band_bqaniu",
       "time": "19:00-19:30",
@@ -13796,7 +13776,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-453",
+      "id": "upcoming-row-447",
       "date": "20261227",
       "band": "band_drsiw0_66",
       "time": "19:45-20:15",
@@ -13806,7 +13786,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-454",
+      "id": "upcoming-row-448",
       "date": "20261227",
       "band": "band_drsiw0_65",
       "time": "20:30-21:00",
@@ -13816,7 +13796,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-456",
+      "id": "upcoming-row-450",
       "date": "20261227",
       "band": "kiattng",
       "time": "21:15-21:45",
@@ -14071,6 +14051,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "a70f0b9d-4e59-41de-8366-85493913bad6",
-  "updatedAt": "2026-10-22T07:12:05.885Z"
+  "revision": "6ff4facd-5f65-439a-ade4-673f40c9dd00",
+  "updatedAt": "2026-10-22T07:18:32.146Z"
 }
