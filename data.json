@@ -978,14 +978,6 @@
       "eventCount": 2
     },
     {
-      "id": "sk8firex",
-      "name": "SK8 FIRE X 精神時光屋滑板道場",
-      "short": "SK8 FIRE X 精神時光屋滑板道場",
-      "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "band_6u8lrj_40",
       "name": "樂天女孩",
       "short": "樂天女孩",
@@ -3710,7 +3702,7 @@
       "name": "臺澎金馬使用說明書-法白",
       "short": "臺澎金馬使用說明書-法白",
       "color": "#ff006e",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -3726,7 +3718,7 @@
       "name": "MOMO 家族歡樂會 (泡芙姐姐 & 柚子哥哥)",
       "short": "MOMO 家族歡樂會 (泡芙姐姐 & 柚子哥哥)",
       "color": "#3a86ff",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -3742,7 +3734,7 @@
       "name": "異鄉人的憤怒鼓教室",
       "short": "異鄉人的憤怒鼓教室",
       "color": "#ef476f",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -3766,7 +3758,7 @@
       "name": "經期似超人 小紅帽 X 宅女小紅",
       "short": "經期似超人 小紅帽 X 宅女小紅",
       "color": "#118ab2",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -11390,7 +11382,7 @@
       "note": "［免費］\n時段:18:00-21:30;卡司包含王識賢、Bii畢書盡、陳勢安、徐暐翔、HOT SHOCK腳踏車。"
     },
     {
-      "id": "upcoming-row-534",
+      "id": "upcoming-row-533",
       "date": "20261031",
       "band": "yoyo",
       "time": "未公布",
@@ -12952,16 +12944,6 @@
     {
       "id": "upcoming-row-496",
       "date": "20261114",
-      "band": "sk8firex",
-      "time": "15:50-16:00",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
-    },
-    {
-      "id": "upcoming-row-497",
-      "date": "20261114",
       "band": "band_xebf3p_1",
       "time": "15:55-16:25",
       "name": "桃園 FIREBALL Fest. 火球祭",
@@ -12970,7 +12952,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-498",
+      "id": "upcoming-row-497",
       "date": "20261114",
       "band": "band_6u8lrj_39",
       "time": "16:00-16:40",
@@ -12980,7 +12962,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-499",
+      "id": "upcoming-row-498",
       "date": "20261114",
       "band": "band_drsiw0_50",
       "time": "16:30-17:00",
@@ -12990,7 +12972,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-500",
+      "id": "upcoming-row-499",
       "date": "20261114",
       "band": "band_6gp8um_45",
       "time": "16:55-17:35",
@@ -13000,7 +12982,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-501",
+      "id": "upcoming-row-500",
       "date": "20261114",
       "band": "band_8e1n2f",
       "time": "17:05-17:35",
@@ -13010,7 +12992,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-502",
+      "id": "upcoming-row-501",
       "date": "20261114",
       "band": "pia",
       "time": "17:40-18:10",
@@ -13020,7 +13002,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-503",
+      "id": "upcoming-row-502",
       "date": "20261114",
       "band": "northern19jp",
       "time": "17:50-18:30",
@@ -13030,7 +13012,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-504",
+      "id": "upcoming-row-503",
       "date": "20261114",
       "band": "band_uxbuk0",
       "time": "18:15-18:45",
@@ -13040,7 +13022,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-505",
+      "id": "upcoming-row-504",
       "date": "20261114",
       "band": "ureukandtheg",
       "time": "18:50-19:20",
@@ -13050,7 +13032,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-506",
+      "id": "upcoming-row-505",
       "date": "20261114",
       "band": "band_6u8lrj_40",
       "time": "19:35-19:45",
@@ -13060,7 +13042,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-507",
+      "id": "upcoming-row-506",
       "date": "20261114",
       "band": "sambomasterj",
       "time": "19:45-20:25",
@@ -13070,7 +13052,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-508",
+      "id": "upcoming-row-507",
       "date": "20261114",
       "band": "random",
       "time": "20:00-20:30",
@@ -13080,7 +13062,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-509",
+      "id": "upcoming-row-508",
       "date": "20261114",
       "band": "fever333us",
       "time": "20:40-21:40",
@@ -13140,7 +13122,7 @@
       "note": "［免費］\n活動日期為 2026/11/14 至 2026/11/15。11/14 卡司包含東部壞男孩、芒果醬、甜約翰;11/15 卡司包含火星混蛋、Control T、怕胖團。\n❑台北市八德資訊商圈❑\n活動日期包含:11/14、11/21、12/06;期間為 12/11-12/13 (周二至週四),其中 12/12 為售票日。\n活動日期為 2026/11/14 (週五) 與 2026/11/15 (週六),演出時間未公布。"
     },
     {
-      "id": "upcoming-row-510",
+      "id": "upcoming-row-509",
       "date": "20261115",
       "band": "band_6u8lrj_23",
       "time": "11:15-11:55",
@@ -13150,7 +13132,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-511",
+      "id": "upcoming-row-510",
       "date": "20261115",
       "band": "emptyoriofty",
       "time": "12:10-12:50",
@@ -13160,7 +13142,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-512",
+      "id": "upcoming-row-511",
       "date": "20261115",
       "band": "cholly",
       "time": "13:00-13:30",
@@ -13170,7 +13152,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-513",
+      "id": "upcoming-row-512",
       "date": "20261115",
       "band": "hsienching",
       "time": "13:05-13:45",
@@ -13180,7 +13162,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-514",
+      "id": "upcoming-row-513",
       "date": "20261115",
       "band": "joetranetimb",
       "time": "13:35-14:05",
@@ -13190,7 +13172,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-515",
+      "id": "upcoming-row-514",
       "date": "20261115",
       "band": "trash",
       "time": "14:05-14:45",
@@ -13200,7 +13182,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-516",
+      "id": "upcoming-row-515",
       "date": "20261115",
       "band": "band_drsiw0_107",
       "time": "14:10-14:40",
@@ -13210,7 +13192,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-517",
+      "id": "upcoming-row-516",
       "date": "20261115",
       "band": "kazookingdom",
       "time": "14:45-15:15",
@@ -13220,7 +13202,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-518",
+      "id": "upcoming-row-517",
       "date": "20261115",
       "band": "crystallakej",
       "time": "15:00-15:40",
@@ -13230,7 +13212,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-519",
+      "id": "upcoming-row-518",
       "date": "20261115",
       "band": "debloop",
       "time": "15:20-15:50",
@@ -13240,7 +13222,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-520",
+      "id": "upcoming-row-519",
       "date": "20261115",
       "band": "sk8firex",
       "time": "15:50-16:00",
@@ -13250,7 +13232,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-521",
+      "id": "upcoming-row-520",
       "date": "20261115",
       "band": "band_1gsu1h",
       "time": "15:55-16:25",
@@ -13260,7 +13242,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-522",
+      "id": "upcoming-row-521",
       "date": "20261115",
       "band": "band_drsiw0_55",
       "time": "16:00-16:40",
@@ -13270,7 +13252,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-523",
+      "id": "upcoming-row-522",
       "date": "20261115",
       "band": "dsps",
       "time": "16:30-17:00",
@@ -13280,7 +13262,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-524",
+      "id": "upcoming-row-523",
       "date": "20261115",
       "band": "egowrappinjp",
       "time": "16:55-17:35",
@@ -13290,7 +13272,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-525",
+      "id": "upcoming-row-524",
       "date": "20261115",
       "band": "time",
       "time": "17:05-17:35",
@@ -13300,7 +13282,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-526",
+      "id": "upcoming-row-525",
       "date": "20261115",
       "band": "band_6u8lrj_15",
       "time": "17:40-18:10",
@@ -13310,7 +13292,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-527",
+      "id": "upcoming-row-526",
       "date": "20261115",
       "band": "hanajp",
       "time": "17:50-18:30",
@@ -13320,7 +13302,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-528",
+      "id": "upcoming-row-527",
       "date": "20261115",
       "band": "talkshow",
       "time": "18:15-18:45",
@@ -13330,7 +13312,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-529",
+      "id": "upcoming-row-528",
       "date": "20261115",
       "band": "band_6gp8um_46",
       "time": "18:50-19:20",
@@ -13340,7 +13322,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-530",
+      "id": "upcoming-row-529",
       "date": "20261115",
       "band": "band_6u8lrj_40",
       "time": "19:35-19:45",
@@ -13350,7 +13332,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-531",
+      "id": "upcoming-row-530",
       "date": "20261115",
       "band": "dragonashjp",
       "time": "19:45-20:35",
@@ -13360,7 +13342,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-532",
+      "id": "upcoming-row-531",
       "date": "20261115",
       "band": "band_drsiw0_59",
       "time": "20:00-20:30",
@@ -13370,7 +13352,7 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-533",
+      "id": "upcoming-row-532",
       "date": "20261115",
       "band": "FireEX",
       "time": "20:45-21:45",
@@ -14826,5 +14808,5 @@
   },
   "schemaVersion": 2,
   "revision": "33e1896c-2db8-440d-973b-f0e81ee9dc3e",
-  "updatedAt": "2026-10-22T10:10:33.692Z"
+  "updatedAt": "2026-10-22T10:12:42.008Z"
 }
