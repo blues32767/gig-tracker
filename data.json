@@ -3894,13 +3894,13 @@
       "name": "小錦 饒高愛",
       "short": "小錦",
       "color": "#8338ec",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
       "id": "band_drsiw0_140",
       "name": "于台煙",
-      "short": "于台",
+      "short": "于台煙",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -3908,9 +3908,9 @@
     {
       "id": "rakutengirls",
       "name": "Rakuten Girls",
-      "short": "Ra",
+      "short": "樂天女孩",
       "color": "#ff006e",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -14844,5 +14844,5 @@
   },
   "schemaVersion": 2,
   "revision": "70cf4bed-a1f2-46de-9aa1-1ab266e98900",
-  "updatedAt": "2026-10-22T17:33:30.510Z"
+  "updatedAt": "2026-10-22T17:36:45.999Z"
 }
