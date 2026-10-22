@@ -15226,7 +15226,7 @@
       "date": "20261205",
       "band": "AmazingShow",
       "time": "未公布",
-      "name": "高雄 美秀集團12月台灣巡迴(高雄一)",
+      "name": "高雄 美秀集團12月台灣巡迴(高雄一場)",
       "location": "高雄 LIVE WAREHOUSE",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%20LIVE%20WAREHOUSE",
       "note": "［售票］\n美秀集團2026年12月巡迴專場\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
@@ -15246,7 +15246,7 @@
       "date": "20261206",
       "band": "AmazingShow",
       "time": "未公布",
-      "name": "高雄 美秀集團12月台灣巡迴(高雄一)",
+      "name": "高雄 美秀集團12月台灣巡迴(高雄一場)",
       "location": "高雄 LIVE WAREHOUSE",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%20LIVE%20WAREHOUSE",
       "note": "［售票］\n美秀集團2026年12月巡迴專場\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
@@ -15726,7 +15726,7 @@
       "date": "20261212",
       "band": "AmazingShow",
       "time": "未公布",
-      "name": "台中 美秀集團12月台灣巡迴(台中一)",
+      "name": "台中 美秀集團12月台灣巡迴(台中一場)",
       "location": "台中 Legacy Taichung",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Legacy%20Taichung",
       "note": "［售票］\n美秀集團2026年12月巡迴專場\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
@@ -15796,7 +15796,7 @@
       "date": "20261213",
       "band": "AmazingShow",
       "time": "未公布",
-      "name": "台中 美秀集團12月台灣巡迴(台中一)",
+      "name": "台中 美秀集團12月台灣巡迴(台中一場)",
       "location": "台中 Legacy Taichung",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Legacy%20Taichung",
       "note": "［售票］\n美秀集團2026年12月巡迴專場\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
@@ -15816,7 +15816,7 @@
       "date": "20261219",
       "band": "AmazingShow",
       "time": "未公布",
-      "name": "台北 美秀集團12月台灣巡迴(台北一)",
+      "name": "台北 美秀集團12月台灣巡迴(台北一場)",
       "location": "台北 Legacy TERA",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%20Legacy%20TERA",
       "note": "［售票］\n美秀集團2026年12月巡迴專場\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
@@ -15826,7 +15826,7 @@
       "date": "20261220",
       "band": "AmazingShow",
       "time": "未公布",
-      "name": "台北 美秀集團12月台灣巡迴(台北一)",
+      "name": "台北 美秀集團12月台灣巡迴(台北一場)",
       "location": "台北 Legacy TERA",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%20Legacy%20TERA",
       "note": "［售票］\n美秀集團2026年12月巡迴專場\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
@@ -16227,6 +16227,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ea853c84-3f54-48c0-9622-7f97200a98cf",
-  "updatedAt": "2026-10-22T19:18:00.355Z"
+  "revision": "20a5a805-0caa-45c8-bd75-e24ea32f4a7d",
+  "updatedAt": "2026-10-22T19:21:57.334Z"
 }
