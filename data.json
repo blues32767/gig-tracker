@@ -146,6 +146,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_drsiw0_87",
+      "name": "魏嘉瑩",
+      "short": "魏嘉瑩",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "WhoCares",
       "name": "胡凱兒",
       "short": "胡凱兒",
@@ -202,6 +210,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_83",
+      "name": "宋德鶴",
+      "short": "宋德鶴",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "fei",
       "name": "吳霏 FEI",
       "short": "吳霏 FEI",
@@ -214,14 +230,6 @@
       "name": "蕭景鴻",
       "short": "蕭景鴻",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_87",
-      "name": "魏嘉瑩",
-      "short": "魏嘉瑩",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 4
     },
@@ -422,14 +430,6 @@
       "name": "PALLAS",
       "short": "PALLAS",
       "color": "#8338ec",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_83",
-      "name": "宋德鶴",
-      "short": "宋德鶴",
-      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 3
     },
@@ -9633,7 +9633,7 @@
       "band": "band_maaxir_7",
       "time": "未公布",
       "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
     },
@@ -9643,7 +9643,7 @@
       "band": "band_qqiyec_20",
       "time": "未公布",
       "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
     },
@@ -9653,7 +9653,7 @@
       "band": "band_32tclr_2",
       "time": "未公布",
       "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
     },
@@ -9663,7 +9663,7 @@
       "band": "band_maaxir_8",
       "time": "未公布",
       "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
     },
@@ -9673,7 +9673,7 @@
       "band": "bozone",
       "time": "未公布",
       "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
     },
@@ -9683,7 +9683,7 @@
       "band": "young",
       "time": "未公布",
       "name": "高雄 2026 聲浪祭草地音樂會",
-      "location": "高雄市輔英科技大學幼保大樓前草皮",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
     },
@@ -9696,6 +9696,26 @@
       "location": "雲林西螺福興宮前",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n活動因故延期,新日期尚未確定。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
+    },
+    {
+      "id": "upcoming-row-488",
+      "date": "20261024",
+      "band": "band_drsiw0_83",
+      "time": "未公布",
+      "name": "高雄 2026 聲浪祭草地音樂會",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
+    },
+    {
+      "id": "upcoming-row-489",
+      "date": "20261024",
+      "band": "band_drsiw0_87",
+      "time": "未公布",
+      "name": "高雄 2026 聲浪祭草地音樂會",
+      "location": "高雄市大寮區輔英科技大學幼保大樓前草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E8%BC%94%E8%8B%B1%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%B9%BC%E4%BF%9D%E5%A4%A7%E6%A8%93%E5%89%8D%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
     },
     {
       "id": "upcoming-row-3",
@@ -14033,6 +14053,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "bfa4c9f4-f21a-4756-a2cc-a37f16be5c62",
-  "updatedAt": "2026-10-22T04:01:25.698Z"
+  "revision": "6d780a8f-910e-4525-9d34-4bb6df195fee",
+  "updatedAt": "2026-10-22T04:02:36.642Z"
 }
