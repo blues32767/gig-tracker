@@ -12,7 +12,7 @@
     {
       "id": "gongguan",
       "name": "公館青少年",
-      "short": "館青",
+      "short": "公館青少年",
       "color": "#2a9d8f",
       "category": "樂團",
       "eventCount": 14
@@ -20,7 +20,7 @@
     {
       "id": "papunband",
       "name": "怕胖團",
-      "short": "怕胖",
+      "short": "怕胖團",
       "color": "#1d3557",
       "category": "樂團",
       "eventCount": 12
@@ -28,7 +28,7 @@
     {
       "id": "AmazingShow",
       "name": "美秀集團",
-      "short": "美秀",
+      "short": "美秀集團",
       "color": "#e63946",
       "category": "樂團",
       "eventCount": 9
@@ -60,7 +60,7 @@
     {
       "id": "icyball",
       "name": "冰球樂團",
-      "short": "冰球",
+      "short": "冰球樂團",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 6
@@ -3926,7 +3926,7 @@
       "name": "婕安納音樂學院",
       "short": "婕安納音樂學院",
       "color": "#3a86ff",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -3934,7 +3934,7 @@
       "name": "霧峰國小打擊樂",
       "short": "霧峰國小打擊樂",
       "color": "#00b4d8",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -3950,7 +3950,7 @@
       "name": "霧峰國中管樂團",
       "short": "霧峰國中管樂團",
       "color": "#ef476f",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -4004,7 +4004,7 @@
     {
       "id": "ftkimsawol",
       "name": "淺堤 ft. Kim Sawol",
-      "short": "淺堤",
+      "short": "淺堤 ft. Kim Sawol",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -4012,7 +4012,7 @@
     {
       "id": "bzai",
       "name": "B&ZAI",
-      "short": "B&",
+      "short": "B&ZAI",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -4020,7 +4020,7 @@
     {
       "id": "vuize",
       "name": "Vuize王鍾惟",
-      "short": "Vu",
+      "short": "Vuize王鍾惟",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -4028,7 +4028,7 @@
     {
       "id": "kocchinokent",
       "name": "こっちのけんと Kocchi no Kento",
-      "short": "こっ",
+      "short": "こっちのけんと Kocchi no Kento",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -4036,7 +4036,7 @@
     {
       "id": "band_t1v3hu",
       "name": "音樂祭上台南不難 小尾巴 ft. 怡岑",
-      "short": "音樂",
+      "short": "音樂祭上台南不難 小尾巴 ft. 怡岑",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -4044,7 +4044,7 @@
     {
       "id": "beenstellar",
       "name": "Been Stellar",
-      "short": "Be",
+      "short": "Been Stellar",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -4052,7 +4052,7 @@
     {
       "id": "lauradayroma",
       "name": "Laura day romance",
-      "short": "La",
+      "short": "Laura day romance",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -4060,7 +4060,7 @@
     {
       "id": "band_drsiw0_143",
       "name": "禁藥王",
-      "short": "禁藥",
+      "short": "禁藥王",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -4068,7 +4068,7 @@
     {
       "id": "band_joqn9u",
       "name": "反骨與亞服:瘋克妖女靈性昇華瑜伽 高小糕",
-      "short": "反骨",
+      "short": "反骨與亞服:瘋克妖女靈性昇華瑜伽 高小糕",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -4084,7 +4084,7 @@
     {
       "id": "ribingu",
       "name": "RIBINGU",
-      "short": "RI",
+      "short": "RIBINGU",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -4092,7 +4092,7 @@
     {
       "id": "freckles",
       "name": "雀斑 Freckles",
-      "short": "雀斑",
+      "short": "雀斑 Freckles",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -4100,7 +4100,7 @@
     {
       "id": "bandnah",
       "name": "Band Nah",
-      "short": "Ba",
+      "short": "Band Nah",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -4108,7 +4108,7 @@
     {
       "id": "andymaker",
       "name": "Andy Maker",
-      "short": "An",
+      "short": "Andy Maker",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -4116,7 +4116,7 @@
     {
       "id": "djdrugthebea",
       "name": "DJ Drug The Beat",
-      "short": "DJ",
+      "short": "DJ Drug The Beat",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -4124,7 +4124,7 @@
     {
       "id": "sunnydayserv",
       "name": "Sunny Day Service",
-      "short": "Su",
+      "short": "Sunny Day Service",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -4132,7 +4132,7 @@
     {
       "id": "rigxcommonpe",
       "name": "倒車入庫 R.I.G X COMMON PEOPLE LIKE YOU",
-      "short": "倒車",
+      "short": "倒車入庫 R.I.G X COMMON PEOPLE LIKE YOU",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -4140,7 +4140,7 @@
     {
       "id": "anjuwu",
       "name": "安豬 ANJUWU",
-      "short": "安豬",
+      "short": "安豬 ANJUWU",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -4156,7 +4156,7 @@
     {
       "id": "band_6u8lrj_41",
       "name": "君島大空",
-      "short": "君島",
+      "short": "君島大空",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -4164,7 +4164,7 @@
     {
       "id": "srirajahrock",
       "name": "Srirajah Rockers ft. Leo王",
-      "short": "Sr",
+      "short": "Srirajah Rockers ft. Leo王",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -4172,7 +4172,7 @@
     {
       "id": "sadogxonecli",
       "name": "SADOG X ONE CLICK STRAIGHT",
-      "short": "SA",
+      "short": "SADOG X ONE CLICK STRAIGHT",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -4180,7 +4180,7 @@
     {
       "id": "nell",
       "name": "NELL",
-      "short": "NE",
+      "short": "NELL",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -4188,7 +4188,7 @@
     {
       "id": "ano",
       "name": "ano",
-      "short": "an",
+      "short": "ano",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -4196,7 +4196,7 @@
     {
       "id": "owave",
       "name": "OWAVE",
-      "short": "OW",
+      "short": "OWAVE",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -4204,7 +4204,7 @@
     {
       "id": "ftsomeshiit",
       "name": "大象體操 ft. someshiit 山姆",
-      "short": "大象",
+      "short": "大象體操 ft. someshiit 山姆",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -4212,7 +4212,7 @@
     {
       "id": "band_6u8lrj_42",
       "name": "永井琳子",
-      "short": "永井",
+      "short": "永井琳子",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -4220,7 +4220,7 @@
     {
       "id": "ana",
       "name": "ana",
-      "short": "an",
+      "short": "ana",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -4228,7 +4228,7 @@
     {
       "id": "band_6u8lrj_43",
       "name": "傷心欲絕",
-      "short": "傷心",
+      "short": "傷心欲絕",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -4236,7 +4236,7 @@
     {
       "id": "band_drsiw0_144",
       "name": "袁語笙",
-      "short": "袁語",
+      "short": "袁語笙",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -4244,7 +4244,7 @@
     {
       "id": "nanaeddiexar",
       "name": "永續議題計畫:童話作的國際音樂會 賣給啤酒樂隊人的 Nana&Eddie X A_Root同根生 智博&小楊",
-      "short": "永續",
+      "short": "永續議題計畫:童話作的國際音樂會 賣給啤酒樂隊人的 Nana&Eddie X A_Root同根生 智博&小楊",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -4252,7 +4252,7 @@
     {
       "id": "honi",
       "name": "好日HoNi",
-      "short": "好日",
+      "short": "好日HoNi",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -4260,7 +4260,7 @@
     {
       "id": "gordon",
       "name": "國蛋 GorDoN",
-      "short": "國蛋",
+      "short": "國蛋 GorDoN",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -4268,7 +4268,7 @@
     {
       "id": "999999",
       "name": "ผาออม999999",
-      "short": "ผา",
+      "short": "ผาออม999999",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -4276,7 +4276,7 @@
     {
       "id": "action",
       "name": "Action!社壯老人帶你上健身房! 壯壯 (陳彥壯)",
-      "short": "Ac",
+      "short": "Action!社壯老人帶你上健身房! 壯壯 (陳彥壯)",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -4284,7 +4284,7 @@
     {
       "id": "band_32tclr_5",
       "name": "我是機車少女",
-      "short": "我是",
+      "short": "我是機車少女",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -4292,7 +4292,7 @@
     {
       "id": "iganana",
       "name": "Iga Nana",
-      "short": "Ig",
+      "short": "Iga Nana",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -4308,7 +4308,7 @@
     {
       "id": "arootxft",
       "name": "A_Root同根生 X 三姓獻藝 ft. 柔米",
-      "short": "A_",
+      "short": "A_Root同根生 X 三姓獻藝 ft. 柔米",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -4316,7 +4316,7 @@
     {
       "id": "band_drsiw0_145",
       "name": "孫淑媚",
-      "short": "孫淑",
+      "short": "孫淑媚",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -4324,7 +4324,7 @@
     {
       "id": "ogreyouassho",
       "name": "OGRE YOU ASSHOLE",
-      "short": "OG",
+      "short": "OGRE YOU ASSHOLE",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -4332,7 +4332,7 @@
     {
       "id": "yamonsocialc_1",
       "name": "YaMon Social Club 壓湧俱樂部",
-      "short": "Ya",
+      "short": "YaMon Social Club 壓湧俱樂部",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -4340,7 +4340,7 @@
     {
       "id": "robotswingtr",
       "name": "Robot Swing (% trio) X JABBERLOOP",
-      "short": "Ro",
+      "short": "Robot Swing (% trio) X JABBERLOOP",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -4348,7 +4348,7 @@
     {
       "id": "ynbi",
       "name": "YΣNBøi",
-      "short": "YΣ",
+      "short": "YΣNBøi",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -4356,7 +4356,7 @@
     {
       "id": "coldrain",
       "name": "coldrain",
-      "short": "co",
+      "short": "coldrain",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -4364,7 +4364,7 @@
     {
       "id": "band_drsiw0_146",
       "name": "貓膽汁",
-      "short": "貓膽",
+      "short": "貓膽汁",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -4372,7 +4372,7 @@
     {
       "id": "milena",
       "name": "Milena",
-      "short": "Mi",
+      "short": "Milena",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -4380,7 +4380,7 @@
     {
       "id": "azikazinmagi",
       "name": "Azikazin Magic World",
-      "short": "Az",
+      "short": "Azikazin Magic World",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -4388,7 +4388,7 @@
     {
       "id": "band_drsiw0_147",
       "name": "官靖剛",
-      "short": "官靖",
+      "short": "官靖剛",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -4396,7 +4396,7 @@
     {
       "id": "band_6u8lrj_44",
       "name": "落日飛車",
-      "short": "落日",
+      "short": "落日飛車",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -4404,7 +4404,7 @@
     {
       "id": "infernalchao",
       "name": "INFERNAL CHAOS",
-      "short": "IN",
+      "short": "INFERNAL CHAOS",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -4412,7 +4412,7 @@
     {
       "id": "vooidxzazenb",
       "name": "VOOID X ZAZEN BOYS",
-      "short": "VO",
+      "short": "VOOID X ZAZEN BOYS",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -11626,7 +11626,7 @@
       "date": "20261031",
       "band": "band_drsiw0_125",
       "time": "未公布",
-      "name": "谷關燈光節20小時2026 / 谷關燈光節溫泉晚會",
+      "name": "2026 谷關燈光節溫泉晚會",
       "location": "臺中谷關公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E8%B0%B7%E9%97%9C%E5%85%AC%E5%9C%92",
       "note": "［免費］\n卡司:阿布絲、CJ MiT、卡尼特、泰雅原舞工坊。活動日期為 2026 年 10 月 31 日。"
@@ -11636,7 +11636,7 @@
       "date": "20261031",
       "band": "cjmit",
       "time": "未公布",
-      "name": "谷關燈光節20小時2026 / 谷關燈光節溫泉晚會",
+      "name": "2026 谷關燈光節溫泉晚會",
       "location": "臺中谷關公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E8%B0%B7%E9%97%9C%E5%85%AC%E5%9C%92",
       "note": "［免費］\n卡司:阿布絲、CJ MiT、卡尼特、泰雅原舞工坊。活動日期為 2026 年 10 月 31 日。"
@@ -11646,7 +11646,7 @@
       "date": "20261031",
       "band": "band_drsiw0_126",
       "time": "未公布",
-      "name": "谷關燈光節20小時2026 / 谷關燈光節溫泉晚會",
+      "name": "2026 谷關燈光節溫泉晚會",
       "location": "臺中谷關公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E8%B0%B7%E9%97%9C%E5%85%AC%E5%9C%92",
       "note": "［免費］\n卡司:阿布絲、CJ MiT、卡尼特、泰雅原舞工坊。活動日期為 2026 年 10 月 31 日。"
@@ -11656,7 +11656,7 @@
       "date": "20261031",
       "band": "band_32tclr_4",
       "time": "未公布",
-      "name": "谷關燈光節20小時2026 / 谷關燈光節溫泉晚會",
+      "name": "2026 谷關燈光節溫泉晚會",
       "location": "臺中谷關公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E8%B0%B7%E9%97%9C%E5%85%AC%E5%9C%92",
       "note": "［免費］\n卡司:阿布絲、CJ MiT、卡尼特、泰雅原舞工坊。活動日期為 2026 年 10 月 31 日。"
@@ -16158,5 +16158,5 @@
   },
   "schemaVersion": 2,
   "revision": "31d371ab-02cc-450d-8a4d-490faa0c6af9",
-  "updatedAt": "2026-10-22T17:53:04.947Z"
+  "updatedAt": "2026-10-22T17:56:35.185Z"
 }
