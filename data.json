@@ -66,6 +66,22 @@
       "eventCount": 6
     },
     {
+      "id": "captainlu",
+      "name": "盧廣仲",
+      "short": "盧廣仲",
+      "color": "#36cc00",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
+      "id": "LuYun",
+      "name": "呂允",
+      "short": "呂允",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "SweetJohn",
       "name": "甜約翰",
       "short": "甜約翰",
@@ -122,22 +138,6 @@
       "eventCount": 6
     },
     {
-      "id": "captainlu",
-      "name": "盧廣仲",
-      "short": "盧廣仲",
-      "color": "#36cc00",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "LuYun",
-      "name": "呂允",
-      "short": "呂允",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
       "id": "163braces",
       "name": "163braces",
       "short": "163braces",
@@ -151,6 +151,14 @@
       "short": "粗大Band",
       "color": "#ef476f",
       "category": "樂團",
+      "eventCount": 5
+    },
+    {
+      "id": "cholly",
+      "name": "C.HOLLY",
+      "short": "C.HOLLY",
+      "color": "#3a86ff",
+      "category": "個人",
       "eventCount": 5
     },
     {
@@ -202,19 +210,19 @@
       "eventCount": 4
     },
     {
+      "id": "EasyWeeds",
+      "name": "溫室雜草",
+      "short": "溫室雜草",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "fenix",
       "name": "FEniX",
       "short": "FEniX",
       "color": "#8338ec",
       "category": "團體",
-      "eventCount": 4
-    },
-    {
-      "id": "cholly",
-      "name": "C.HOLLY",
-      "short": "C.HOLLY",
-      "color": "#3a86ff",
-      "category": "個人",
       "eventCount": 4
     },
     {
@@ -238,6 +246,14 @@
       "name": "固定客",
       "short": "固定客",
       "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "band_drsiw0_61",
+      "name": "白頻率",
+      "short": "白頻率",
+      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 4
     },
@@ -274,10 +290,10 @@
       "eventCount": 3
     },
     {
-      "id": "EasyWeeds",
-      "name": "溫室雜草",
-      "short": "溫室雜草",
-      "color": "#8338ec",
+      "id": "WendyWander",
+      "name": "溫蒂漫步",
+      "short": "溫蒂漫步",
+      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 3
     },
@@ -319,6 +335,14 @@
       "short": "梁河懸",
       "color": "#2ec4b6",
       "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_qqiyec",
+      "name": "無妄合作社",
+      "short": "無妄合作社",
+      "color": "#ef476f",
+      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -378,6 +402,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_qqiyec_8",
+      "name": "血肉果汁機",
+      "short": "血肉果汁機",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "riki",
       "name": "RIKI",
       "short": "RIKI",
@@ -386,10 +418,10 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_61",
-      "name": "白頻率",
-      "short": "白頻率",
-      "color": "#2ec4b6",
+      "id": "band_6u8lrj_14",
+      "name": "拍謝少年",
+      "short": "拍謝",
+      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 3
     },
@@ -410,6 +442,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_6gp8um_19",
+      "name": "薄暮",
+      "short": "薄暮",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_6u8lrj_15",
       "name": "擊沈女孩",
       "short": "擊沈",
@@ -423,6 +463,22 @@
       "short": "沈默紳士",
       "color": "#00b4d8",
       "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "Bestards",
+      "name": "理想混蛋",
+      "short": "理想混蛋",
+      "color": "#FF7F00",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "band_6u8lrj_20",
+      "name": "椅子樂團",
+      "short": "椅子樂團",
+      "color": "#06d6a0",
+      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -466,6 +522,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_6u8lrj_23",
+      "name": "普通隊長",
+      "short": "普通隊長",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_29",
       "name": "小魏",
       "short": "小魏",
@@ -474,10 +538,26 @@
       "eventCount": 3
     },
     {
+      "id": "band_6gp8um_35",
+      "name": "上山",
+      "short": "上山",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "djswallow",
       "name": "DJ Swallow妖嬌",
       "short": "DJ Swallow妖嬌",
       "color": "#ef476f",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "multiversemu",
+      "name": "Multiverse Music",
+      "short": "Multiverse Music",
+      "color": "#8338ec",
       "category": "團體",
       "eventCount": 3
     },
@@ -495,14 +575,6 @@
       "short": "Bu$y",
       "color": "#3a86ff",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "WendyWander",
-      "name": "溫蒂漫步",
-      "short": "溫蒂漫步",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -538,14 +610,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_qqiyec",
-      "name": "無妄合作社",
-      "short": "無妄合作社",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "band_6gp8um_7",
       "name": "寶賤",
       "short": "寶賤",
@@ -575,6 +639,14 @@
       "short": "孝琳",
       "color": "#fb5607",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_5",
+      "name": "庸俗救星",
+      "short": "庸俗",
+      "color": "#118ab2",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -634,18 +706,18 @@
       "eventCount": 2
     },
     {
-      "id": "band_qqiyec_8",
-      "name": "血肉果汁機",
-      "short": "血肉果汁機",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "band_6u8lrj_13",
       "name": "異族亡魂",
       "short": "異族亡魂",
       "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_18",
+      "name": "癢癢",
+      "short": "癢癢",
+      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 2
     },
@@ -678,22 +750,6 @@
       "name": "來者何人 Whoou!",
       "short": "來者何人 Whoou!",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6u8lrj_14",
-      "name": "拍謝少年",
-      "short": "拍謝",
-      "color": "#ff006e",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6gp8um_19",
-      "name": "薄暮",
-      "short": "薄暮",
-      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 2
     },
@@ -738,14 +794,6 @@
       "eventCount": 2
     },
     {
-      "id": "Bestards",
-      "name": "理想混蛋",
-      "short": "理想混蛋",
-      "color": "#FF7F00",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_71",
       "name": "曾愷妤",
       "short": "曾愷妤",
@@ -775,14 +823,6 @@
       "short": "即將成真火舞團",
       "color": "#fb5607",
       "category": "團體",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6u8lrj_20",
-      "name": "椅子樂團",
-      "short": "椅子樂團",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -846,14 +886,6 @@
       "name": "紙鳶",
       "short": "紙鳶",
       "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6u8lrj_23",
-      "name": "普通隊長",
-      "short": "普通隊長",
-      "color": "#ef476f",
       "category": "樂團",
       "eventCount": 2
     },
@@ -922,14 +954,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_6gp8um_35",
-      "name": "上山",
-      "short": "上山",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_112",
       "name": "陳忻玥",
       "short": "陳忻玥",
@@ -962,14 +986,6 @@
       "eventCount": 2
     },
     {
-      "id": "multiversemu",
-      "name": "Multiverse Music",
-      "short": "Multiverse Music",
-      "color": "#8338ec",
-      "category": "團體",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_126",
       "name": "卡尼特",
       "short": "卡尼特",
@@ -986,11 +1002,27 @@
       "eventCount": 2
     },
     {
+      "id": "shallowlevef",
+      "name": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
+      "short": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "band_6u8lrj_40",
       "name": "樂天女孩",
       "short": "樂天女孩",
       "color": "#3a86ff",
       "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "dsps",
+      "name": "DSPS",
+      "short": "DSPS",
+      "color": "#00b4d8",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -1546,14 +1578,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_5",
-      "name": "庸俗救星",
-      "short": "庸俗",
-      "color": "#118ab2",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_6gp8um_16",
       "name": "鄒序",
       "short": "鄒序",
@@ -1727,14 +1751,6 @@
       "short": "阿跨面",
       "color": "#00b4d8",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_18",
-      "name": "癢癢",
-      "short": "癢癢",
-      "color": "#118ab2",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -3650,14 +3666,6 @@
       "eventCount": 1
     },
     {
-      "id": "shallowlevef",
-      "name": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
-      "short": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
-      "color": "#118ab2",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "butterriot",
       "name": "BUTTER RIOT",
       "short": "BUTTER RIOT",
@@ -3834,14 +3842,6 @@
       "eventCount": 1
     },
     {
-      "id": "dsps",
-      "name": "DSPS",
-      "short": "DSPS",
-      "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "egowrappinjp",
       "name": "EGO-WRAPPIN' (JP)",
       "short": "EGO-WRAPPIN' (JP)",
@@ -3999,6 +3999,422 @@
       "short": "i.F (艾薇+吳霏)",
       "color": "#fb5607",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ftkimsawol",
+      "name": "淺堤 ft. Kim Sawol",
+      "short": "淺堤",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "bzai",
+      "name": "B&ZAI",
+      "short": "B&",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "vuize",
+      "name": "Vuize王鍾惟",
+      "short": "Vu",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "kocchinokent",
+      "name": "こっちのけんと Kocchi no Kento",
+      "short": "こっ",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_t1v3hu",
+      "name": "音樂祭上台南不難 小尾巴 ft. 怡岑",
+      "short": "音樂",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "beenstellar",
+      "name": "Been Stellar",
+      "short": "Be",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "lauradayroma",
+      "name": "Laura day romance",
+      "short": "La",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_143",
+      "name": "禁藥王",
+      "short": "禁藥",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_joqn9u",
+      "name": "反骨與亞服:瘋克妖女靈性昇華瑜伽 高小糕",
+      "short": "反骨",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_48",
+      "name": "紫今",
+      "short": "紫今",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ribingu",
+      "name": "RIBINGU",
+      "short": "RI",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "freckles",
+      "name": "雀斑 Freckles",
+      "short": "雀斑",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "bandnah",
+      "name": "Band Nah",
+      "short": "Ba",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "andymaker",
+      "name": "Andy Maker",
+      "short": "An",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "djdrugthebea",
+      "name": "DJ Drug The Beat",
+      "short": "DJ",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "sunnydayserv",
+      "name": "Sunny Day Service",
+      "short": "Su",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "rigxcommonpe",
+      "name": "倒車入庫 R.I.G X COMMON PEOPLE LIKE YOU",
+      "short": "倒車",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "anjuwu",
+      "name": "安豬 ANJUWU",
+      "short": "安豬",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_49",
+      "name": "粉內",
+      "short": "粉內",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_41",
+      "name": "君島大空",
+      "short": "君島",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "srirajahrock",
+      "name": "Srirajah Rockers ft. Leo王",
+      "short": "Sr",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "sadogxonecli",
+      "name": "SADOG X ONE CLICK STRAIGHT",
+      "short": "SA",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "nell",
+      "name": "NELL",
+      "short": "NE",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "ano",
+      "name": "ano",
+      "short": "an",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "owave",
+      "name": "OWAVE",
+      "short": "OW",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "ftsomeshiit",
+      "name": "大象體操 ft. someshiit 山姆",
+      "short": "大象",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_42",
+      "name": "永井琳子",
+      "short": "永井",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ana",
+      "name": "ana",
+      "short": "an",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_43",
+      "name": "傷心欲絕",
+      "short": "傷心",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_144",
+      "name": "袁語笙",
+      "short": "袁語",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "nanaeddiexar",
+      "name": "永續議題計畫:童話作的國際音樂會 賣給啤酒樂隊人的 Nana&Eddie X A_Root同根生 智博&小楊",
+      "short": "永續",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "honi",
+      "name": "好日HoNi",
+      "short": "好日",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "gordon",
+      "name": "國蛋 GorDoN",
+      "short": "國蛋",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "999999",
+      "name": "ผาออม999999",
+      "short": "ผา",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "action",
+      "name": "Action!社壯老人帶你上健身房! 壯壯 (陳彥壯)",
+      "short": "Ac",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_32tclr_5",
+      "name": "我是機車少女",
+      "short": "我是",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "iganana",
+      "name": "Iga Nana",
+      "short": "Ig",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_50",
+      "name": "馬摳",
+      "short": "馬摳",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "arootxft",
+      "name": "A_Root同根生 X 三姓獻藝 ft. 柔米",
+      "short": "A_",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_145",
+      "name": "孫淑媚",
+      "short": "孫淑",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ogreyouassho",
+      "name": "OGRE YOU ASSHOLE",
+      "short": "OG",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "yamonsocialc_1",
+      "name": "YaMon Social Club 壓湧俱樂部",
+      "short": "Ya",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "robotswingtr",
+      "name": "Robot Swing (% trio) X JABBERLOOP",
+      "short": "Ro",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "ynbi",
+      "name": "YΣNBøi",
+      "short": "YΣ",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "coldrain",
+      "name": "coldrain",
+      "short": "co",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_146",
+      "name": "貓膽汁",
+      "short": "貓膽",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "milena",
+      "name": "Milena",
+      "short": "Mi",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "azikazinmagi",
+      "name": "Azikazin Magic World",
+      "short": "Az",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_147",
+      "name": "官靖剛",
+      "short": "官靖",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_44",
+      "name": "落日飛車",
+      "short": "落日",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "infernalchao",
+      "name": "INFERNAL CHAOS",
+      "short": "IN",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "vooidxzazenb",
+      "name": "VOOID X ZAZEN BOYS",
+      "short": "VO",
+      "color": "#00b4d8",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -12249,11 +12665,11 @@
       "id": "upcoming-row-287",
       "date": "20261107",
       "band": "gongguan",
-      "time": "未定",
-      "name": "台南 浪人祭",
+      "time": "17:50-18:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
       "location": "台南市安平觀夕平台旁大草皮",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
-      "note": "［售票］\n售票 日期未定"
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
     },
     {
       "id": "upcoming-row-288",
@@ -12280,7 +12696,7 @@
       "date": "20261107",
       "band": "band_drsiw0_33",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12290,7 +12706,7 @@
       "date": "20261107",
       "band": "icyball",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12300,7 +12716,7 @@
       "date": "20261107",
       "band": "band_drsiw0_34",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12310,7 +12726,7 @@
       "date": "20261107",
       "band": "band_drsiw0_32",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12320,7 +12736,7 @@
       "date": "20261107",
       "band": "band_drsiw0_35",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12330,7 +12746,7 @@
       "date": "20261107",
       "band": "band_drsiw0_36",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12340,7 +12756,7 @@
       "date": "20261107",
       "band": "jhall",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12626,14 +13042,364 @@
       "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
     },
     {
+      "id": "upcoming-row-542",
+      "date": "20261107",
+      "band": "ftkimsawol",
+      "time": "12:00-12:40",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-543",
+      "date": "20261107",
+      "band": "band_6u8lrj_5",
+      "time": "12:00-12:40",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-544",
+      "date": "20261107",
+      "band": "bzai",
+      "time": "12:50-13:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-545",
+      "date": "20261107",
+      "band": "EasyWeeds",
+      "time": "12:50-13:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-546",
+      "date": "20261107",
+      "band": "vuize",
+      "time": "12:50-13:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-547",
+      "date": "20261107",
+      "band": "kocchinokent",
+      "time": "13:40-14:20",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-548",
+      "date": "20261107",
+      "band": "band_6gp8um_19",
+      "time": "13:40-14:20",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-549",
+      "date": "20261107",
+      "band": "band_t1v3hu",
+      "time": "13:50-14:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-550",
+      "date": "20261107",
+      "band": "beenstellar",
+      "time": "14:30-15:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-551",
+      "date": "20261107",
+      "band": "lauradayroma",
+      "time": "14:30-15:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-552",
+      "date": "20261107",
+      "band": "band_drsiw0_143",
+      "time": "14:30-15:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-553",
+      "date": "20261107",
+      "band": "band_joqn9u",
+      "time": "20:10-21:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-554",
+      "date": "20261107",
+      "band": "band_6gp8um_48",
+      "time": "15:20-16:00",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-555",
+      "date": "20261107",
+      "band": "ribingu",
+      "time": "15:20-16:00",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-556",
+      "date": "20261107",
+      "band": "freckles",
+      "time": "16:10-16:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-557",
+      "date": "20261107",
+      "band": "bandnah",
+      "time": "16:10-16:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-558",
+      "date": "20261107",
+      "band": "andymaker",
+      "time": "16:10-16:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-559",
+      "date": "20261107",
+      "band": "djdrugthebea",
+      "time": "16:50-17:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-560",
+      "date": "20261107",
+      "band": "band_qqiyec_8",
+      "time": "17:00-17:40",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-561",
+      "date": "20261107",
+      "band": "band_6gp8um_35",
+      "time": "17:00-17:40",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-562",
+      "date": "20261107",
+      "band": "sunnydayserv",
+      "time": "17:50-18:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-563",
+      "date": "20261107",
+      "band": "multiversemu",
+      "time": "17:50-18:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-564",
+      "date": "20261107",
+      "band": "rigxcommonpe",
+      "time": "18:30-19:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-565",
+      "date": "20261107",
+      "band": "anjuwu",
+      "time": "18:30-19:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-566",
+      "date": "20261107",
+      "band": "Bestards",
+      "time": "18:40-19:20",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-567",
+      "date": "20261107",
+      "band": "band_6gp8um_49",
+      "time": "18:40-19:20",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-568",
+      "date": "20261107",
+      "band": "band_6u8lrj_14",
+      "time": "19:30-20:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-569",
+      "date": "20261107",
+      "band": "band_6u8lrj_41",
+      "time": "19:30-20:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-570",
+      "date": "20261107",
+      "band": "srirajahrock",
+      "time": "19:30-20:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-571",
+      "date": "20261107",
+      "band": "sadogxonecli",
+      "time": "20:10-21:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-572",
+      "date": "20261107",
+      "band": "nell",
+      "time": "20:20-21:00",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-573",
+      "date": "20261107",
+      "band": "band_6gp8um_18",
+      "time": "20:20-21:00",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-574",
+      "date": "20261107",
+      "band": "ano",
+      "time": "21:10-21:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-575",
+      "date": "20261107",
+      "band": "band_qqiyec",
+      "time": "21:10-21:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-576",
+      "date": "20261107",
+      "band": "owave",
+      "time": "21:10-21:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
       "id": "upcoming-row-320",
       "date": "20261108",
       "band": "AmazingShow",
-      "time": "未定",
-      "name": "台南 浪人祭",
+      "time": "16:10-16:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
       "location": "台南市安平觀夕平台旁大草皮",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
-      "note": "［售票］\n售票 日期未定"
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
     },
     {
       "id": "upcoming-row-321",
@@ -12650,7 +13416,7 @@
       "date": "20261108",
       "band": "band_6gp8um_8",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12660,7 +13426,7 @@
       "date": "20261108",
       "band": "band_drsiw0_37",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12670,7 +13436,7 @@
       "date": "20261108",
       "band": "band_drsiw0_38",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12680,7 +13446,7 @@
       "date": "20261108",
       "band": "unus",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12690,7 +13456,7 @@
       "date": "20261108",
       "band": "SweetJohn",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12700,7 +13466,7 @@
       "date": "20261108",
       "band": "band_qqiyec_1",
       "time": "未公布",
-      "name": "livetws狂客音樂祭2天2026 狂客音樂祭",
+      "name": "2026 狂客音樂祭",
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動時間為兩日,11/07與11/08。卡司包含:韋禮安、冰球樂團、羅文裕、李翊君、黑旋風、陳以諾、J Hall樂團(11/07);周蕙、羅時豐、吳汶芳、U:NUS、甜約翰、火焰蟲樂團(11/08)。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。"
@@ -12794,6 +13560,366 @@
       "location": "臺中立法院民主議政園區民主草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
       "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
+      "id": "upcoming-row-577",
+      "date": "20261108",
+      "band": "ftsomeshiit",
+      "time": "11:10-11:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-578",
+      "date": "20261108",
+      "band": "band_6u8lrj_42",
+      "time": "11:10-11:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-579",
+      "date": "20261108",
+      "band": "ana",
+      "time": "11:10-11:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-580",
+      "date": "20261108",
+      "band": "band_6u8lrj_43",
+      "time": "12:00-12:40",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-581",
+      "date": "20261108",
+      "band": "band_drsiw0_61",
+      "time": "12:00-12:40",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-582",
+      "date": "20261108",
+      "band": "shallowlevef",
+      "time": "12:50-13:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-583",
+      "date": "20261108",
+      "band": "band_6u8lrj_20",
+      "time": "12:50-13:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-584",
+      "date": "20261108",
+      "band": "band_drsiw0_144",
+      "time": "12:50-13:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-585",
+      "date": "20261108",
+      "band": "nanaeddiexar",
+      "time": "13:30-14:20",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-586",
+      "date": "20261108",
+      "band": "WendyWander",
+      "time": "13:40-14:20",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-587",
+      "date": "20261108",
+      "band": "honi",
+      "time": "13:40-14:20",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-588",
+      "date": "20261108",
+      "band": "gordon",
+      "time": "14:30-15:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-589",
+      "date": "20261108",
+      "band": "dsps",
+      "time": "14:30-15:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-590",
+      "date": "20261108",
+      "band": "999999",
+      "time": "14:30-15:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-591",
+      "date": "20261108",
+      "band": "action",
+      "time": "15:10-16:00",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-592",
+      "date": "20261108",
+      "band": "band_32tclr_5",
+      "time": "15:20-16:00",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-593",
+      "date": "20261108",
+      "band": "iganana",
+      "time": "15:20-16:00",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-594",
+      "date": "20261108",
+      "band": "LuYun",
+      "time": "16:10-16:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-595",
+      "date": "20261108",
+      "band": "cholly",
+      "time": "16:10-16:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-596",
+      "date": "20261108",
+      "band": "band_6gp8um_50",
+      "time": "16:50-17:50",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-597",
+      "date": "20261108",
+      "band": "arootxft",
+      "time": "17:00-17:40",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-598",
+      "date": "20261108",
+      "band": "band_6u8lrj_23",
+      "time": "17:00-17:40",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-599",
+      "date": "20261108",
+      "band": "band_drsiw0_145",
+      "time": "17:50-18:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-600",
+      "date": "20261108",
+      "band": "ogreyouassho",
+      "time": "17:50-18:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-601",
+      "date": "20261108",
+      "band": "yamonsocialc_1",
+      "time": "17:50-18:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-602",
+      "date": "20261108",
+      "band": "robotswingtr",
+      "time": "18:30-19:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-603",
+      "date": "20261108",
+      "band": "ynbi",
+      "time": "18:30-19:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-604",
+      "date": "20261108",
+      "band": "coldrain",
+      "time": "18:40-19:20",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-605",
+      "date": "20261108",
+      "band": "band_drsiw0_146",
+      "time": "18:40-19:20",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-606",
+      "date": "20261108",
+      "band": "captainlu",
+      "time": "19:30-20:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-607",
+      "date": "20261108",
+      "band": "milena",
+      "time": "19:30-20:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-608",
+      "date": "20261108",
+      "band": "azikazinmagi",
+      "time": "19:30-20:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-609",
+      "date": "20261108",
+      "band": "band_drsiw0_147",
+      "time": "20:10-21:10",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-610",
+      "date": "20261108",
+      "band": "band_6u8lrj_44",
+      "time": "20:20-21:00",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-611",
+      "date": "20261108",
+      "band": "infernalchao",
+      "time": "20:20-21:00",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
+    },
+    {
+      "id": "upcoming-row-612",
+      "date": "20261108",
+      "band": "vooidxzazenb",
+      "time": "20:30-21:30",
+      "name": "台南 浪人祭 VAGABOND FESTIVAL",
+      "location": "台南市安平觀夕平台旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E8%A7%80%E5%A4%95%E5%B9%B3%E5%8F%B0%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n售票 日期未定\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
     },
     {
       "id": "upcoming-row-330",
@@ -15031,6 +16157,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7436477b-1677-4c56-b218-7385d1a25b44",
-  "updatedAt": "2026-10-22T17:42:53.973Z"
+  "revision": "459cd550-5494-49a2-a0f4-f66ef5c8c2a6",
+  "updatedAt": "2026-10-22T17:47:47.536Z"
 }
