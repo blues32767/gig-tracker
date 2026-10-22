@@ -354,6 +354,14 @@
       "eventCount": 3
     },
     {
+      "id": "yoyo",
+      "name": "YOYO 家族",
+      "short": "YOYO 家族",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_14",
       "name": "持修",
       "short": "持修",
@@ -551,14 +559,6 @@
       "short": "羅文裕",
       "color": "#118ab2",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "yoyo",
-      "name": "YOYO 家族",
-      "short": "YOYO 家族",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -980,7 +980,7 @@
     {
       "id": "sk8firex",
       "name": "SK8 FIRE X 精神時光屋滑板道場",
-      "short": "SK",
+      "short": "SK8 FIRE X 精神時光屋滑板道場",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 2
@@ -988,7 +988,7 @@
     {
       "id": "band_6u8lrj_40",
       "name": "樂天女孩",
-      "short": "樂天",
+      "short": "樂天女孩",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 2
@@ -3684,7 +3684,7 @@
     {
       "id": "band_7d3arq",
       "name": "憂憂 Yō-Yō",
-      "short": "憂憂",
+      "short": "憂憂 Yō-Yō",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -3692,7 +3692,7 @@
     {
       "id": "shallowlevef",
       "name": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
-      "short": "淺堤",
+      "short": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -3700,7 +3700,7 @@
     {
       "id": "butterriot",
       "name": "BUTTER RIOT",
-      "short": "BU",
+      "short": "BUTTER RIOT",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -3708,7 +3708,7 @@
     {
       "id": "band_frsy1h",
       "name": "臺澎金馬使用說明書-法白",
-      "short": "臺澎",
+      "short": "臺澎金馬使用說明書-法白",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -3716,7 +3716,7 @@
     {
       "id": "isyanasarasv",
       "name": "Isyana Sarasvati (ID)",
-      "short": "Is",
+      "short": "Isyana Sarasvati (ID)",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -3724,7 +3724,7 @@
     {
       "id": "momo",
       "name": "MOMO 家族歡樂會 (泡芙姐姐 & 柚子哥哥)",
-      "short": "MO",
+      "short": "MOMO 家族歡樂會 (泡芙姐姐 & 柚子哥哥)",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -3732,7 +3732,7 @@
     {
       "id": "gymvth",
       "name": "GYMV (TH)",
-      "short": "GY",
+      "short": "GYMV (TH)",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -3740,7 +3740,7 @@
     {
       "id": "band_xebf3p_1",
       "name": "異鄉人的憤怒鼓教室",
-      "short": "異鄉",
+      "short": "異鄉人的憤怒鼓教室",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -3748,7 +3748,7 @@
     {
       "id": "band_6u8lrj_39",
       "name": "生祥樂隊",
-      "short": "生祥",
+      "short": "生祥樂隊",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -3764,7 +3764,7 @@
     {
       "id": "band_8e1n2f",
       "name": "經期似超人 小紅帽 X 宅女小紅",
-      "short": "經期",
+      "short": "經期似超人 小紅帽 X 宅女小紅",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -3772,7 +3772,7 @@
     {
       "id": "northern19jp",
       "name": "Northern19 (JP)",
-      "short": "No",
+      "short": "Northern19 (JP)",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -3780,7 +3780,7 @@
     {
       "id": "band_uxbuk0",
       "name": "讓夢轉動 楊元慶",
-      "short": "讓夢",
+      "short": "讓夢轉動 楊元慶",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -3788,7 +3788,7 @@
     {
       "id": "ureukandtheg",
       "name": "Ureuk and The Gypsies (KR)",
-      "short": "Ur",
+      "short": "Ureuk and The Gypsies (KR)",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -3796,7 +3796,7 @@
     {
       "id": "sambomasterj",
       "name": "Sambomaster (JP)",
-      "short": "Sa",
+      "short": "Sambomaster (JP)",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -3804,7 +3804,7 @@
     {
       "id": "random",
       "name": "隨性 Random",
-      "short": "隨性",
+      "short": "隨性 Random",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -3812,7 +3812,7 @@
     {
       "id": "fever333us",
       "name": "FEVER 333 (US)",
-      "short": "FE",
+      "short": "FEVER 333 (US)",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -3820,7 +3820,7 @@
     {
       "id": "emptyoriofty",
       "name": "EmptyORio ft. Yappy",
-      "short": "Em",
+      "short": "EmptyORio ft. Yappy",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -3828,7 +3828,7 @@
     {
       "id": "hsienching",
       "name": "陳嫺靜 HSIEN CHING",
-      "short": "陳嫺",
+      "short": "陳嫺靜 HSIEN CHING",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -3836,7 +3836,7 @@
     {
       "id": "joetranetimb",
       "name": "爵犬 Joe Trane (Timberland Booth PARADE 踢不爛大遊行)",
-      "short": "爵犬",
+      "short": "爵犬 Joe Trane (Timberland Booth PARADE 踢不爛大遊行)",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -3844,7 +3844,7 @@
     {
       "id": "kazookingdom",
       "name": "卡祖大帝國 KAZOO KINGDOM 台灣通勤第一品牌",
-      "short": "卡祖",
+      "short": "卡祖大帝國 KAZOO KINGDOM 台灣通勤第一品牌",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -3852,7 +3852,7 @@
     {
       "id": "crystallakej",
       "name": "Crystal Lake (JP) ft. GIGO",
-      "short": "Cr",
+      "short": "Crystal Lake (JP) ft. GIGO",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -3860,7 +3860,7 @@
     {
       "id": "debloop",
       "name": "debloop",
-      "short": "de",
+      "short": "debloop",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -3868,7 +3868,7 @@
     {
       "id": "band_1gsu1h",
       "name": "客家就是我家 黃子軒 x 王鍾銘 x 王鍾惟",
-      "short": "客家",
+      "short": "客家就是我家 黃子軒 x 王鍾銘 x 王鍾惟",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -3876,7 +3876,7 @@
     {
       "id": "dsps",
       "name": "DSPS",
-      "short": "DS",
+      "short": "DSPS",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -3884,7 +3884,7 @@
     {
       "id": "egowrappinjp",
       "name": "EGO-WRAPPIN' (JP)",
-      "short": "EG",
+      "short": "EGO-WRAPPIN' (JP)",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -3892,7 +3892,7 @@
     {
       "id": "time",
       "name": "蹲姬、小花的濕妝瘋克 time",
-      "short": "蹲姬",
+      "short": "蹲姬、小花的濕妝瘋克 time",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -3900,7 +3900,7 @@
     {
       "id": "hanajp",
       "name": "HANA (JP)",
-      "short": "HA",
+      "short": "HANA (JP)",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -3908,7 +3908,7 @@
     {
       "id": "talkshow",
       "name": "三個不結婚的女人 Talk & Show",
-      "short": "三個",
+      "short": "三個不結婚的女人 Talk & Show",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -3924,7 +3924,7 @@
     {
       "id": "dragonashjp",
       "name": "Dragon Ash (JP)",
-      "short": "Dr",
+      "short": "Dragon Ash (JP)",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -11257,7 +11257,7 @@
       "name": "屏東 FUN玩鹽埔・雙新好cool",
       "location": "屏東縣鹽埔鄉雙新公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%B9%BD%E5%9F%94%E9%84%89%E9%9B%99%E6%96%B0%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
+      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n活動於2026/10/31 14:00-20:30 舉辦,卡司包含金智娟、賴慧如、張文綺、陳忻玥、潮州土狗、陳雷、ARKis、桂格樂團、yoyo家族 雲朵姐姐。"
     },
     {
       "id": "upcoming-row-464",
@@ -11267,7 +11267,7 @@
       "name": "屏東 FUN玩鹽埔・雙新好cool",
       "location": "屏東縣鹽埔鄉雙新公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%B9%BD%E5%9F%94%E9%84%89%E9%9B%99%E6%96%B0%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
+      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n活動於2026/10/31 14:00-20:30 舉辦,卡司包含金智娟、賴慧如、張文綺、陳忻玥、潮州土狗、陳雷、ARKis、桂格樂團、yoyo家族 雲朵姐姐。"
     },
     {
       "id": "upcoming-row-465",
@@ -11277,7 +11277,7 @@
       "name": "屏東 FUN玩鹽埔・雙新好cool",
       "location": "屏東縣鹽埔鄉雙新公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%B9%BD%E5%9F%94%E9%84%89%E9%9B%99%E6%96%B0%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
+      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n活動於2026/10/31 14:00-20:30 舉辦,卡司包含金智娟、賴慧如、張文綺、陳忻玥、潮州土狗、陳雷、ARKis、桂格樂團、yoyo家族 雲朵姐姐。"
     },
     {
       "id": "upcoming-row-466",
@@ -11287,7 +11287,7 @@
       "name": "屏東 FUN玩鹽埔・雙新好cool",
       "location": "屏東縣鹽埔鄉雙新公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%B9%BD%E5%9F%94%E9%84%89%E9%9B%99%E6%96%B0%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
+      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n活動於2026/10/31 14:00-20:30 舉辦,卡司包含金智娟、賴慧如、張文綺、陳忻玥、潮州土狗、陳雷、ARKis、桂格樂團、yoyo家族 雲朵姐姐。"
     },
     {
       "id": "upcoming-row-467",
@@ -11297,7 +11297,7 @@
       "name": "屏東 FUN玩鹽埔・雙新好cool",
       "location": "屏東縣鹽埔鄉雙新公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%B9%BD%E5%9F%94%E9%84%89%E9%9B%99%E6%96%B0%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
+      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n活動於2026/10/31 14:00-20:30 舉辦,卡司包含金智娟、賴慧如、張文綺、陳忻玥、潮州土狗、陳雷、ARKis、桂格樂團、yoyo家族 雲朵姐姐。"
     },
     {
       "id": "upcoming-row-468",
@@ -11307,7 +11307,7 @@
       "name": "屏東 FUN玩鹽埔・雙新好cool",
       "location": "屏東縣鹽埔鄉雙新公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%B9%BD%E5%9F%94%E9%84%89%E9%9B%99%E6%96%B0%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
+      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n活動於2026/10/31 14:00-20:30 舉辦,卡司包含金智娟、賴慧如、張文綺、陳忻玥、潮州土狗、陳雷、ARKis、桂格樂團、yoyo家族 雲朵姐姐。"
     },
     {
       "id": "upcoming-row-469",
@@ -11317,7 +11317,7 @@
       "name": "屏東 FUN玩鹽埔・雙新好cool",
       "location": "屏東縣鹽埔鄉雙新公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%B9%BD%E5%9F%94%E9%84%89%E9%9B%99%E6%96%B0%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
+      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n活動於2026/10/31 14:00-20:30 舉辦,卡司包含金智娟、賴慧如、張文綺、陳忻玥、潮州土狗、陳雷、ARKis、桂格樂團、yoyo家族 雲朵姐姐。"
     },
     {
       "id": "upcoming-row-470",
@@ -11327,7 +11327,7 @@
       "name": "屏東 FUN玩鹽埔・雙新好cool",
       "location": "屏東縣鹽埔鄉雙新公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%B9%BD%E5%9F%94%E9%84%89%E9%9B%99%E6%96%B0%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
+      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n活動於2026/10/31 14:00-20:30 舉辦,卡司包含金智娟、賴慧如、張文綺、陳忻玥、潮州土狗、陳雷、ARKis、桂格樂團、yoyo家族 雲朵姐姐。"
     },
     {
       "id": "upcoming-row-477",
@@ -11337,7 +11337,7 @@
       "name": "屏東 FUN玩鹽埔・雙新好cool",
       "location": "屏東縣鹽埔鄉雙新公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%B9%BD%E5%9F%94%E9%84%89%E9%9B%99%E6%96%B0%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
+      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n活動於2026/10/31 14:00-20:30 舉辦,卡司包含金智娟、賴慧如、張文綺、陳忻玥、潮州土狗、陳雷、ARKis、桂格樂團、yoyo家族 雲朵姐姐。"
     },
     {
       "id": "upcoming-row-478",
@@ -11388,6 +11388,16 @@
       "location": "鹿港公會堂前廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E5%85%AC%E6%9C%83%E5%A0%82%E5%89%8D%E5%BB%A3%E5%A0%B4",
       "note": "［免費］\n時段:18:00-21:30;卡司包含王識賢、Bii畢書盡、陳勢安、徐暐翔、HOT SHOCK腳踏車。"
+    },
+    {
+      "id": "upcoming-row-534",
+      "date": "20261031",
+      "band": "yoyo",
+      "time": "未公布",
+      "name": "屏東 FUN玩鹽埔・雙新好cool",
+      "location": "屏東縣鹽埔鄉雙新公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%B9%BD%E5%9F%94%E9%84%89%E9%9B%99%E6%96%B0%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n活動於2026/10/31 14:00-20:30 舉辦,卡司包含金智娟、賴慧如、張文綺、陳忻玥、潮州土狗、陳雷、ARKis、桂格樂團、yoyo家族 雲朵姐姐。"
     },
     {
       "id": "upcoming-row-7",
@@ -14815,6 +14825,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e28d9e34-3927-4588-ae60-329de043acea",
-  "updatedAt": "2026-10-22T10:06:59.360Z"
+  "revision": "0ba05018-0e68-481f-868c-e82444ac3ef8",
+  "updatedAt": "2026-10-22T10:10:08.488Z"
 }
