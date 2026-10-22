@@ -322,14 +322,6 @@
       "eventCount": 3
     },
     {
-      "id": "yoyo",
-      "name": "YOYO 家族",
-      "short": "YOYO 家族",
-      "color": "#118ab2",
-      "category": "團體",
-      "eventCount": 3
-    },
-    {
       "id": "cholly",
       "name": "C.HOLLY",
       "short": "C.HOLLY",
@@ -535,6 +527,14 @@
       "short": "羅文裕",
       "color": "#118ab2",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "yoyo",
+      "name": "YOYO 家族",
+      "short": "YOYO 家族",
+      "color": "#118ab2",
+      "category": "團體",
       "eventCount": 2
     },
     {
@@ -908,7 +908,7 @@
     {
       "id": "band_drsiw0_136",
       "name": "金智娟",
-      "short": "金智",
+      "short": "金智娟",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 2
@@ -3332,7 +3332,7 @@
     {
       "id": "wave",
       "name": "Wave 浪樂團",
-      "short": "Wa",
+      "short": "Wave 浪樂團",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -3340,7 +3340,7 @@
     {
       "id": "band_drsiw0_135",
       "name": "施孝榮",
-      "short": "施孝",
+      "short": "施孝榮",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -3356,15 +3356,15 @@
     {
       "id": "band_6u8lrj_36",
       "name": "草屯囝仔",
-      "short": "草屯",
+      "short": "草屯囝仔",
       "color": "#118ab2",
-      "category": "個人",
+      "category": "團體",
       "eventCount": 1
     },
     {
       "id": "band_drsiw0_137",
       "name": "郭家瑋",
-      "short": "郭家",
+      "short": "郭家瑋",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -3372,7 +3372,7 @@
     {
       "id": "willy",
       "name": "Willy 簡嘉彣",
-      "short": "Wi",
+      "short": "Willy 簡嘉彣",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -3380,7 +3380,7 @@
     {
       "id": "band_drsiw0_138",
       "name": "蕭秉治",
-      "short": "蕭秉",
+      "short": "蕭秉治",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -3396,47 +3396,47 @@
     {
       "id": "band_qqiyec_19",
       "name": "熱門舞蹈社",
-      "short": "熱門",
+      "short": "熱門舞蹈社",
       "color": "#2ec4b6",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
       "id": "band_maaxir_7",
       "name": "中山高中熱舞社",
-      "short": "中山",
+      "short": "中山高中熱舞社",
       "color": "#ef476f",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
       "id": "band_qqiyec_20",
       "name": "熱門音樂社",
-      "short": "熱門",
+      "short": "熱門音樂社",
       "color": "#ffd166",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
       "id": "band_32tclr_2",
       "name": "弦之苑吉他社",
-      "short": "弦之",
+      "short": "弦之苑吉他社",
       "color": "#06d6a0",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
       "id": "band_maaxir_8",
       "name": "輔英嘻哈文化社",
-      "short": "輔英",
+      "short": "輔英嘻哈文化社",
       "color": "#118ab2",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
       "id": "bozone",
       "name": "Bozone",
-      "short": "Bo",
+      "short": "Bozone",
       "color": "#8338ec",
       "category": "團體",
       "eventCount": 1
@@ -3444,31 +3444,23 @@
     {
       "id": "young",
       "name": "原Young社",
-      "short": "原Y",
+      "short": "原Young社",
       "color": "#ff006e",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
       "id": "babymint",
       "name": "babyMINT",
-      "short": "ba",
+      "short": "babyMINT",
       "color": "#fb5607",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_c6fa6t",
-      "name": "扮仙+霹靂疏文",
-      "short": "扮仙",
-      "color": "#3a86ff",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
       "id": "band_qqiyec_21",
       "name": "法比鳳鳴齋",
-      "short": "法比",
+      "short": "法比鳳鳴齋",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -3476,7 +3468,7 @@
     {
       "id": "silkywarms",
       "name": "SilkywarmS",
-      "short": "Si",
+      "short": "SilkywarmS",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -3484,7 +3476,7 @@
     {
       "id": "kiattng",
       "name": "吳永吉 Kiat Táng & 礦工兄弟",
-      "short": "吳永",
+      "short": "吳永吉 Kiat Táng & 礦工兄弟",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -3492,7 +3484,7 @@
     {
       "id": "band_6u8lrj",
       "name": "娛人時代",
-      "short": "娛人",
+      "short": "娛人時代",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -3508,7 +3500,7 @@
     {
       "id": "band_6u8lrj_1",
       "name": "支薪好友",
-      "short": "支薪",
+      "short": "支薪好友",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -3516,7 +3508,7 @@
     {
       "id": "uni",
       "name": "Uni",
-      "short": "Un",
+      "short": "Uni",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -3524,7 +3516,7 @@
     {
       "id": "luxurmelon",
       "name": "西瓜 luxurmelon",
-      "short": "西瓜",
+      "short": "西瓜 luxurmelon",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -3532,7 +3524,7 @@
     {
       "id": "chllker",
       "name": "CH!LLKER",
-      "short": "CH",
+      "short": "CH!LLKER",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -3540,7 +3532,7 @@
     {
       "id": "oiching",
       "name": "OiChing 葉藹程",
-      "short": "Oi",
+      "short": "OiChing 葉藹程",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -3548,7 +3540,7 @@
     {
       "id": "band_drsiw0",
       "name": "彭怡開",
-      "short": "彭怡",
+      "short": "彭怡開",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -3556,7 +3548,7 @@
     {
       "id": "band_qqiyec_22",
       "name": "哇哈哈劇團",
-      "short": "哇哈",
+      "short": "哇哈哈劇團",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -3564,7 +3556,7 @@
     {
       "id": "ezt",
       "name": "EZT",
-      "short": "EZ",
+      "short": "EZT",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -3572,7 +3564,7 @@
     {
       "id": "emmalin",
       "name": "林辰樺 Emma Lin",
-      "short": "林辰",
+      "short": "林辰樺 Emma Lin",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -3580,7 +3572,7 @@
     {
       "id": "katrina",
       "name": "卡崔娜 Katrina",
-      "short": "卡崔",
+      "short": "卡崔娜 Katrina",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -3588,7 +3580,7 @@
     {
       "id": "lineup",
       "name": "LINE UP",
-      "short": "LI",
+      "short": "LINE UP",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -3596,7 +3588,7 @@
     {
       "id": "band_drsiw0_2",
       "name": "賴慧如",
-      "short": "賴慧",
+      "short": "賴慧如",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -3604,7 +3596,7 @@
     {
       "id": "band_drsiw0_16",
       "name": "張文綺",
-      "short": "張文",
+      "short": "張文綺",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -3620,7 +3612,7 @@
     {
       "id": "band_6u8lrj_2",
       "name": "桂格樂團",
-      "short": "桂格",
+      "short": "桂格樂團",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -3628,7 +3620,7 @@
     {
       "id": "band_6u8lrj_37",
       "name": "秀蘭瑪雅",
-      "short": "秀蘭",
+      "short": "秀蘭瑪雅",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -3636,7 +3628,7 @@
     {
       "id": "band_drsiw0_17",
       "name": "曾宥嘉",
-      "short": "曾宥",
+      "short": "曾宥嘉",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -3644,7 +3636,7 @@
     {
       "id": "band_6u8lrj_38",
       "name": "雲朵姐姐",
-      "short": "雲朵",
+      "short": "雲朵姐姐",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -9688,7 +9680,7 @@
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
     },
     {
-      "id": "upcoming-row-456",
+      "id": "upcoming-row-455",
       "date": "20261024",
       "band": "band_uhxcnu",
       "time": "21:15-21:45",
@@ -9698,7 +9690,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n活動因故延期,新日期尚未確定。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-488",
+      "id": "upcoming-row-486",
       "date": "20261024",
       "band": "band_drsiw0_83",
       "time": "未公布",
@@ -9708,7 +9700,7 @@
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
     },
     {
-      "id": "upcoming-row-489",
+      "id": "upcoming-row-487",
       "date": "20261024",
       "band": "band_drsiw0_87",
       "time": "未公布",
@@ -10008,7 +10000,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-458",
+      "id": "upcoming-row-457",
       "date": "20261025",
       "band": "band_6u8lrj",
       "time": "18:00-18:40",
@@ -10018,7 +10010,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-459",
+      "id": "upcoming-row-458",
       "date": "20261025",
       "band": "band_6gp8um",
       "time": "20:00-20:30",
@@ -10028,7 +10020,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-460",
+      "id": "upcoming-row-459",
       "date": "20261025",
       "band": "band_6u8lrj_1",
       "time": "20:30-21:00",
@@ -10038,7 +10030,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-461",
+      "id": "upcoming-row-460",
       "date": "20261025",
       "band": "uni",
       "time": "15:00-16:30",
@@ -10048,7 +10040,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-462",
+      "id": "upcoming-row-461",
       "date": "20261025",
       "band": "luxurmelon",
       "time": "15:00-16:30",
@@ -10058,7 +10050,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-463",
+      "id": "upcoming-row-462",
       "date": "20261025",
       "band": "chllker",
       "time": "15:00-16:30",
@@ -10068,7 +10060,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-464",
+      "id": "upcoming-row-463",
       "date": "20261025",
       "band": "oiching",
       "time": "15:00-16:30",
@@ -10078,7 +10070,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-465",
+      "id": "upcoming-row-464",
       "date": "20261025",
       "band": "band_drsiw0",
       "time": "15:00-16:30",
@@ -10088,7 +10080,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-466",
+      "id": "upcoming-row-465",
       "date": "20261025",
       "band": "band_qqiyec_22",
       "time": "17:00-18:00",
@@ -10098,7 +10090,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-467",
+      "id": "upcoming-row-466",
       "date": "20261025",
       "band": "ezt",
       "time": "18:40-19:00",
@@ -10108,7 +10100,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-468",
+      "id": "upcoming-row-467",
       "date": "20261025",
       "band": "emmalin",
       "time": "19:40-20:00",
@@ -10118,7 +10110,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-469",
+      "id": "upcoming-row-468",
       "date": "20261025",
       "band": "katrina",
       "time": "20:40-21:00",
@@ -10128,7 +10120,7 @@
       "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
-      "id": "upcoming-row-471",
+      "id": "upcoming-row-470",
       "date": "20261025",
       "band": "lineup",
       "time": "15:00-15:30",
@@ -11128,7 +11120,7 @@
       "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
-      "id": "upcoming-row-472",
+      "id": "upcoming-row-471",
       "date": "20261031",
       "band": "band_drsiw0_136",
       "time": "14:00-20:30",
@@ -11138,7 +11130,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-473",
+      "id": "upcoming-row-472",
       "date": "20261031",
       "band": "band_drsiw0_2",
       "time": "14:00-20:30",
@@ -11148,7 +11140,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-474",
+      "id": "upcoming-row-473",
       "date": "20261031",
       "band": "band_drsiw0_16",
       "time": "14:00-20:30",
@@ -11158,7 +11150,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-475",
+      "id": "upcoming-row-474",
       "date": "20261031",
       "band": "band_drsiw0_112",
       "time": "14:00-20:30",
@@ -11168,7 +11160,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-476",
+      "id": "upcoming-row-475",
       "date": "20261031",
       "band": "band_6u8lrj_11",
       "time": "14:00-20:30",
@@ -11178,7 +11170,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-477",
+      "id": "upcoming-row-476",
       "date": "20261031",
       "band": "band_6gp8um_44",
       "time": "14:00-20:30",
@@ -11188,7 +11180,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-478",
+      "id": "upcoming-row-477",
       "date": "20261031",
       "band": "arkis",
       "time": "14:00-20:30",
@@ -11198,7 +11190,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-479",
+      "id": "upcoming-row-478",
       "date": "20261031",
       "band": "band_6u8lrj_2",
       "time": "14:00-20:30",
@@ -11208,17 +11200,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-480",
-      "date": "20261031",
-      "band": "yoyo",
-      "time": "14:00-20:30",
-      "name": "屏東 FUN玩鹽埔・雙新好cool",
-      "location": "屏東縣鹽埔鄉雙新公園",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%B9%BD%E5%9F%94%E9%84%89%E9%9B%99%E6%96%B0%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
-    },
-    {
-      "id": "upcoming-row-487",
+      "id": "upcoming-row-485",
       "date": "20261031",
       "band": "band_6u8lrj_38",
       "time": "未公布",
@@ -12248,7 +12230,7 @@
       "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩\n520 心田中音樂節選手之夜,由九孔主持。"
     },
     {
-      "id": "upcoming-row-470",
+      "id": "upcoming-row-469",
       "date": "20261107",
       "band": "band_nmq1yt",
       "time": "未公布",
@@ -12258,7 +12240,7 @@
       "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩\n520 心田中音樂節選手之夜,由九孔主持。"
     },
     {
-      "id": "upcoming-row-482",
+      "id": "upcoming-row-480",
       "date": "20261107",
       "band": "band_6u8lrj_37",
       "time": "18:00-18:20",
@@ -12268,7 +12250,7 @@
       "note": "［免費］\n活動於11/07舉辦,卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
-      "id": "upcoming-row-483",
+      "id": "upcoming-row-481",
       "date": "20261107",
       "band": "band_drsiw0_17",
       "time": "18:20-18:40",
@@ -12278,7 +12260,7 @@
       "note": "［免費］\n活動於11/07舉辦,卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
-      "id": "upcoming-row-484",
+      "id": "upcoming-row-482",
       "date": "20261107",
       "band": "riki",
       "time": "18:40-19:10",
@@ -12288,7 +12270,7 @@
       "note": "［免費］\n活動於11/07舉辦,卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
-      "id": "upcoming-row-485",
+      "id": "upcoming-row-483",
       "date": "20261107",
       "band": "band_drsiw0_83",
       "time": "19:20-19:50",
@@ -12298,7 +12280,7 @@
       "note": "［免費］\n活動於11/07舉辦,卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
-      "id": "upcoming-row-486",
+      "id": "upcoming-row-484",
       "date": "20261107",
       "band": "band_drsiw0_25",
       "time": "20:00-20:30",
@@ -12668,7 +12650,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於 2026/11/14 舉辦,新公佈卡司包含 Saturnday、babyMINT 等樂團。"
     },
     {
-      "id": "upcoming-row-481",
+      "id": "upcoming-row-479",
       "date": "20261114",
       "band": "saturnday",
       "time": "17:30-21:30",
@@ -13730,16 +13712,6 @@
     {
       "id": "upcoming-row-449",
       "date": "20261227",
-      "band": "band_c6fa6t",
-      "time": "16:00-16:30",
-      "name": "【⚠️延期未定】雲林 信徒文化季",
-      "location": "雲林西螺福興宮前",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
-      "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
-    },
-    {
-      "id": "upcoming-row-450",
-      "date": "20261227",
       "band": "band_qqiyec_21",
       "time": "16:45-17:15",
       "name": "【⚠️延期未定】雲林 信徒文化季",
@@ -13748,7 +13720,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-451",
+      "id": "upcoming-row-450",
       "date": "20261227",
       "band": "silkywarms",
       "time": "17:30-18:00",
@@ -13758,7 +13730,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-452",
+      "id": "upcoming-row-451",
       "date": "20261227",
       "band": "band_drsiw0_59",
       "time": "18:15-18:45",
@@ -13768,7 +13740,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-453",
+      "id": "upcoming-row-452",
       "date": "20261227",
       "band": "band_bqaniu",
       "time": "19:00-19:30",
@@ -13778,7 +13750,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-454",
+      "id": "upcoming-row-453",
       "date": "20261227",
       "band": "band_drsiw0_66",
       "time": "19:45-20:15",
@@ -13788,7 +13760,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-455",
+      "id": "upcoming-row-454",
       "date": "20261227",
       "band": "band_drsiw0_65",
       "time": "20:30-21:00",
@@ -13798,7 +13770,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-457",
+      "id": "upcoming-row-456",
       "date": "20261227",
       "band": "kiattng",
       "time": "21:15-21:45",
@@ -14054,5 +14026,5 @@
   },
   "schemaVersion": 2,
   "revision": "6d780a8f-910e-4525-9d34-4bb6df195fee",
-  "updatedAt": "2026-10-22T04:02:36.642Z"
+  "updatedAt": "2026-10-22T04:41:40.774Z"
 }
