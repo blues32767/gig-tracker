@@ -154,6 +154,22 @@
       "eventCount": 5
     },
     {
+      "id": "band_drsiw0_85",
+      "name": "蕭景鴻",
+      "short": "蕭景鴻",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "band_drsiw0_87",
+      "name": "魏嘉瑩",
+      "short": "魏嘉瑩",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "WhoCares",
       "name": "胡凱兒",
       "short": "胡凱兒",
@@ -238,22 +254,6 @@
       "name": "吳霏 FEI",
       "short": "吳霏 FEI",
       "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_85",
-      "name": "蕭景鴻",
-      "short": "蕭景鴻",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_87",
-      "name": "魏嘉瑩",
-      "short": "魏嘉瑩",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 4
     },
@@ -13378,6 +13378,26 @@
       "note": "［免費］\n售票 日期未定\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
+      "id": "upcoming-row-530",
+      "date": "20261119",
+      "band": "band_drsiw0_85",
+      "time": "未公布",
+      "name": "屏東 燃爆全場 - 國立屏東大學第13屆校慶運動會",
+      "location": "屏商校區 田徑場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%20%E7%94%B0%E5%BE%91%E5%A0%B4",
+      "note": "［免費］\n活動於2026年11月19日下午15:30在屏商校區田徑場舉辦,演出嘉賓包含蕭景鴻、魏嘉瑩。\n來源：https://www.facebook.com/share/p/1GFDLMuG2r/"
+    },
+    {
+      "id": "upcoming-row-531",
+      "date": "20261119",
+      "band": "band_drsiw0_87",
+      "time": "未公布",
+      "name": "屏東 燃爆全場 - 國立屏東大學第13屆校慶運動會",
+      "location": "屏商校區 田徑場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%20%E7%94%B0%E5%BE%91%E5%A0%B4",
+      "note": "［免費］\n活動於2026年11月19日下午15:30在屏商校區田徑場舉辦,演出嘉賓包含蕭景鴻、魏嘉瑩。\n來源：https://www.facebook.com/share/p/1GFDLMuG2r/"
+    },
+    {
       "id": "upcoming-row-409",
       "date": "20261120",
       "band": "band_drsiw0_27",
@@ -14823,6 +14843,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ba0144f1-714c-4350-93b6-423ac60df617",
-  "updatedAt": "2026-10-22T17:31:37.378Z"
+  "revision": "70cf4bed-a1f2-46de-9aa1-1ab266e98900",
+  "updatedAt": "2026-10-22T17:33:30.510Z"
 }
