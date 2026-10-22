@@ -3486,7 +3486,7 @@
       "name": "娛人時代",
       "short": "娛人時代",
       "color": "#ffd166",
-      "category": "個人",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -3502,7 +3502,7 @@
       "name": "支薪好友",
       "short": "支薪好友",
       "color": "#118ab2",
-      "category": "個人",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -3510,7 +3510,7 @@
       "name": "Uni",
       "short": "Uni",
       "color": "#8338ec",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -3526,7 +3526,7 @@
       "name": "CH!LLKER",
       "short": "CH!LLKER",
       "color": "#fb5607",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -3550,7 +3550,7 @@
       "name": "哇哈哈劇團",
       "short": "哇哈哈劇團",
       "color": "#2ec4b6",
-      "category": "樂團",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -3558,7 +3558,7 @@
       "name": "EZT",
       "short": "EZT",
       "color": "#ef476f",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -3575,14 +3575,6 @@
       "short": "卡崔娜 Katrina",
       "color": "#06d6a0",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "lineup",
-      "name": "LINE UP",
-      "short": "LINE UP",
-      "color": "#118ab2",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -3635,8 +3627,8 @@
     },
     {
       "id": "band_6u8lrj_38",
-      "name": "雲朵姐姐",
-      "short": "雲朵姐姐",
+      "name": "YOYO雲朵姐姐",
+      "short": "YOYO雲朵姐姐",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -9690,7 +9682,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n活動因故延期,新日期尚未確定。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-486",
+      "id": "upcoming-row-485",
       "date": "20261024",
       "band": "band_drsiw0_83",
       "time": "未公布",
@@ -9700,7 +9692,7 @@
       "note": "［免費］\n時段:18:00-21:00;卡司:10/21(宋德鶴、小魏)、學生社團(熱門舞蹈社、中山高中熱舞社、熱門音樂社、弦之苑吉他社、輔英嘻哈文化社、Bozone、原Young社)\n活動於 2026/10/21 下午 18:00-21:00 在輔英科大幼保大樓前草皮舉辦,歡迎校外人士參加。"
     },
     {
-      "id": "upcoming-row-487",
+      "id": "upcoming-row-486",
       "date": "20261024",
       "band": "band_drsiw0_87",
       "time": "未公布",
@@ -10114,16 +10106,6 @@
       "date": "20261025",
       "band": "katrina",
       "time": "20:40-21:00",
-      "name": "新竹 新響之夜",
-      "location": "新竹縣政府文化局(周邊舞台包含文化廣場、演藝廳、文平路)",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%20%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n2026/10/25 PM15:00 於新竹縣政府文化局文化廣場舉辦,卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
-    },
-    {
-      "id": "upcoming-row-470",
-      "date": "20261025",
-      "band": "lineup",
-      "time": "15:00-15:30",
       "name": "新竹 新響之夜",
       "location": "新竹縣政府文化局(周邊舞台包含文化廣場、演藝廳、文平路)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%20%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4",
@@ -11120,7 +11102,7 @@
       "note": "［免費］\n活動貼文:https://www.facebook.com/share/p/199KqWTAu1/\n活動粉專:https://www.facebook.com/RockInTaichungMusicFestival/\n卡司:粗大Band、The Salitus、Tickle Tickle 癢癢、打倒三明治、來者何人 Whoou!、白安 ANN、羊米人 YUMMY MAN、A_Root 同根生 feat. 蔡家蓁、RA、THE ORCHESTRA TOKYO [JP]、溫室雜草、yubiori [JP]、Goose 我鳥 [SG]、SHOOTUP、芒果醬 Mango Jump、紙鳶 Seizer、Alien Avenge 異族亡魂、Confined White (컨파인드 화이트) [KR]、血肉果汁機 Flesh Juicer、白頻率 White Frequency、普通隊長 Captain Ordinary、固定客、RIKI、麋先生 MIXER、ハシリコミーズ [JP]\n來源：https://www.facebook.com/share/p/1TyuTyCaGu/"
     },
     {
-      "id": "upcoming-row-471",
+      "id": "upcoming-row-470",
       "date": "20261031",
       "band": "band_drsiw0_136",
       "time": "14:00-20:30",
@@ -11130,7 +11112,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-472",
+      "id": "upcoming-row-471",
       "date": "20261031",
       "band": "band_drsiw0_2",
       "time": "14:00-20:30",
@@ -11140,7 +11122,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-473",
+      "id": "upcoming-row-472",
       "date": "20261031",
       "band": "band_drsiw0_16",
       "time": "14:00-20:30",
@@ -11150,7 +11132,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-474",
+      "id": "upcoming-row-473",
       "date": "20261031",
       "band": "band_drsiw0_112",
       "time": "14:00-20:30",
@@ -11160,7 +11142,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-475",
+      "id": "upcoming-row-474",
       "date": "20261031",
       "band": "band_6u8lrj_11",
       "time": "14:00-20:30",
@@ -11170,7 +11152,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-476",
+      "id": "upcoming-row-475",
       "date": "20261031",
       "band": "band_6gp8um_44",
       "time": "14:00-20:30",
@@ -11180,7 +11162,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-477",
+      "id": "upcoming-row-476",
       "date": "20261031",
       "band": "arkis",
       "time": "14:00-20:30",
@@ -11190,7 +11172,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-478",
+      "id": "upcoming-row-477",
       "date": "20261031",
       "band": "band_6u8lrj_2",
       "time": "14:00-20:30",
@@ -11200,7 +11182,7 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
-      "id": "upcoming-row-485",
+      "id": "upcoming-row-484",
       "date": "20261031",
       "band": "band_6u8lrj_38",
       "time": "未公布",
@@ -12240,7 +12222,7 @@
       "note": "［免費］\n時段:19:00-21:00;卡司:麋先生、蕭秉治、鼓鼓、蕭景鴻、小魏、魏嘉瑩\n520 心田中音樂節選手之夜,由九孔主持。"
     },
     {
-      "id": "upcoming-row-480",
+      "id": "upcoming-row-479",
       "date": "20261107",
       "band": "band_6u8lrj_37",
       "time": "18:00-18:20",
@@ -12250,7 +12232,7 @@
       "note": "［免費］\n活動於11/07舉辦,卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
-      "id": "upcoming-row-481",
+      "id": "upcoming-row-480",
       "date": "20261107",
       "band": "band_drsiw0_17",
       "time": "18:20-18:40",
@@ -12260,7 +12242,7 @@
       "note": "［免費］\n活動於11/07舉辦,卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
-      "id": "upcoming-row-482",
+      "id": "upcoming-row-481",
       "date": "20261107",
       "band": "riki",
       "time": "18:40-19:10",
@@ -12270,7 +12252,7 @@
       "note": "［免費］\n活動於11/07舉辦,卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
-      "id": "upcoming-row-483",
+      "id": "upcoming-row-482",
       "date": "20261107",
       "band": "band_drsiw0_83",
       "time": "19:20-19:50",
@@ -12280,7 +12262,7 @@
       "note": "［免費］\n活動於11/07舉辦,卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
-      "id": "upcoming-row-484",
+      "id": "upcoming-row-483",
       "date": "20261107",
       "band": "band_drsiw0_25",
       "time": "20:00-20:30",
@@ -12650,7 +12632,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於 2026/11/14 舉辦,新公佈卡司包含 Saturnday、babyMINT 等樂團。"
     },
     {
-      "id": "upcoming-row-479",
+      "id": "upcoming-row-478",
       "date": "20261114",
       "band": "saturnday",
       "time": "17:30-21:30",
@@ -14026,5 +14008,5 @@
   },
   "schemaVersion": 2,
   "revision": "6d780a8f-910e-4525-9d34-4bb6df195fee",
-  "updatedAt": "2026-10-22T04:41:40.774Z"
+  "updatedAt": "2026-10-22T04:43:42.253Z"
 }
