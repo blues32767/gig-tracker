@@ -210,6 +210,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_69",
+      "name": "陳勢安",
+      "short": "陳勢安",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_83",
       "name": "宋德鶴",
       "short": "宋德鶴",
@@ -399,14 +407,6 @@
       "short": "沈默紳士",
       "color": "#00b4d8",
       "category": "團體",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_69",
-      "name": "陳勢安",
-      "short": "陳勢安",
-      "color": "#fb5607",
-      "category": "個人",
       "eventCount": 3
     },
     {
@@ -807,6 +807,14 @@
       "short": "A_Root 同根生 feat. 蔡家蓁",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_88",
+      "name": "畢書盡",
+      "short": "畢書盡",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -2298,14 +2306,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_88",
-      "name": "畢書盡",
-      "short": "畢書盡",
-      "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_89",
       "name": "楊淨宇",
       "short": "楊淨宇",
@@ -3630,6 +3630,30 @@
       "name": "YOYO雲朵姐姐",
       "short": "YOYO雲朵姐姐",
       "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_47",
+      "name": "王識賢",
+      "short": "王識",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_139",
+      "name": "徐暐翔",
+      "short": "徐暐",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "hotshock",
+      "name": "HOT SHOCK 腳踏車",
+      "short": "HO",
+      "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
     },
@@ -11182,6 +11206,56 @@
       "note": "［免費］\n活動於 2026/10/31 14:00-20:30 在屏東縣鹽埔鄉雙新公園舉辦,為免費入場。\n卡司包含陳雷、陳忻玥、賴慧如、張文綺、潮州土狗、金智娟、雲朵姐姐、ARKis、桂格樂團"
     },
     {
+      "id": "upcoming-row-487",
+      "date": "20261031",
+      "band": "band_drsiw0_47",
+      "time": "未公布",
+      "name": "雲林 冬歡演唱會",
+      "location": "鹿港公會堂前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E5%85%AC%E6%9C%83%E5%A0%82%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含王識賢、Bii畢書盡、陳勢安、徐暐翔、HOT SHOCK腳踏車。"
+    },
+    {
+      "id": "upcoming-row-488",
+      "date": "20261031",
+      "band": "band_drsiw0_88",
+      "time": "未公布",
+      "name": "雲林 冬歡演唱會",
+      "location": "鹿港公會堂前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E5%85%AC%E6%9C%83%E5%A0%82%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含王識賢、Bii畢書盡、陳勢安、徐暐翔、HOT SHOCK腳踏車。"
+    },
+    {
+      "id": "upcoming-row-489",
+      "date": "20261031",
+      "band": "band_drsiw0_69",
+      "time": "未公布",
+      "name": "雲林 冬歡演唱會",
+      "location": "鹿港公會堂前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E5%85%AC%E6%9C%83%E5%A0%82%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含王識賢、Bii畢書盡、陳勢安、徐暐翔、HOT SHOCK腳踏車。"
+    },
+    {
+      "id": "upcoming-row-490",
+      "date": "20261031",
+      "band": "band_drsiw0_139",
+      "time": "未公布",
+      "name": "雲林 冬歡演唱會",
+      "location": "鹿港公會堂前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E5%85%AC%E6%9C%83%E5%A0%82%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含王識賢、Bii畢書盡、陳勢安、徐暐翔、HOT SHOCK腳踏車。"
+    },
+    {
+      "id": "upcoming-row-491",
+      "date": "20261031",
+      "band": "hotshock",
+      "time": "未公布",
+      "name": "雲林 冬歡演唱會",
+      "location": "鹿港公會堂前廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E5%85%AC%E6%9C%83%E5%A0%82%E5%89%8D%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含王識賢、Bii畢書盡、陳勢安、徐暐翔、HOT SHOCK腳踏車。"
+    },
+    {
       "id": "upcoming-row-7",
       "date": "20261101",
       "band": "papunband",
@@ -13997,6 +14071,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "6d780a8f-910e-4525-9d34-4bb6df195fee",
-  "updatedAt": "2026-10-22T04:46:49.557Z"
+  "revision": "25b9f1ea-931d-4973-98b5-11b97262e3ff",
+  "updatedAt": "2026-10-22T05:01:00.915Z"
 }
