@@ -18,20 +18,20 @@
       "eventCount": 14
     },
     {
+      "id": "AmazingShow",
+      "name": "美秀集團",
+      "short": "美秀集團",
+      "color": "#e63946",
+      "category": "樂團",
+      "eventCount": 12
+    },
+    {
       "id": "papunband",
       "name": "怕胖團",
       "short": "怕胖團",
       "color": "#1d3557",
       "category": "樂團",
       "eventCount": 12
-    },
-    {
-      "id": "AmazingShow",
-      "name": "美秀集團",
-      "short": "美秀集團",
-      "color": "#e63946",
-      "category": "樂團",
-      "eventCount": 9
     },
     {
       "id": "pizzali",
@@ -15232,6 +15232,16 @@
       "note": ""
     },
     {
+      "id": "upcoming-row-614",
+      "date": "20261206",
+      "band": "AmazingShow",
+      "time": "未公布",
+      "name": "高雄 美秀集團12月台灣巡迴(高雄一)",
+      "location": "高雄 LIVE WAREHOUSE",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%20LIVE%20WAREHOUSE",
+      "note": "［免費］\n美秀集團高雄場次演出\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
+    },
+    {
       "id": "upcoming-row-543",
       "date": "20261211",
       "band": "band_drsiw0_58",
@@ -15762,6 +15772,16 @@
       "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
     },
     {
+      "id": "upcoming-row-615",
+      "date": "20261213",
+      "band": "AmazingShow",
+      "time": "未公布",
+      "name": "台中 美秀集團12月台灣巡迴(台中一)",
+      "location": "台中 Legacy Taichung",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Legacy%20Taichung",
+      "note": "［免費］\n美秀集團台中場次演出\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
+    },
+    {
       "id": "upcoming-row-596",
       "date": "20261219",
       "band": "mango",
@@ -15770,6 +15790,16 @@
       "location": "未公布",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
       "note": ""
+    },
+    {
+      "id": "upcoming-row-616",
+      "date": "20261220",
+      "band": "AmazingShow",
+      "time": "未公布",
+      "name": "台北 美秀集團12月台灣巡迴(台北一)",
+      "location": "台北 Legacy TERA",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%20Legacy%20TERA",
+      "note": "［免費］\n美秀集團台北場次演出\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
     },
     {
       "id": "upcoming-row-597",
@@ -16167,6 +16197,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "558390fe-2127-4603-abf2-bcfdb768d02e",
-  "updatedAt": "2026-10-22T18:05:40.019Z"
+  "revision": "58a0e893-d343-4829-940e-fa606857ade4",
+  "updatedAt": "2026-10-22T19:11:58.344Z"
 }
