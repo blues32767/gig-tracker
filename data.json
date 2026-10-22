@@ -10,20 +10,20 @@
       "eventCount": 57
     },
     {
+      "id": "AmazingShow",
+      "name": "美秀集團",
+      "short": "美秀集團",
+      "color": "#e63946",
+      "category": "樂團",
+      "eventCount": 15
+    },
+    {
       "id": "gongguan",
       "name": "公館青少年",
       "short": "公館青少年",
       "color": "#2a9d8f",
       "category": "樂團",
       "eventCount": 14
-    },
-    {
-      "id": "AmazingShow",
-      "name": "美秀集團",
-      "short": "美秀集團",
-      "color": "#e63946",
-      "category": "樂團",
-      "eventCount": 12
     },
     {
       "id": "papunband",
@@ -15222,6 +15222,16 @@
       "note": "［免費］\n活動原定10/24,因颱風延期至2026/12/5舉辦,原班人馬\n活動因颱風/天候/故延期,但新日期未定。\n來源：https://www.threads.com/share/QAPYySrr3/"
     },
     {
+      "id": "upcoming-row-614",
+      "date": "20261205",
+      "band": "AmazingShow",
+      "time": "未公布",
+      "name": "高雄 美秀集團12月台灣巡迴(高雄一)",
+      "location": "高雄 LIVE WAREHOUSE",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%20LIVE%20WAREHOUSE",
+      "note": "［售票］\n美秀集團高雄場次演出\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
+    },
+    {
       "id": "upcoming-row-542",
       "date": "20261206",
       "band": "mango",
@@ -15232,14 +15242,14 @@
       "note": ""
     },
     {
-      "id": "upcoming-row-614",
+      "id": "upcoming-row-615",
       "date": "20261206",
       "band": "AmazingShow",
       "time": "未公布",
       "name": "高雄 美秀集團12月台灣巡迴(高雄一)",
       "location": "高雄 LIVE WAREHOUSE",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%20LIVE%20WAREHOUSE",
-      "note": "［免費］\n美秀集團高雄場次演出\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
+      "note": "［售票］\n美秀集團高雄場次演出\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
     },
     {
       "id": "upcoming-row-543",
@@ -15712,6 +15722,16 @@
       "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
     },
     {
+      "id": "upcoming-row-616",
+      "date": "20261212",
+      "band": "AmazingShow",
+      "time": "未公布",
+      "name": "台中 美秀集團12月台灣巡迴(台中一)",
+      "location": "台中 Legacy Taichung",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Legacy%20Taichung",
+      "note": "［售票］\n美秀集團高雄場次演出\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
+    },
+    {
       "id": "upcoming-row-590",
       "date": "20261213",
       "band": "mango",
@@ -15772,14 +15792,14 @@
       "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
     },
     {
-      "id": "upcoming-row-615",
+      "id": "upcoming-row-617",
       "date": "20261213",
       "band": "AmazingShow",
       "time": "未公布",
       "name": "台中 美秀集團12月台灣巡迴(台中一)",
       "location": "台中 Legacy Taichung",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Legacy%20Taichung",
-      "note": "［免費］\n美秀集團台中場次演出\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
+      "note": "［售票］\n美秀集團高雄場次演出\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
     },
     {
       "id": "upcoming-row-596",
@@ -15792,14 +15812,24 @@
       "note": ""
     },
     {
-      "id": "upcoming-row-616",
+      "id": "upcoming-row-618",
+      "date": "20261219",
+      "band": "AmazingShow",
+      "time": "未公布",
+      "name": "台北 美秀集團12月台灣巡迴(台北一)",
+      "location": "台北 Legacy TERA",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%20Legacy%20TERA",
+      "note": "［售票］\n美秀集團高雄場次演出\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
+    },
+    {
+      "id": "upcoming-row-619",
       "date": "20261220",
       "band": "AmazingShow",
       "time": "未公布",
       "name": "台北 美秀集團12月台灣巡迴(台北一)",
       "location": "台北 Legacy TERA",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%20Legacy%20TERA",
-      "note": "［免費］\n美秀集團台北場次演出\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
+      "note": "［售票］\n美秀集團高雄場次演出\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
     },
     {
       "id": "upcoming-row-597",
@@ -16197,6 +16227,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "58a0e893-d343-4829-940e-fa606857ade4",
-  "updatedAt": "2026-10-22T19:11:58.344Z"
+  "revision": "706c37a0-c50e-4663-a476-d32476493ee7",
+  "updatedAt": "2026-10-22T19:15:42.515Z"
 }
