@@ -370,6 +370,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_51",
+      "name": "李子森",
+      "short": "李子森",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_6u8lrj_10",
       "name": "幽靈水晶",
       "short": "幽靈水晶",
@@ -591,14 +599,6 @@
       "short": "帕崎拉",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_51",
-      "name": "李子森",
-      "short": "李子森",
-      "color": "#06d6a0",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -3894,6 +3894,22 @@
       "name": "小錦 饒高愛",
       "short": "小錦",
       "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_140",
+      "name": "于台煙",
+      "short": "于台",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "rakutengirls",
+      "name": "Rakuten Girls",
+      "short": "Ra",
+      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
     },
@@ -9385,31 +9401,31 @@
       "id": "upcoming-row-11",
       "date": "20261024",
       "band": "band_drsiw0_77",
-      "time": "未公布",
+      "time": "18:00-21:00",
       "name": "山城有聲",
       "location": "南投縣埔里鎮仁愛公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E5%9F%94%E9%87%8C%E9%8E%AE%E4%BB%81%E6%84%9B%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間:2026年10月24日 18:00-21:00。卡司包含宇宙人(于台煙)、袁小迪(李子森)、PALLAS(樂天女孩)及更多藝人。"
+      "note": "［免費］\n活動時間:2026年10月24日 18:00-21:00。卡司包含宇宙人(于台煙)、袁小迪(李子森)、PALLAS(樂天女孩)及更多藝人。\nhttps://www.facebook.com/puliconcert.2026/"
     },
     {
       "id": "upcoming-row-12",
       "date": "20261024",
       "band": "band_drsiw0_78",
-      "time": "未公布",
+      "time": "18:00-21:00",
       "name": "山城有聲",
       "location": "南投縣埔里鎮仁愛公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E5%9F%94%E9%87%8C%E9%8E%AE%E4%BB%81%E6%84%9B%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間:2026年10月24日 18:00-21:00。卡司包含宇宙人(于台煙)、袁小迪(李子森)、PALLAS(樂天女孩)及更多藝人。"
+      "note": "［免費］\n活動時間:2026年10月24日 18:00-21:00。卡司包含宇宙人(于台煙)、袁小迪(李子森)、PALLAS(樂天女孩)及更多藝人。\nhttps://www.facebook.com/puliconcert.2026/"
     },
     {
       "id": "upcoming-row-13",
       "date": "20261024",
       "band": "pallas",
-      "time": "未公布",
+      "time": "18:00-21:00",
       "name": "山城有聲",
       "location": "南投縣埔里鎮仁愛公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E5%9F%94%E9%87%8C%E9%8E%AE%E4%BB%81%E6%84%9B%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間:2026年10月24日 18:00-21:00。卡司包含宇宙人(于台煙)、袁小迪(李子森)、PALLAS(樂天女孩)及更多藝人。"
+      "note": "［免費］\n活動時間:2026年10月24日 18:00-21:00。卡司包含宇宙人(于台煙)、袁小迪(李子森)、PALLAS(樂天女孩)及更多藝人。\nhttps://www.facebook.com/puliconcert.2026/"
     },
     {
       "id": "upcoming-row-14",
@@ -9570,6 +9586,36 @@
       "location": "苗栗縣巨蛋體育館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
       "note": "［免費］\n【10/24 魅栗青春】卡司:玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人:白冰冰。\n備註:索票時間為 10/08 16:00-22:00,實名制登記限領一次,每場限索4張。"
+    },
+    {
+      "id": "upcoming-row-527",
+      "date": "20261024",
+      "band": "band_drsiw0_140",
+      "time": "18:00-21:00",
+      "name": "山城有聲",
+      "location": "南投縣埔里鎮仁愛公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E5%9F%94%E9%87%8C%E9%8E%AE%E4%BB%81%E6%84%9B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間:2026年10月24日 18:00-21:00。卡司包含宇宙人(于台煙)、袁小迪(李子森)、PALLAS(樂天女孩)及更多藝人。\nhttps://www.facebook.com/puliconcert.2026/"
+    },
+    {
+      "id": "upcoming-row-528",
+      "date": "20261024",
+      "band": "band_drsiw0_51",
+      "time": "18:00-21:00",
+      "name": "山城有聲",
+      "location": "南投縣埔里鎮仁愛公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E5%9F%94%E9%87%8C%E9%8E%AE%E4%BB%81%E6%84%9B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間:2026年10月24日 18:00-21:00。卡司包含宇宙人(于台煙)、袁小迪(李子森)、PALLAS(樂天女孩)及更多藝人。\nhttps://www.facebook.com/puliconcert.2026/"
+    },
+    {
+      "id": "upcoming-row-529",
+      "date": "20261024",
+      "band": "rakutengirls",
+      "time": "18:00-21:00",
+      "name": "山城有聲",
+      "location": "南投縣埔里鎮仁愛公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%E5%9F%94%E9%87%8C%E9%8E%AE%E4%BB%81%E6%84%9B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動時間:2026年10月24日 18:00-21:00。卡司包含宇宙人(于台煙)、袁小迪(李子森)、PALLAS(樂天女孩)及更多藝人。\nhttps://www.facebook.com/puliconcert.2026/"
     },
     {
       "id": "upcoming-row-30",
@@ -14777,6 +14823,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "a8be9dab-d1c9-4cd4-8b09-0c85c4c50946",
-  "updatedAt": "2026-10-22T17:20:38.813Z"
+  "revision": "ba0144f1-714c-4350-93b6-423ac60df617",
+  "updatedAt": "2026-10-22T17:26:35.599Z"
 }
