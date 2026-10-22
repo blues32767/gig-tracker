@@ -7,7 +7,7 @@
       "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
-      "eventCount": 58
+      "eventCount": 57
     },
     {
       "id": "gongguan",
@@ -5771,16 +5771,6 @@
       "name": "2026澎湖追風音樂燈光節",
       "location": "澎湖觀音亭園區",
       "note": "［免費］\n卡司:阿金 Mr.King、TRASH、盧廣仲、圭賢\n來源：https://www.threads.com/@penghu_music_fest\n時間：19:30\n地圖：https://www.google.com/maps/search/?api=1&query=%E6%BE%8E%E6%B9%96%E8%A7%80%E9%9F%B3%E4%BA%AD%E5%9C%92%E5%8D%80",
-      "setlist": []
-    },
-    {
-      "id": "EV_20261231_M",
-      "date": "20261231",
-      "band": "mango",
-      "time": "",
-      "name": "本頁面測試維護中",
-      "location": "本頁面測試維護中",
-      "note": "本頁面測試維護中",
       "setlist": []
     },
     {
@@ -14008,5 +13998,5 @@
   },
   "schemaVersion": 2,
   "revision": "6d780a8f-910e-4525-9d34-4bb6df195fee",
-  "updatedAt": "2026-10-22T04:43:42.253Z"
+  "updatedAt": "2026-10-22T04:46:49.557Z"
 }
