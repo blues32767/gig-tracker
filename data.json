@@ -970,6 +970,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_126",
+      "name": "卡尼特",
+      "short": "卡尼特",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_136",
       "name": "金智娟",
       "short": "金智娟",
@@ -3178,14 +3186,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_126",
-      "name": "卡尼特",
-      "short": "卡尼特",
-      "color": "#118ab2",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "band_32tclr_4",
       "name": "泰雅原舞工坊",
       "short": "泰雅原舞工坊",
@@ -3911,6 +3911,94 @@
       "short": "樂天女孩",
       "color": "#ff006e",
       "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_47",
+      "name": "岳均",
+      "short": "岳均",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir",
+      "name": "婕安納音樂學院",
+      "short": "婕安",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir_9",
+      "name": "霧峰國小打擊樂",
+      "short": "霧峰",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_141",
+      "name": "珍妮佛",
+      "short": "珍妮",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir_10",
+      "name": "霧峰國中管樂團",
+      "short": "霧峰",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "shawn",
+      "name": "阿瑄Shawn",
+      "short": "阿瑄",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_23",
+      "name": "山攪板樂團",
+      "short": "山攪",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_142",
+      "name": "梁智凱",
+      "short": "梁智",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "superguest",
+      "name": "Super Guest",
+      "short": "Su",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir_11",
+      "name": "朝陽大學熱舞社",
+      "short": "朝陽",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_i7ayey",
+      "name": "i.F (艾薇+吳霏)",
+      "short": "i.",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -12341,7 +12429,7 @@
       "id": "upcoming-row-305",
       "date": "20261107",
       "band": "band_drsiw0_135",
-      "time": "未公布",
+      "time": "20:00-20:30",
       "name": "台中 阿罩霧草地音樂會",
       "location": "臺中立法院民主議政園區民主草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
@@ -12351,7 +12439,7 @@
       "id": "upcoming-row-306",
       "date": "20261107",
       "band": "band_drsiw0_136",
-      "time": "未公布",
+      "time": "19:30-20:00",
       "name": "台中 阿罩霧草地音樂會",
       "location": "臺中立法院民主議政園區民主草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
@@ -12361,7 +12449,7 @@
       "id": "upcoming-row-307",
       "date": "20261107",
       "band": "band_6gp8um_42",
-      "time": "未公布",
+      "time": "20:30-21:00",
       "name": "台中 阿罩霧草地音樂會",
       "location": "臺中立法院民主議政園區民主草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
@@ -12488,6 +12576,56 @@
       "note": "［免費］\n卡司包含秀蘭瑪雅、曾宥嘉、RIKI、宋德鶴、許富凱。"
     },
     {
+      "id": "upcoming-row-532",
+      "date": "20261107",
+      "band": "band_6gp8um_47",
+      "time": "14:30-15:30",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
+      "id": "upcoming-row-533",
+      "date": "20261107",
+      "band": "band_maaxir",
+      "time": "15:30-16:30",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
+      "id": "upcoming-row-534",
+      "date": "20261107",
+      "band": "band_maaxir_9",
+      "time": "16:50-17:00",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
+      "id": "upcoming-row-535",
+      "date": "20261107",
+      "band": "band_drsiw0_141",
+      "time": "17:45-18:40",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
+      "id": "upcoming-row-536",
+      "date": "20261107",
+      "band": "band_drsiw0_126",
+      "time": "18:40-19:30",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
       "id": "upcoming-row-320",
       "date": "20261108",
       "band": "AmazingShow",
@@ -12591,7 +12729,7 @@
       "id": "upcoming-row-330",
       "date": "20261108",
       "band": "band_qqiyec_5",
-      "time": "未公布",
+      "time": "20:30-21:00",
       "name": "台中 阿罩霧草地音樂會",
       "location": "臺中立法院民主議政園區民主草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
@@ -12601,7 +12739,77 @@
       "id": "upcoming-row-331",
       "date": "20261108",
       "band": "pizzali",
-      "time": "未公布",
+      "time": "19:00-19:30",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
+      "id": "upcoming-row-537",
+      "date": "20261108",
+      "band": "band_maaxir_10",
+      "time": "14:30-14:45",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
+      "id": "upcoming-row-538",
+      "date": "20261108",
+      "band": "shawn",
+      "time": "14:45-15:35",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
+      "id": "upcoming-row-539",
+      "date": "20261108",
+      "band": "band_qqiyec_23",
+      "time": "15:35-16:30",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
+      "id": "upcoming-row-540",
+      "date": "20261108",
+      "band": "band_drsiw0_142",
+      "time": "16:40-17:20",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
+      "id": "upcoming-row-541",
+      "date": "20261108",
+      "band": "superguest",
+      "time": "17:30-18:40",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
+      "id": "upcoming-row-542",
+      "date": "20261108",
+      "band": "band_maaxir_11",
+      "time": "18:40-19:00",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
+      "id": "upcoming-row-543",
+      "date": "20261108",
+      "band": "band_i7ayey",
+      "time": "19:30-20:30",
       "name": "台中 阿罩霧草地音樂會",
       "location": "臺中立法院民主議政園區民主草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
@@ -14843,6 +15051,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "70cf4bed-a1f2-46de-9aa1-1ab266e98900",
-  "updatedAt": "2026-10-22T17:36:45.999Z"
+  "revision": "e7645369-ccd1-445f-9896-7e02ee36974e",
+  "updatedAt": "2026-10-22T17:38:37.810Z"
 }
