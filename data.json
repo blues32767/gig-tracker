@@ -266,6 +266,14 @@
       "eventCount": 4
     },
     {
+      "id": "fei",
+      "name": "吳霏 FEI",
+      "short": "吳霏 FEI",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "FireEX",
       "name": "滅火器",
       "short": "滅火器",
@@ -503,14 +511,6 @@
       "short": "宋德鶴",
       "color": "#118ab2",
       "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "fei",
-      "name": "吳霏 FEI",
-      "short": "吳霏 FEI",
-      "color": "#3a86ff",
-      "category": "個人",
       "eventCount": 3
     },
     {
@@ -13922,6 +13922,16 @@
       "note": "［售票］\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
     },
     {
+      "id": "upcoming-row-613",
+      "date": "20261108",
+      "band": "fei",
+      "time": "未公布",
+      "name": "台中 阿罩霧草地音樂會",
+      "location": "臺中立法院民主議政園區民主草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E7%AB%8B%E6%B3%95%E9%99%A2%E6%B0%91%E4%B8%BB%E8%AD%B0%E6%94%BF%E5%9C%92%E5%8D%80%E6%B0%91%E4%B8%BB%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
+    },
+    {
       "id": "upcoming-row-413",
       "date": "20261111",
       "band": "trash",
@@ -16157,6 +16167,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "04ad9a65-0cdd-4e5a-8b19-fa4d7168ce53",
-  "updatedAt": "2026-10-22T18:04:36.776Z"
+  "revision": "c0896724-31e5-489c-a23f-4556410d9c39",
+  "updatedAt": "2026-10-22T18:05:06.289Z"
 }
