@@ -130,6 +130,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_61",
+      "name": "白頻率",
+      "short": "白頻率",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 6
+    },
+    {
       "id": "band_6gp8um_11",
       "name": "鼓鼓",
       "short": "鼓鼓",
@@ -254,14 +262,6 @@
       "name": "固定客",
       "short": "固定客",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_61",
-      "name": "白頻率",
-      "short": "白頻率",
-      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 4
     },
@@ -14130,6 +14130,16 @@
       "note": "［免費］\n活動時間:2026/11/07 - 11/08。卡司名單:11/07 (施孝榮、金智娟、鄭怡);11/08 (傻子與白痴、PIZZALI、吳霏、艾薇)。\n來源：https://www.facebook.com/share/p/16JgwAMGf78/"
     },
     {
+      "id": "upcoming-row-639",
+      "date": "20261108",
+      "band": "band_drsiw0_61",
+      "time": "未公布",
+      "name": "台中 浪盛開的花朵浪花毛巾",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［售票］\n白頻率 White Frequency 演出,10/30 起售浪花毛巾周邊。"
+    },
+    {
       "id": "upcoming-row-406",
       "date": "20261111",
       "band": "trash",
@@ -16170,6 +16180,16 @@
       "note": "［售票］\n美秀集團2026年12月巡迴專場-台北二場\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
     },
     {
+      "id": "upcoming-row-640",
+      "date": "20261220",
+      "band": "band_drsiw0_61",
+      "time": "未公布",
+      "name": "台中 浪盛開的花朵浪花毛巾",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［售票］\n白頻率 White Frequency 演出,10/30 起售浪花毛巾周邊。"
+    },
+    {
       "id": "upcoming-row-590",
       "date": "20261225",
       "band": "mango",
@@ -16575,6 +16595,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "52db39a3-4679-405a-a7e0-bdb62b0c14b9",
-  "updatedAt": "2026-10-23T18:05:42.630Z"
+  "revision": "28c62f3d-848e-42e3-a142-8438a0ea8dd9",
+  "updatedAt": "2026-10-23T21:04:27.829Z"
 }
