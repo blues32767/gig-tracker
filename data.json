@@ -162,6 +162,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_drsiw0_50",
+      "name": "黃宇寒",
+      "short": "黃宇寒",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "band_drsiw0_85",
       "name": "蕭景鴻",
       "short": "蕭景鴻",
@@ -210,6 +218,14 @@
       "eventCount": 4
     },
     {
+      "id": "WendyWander",
+      "name": "溫蒂漫步",
+      "short": "溫蒂漫步",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "EasyWeeds",
       "name": "溫室雜草",
       "short": "溫室雜草",
@@ -223,14 +239,6 @@
       "short": "FEniX",
       "color": "#8338ec",
       "category": "團體",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_50",
-      "name": "黃宇寒",
-      "short": "黃宇寒",
-      "color": "#ffd166",
-      "category": "個人",
       "eventCount": 4
     },
     {
@@ -254,6 +262,14 @@
       "name": "白頻率",
       "short": "白頻率",
       "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "band_6gp8um_19",
+      "name": "薄暮",
+      "short": "薄暮",
+      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 4
     },
@@ -295,14 +311,6 @@
       "short": "F.F.O",
       "color": "#00b4d8",
       "category": "團體",
-      "eventCount": 3
-    },
-    {
-      "id": "WendyWander",
-      "name": "溫蒂漫步",
-      "short": "溫蒂漫步",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -418,11 +426,35 @@
       "eventCount": 3
     },
     {
+      "id": "band_6u8lrj_13",
+      "name": "異族亡魂",
+      "short": "異族亡魂",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "band_6gp8um_18",
+      "name": "癢癢",
+      "short": "癢癢",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "riki",
       "name": "RIKI",
       "short": "RIKI",
       "color": "#8338ec",
       "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "whoou",
+      "name": "來者何人 Whoou!",
+      "short": "來者何人 Whoou!",
+      "color": "#ffd166",
+      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -450,14 +482,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_6gp8um_19",
-      "name": "薄暮",
-      "short": "薄暮",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "band_6u8lrj_15",
       "name": "擊沈女孩",
       "short": "擊沈",
@@ -470,6 +494,14 @@
       "name": "沈默紳士",
       "short": "沈默紳士",
       "color": "#00b4d8",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "band_6u8lrj_17",
+      "name": "應聲倒地",
+      "short": "應聲倒地",
+      "color": "#06d6a0",
       "category": "團體",
       "eventCount": 3
     },
@@ -610,6 +642,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_19",
+      "name": "邱淑蟬",
+      "short": "邱淑蟬",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_6gp8um_7",
       "name": "寶賤",
       "short": "寶賤",
@@ -706,22 +746,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_6u8lrj_13",
-      "name": "異族亡魂",
-      "short": "異族亡魂",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6gp8um_18",
-      "name": "癢癢",
-      "short": "癢癢",
-      "color": "#118ab2",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_60",
       "name": "羊米人",
       "short": "羊米人",
@@ -746,14 +770,6 @@
       "eventCount": 2
     },
     {
-      "id": "whoou",
-      "name": "來者何人 Whoou!",
-      "short": "來者何人 Whoou!",
-      "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "ohan",
       "name": "OHAN",
       "short": "OHAN",
@@ -767,14 +783,6 @@
       "short": "芒果街老爸",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6u8lrj_17",
-      "name": "應聲倒地",
-      "short": "應聲倒地",
-      "color": "#06d6a0",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -874,6 +882,14 @@
       "eventCount": 2
     },
     {
+      "id": "traego",
+      "name": "粹垢TRAEGO",
+      "short": "粹垢TRAEGO",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "band_6gp8um_27",
       "name": "潤少",
       "short": "潤少",
@@ -918,6 +934,14 @@
       "name": "吐司貓",
       "short": "吐司貓",
       "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "theeon",
+      "name": "THE EON永夜",
+      "short": "THE EON永夜",
+      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 2
     },
@@ -1167,14 +1191,6 @@
       "short": "A Tempo Quartet",
       "color": "#3a86ff",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_19",
-      "name": "邱淑蟬",
-      "short": "邱淑蟬",
-      "color": "#00b4d8",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -2218,14 +2234,6 @@
       "eventCount": 1
     },
     {
-      "id": "traego",
-      "name": "粹垢TRAEGO",
-      "short": "粹垢TRAEGO",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "erika",
       "name": "ERIKA 劉艾立",
       "short": "ERIKA 劉艾立",
@@ -2655,14 +2663,6 @@
       "short": "LAWA",
       "color": "#ffd166",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "theeon",
-      "name": "THE EON永夜",
-      "short": "THE EON永夜",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -4415,6 +4415,78 @@
       "short": "VOOID X ZAZEN BOYS",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "soulsorry",
+      "name": "Soul Sorry",
+      "short": "So",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "backtodream",
+      "name": "夢迴 BackTODream",
+      "short": "夢迴",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_148",
+      "name": "虎小島",
+      "short": "虎小",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "wimpy",
+      "name": "Wimpy",
+      "short": "Wi",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "verrisca",
+      "name": "硝子羊Verrisca",
+      "short": "硝子",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "diepression",
+      "name": "Diepression 戴佩蔓",
+      "short": "Di",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "daydreamkitc",
+      "name": "白日夢廚房 Daydream Kitchen",
+      "short": "白日",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "susan",
+      "name": "Su San",
+      "short": "Su",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "erogent",
+      "name": "工口紳士 Ero Gent",
+      "short": "工口",
+      "color": "#3a86ff",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -10482,6 +10554,116 @@
       "note": "［免費］\n2026/10/25 地點改於新竹縣政府文化局室內舉辦\n卡司包含 LINE UP、脆樂團、傻子與白痴、康士坦的變化球、銅好重奏團、新響大派對。\n新響之夜(2026 新竹縣新響藝術季)於 10/25 舉辦,包含主舞台、喜劇舞台及新響之星舞台多個演出時段。\n來源：https://www.facebook.com/share/p/1CR3MXrMxF/"
     },
     {
+      "id": "upcoming-row-620",
+      "date": "20261025",
+      "band": "whoou",
+      "time": "14:30-14:50",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-621",
+      "date": "20261025",
+      "band": "soulsorry",
+      "time": "14:50-15:10",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-622",
+      "date": "20261025",
+      "band": "theeon",
+      "time": "15:10-15:30",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-623",
+      "date": "20261025",
+      "band": "backtodream",
+      "time": "15:30-15:50",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-624",
+      "date": "20261025",
+      "band": "band_drsiw0_148",
+      "time": "15:50-16:10",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-625",
+      "date": "20261025",
+      "band": "wimpy",
+      "time": "16:10-16:30",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-626",
+      "date": "20261025",
+      "band": "verrisca",
+      "time": "16:30-16:50",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-627",
+      "date": "20261025",
+      "band": "diepression",
+      "time": "16:50-17:10",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-628",
+      "date": "20261025",
+      "band": "band_6u8lrj_13",
+      "time": "17:10-17:30",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-629",
+      "date": "20261025",
+      "band": "daydreamkitc",
+      "time": "17:30-17:50",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-630",
+      "date": "20261025",
+      "band": "susan",
+      "time": "17:50-18:50",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
       "id": "upcoming-row-77",
       "date": "20261026",
       "band": "band_drsiw0_18",
@@ -10620,6 +10802,86 @@
       "location": "桃園市桃園藝文廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
       "note": "［免費］\n活動延期至2026年10月26日,卡司包含黃偉晉、粗大Band、安吉、派偉俊、金琳 & 裴晟秀。主持由寶賤擔任。\n原定活動日期為 2026 年 10 月 24 日。因颱風活動延期,演唱會順延至 2026/10/26(一) 原時段登場\n來源：https://www.facebook.com/share/p/1C1ihFb7Am/"
+    },
+    {
+      "id": "upcoming-row-631",
+      "date": "20261026",
+      "band": "band_drsiw0_50",
+      "time": "11:30-12:00",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-632",
+      "date": "20261026",
+      "band": "band_6u8lrj_17",
+      "time": "12:40-13:20",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-633",
+      "date": "20261026",
+      "band": "traego",
+      "time": "14:00-14:40",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-634",
+      "date": "20261026",
+      "band": "band_drsiw0_19",
+      "time": "14:40-15:20",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-635",
+      "date": "20261026",
+      "band": "band_6gp8um_19",
+      "time": "16:00-16:40",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-636",
+      "date": "20261026",
+      "band": "band_6gp8um_18",
+      "time": "17:20-18:00",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-637",
+      "date": "20261026",
+      "band": "erogent",
+      "time": "18:40-19:20",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-638",
+      "date": "20261026",
+      "band": "WendyWander",
+      "time": "20:10-20:50",
+      "name": "台北 City ROARS! Festival 城市巨響音樂節",
+      "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
     },
     {
       "id": "upcoming-row-92",
@@ -16227,6 +16489,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "fdebd753-1558-4df4-b9d8-9370072fd550",
-  "updatedAt": "2026-10-23T06:31:42.582Z"
+  "revision": "524ef180-8fef-48d1-8bb2-34de48d4ecc0",
+  "updatedAt": "2026-10-23T11:14:41.672Z"
 }
