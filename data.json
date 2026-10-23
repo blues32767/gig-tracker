@@ -4454,7 +4454,7 @@
       "name": "硝子羊Verrisca",
       "short": "硝子羊Verrisca",
       "color": "#118ab2",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -4462,7 +4462,7 @@
       "name": "Diepression 戴佩蔓",
       "short": "Diepression 戴佩蔓",
       "color": "#8338ec",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -4478,7 +4478,7 @@
       "name": "Su San",
       "short": "Su San",
       "color": "#fb5607",
-      "category": "樂團",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -4486,7 +4486,7 @@
       "name": "工口紳士 Ero Gent",
       "short": "工口紳士 Ero Gent",
       "color": "#3a86ff",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -4494,7 +4494,7 @@
       "name": "阿克沃 Awkward",
       "short": "阿克沃 Awkward",
       "color": "#00b4d8",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -15849,7 +15849,7 @@
       "name": "ON FIRE DAY 2026 滅火器高雄巨蛋演唱會",
       "location": "高雄巨蛋",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A9",
-      "note": "［售票］\n結束時間未定"
+      "note": "［售票］\n結束時間未定\n滅火器樂團於高雄巨蛋舉辦兩場演唱會,分別為12月12日(六)及12月13日(日)。"
     },
     {
       "id": "upcoming-row-575",
@@ -16028,8 +16028,8 @@
       "time": "17:30-21:00",
       "name": "ON FIRE DAY 2026 滅火器高雄巨蛋演唱會",
       "location": "高雄巨蛋",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A10",
-      "note": "［售票］\n結束時間未定"
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%8C%97%E5%8D%80%E5%AE%A2%E5%AE%B6%E6%9C%83%E9%A4%A9",
+      "note": "［售票］\n結束時間未定\n滅火器樂團於高雄巨蛋舉辦兩場演唱會,分別為12月12日(六)及12月13日(日)。"
     },
     {
       "id": "upcoming-row-592",
@@ -16517,6 +16517,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "0a8dfb16-5ba5-4c57-b87b-72ca9ab11d46",
-  "updatedAt": "2026-10-23T13:06:42.669Z"
+  "revision": "2ca9041f-d829-4655-8d34-d8f92f9b08a7",
+  "updatedAt": "2026-10-23T14:03:08.836Z"
 }
