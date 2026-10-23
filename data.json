@@ -484,7 +484,7 @@
     {
       "id": "band_6u8lrj_15",
       "name": "擊沈女孩",
-      "short": "擊沈",
+      "short": "擊沈女孩",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 3
@@ -4420,7 +4420,7 @@
     {
       "id": "soulsorry",
       "name": "Soul Sorry",
-      "short": "So",
+      "short": "Soul Sorry",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -4428,23 +4428,23 @@
     {
       "id": "backtodream",
       "name": "夢迴 BackTODream",
-      "short": "夢迴",
+      "short": "夢迴 BackTODream",
       "color": "#ef476f",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
       "id": "band_drsiw0_148",
       "name": "虎小島",
-      "short": "虎小",
+      "short": "虎小島",
       "color": "#ffd166",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 1
     },
     {
       "id": "wimpy",
       "name": "Wimpy",
-      "short": "Wi",
+      "short": "Wimpy",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -4452,7 +4452,7 @@
     {
       "id": "verrisca",
       "name": "硝子羊Verrisca",
-      "short": "硝子",
+      "short": "硝子羊Verrisca",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -4460,7 +4460,7 @@
     {
       "id": "diepression",
       "name": "Diepression 戴佩蔓",
-      "short": "Di",
+      "short": "Diepression 戴佩蔓",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -4468,7 +4468,7 @@
     {
       "id": "daydreamkitc",
       "name": "白日夢廚房 Daydream Kitchen",
-      "short": "白日",
+      "short": "白日夢廚房 Daydream Kitchen",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -4476,7 +4476,7 @@
     {
       "id": "susan",
       "name": "Su San",
-      "short": "Su",
+      "short": "Su San",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -4484,7 +4484,7 @@
     {
       "id": "erogent",
       "name": "工口紳士 Ero Gent",
-      "short": "工口",
+      "short": "工口紳士 Ero Gent",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -4492,7 +4492,7 @@
     {
       "id": "awkward",
       "name": "阿克沃 Awkward",
-      "short": "阿克",
+      "short": "阿克沃 Awkward",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -16518,5 +16518,5 @@
   },
   "schemaVersion": 2,
   "revision": "0a8dfb16-5ba5-4c57-b87b-72ca9ab11d46",
-  "updatedAt": "2026-10-23T12:57:17.272Z"
+  "updatedAt": "2026-10-23T13:06:42.669Z"
 }
