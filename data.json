@@ -4490,6 +4490,14 @@
       "eventCount": 1
     },
     {
+      "id": "awkward",
+      "name": "阿克沃 Awkward",
+      "short": "阿克",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -16262,6 +16270,16 @@
       "location": "未公布",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
       "note": ""
+    },
+    {
+      "id": "upcoming-row-640",
+      "date": "20270102",
+      "band": "awkward",
+      "time": "未公布",
+      "name": "台北 阿克沃Awkward追蹤首張專輯《裂縫之間》發片場",
+      "location": "LIVE WAREHOUSE 小庫",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=SUB",
+      "note": "［免費］\n阿克沃Awkward追蹤首張專輯《裂縫之間》於全平台上架,舉辦台北站發片場。"
     }
   ],
   "songsMap": {
@@ -16499,6 +16517,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d2588ab7-83cf-439a-b89e-55b0a9f4f16d",
-  "updatedAt": "2026-10-23T12:06:45.916Z"
+  "revision": "50400549-0c54-44fb-b0ca-0914281d39a5",
+  "updatedAt": "2026-10-23T12:07:28.384Z"
 }
