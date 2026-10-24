@@ -10102,7 +10102,7 @@
       "time": "",
       "name": "台北 阿克沃Awkward追蹤首張專輯《裂縫之間》發片場",
       "location": "SUB",
-      "note": "［免費］\n阿克沃Awkward追蹤首張專輯《裂縫之間》於全平台上架,舉辦台北站發片場。\n地圖：https://www.google.com/maps/search/?api=1&query=SUB",
+      "note": "［免費］\n阿克沃Awkward追蹤首張專輯《裂縫之間》於全平台上架,舉辦台北站發片場。\n地圖:https://www.google.com/maps/search/?api=1&query=SUB",
       "setlist": []
     },
     {
@@ -10112,7 +10112,7 @@
       "time": "",
       "name": "高雄 阿克沃Awkward追蹤首張專輯《裂縫之間》發片場",
       "location": "LIVE WAREHOUSE 小庫",
-      "note": "［免費］\n阿克沃Awkward追蹤首張專輯《裂縫之間》於全平台上架,舉辦高雄站發片場。\n地圖：https://www.google.com/maps/search/?api=1&query=LIVE%20WAREHOUSE%20%E5%B0%8F%E5%BA%AB",
+      "note": "［免費］\n阿克沃Awkward追蹤首張專輯《裂縫之間》於全平台上架,舉辦高雄站發片場。\n地圖:https://www.google.com/maps/search/?api=1&query=LIVE%20WAREHOUSE%20%E5%B0%8F%E5%BA%AB",
       "setlist": []
     }
   ],
@@ -17013,6 +17013,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "dbe63260-a7cd-4960-9c5d-b5442e053f22",
-  "updatedAt": "2026-10-24T06:06:24.702Z"
+  "revision": "49f9b2e6-ace3-4e1d-a830-262e7b91dfcb",
+  "updatedAt": "2026-10-24T06:07:14.062Z"
 }
