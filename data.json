@@ -618,6 +618,14 @@
       "eventCount": 3
     },
     {
+      "id": "awkward",
+      "name": "阿克沃 Awkward",
+      "short": "阿克沃 Awkward",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "crossmetal",
       "name": "手合鐵鼓 CrossMetal",
       "short": "手合",
@@ -4494,14 +4502,6 @@
       "name": "工口紳士 Ero Gent",
       "short": "工口紳士 Ero Gent",
       "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "awkward",
-      "name": "阿克沃 Awkward",
-      "short": "阿克沃 Awkward",
-      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
     },
@@ -10045,6 +10045,26 @@
       "name": "山釀青春演唱會",
       "location": "苗栗縣巨蛋體育館",
       "note": "［免費］\n【10/24 魅栗青春】卡司:玖壹壹、艾薇、陳思瑋、蔡亞露、寶弟(葛兆恩)、林福臨 & 張詠婕、Give me five少女隊。主持人:白冰冰。\n備註:索票時間為 10/08 16:00-22:00,實名制登記限領一次,每場限索4張。\n地圖：https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "setlist": []
+    },
+    {
+      "id": "EV_20251219_AWKW_6bc8c5",
+      "date": "20251219",
+      "band": "awkward",
+      "time": "",
+      "name": "台北 阿克沃Awkward追蹤首張專輯《裂縫之間》發片場",
+      "location": "SUB",
+      "note": "［免費］\n阿克沃Awkward追蹤首張專輯《裂縫之間》於全平台上架,舉辦台北站發片場。\n地圖：https://www.google.com/maps/search/?api=1&query=SUB",
+      "setlist": []
+    },
+    {
+      "id": "EV_20260102_AWKW_deb62f",
+      "date": "20260102",
+      "band": "awkward",
+      "time": "",
+      "name": "高雄 阿克沃Awkward追蹤首張專輯《裂縫之間》發片場",
+      "location": "LIVE WAREHOUSE 小庫",
+      "note": "［免費］\n阿克沃Awkward追蹤首張專輯《裂縫之間》於全平台上架,舉辦高雄站發片場。\n地圖：https://www.google.com/maps/search/?api=1&query=LIVE%20WAREHOUSE%20%E5%B0%8F%E5%BA%AB",
       "setlist": []
     }
   ],
@@ -16855,6 +16875,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "8f14b569-1eb6-42af-b1c0-67ee7141b1aa",
-  "updatedAt": "2026-10-24T00:40:50.354Z"
+  "revision": "33762527-bd16-4dcd-a0c4-37b948cd01f4",
+  "updatedAt": "2026-10-24T03:04:43.689Z"
 }
