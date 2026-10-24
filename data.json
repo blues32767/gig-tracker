@@ -66,6 +66,14 @@
       "eventCount": 7
     },
     {
+      "id": "trash",
+      "name": "TRASH",
+      "short": "TRASH",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
       "id": "icyball",
       "name": "冰球樂團",
       "short": "冰球樂團",
@@ -106,14 +114,6 @@
       "eventCount": 6
     },
     {
-      "id": "trash",
-      "name": "TRASH",
-      "short": "TRASH",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 6
-    },
-    {
       "id": "band_qqiyec_5",
       "name": "艾薇",
       "short": "艾薇",
@@ -151,6 +151,14 @@
       "short": "163braces",
       "color": "#118ab2",
       "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "EasyWeeds",
+      "name": "溫室雜草",
+      "short": "溫室雜草",
+      "color": "#8338ec",
+      "category": "樂團",
       "eventCount": 5
     },
     {
@@ -230,14 +238,6 @@
       "name": "溫蒂漫步",
       "short": "溫蒂漫步",
       "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "EasyWeeds",
-      "name": "溫室雜草",
-      "short": "溫室雜草",
-      "color": "#8338ec",
       "category": "樂團",
       "eventCount": 4
     },
@@ -514,6 +514,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_6gp8um_20",
+      "name": "烈鷹",
+      "short": "烈鷹",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
       "id": "Bestards",
       "name": "理想混蛋",
       "short": "理想混蛋",
@@ -586,6 +594,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_112",
+      "name": "陳忻玥",
+      "short": "陳忻玥",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "djswallow",
       "name": "DJ Swallow妖嬌",
       "short": "DJ Swallow妖嬌",
@@ -599,6 +615,14 @@
       "short": "Multiverse Music",
       "color": "#8338ec",
       "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "crossmetal",
+      "name": "手合鐵鼓 CrossMetal",
+      "short": "手合",
+      "color": "#06d6a0",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -679,6 +703,14 @@
       "short": "孝琳",
       "color": "#fb5607",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_15",
+      "name": "眠氣",
+      "short": "眠氣",
+      "color": "#06d6a0",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -783,14 +815,6 @@
       "short": "芒果街老爸",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6gp8um_20",
-      "name": "烈鷹",
-      "short": "烈鷹",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -978,14 +1002,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_112",
-      "name": "陳忻玥",
-      "short": "陳忻玥",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "nuts",
       "name": "核果人 NUTS",
       "short": "核果人",
@@ -1007,6 +1023,14 @@
       "short": "謝金燕",
       "color": "#06d6a0",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_qqiyec_18",
+      "name": "腦體馬戲團",
+      "short": "腦體馬戲團",
+      "color": "#2ec4b6",
+      "category": "團體",
       "eventCount": 2
     },
     {
@@ -1598,14 +1622,6 @@
       "name": "TNX",
       "short": "TNX",
       "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_15",
-      "name": "眠氣",
-      "short": "眠氣",
-      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
     },
@@ -3186,14 +3202,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_qqiyec_18",
-      "name": "腦體馬戲團",
-      "short": "腦體馬戲團",
-      "color": "#2ec4b6",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_124",
       "name": "曾允成",
       "short": "曾允成",
@@ -4501,6 +4509,78 @@
       "id": "band_drsiw0_149",
       "name": "許景淳",
       "short": "許景",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_45",
+      "name": "海豚刑警",
+      "short": "海豚",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "rainyknight",
+      "name": "RainyKnight",
+      "short": "Ra",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "piscoband",
+      "name": "piscoband",
+      "short": "pi",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_46",
+      "name": "香蕉哥哥",
+      "short": "香蕉",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "fumon",
+      "name": "福夢 FUMON",
+      "short": "福夢",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "majorinbodyb",
+      "name": "體熊專科 MajorInBodyBear",
+      "short": "體熊",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "itsyourfault",
+      "name": "問題總部 ItsYourFault",
+      "short": "問題",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "shawn_1",
+      "name": "Shawn 尚融",
+      "short": "Sh",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "wildthing",
+      "name": "野東西 WILDTHING",
+      "short": "野東",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -10210,6 +10290,66 @@
       "note": "［免費］\n原定10/24活動因颱風延期舉辦。\n延期來源:https://www.facebook.com/share/p/1QdVwKQM7J/\n活動時間:2026年10月24日 18:00-21:00。卡司包含宇宙人、于台煙、袁小迪、李子森、、PALLAS(樂天女孩)及更多藝人。\nPALLAS 帕拉斯演出,目標成為激勵這個世代的花火。\n來源：https://www.facebook.com/share/p/1QdVwKQM7J/"
     },
     {
+      "id": "upcoming-row-641",
+      "date": "20261024",
+      "band": "band_6gp8um_20",
+      "time": "11:00-11:30",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-642",
+      "date": "20261024",
+      "band": "band_6u8lrj_45",
+      "time": "12:30-13:00",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-643",
+      "date": "20261024",
+      "band": "rainyknight",
+      "time": "14:00-14:30",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-644",
+      "date": "20261024",
+      "band": "EasyWeeds",
+      "time": "15:30-16:00",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-645",
+      "date": "20261024",
+      "band": "crossmetal",
+      "time": "17:00-17:40",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-646",
+      "date": "20261024",
+      "band": "band_drsiw0_112",
+      "time": "18:40-19:10",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
       "id": "upcoming-row-26",
       "date": "20261025",
       "band": "papunband",
@@ -10680,6 +10820,66 @@
       "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
     },
     {
+      "id": "upcoming-row-647",
+      "date": "20261025",
+      "band": "band_qqiyec_18",
+      "time": "11:00-11:30",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-648",
+      "date": "20261025",
+      "band": "band_6gp8um_15",
+      "time": "12:30-13:00",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-649",
+      "date": "20261025",
+      "band": "piscoband",
+      "time": "14:00-14:30",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-650",
+      "date": "20261025",
+      "band": "band_6u8lrj_46",
+      "time": "15:30-16:00",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-651",
+      "date": "20261025",
+      "band": "crossmetal",
+      "time": "17:00-17:40",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-652",
+      "date": "20261025",
+      "band": "fumon",
+      "time": "18:40-19:10",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
       "id": "upcoming-row-70",
       "date": "20261026",
       "band": "band_drsiw0_18",
@@ -10898,6 +11098,66 @@
       "location": "迴響音樂展演空間 / 中山73影視藝文空間 / 東協廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BF%B4%E9%9F%BF%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93%20%2F%20%E4%B8%AD%E5%B1%B173%E5%BD%B1%E8%A6%96%E8%97%9D%E6%96%87%E7%A9%BA%E9%96%93%20%2F%20%E6%9D%B1%E5%8D%94%E5%BB%A3%E5%A0%B4",
       "note": "［免費］\n城市巨響音樂節,包含紀錄片放映會與多組樂團演出。\n來源：https://www.threads.com/share/BAtX3-DgwZ/"
+    },
+    {
+      "id": "upcoming-row-653",
+      "date": "20261026",
+      "band": "majorinbodyb",
+      "time": "11:00-11:30",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-654",
+      "date": "20261026",
+      "band": "itsyourfault",
+      "time": "12:30-13:00",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-655",
+      "date": "20261026",
+      "band": "shawn_1",
+      "time": "14:00-14:30",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-656",
+      "date": "20261026",
+      "band": "wildthing",
+      "time": "15:30-16:00",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-657",
+      "date": "20261026",
+      "band": "crossmetal",
+      "time": "17:00-17:40",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
+    },
+    {
+      "id": "upcoming-row-658",
+      "date": "20261026",
+      "band": "trash",
+      "time": "18:40-19:10",
+      "name": "雲林 2026 囪擊音樂祭",
+      "location": "十鼓文創園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
+      "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。"
     },
     {
       "id": "upcoming-row-85",
@@ -16595,6 +16855,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7b28147e-d185-49e0-b678-562cd86b548f",
-  "updatedAt": "2026-10-23T23:56:14.789Z"
+  "revision": "d3b99268-bd4f-418b-b1b6-ce3d4cb6613f",
+  "updatedAt": "2026-10-24T00:36:39.243Z"
 }
