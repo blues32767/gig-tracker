@@ -23,7 +23,7 @@
       "short": "公館青少年",
       "color": "#2a9d8f",
       "category": "樂團",
-      "eventCount": 14
+      "eventCount": 15
     },
     {
       "id": "papunband",
@@ -4607,6 +4607,30 @@
       "short": "小芙",
       "color": "#06d6a0",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_151",
+      "name": "聖結石",
+      "short": "聖結",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_51",
+      "name": "齊翔",
+      "short": "齊翔",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_52",
+      "name": "郁欣",
+      "short": "郁欣",
+      "color": "#ff006e",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -14974,6 +14998,46 @@
       "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。"
     },
     {
+      "id": "upcoming-row-664",
+      "date": "20261114",
+      "band": "band_drsiw0_151",
+      "time": "未公布",
+      "name": "台北 大同大學校慶《破浪狂潮》演唱會",
+      "location": "台北市大同大學尚志教育研究館(白宮)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%A4%A7%E5%AD%B8%E5%B0%9A%E5%BF%97%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E9%A4%A8(%E7%99%BD%E5%AE%AE)",
+      "note": "［售票］\n大同大學校慶演唱會,卡司包含聖結石、齊翔、郁欣、公館青少年等,主持人雨婷。"
+    },
+    {
+      "id": "upcoming-row-665",
+      "date": "20261114",
+      "band": "band_6gp8um_51",
+      "time": "未公布",
+      "name": "台北 大同大學校慶《破浪狂潮》演唱會",
+      "location": "台北市大同大學尚志教育研究館(白宮)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%A4%A7%E5%AD%B8%E5%B0%9A%E5%BF%97%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E9%A4%A8(%E7%99%BD%E5%AE%AE)",
+      "note": "［售票］\n大同大學校慶演唱會,卡司包含聖結石、齊翔、郁欣、公館青少年等,主持人雨婷。"
+    },
+    {
+      "id": "upcoming-row-666",
+      "date": "20261114",
+      "band": "band_6gp8um_52",
+      "time": "未公布",
+      "name": "台北 大同大學校慶《破浪狂潮》演唱會",
+      "location": "台北市大同大學尚志教育研究館(白宮)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%A4%A7%E5%AD%B8%E5%B0%9A%E5%BF%97%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E9%A4%A8(%E7%99%BD%E5%AE%AE)",
+      "note": "［售票］\n大同大學校慶演唱會,卡司包含聖結石、齊翔、郁欣、公館青少年等,主持人雨婷。"
+    },
+    {
+      "id": "upcoming-row-667",
+      "date": "20261114",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "台北 大同大學校慶《破浪狂潮》演唱會",
+      "location": "台北市大同大學尚志教育研究館(白宮)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%A4%A7%E5%AD%B8%E5%B0%9A%E5%BF%97%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E9%A4%A8(%E7%99%BD%E5%AE%AE)",
+      "note": "［售票］\n大同大學校慶演唱會,卡司包含聖結石、齊翔、郁欣、公館青少年等,主持人雨婷。"
+    },
+    {
       "id": "upcoming-row-454",
       "date": "20261115",
       "band": "papunband",
@@ -16949,6 +17013,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7de6fa27-ddc7-42db-a316-8de52866725f",
-  "updatedAt": "2026-10-24T03:06:53.229Z"
+  "revision": "dbe63260-a7cd-4960-9c5d-b5442e053f22",
+  "updatedAt": "2026-10-24T06:06:24.702Z"
 }
