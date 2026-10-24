@@ -122,6 +122,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_50",
+      "name": "黃宇寒",
+      "short": "黃宇寒",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "band_qqiyec_5",
       "name": "傻子與白痴",
       "short": "傻白",
@@ -174,14 +182,6 @@
       "name": "C.HOLLY",
       "short": "C.HOLLY",
       "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_drsiw0_50",
-      "name": "黃宇寒",
-      "short": "黃宇寒",
-      "color": "#ffd166",
       "category": "個人",
       "eventCount": 5
     },
@@ -586,6 +586,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_88",
+      "name": "畢書盡",
+      "short": "畢書盡",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_35",
       "name": "上山",
       "short": "上山",
@@ -943,14 +951,6 @@
       "short": "A_Root 同根生 feat. 蔡家蓁",
       "color": "#ffd166",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_88",
-      "name": "畢書盡",
-      "short": "畢書盡",
-      "color": "#8338ec",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -4583,6 +4583,30 @@
       "short": "野東",
       "color": "#2ec4b6",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_150",
+      "name": "舞思愛",
+      "short": "舞思",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "hur",
+      "name": "HUR+",
+      "short": "HU",
+      "color": "#ffd166",
+      "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_24",
+      "name": "小芙尼家族",
+      "short": "小芙",
+      "color": "#06d6a0",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -15240,6 +15264,56 @@
       "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
+      "id": "upcoming-row-659",
+      "date": "20261115",
+      "band": "band_drsiw0_88",
+      "time": "未公布",
+      "name": "桃園 2026 桃園市新住民暨多元文化故鄉季",
+      "location": "桃園藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含畢書盡、舞思愛、黃宇寒、HUR+(林詩雅、香蘭)、小芙尼家族"
+    },
+    {
+      "id": "upcoming-row-660",
+      "date": "20261115",
+      "band": "band_drsiw0_150",
+      "time": "未公布",
+      "name": "桃園 2026 桃園市新住民暨多元文化故鄉季",
+      "location": "桃園藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含畢書盡、舞思愛、黃宇寒、HUR+(林詩雅、香蘭)、小芙尼家族"
+    },
+    {
+      "id": "upcoming-row-661",
+      "date": "20261115",
+      "band": "band_drsiw0_50",
+      "time": "未公布",
+      "name": "桃園 2026 桃園市新住民暨多元文化故鄉季",
+      "location": "桃園藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含畢書盡、舞思愛、黃宇寒、HUR+(林詩雅、香蘭)、小芙尼家族"
+    },
+    {
+      "id": "upcoming-row-662",
+      "date": "20261115",
+      "band": "hur",
+      "time": "未公布",
+      "name": "桃園 2026 桃園市新住民暨多元文化故鄉季",
+      "location": "桃園藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含畢書盡、舞思愛、黃宇寒、HUR+(林詩雅、香蘭)、小芙尼家族"
+    },
+    {
+      "id": "upcoming-row-663",
+      "date": "20261115",
+      "band": "band_qqiyec_24",
+      "time": "未公布",
+      "name": "桃園 2026 桃園市新住民暨多元文化故鄉季",
+      "location": "桃園藝文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E8%97%9D%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含畢書盡、舞思愛、黃宇寒、HUR+(林詩雅、香蘭)、小芙尼家族"
+    },
+    {
       "id": "upcoming-row-483",
       "date": "20261119",
       "band": "band_drsiw0_85",
@@ -16875,6 +16949,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "33762527-bd16-4dcd-a0c4-37b948cd01f4",
-  "updatedAt": "2026-10-24T03:04:43.689Z"
+  "revision": "7de6fa27-ddc7-42db-a316-8de52866725f",
+  "updatedAt": "2026-10-24T03:06:53.229Z"
 }
