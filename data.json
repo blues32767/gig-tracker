@@ -714,6 +714,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_45",
+      "name": "梁文音",
+      "short": "梁文音",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_6gp8um_13",
       "name": "孝琳",
       "short": "孝琳",
@@ -1070,6 +1078,14 @@
       "name": "鄭怡",
       "short": "鄭怡",
       "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_16",
+      "name": "張文綺",
+      "short": "張文綺",
+      "color": "#ff006e",
       "category": "個人",
       "eventCount": 2
     },
@@ -1574,14 +1590,6 @@
       "name": "厲旭",
       "short": "厲旭",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_45",
-      "name": "梁文音",
-      "short": "梁文音",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
     },
@@ -3610,14 +3618,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_16",
-      "name": "張文綺",
-      "short": "張文綺",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_6gp8um_44",
       "name": "陳雷",
       "short": "陳雷",
@@ -4646,6 +4646,22 @@
       "name": "曾沛慈",
       "short": "曾沛",
       "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_153",
+      "name": "彭佳慧",
+      "short": "彭佳",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_154",
+      "name": "蘇侯宇",
+      "short": "蘇侯",
+      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
     },
@@ -16554,6 +16570,46 @@
       "note": "［售票］\n美秀集團2026年12月巡迴專場-台中一場\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
     },
     {
+      "id": "upcoming-row-608",
+      "date": "20261212",
+      "band": "band_drsiw0_153",
+      "time": "未公布",
+      "name": "彰化 社頭織襪芭樂觀光節",
+      "location": "彰化縣社頭鄉果菜市場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
+      "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
+    },
+    {
+      "id": "upcoming-row-609",
+      "date": "20261212",
+      "band": "band_drsiw0_45",
+      "time": "未公布",
+      "name": "彰化 社頭織襪芭樂觀光節",
+      "location": "彰化縣社頭鄉果菜市場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
+      "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
+    },
+    {
+      "id": "upcoming-row-610",
+      "date": "20261212",
+      "band": "band_drsiw0_16",
+      "time": "未公布",
+      "name": "彰化 社頭織襪芭樂觀光節",
+      "location": "彰化縣社頭鄉果菜市場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
+      "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
+    },
+    {
+      "id": "upcoming-row-611",
+      "date": "20261212",
+      "band": "band_drsiw0_154",
+      "time": "未公布",
+      "name": "彰化 社頭織襪芭樂觀光節",
+      "location": "彰化縣社頭鄉果菜市場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E7%A4%BE%E9%A0%AD%E9%84%89%E6%9E%9C%E8%8F%9C%E5%B8%82%E5%A0%B4",
+      "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
+    },
+    {
       "id": "upcoming-row-542",
       "date": "20261213",
       "band": "mango",
@@ -17069,6 +17125,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "dc6954f6-90f3-478d-8ba4-ea0d102b9d60",
-  "updatedAt": "2026-10-25T21:11:01.908Z"
+  "revision": "220588a4-d790-44f5-904b-cc86b4a451ac",
+  "updatedAt": "2026-10-26T03:05:49.439Z"
 }
