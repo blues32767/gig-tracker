@@ -39,7 +39,7 @@
       "short": "PIZZALI",
       "color": "#06d6a0",
       "category": "個人",
-      "eventCount": 8
+      "eventCount": 9
     },
     {
       "id": "band_drsiw0_25",
@@ -70,6 +70,22 @@
       "name": "TRASH",
       "short": "TRASH",
       "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
+      "id": "band_qqiyec_5",
+      "name": "艾薇",
+      "short": "艾薇",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
+      "id": "band_qqiyec_5",
+      "name": "傻子與白痴",
+      "short": "傻白",
+      "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 7
     },
@@ -114,27 +130,11 @@
       "eventCount": 6
     },
     {
-      "id": "band_qqiyec_5",
-      "name": "艾薇",
-      "short": "艾薇",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 6
-    },
-    {
       "id": "band_drsiw0_50",
       "name": "黃宇寒",
       "short": "黃宇寒",
       "color": "#ffd166",
       "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "band_qqiyec_5",
-      "name": "傻子與白痴",
-      "short": "傻白",
-      "color": "#3a86ff",
-      "category": "樂團",
       "eventCount": 6
     },
     {
@@ -694,6 +694,14 @@
       "name": "邱淑蟬",
       "short": "邱淑蟬",
       "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_21",
+      "name": "林可綸",
+      "short": "林可綸",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -1327,14 +1335,6 @@
       "short": "慶記",
       "color": "#ffd166",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_21",
-      "name": "林可綸",
-      "short": "林可綸",
-      "color": "#118ab2",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -4662,6 +4662,14 @@
       "name": "蘇侯宇",
       "short": "蘇侯",
       "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_155",
+      "name": "吳昱廷",
+      "short": "吳昱",
+      "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
     },
@@ -15450,6 +15458,46 @@
       "note": "［免費］\n卡司包含畢書盡、舞思愛、黃宇寒、HUR+(林詩雅、香蘭)、小芙尼家族 1"
     },
     {
+      "id": "upcoming-row-612",
+      "date": "20261118",
+      "band": "band_qqiyec_5",
+      "time": "未公布",
+      "name": "高雄 屬於我們的46Hz 中山大學校慶演唱會",
+      "location": "高雄市國立中山大學國父銅像前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%9C%8B%E7%AB%8B%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%B8%E5%9C%8B%E7%88%B6%E9%8A%85%E5%83%8F%E5%89%8D",
+      "note": "［免費］\n活動於11/18 17:40 開始入場,卡司包含艾薇、林可綸、吳昱廷、PIZZALI,主持人為木木。"
+    },
+    {
+      "id": "upcoming-row-613",
+      "date": "20261118",
+      "band": "band_drsiw0_21",
+      "time": "未公布",
+      "name": "高雄 屬於我們的46Hz 中山大學校慶演唱會",
+      "location": "高雄市國立中山大學國父銅像前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%9C%8B%E7%AB%8B%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%B8%E5%9C%8B%E7%88%B6%E9%8A%85%E5%83%8F%E5%89%8D",
+      "note": "［免費］\n活動於11/18 17:40 開始入場,卡司包含艾薇、林可綸、吳昱廷、PIZZALI,主持人為木木。"
+    },
+    {
+      "id": "upcoming-row-614",
+      "date": "20261118",
+      "band": "band_drsiw0_155",
+      "time": "未公布",
+      "name": "高雄 屬於我們的46Hz 中山大學校慶演唱會",
+      "location": "高雄市國立中山大學國父銅像前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%9C%8B%E7%AB%8B%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%B8%E5%9C%8B%E7%88%B6%E9%8A%85%E5%83%8F%E5%89%8D",
+      "note": "［免費］\n活動於11/18 17:40 開始入場,卡司包含艾薇、林可綸、吳昱廷、PIZZALI,主持人為木木。"
+    },
+    {
+      "id": "upcoming-row-615",
+      "date": "20261118",
+      "band": "pizzali",
+      "time": "未公布",
+      "name": "高雄 屬於我們的46Hz 中山大學校慶演唱會",
+      "location": "高雄市國立中山大學國父銅像前",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%9C%8B%E7%AB%8B%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%B8%E5%9C%8B%E7%88%B6%E9%8A%85%E5%83%8F%E5%89%8D",
+      "note": "［免費］\n活動於11/18 17:40 開始入場,卡司包含艾薇、林可綸、吳昱廷、PIZZALI,主持人為木木。"
+    },
+    {
       "id": "upcoming-row-442",
       "date": "20261119",
       "band": "band_drsiw0_85",
@@ -17125,6 +17173,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "220588a4-d790-44f5-904b-cc86b4a451ac",
-  "updatedAt": "2026-10-26T03:05:49.439Z"
+  "revision": "88c9b142-2e76-4648-92e7-61d7ce969dde",
+  "updatedAt": "2026-10-26T12:04:46.308Z"
 }
