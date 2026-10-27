@@ -250,6 +250,14 @@
       "eventCount": 4
     },
     {
+      "id": "ozone",
+      "name": "Ozone",
+      "short": "Ozone",
+      "color": "#ffd166",
+      "category": "團體",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_58",
       "name": "麋先生",
       "short": "麋先生",
@@ -375,14 +383,6 @@
       "short": "李翊君",
       "color": "#00b4d8",
       "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "ozone",
-      "name": "Ozone",
-      "short": "Ozone",
-      "color": "#ffd166",
-      "category": "團體",
       "eventCount": 3
     },
     {
@@ -4686,6 +4686,22 @@
       "name": "丁噹",
       "short": "丁噹",
       "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "arieltsai",
+      "name": "Ariel Tsai 蔡佩軒",
+      "short": "Ar",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "yoyo_1",
+      "name": "YOYO 哥哥姐姐",
+      "short": "YO",
+      "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
     },
@@ -12494,6 +12510,16 @@
       "note": "［售票］\n近期演出,連結可購票。"
     },
     {
+      "id": "upcoming-row-592",
+      "date": "20261031",
+      "band": "ozone",
+      "time": "10:00-19:00",
+      "name": "雲林 2026 台灣咖啡節",
+      "location": "雲林縣古坑鄉綠色隧道公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E5%8F%A4%E5%9D%91%E9%84%89%E7%B6%A0%E8%89%B2%E9%9A%A7%E9%81%93%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n開幕嘉賓 Ozone 小分隊(周祖安、李哲言、林煥鈞)於 10/31;閉幕嘉賓 Ariel Tsai 蔡佩軒及 YOYO 哥哥姐姐於 11/8。活動時間為每日 10:00–19:00。"
+    },
+    {
       "id": "upcoming-row-150",
       "date": "20261101",
       "band": "papunband",
@@ -14522,6 +14548,26 @@
       "location": "未公布",
       "mapLink": "",
       "note": "［售票］\n白頻率 White Frequency 演出,10/30 起售浪花毛巾周邊。"
+    },
+    {
+      "id": "upcoming-row-593",
+      "date": "20261108",
+      "band": "arieltsai",
+      "time": "10:00-19:00",
+      "name": "雲林 2026 台灣咖啡節",
+      "location": "雲林縣古坑鄉綠色隧道公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E5%8F%A4%E5%9D%91%E9%84%89%E7%B6%A0%E8%89%B2%E9%9A%A7%E9%81%93%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n開幕嘉賓 Ozone 小分隊(周祖安、李哲言、林煥鈞)於 10/31;閉幕嘉賓 Ariel Tsai 蔡佩軒及 YOYO 哥哥姐姐於 11/8。活動時間為每日 10:00–19:00。"
+    },
+    {
+      "id": "upcoming-row-594",
+      "date": "20261108",
+      "band": "yoyo_1",
+      "time": "10:00-19:00",
+      "name": "雲林 2026 台灣咖啡節",
+      "location": "雲林縣古坑鄉綠色隧道公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E5%8F%A4%E5%9D%91%E9%84%89%E7%B6%A0%E8%89%B2%E9%9A%A7%E9%81%93%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n開幕嘉賓 Ozone 小分隊(周祖安、李哲言、林煥鈞)於 10/31;閉幕嘉賓 Ariel Tsai 蔡佩軒及 YOYO 哥哥姐姐於 11/8。活動時間為每日 10:00–19:00。"
     },
     {
       "id": "upcoming-row-351",
@@ -17229,6 +17275,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "620a6bfb-e7d9-40ea-b7d5-27ed326bfcfc",
-  "updatedAt": "2026-10-27T06:05:18.222Z"
+  "revision": "f6d2c7f6-2c01-4f7a-8547-e8bac7a6de50",
+  "updatedAt": "2026-10-27T06:06:32.034Z"
 }
