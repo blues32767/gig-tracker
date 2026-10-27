@@ -58,6 +58,22 @@
       "eventCount": 8
     },
     {
+      "id": "band_qqiyec_5",
+      "name": "艾薇",
+      "short": "艾薇",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 8
+    },
+    {
+      "id": "band_qqiyec_5",
+      "name": "傻子與白痴",
+      "short": "傻白",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 8
+    },
+    {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
@@ -70,22 +86,6 @@
       "name": "甜約翰",
       "short": "甜約翰",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 7
-    },
-    {
-      "id": "band_qqiyec_5",
-      "name": "艾薇",
-      "short": "艾薇",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 7
-    },
-    {
-      "id": "band_qqiyec_5",
-      "name": "傻子與白痴",
-      "short": "傻白",
-      "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 7
     },
@@ -194,6 +194,14 @@
       "eventCount": 5
     },
     {
+      "id": "fei",
+      "name": "吳霏 FEI",
+      "short": "吳霏 FEI",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "band_drsiw0_85",
       "name": "蕭景鴻",
       "short": "蕭景鴻",
@@ -286,14 +294,6 @@
       "name": "陳勢安",
       "short": "陳勢安",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "fei",
-      "name": "吳霏 FEI",
-      "short": "吳霏 FEI",
-      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 4
     },
@@ -530,11 +530,27 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_71",
+      "name": "曾愷妤",
+      "short": "曾愷妤",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_6u8lrj_20",
       "name": "椅子樂團",
       "short": "椅子樂團",
       "color": "#06d6a0",
       "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "sinby",
+      "name": "欣菲 Sinby",
+      "short": "欣菲",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -858,14 +874,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_71",
-      "name": "曾愷妤",
-      "short": "曾愷妤",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_72",
       "name": "謝語恩",
       "short": "謝語恩",
@@ -887,14 +895,6 @@
       "short": "即將成真火舞團",
       "color": "#fb5607",
       "category": "團體",
-      "eventCount": 2
-    },
-    {
-      "id": "sinby",
-      "name": "欣菲 Sinby",
-      "short": "欣菲",
-      "color": "#00b4d8",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -4703,6 +4703,14 @@
       "short": "YO",
       "color": "#8338ec",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "sam3pay",
+      "name": "SAM3PAY",
+      "short": "SA",
+      "color": "#ff006e",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -13240,6 +13248,56 @@
       "note": "［免費］\n卡司:許富凱、白安、草屯囝仔、郭家瑋、Willy 簡嘉彣。時間:2026/11/04 17:00-20:00。地點:高雄市正修科技大學人文廣場。"
     },
     {
+      "id": "upcoming-row-595",
+      "date": "20261104",
+      "band": "band_qqiyec_5",
+      "time": "未公布",
+      "name": "新竹 元音盃歌唱決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於11/4(六)下午5:30-9:30在新竹市元培醫事科技大學圓形廣場舉辦,歡迎校外人士參加。卡司包含艾薇、吳霏、欣菲、BIDO曾愷妤、SAM3PAY,並由聖恩主持。"
+    },
+    {
+      "id": "upcoming-row-596",
+      "date": "20261104",
+      "band": "fei",
+      "time": "未公布",
+      "name": "新竹 元音盃歌唱決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於11/4(六)下午5:30-9:30在新竹市元培醫事科技大學圓形廣場舉辦,歡迎校外人士參加。卡司包含艾薇、吳霏、欣菲、BIDO曾愷妤、SAM3PAY,並由聖恩主持。"
+    },
+    {
+      "id": "upcoming-row-597",
+      "date": "20261104",
+      "band": "sinby",
+      "time": "未公布",
+      "name": "新竹 元音盃歌唱決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於11/4(六)下午5:30-9:30在新竹市元培醫事科技大學圓形廣場舉辦,歡迎校外人士參加。卡司包含艾薇、吳霏、欣菲、BIDO曾愷妤、SAM3PAY,並由聖恩主持。"
+    },
+    {
+      "id": "upcoming-row-598",
+      "date": "20261104",
+      "band": "band_drsiw0_71",
+      "time": "未公布",
+      "name": "新竹 元音盃歌唱決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於11/4(六)下午5:30-9:30在新竹市元培醫事科技大學圓形廣場舉辦,歡迎校外人士參加。卡司包含艾薇、吳霏、欣菲、BIDO曾愷妤、SAM3PAY,並由聖恩主持。"
+    },
+    {
+      "id": "upcoming-row-599",
+      "date": "20261104",
+      "band": "sam3pay",
+      "time": "未公布",
+      "name": "新竹 元音盃歌唱決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於11/4(六)下午5:30-9:30在新竹市元培醫事科技大學圓形廣場舉辦,歡迎校外人士參加。卡司包含艾薇、吳霏、欣菲、BIDO曾愷妤、SAM3PAY,並由聖恩主持。"
+    },
+    {
       "id": "upcoming-row-222",
       "date": "20261107",
       "band": "mango",
@@ -17275,6 +17333,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "b5f04796-724a-431e-a467-0b05b6ee4f46",
-  "updatedAt": "2026-10-27T07:06:41.934Z"
+  "revision": "73b47d1a-18c3-4cfc-83b0-eaf5c99bba89",
+  "updatedAt": "2026-10-27T09:04:45.370Z"
 }
