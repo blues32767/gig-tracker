@@ -4682,6 +4682,14 @@
       "eventCount": 1
     },
     {
+      "id": "band_6gp8um_53",
+      "name": "丁噹",
+      "short": "丁噹",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -15126,6 +15134,16 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於 2026/11/14 舉辦,新公佈卡司包含 Saturnday、babyMINT 等樂團。"
     },
     {
+      "id": "upcoming-row-591",
+      "date": "20261114",
+      "band": "band_6gp8um_53",
+      "time": "未公布",
+      "name": "2026 雲林 Young Power 青春雲林演唱會",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於 2026/11/14 舉辦,新公佈卡司包含 Saturnday、babyMINT 等樂團。"
+    },
+    {
       "id": "upcoming-row-399",
       "date": "20261115",
       "band": "papunband",
@@ -17211,6 +17229,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "daa18c0e-fe84-4e04-b422-c9e05bd81eac",
-  "updatedAt": "2026-10-27T06:04:39.986Z"
+  "revision": "620a6bfb-e7d9-40ea-b7d5-27ed326bfcfc",
+  "updatedAt": "2026-10-27T06:05:18.222Z"
 }
