@@ -50,6 +50,14 @@
       "eventCount": 8
     },
     {
+      "id": "trash",
+      "name": "TRASH",
+      "short": "TRASH",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 8
+    },
+    {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
@@ -62,14 +70,6 @@
       "name": "甜約翰",
       "short": "甜約翰",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 7
-    },
-    {
-      "id": "trash",
-      "name": "TRASH",
-      "short": "TRASH",
-      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 7
     },
@@ -154,6 +154,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_1",
+      "name": "李浩瑋",
+      "short": "李浩瑋",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "163braces",
       "name": "163braces",
       "short": "163braces",
@@ -214,14 +222,6 @@
       "name": "婁峻碩",
       "short": "婁峻碩",
       "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_1",
-      "name": "李浩瑋",
-      "short": "李浩瑋",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 4
     },
@@ -4670,6 +4670,14 @@
       "name": "吳昱廷",
       "short": "吳昱",
       "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_156",
+      "name": "林亭翰",
+      "short": "林亭",
+      "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
     },
@@ -15638,6 +15646,36 @@
       "note": "［售票］\n結束時間未定\n購票連結:https://ticketplus.com.tw/activity/38de5d057abe14c194971b35d4b3484e\n活動日期為 2026年11月20日,觀眾進場時間為 19:00,演出開始時間為 19:30。主辦單位:歪的音樂;協辦單位:氪米厘娛樂。\n來源：https://www.instagram.com/p/DeeVX-6gZVB/"
     },
     {
+      "id": "upcoming-row-588",
+      "date": "20261120",
+      "band": "trash",
+      "time": "未公布",
+      "name": "苗栗 國立聯合大學54週年校慶晚會",
+      "location": "苗栗縣八甲校區宿舍圓環廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%85%AB%E7%94%B2%E6%A0%A1%E5%8D%80%E5%AE%BF%E8%88%8D%E5%9C%93%E7%92%B0%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含 TRASH、林亭翰、李浩瑋,主持席子淇。開放校外人士進場。"
+    },
+    {
+      "id": "upcoming-row-589",
+      "date": "20261120",
+      "band": "band_drsiw0_156",
+      "time": "未公布",
+      "name": "苗栗 國立聯合大學54週年校慶晚會",
+      "location": "苗栗縣八甲校區宿舍圓環廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%85%AB%E7%94%B2%E6%A0%A1%E5%8D%80%E5%AE%BF%E8%88%8D%E5%9C%93%E7%92%B0%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含 TRASH、林亭翰、李浩瑋,主持席子淇。開放校外人士進場。"
+    },
+    {
+      "id": "upcoming-row-590",
+      "date": "20261120",
+      "band": "band_drsiw0_1",
+      "time": "未公布",
+      "name": "苗栗 國立聯合大學54週年校慶晚會",
+      "location": "苗栗縣八甲校區宿舍圓環廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E5%85%AB%E7%94%B2%E6%A0%A1%E5%8D%80%E5%AE%BF%E8%88%8D%E5%9C%93%E7%92%B0%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含 TRASH、林亭翰、李浩瑋,主持席子淇。開放校外人士進場。"
+    },
+    {
       "id": "upcoming-row-442",
       "date": "20261121",
       "band": "mango",
@@ -17173,6 +17211,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "06f03c29-1073-490f-b28e-4b198c35df51",
-  "updatedAt": "2026-10-27T03:04:40.472Z"
+  "revision": "daa18c0e-fe84-4e04-b422-c9e05bd81eac",
+  "updatedAt": "2026-10-27T06:04:39.986Z"
 }
