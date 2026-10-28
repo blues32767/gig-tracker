@@ -218,6 +218,14 @@
       "eventCount": 5
     },
     {
+      "id": "FireEX",
+      "name": "滅火器",
+      "short": "滅火器",
+      "color": "#C8102E",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
       "id": "WhoCares",
       "name": "胡凱兒",
       "short": "胡凱兒",
@@ -295,14 +303,6 @@
       "short": "陳勢安",
       "color": "#fb5607",
       "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "FireEX",
-      "name": "滅火器",
-      "short": "滅火器",
-      "color": "#C8102E",
-      "category": "樂團",
       "eventCount": 4
     },
     {
@@ -1110,6 +1110,14 @@
       "name": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
       "short": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
       "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_39",
+      "name": "生祥樂隊",
+      "short": "生祥樂隊",
+      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 2
     },
@@ -3730,14 +3738,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_39",
-      "name": "生祥樂隊",
-      "short": "生祥樂隊",
-      "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_6gp8um_45",
       "name": "蛋堡",
       "short": "蛋堡",
@@ -4711,6 +4711,14 @@
       "short": "SA",
       "color": "#ff006e",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_157",
+      "name": "戴曉君",
+      "short": "戴曉",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -16278,6 +16286,36 @@
       "note": "［售票］\n美秀集團2026年12月巡迴專場-高雄一場\n2026/10/29 (四) 中午12:00~晚上23:59美秀集團官網會員優先預購\n2026/10/30 (五) 中午12:00 全面開賣\n各階段售票不預留名額,任一場次於2026/10/29(四)會員優先預購完售即不在2026/10/30 (五)開放購票,預售票完售後不開放現場購票。\n售票平台:https://www.indievox.com/activity/detail/26_iv04280c7\n來源：https://www.instagram.com/p/De-8lCoJxQO/?utm_source=ig_web_copy_link&srtk=NTc4MTIwNjQ2YQ==\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
     },
     {
+      "id": "upcoming-row-600",
+      "date": "20261205",
+      "band": "FireEX",
+      "time": "未公布",
+      "name": "高雄 Kahuzas 音樂節",
+      "location": "高雄市寶來國中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%AF%B6%E4%BE%86%E5%9C%8B%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n卡司包含滅火器、戴曉君、生祥樂隊"
+    },
+    {
+      "id": "upcoming-row-601",
+      "date": "20261205",
+      "band": "band_drsiw0_157",
+      "time": "未公布",
+      "name": "高雄 Kahuzas 音樂節",
+      "location": "高雄市寶來國中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%AF%B6%E4%BE%86%E5%9C%8B%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n卡司包含滅火器、戴曉君、生祥樂隊"
+    },
+    {
+      "id": "upcoming-row-602",
+      "date": "20261205",
+      "band": "band_6u8lrj_39",
+      "time": "未公布",
+      "name": "高雄 Kahuzas 音樂節",
+      "location": "高雄市寶來國中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%AF%B6%E4%BE%86%E5%9C%8B%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n卡司包含滅火器、戴曉君、生祥樂隊"
+    },
+    {
       "id": "upcoming-row-480",
       "date": "20261206",
       "band": "mango",
@@ -17333,6 +17371,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "c91be25d-9a31-4f2b-bf27-0453c7800092",
-  "updatedAt": "2026-10-27T15:05:20.221Z"
+  "revision": "4800bfa8-f1b1-4546-9a4a-7905cfd44cce",
+  "updatedAt": "2026-10-28T12:00:07.809Z"
 }
