@@ -42,6 +42,22 @@
       "eventCount": 9
     },
     {
+      "id": "band_qqiyec_5",
+      "name": "艾薇",
+      "short": "艾薇",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 9
+    },
+    {
+      "id": "band_qqiyec_5",
+      "name": "傻子與白痴",
+      "short": "傻白",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 9
+    },
+    {
       "id": "band_drsiw0_25",
       "name": "許富凱",
       "short": "許富凱",
@@ -54,22 +70,6 @@
       "name": "TRASH",
       "short": "TRASH",
       "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 8
-    },
-    {
-      "id": "band_qqiyec_5",
-      "name": "艾薇",
-      "short": "艾薇",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 8
-    },
-    {
-      "id": "band_qqiyec_5",
-      "name": "傻子與白痴",
-      "short": "傻白",
-      "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 8
     },
@@ -146,6 +146,14 @@
       "eventCount": 6
     },
     {
+      "id": "fei",
+      "name": "吳霏 FEI",
+      "short": "吳霏 FEI",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "band_6gp8um_11",
       "name": "鼓鼓",
       "short": "鼓鼓",
@@ -189,14 +197,6 @@
       "id": "cholly",
       "name": "C.HOLLY",
       "short": "C.HOLLY",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "fei",
-      "name": "吳霏 FEI",
-      "short": "吳霏 FEI",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 5
@@ -302,6 +302,22 @@
       "name": "陳勢安",
       "short": "陳勢安",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
+      "id": "band_drsiw0_71",
+      "name": "曾愷妤",
+      "short": "曾愷妤",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
+      "id": "sinby",
+      "name": "欣菲 Sinby",
+      "short": "欣菲",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 4
     },
@@ -530,27 +546,11 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_71",
-      "name": "曾愷妤",
-      "short": "曾愷妤",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "band_6u8lrj_20",
       "name": "椅子樂團",
       "short": "椅子樂團",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "sinby",
-      "name": "欣菲 Sinby",
-      "short": "欣菲",
-      "color": "#00b4d8",
-      "category": "個人",
       "eventCount": 3
     },
     {
@@ -1134,6 +1134,14 @@
       "name": "DSPS",
       "short": "DSPS",
       "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "sam3pay",
+      "name": "SAM3PAY",
+      "short": "SA",
+      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 2
     },
@@ -4703,14 +4711,6 @@
       "short": "YO",
       "color": "#8338ec",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "sam3pay",
-      "name": "SAM3PAY",
-      "short": "SA",
-      "color": "#ff006e",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -16056,6 +16056,56 @@
       "note": "［免費］\n卡司:\n卡司:李浩瑋、JUICE BOY、9M88、公館青少年、TRASH。主持:閻奕格、木木。入場時間為 15:00-15:30。\n.\n📍入場時間:11/25(週三)15:00-15:30\n🍀10月20日起在校生有繳交‘’學生活動費‘’可至學生會登記領取‘’優先席“號碼牌,數量有限。🍀\n🍀學生活動費可至學生會或學務處課外組補繳費🍀\n📍入場方式:✨️免費入場✨️\n1.須出示有效學生證(須蓋當學期註冊章)及學生資訊系統登入畫面(須查驗身分證)。\n或是\n2.在學證明(格致樓一樓大廳可以列印)及學生資訊系統登入畫面(須查驗身分證)。\n📍排隊區(於中山育樂館):\n🌟本校學生→二樓天橋\n🌟校外人士→三樓天橋(雨備另行公告)\n🔸本次活動因參與者眾多,入場時建議配戴口罩。\n-\n來源：https://www.threads.com/share/QKAQgxo8C/"
     },
     {
+      "id": "upcoming-row-603",
+      "date": "20261126",
+      "band": "band_qqiyec_5",
+      "time": "未公布",
+      "name": "新竹 元音盃決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,主持為聖恩。"
+    },
+    {
+      "id": "upcoming-row-604",
+      "date": "20261126",
+      "band": "fei",
+      "time": "未公布",
+      "name": "新竹 元音盃決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,主持為聖恩。"
+    },
+    {
+      "id": "upcoming-row-605",
+      "date": "20261126",
+      "band": "sinby",
+      "time": "未公布",
+      "name": "新竹 元音盃決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,主持為聖恩。"
+    },
+    {
+      "id": "upcoming-row-606",
+      "date": "20261126",
+      "band": "band_drsiw0_71",
+      "time": "未公布",
+      "name": "新竹 元音盃決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,主持為聖恩。"
+    },
+    {
+      "id": "upcoming-row-607",
+      "date": "20261126",
+      "band": "sam3pay",
+      "time": "未公布",
+      "name": "新竹 元音盃決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,主持為聖恩。"
+    },
+    {
       "id": "upcoming-row-467",
       "date": "20261127",
       "band": "gongguan",
@@ -17371,6 +17421,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "4800bfa8-f1b1-4546-9a4a-7905cfd44cce",
-  "updatedAt": "2026-10-28T12:00:07.809Z"
+  "revision": "66a17737-cc40-4b29-a168-2396228e8e46",
+  "updatedAt": "2026-10-28T12:00:53.694Z"
 }
