@@ -34,20 +34,12 @@
       "eventCount": 13
     },
     {
-      "id": "pizzali",
-      "name": "PIZZALI",
-      "short": "PIZZALI",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 9
-    },
-    {
       "id": "band_qqiyec_5",
       "name": "艾薇",
       "short": "艾薇",
       "color": "#fb5607",
       "category": "個人",
-      "eventCount": 9
+      "eventCount": 10
     },
     {
       "id": "band_qqiyec_5",
@@ -55,6 +47,14 @@
       "short": "傻白",
       "color": "#3a86ff",
       "category": "樂團",
+      "eventCount": 10
+    },
+    {
+      "id": "pizzali",
+      "name": "PIZZALI",
+      "short": "PIZZALI",
+      "color": "#06d6a0",
+      "category": "個人",
       "eventCount": 9
     },
     {
@@ -95,6 +95,14 @@
       "short": "甜約翰",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 7
+    },
+    {
+      "id": "fei",
+      "name": "吳霏 FEI",
+      "short": "吳霏 FEI",
+      "color": "#3a86ff",
+      "category": "個人",
       "eventCount": 7
     },
     {
@@ -143,14 +151,6 @@
       "short": "白頻率",
       "color": "#2ec4b6",
       "category": "樂團",
-      "eventCount": 6
-    },
-    {
-      "id": "fei",
-      "name": "吳霏 FEI",
-      "short": "吳霏 FEI",
-      "color": "#3a86ff",
-      "category": "個人",
       "eventCount": 6
     },
     {
@@ -206,6 +206,22 @@
       "name": "C.HOLLY",
       "short": "C.HOLLY",
       "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "band_drsiw0_71",
+      "name": "曾愷妤",
+      "short": "曾愷妤",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "sinby",
+      "name": "欣菲 Sinby",
+      "short": "欣菲",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 5
     },
@@ -310,22 +326,6 @@
       "name": "陳勢安",
       "short": "陳勢安",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_71",
-      "name": "曾愷妤",
-      "short": "曾愷妤",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "sinby",
-      "name": "欣菲 Sinby",
-      "short": "欣菲",
-      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 4
     },
@@ -663,6 +663,14 @@
       "short": "手合",
       "color": "#06d6a0",
       "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "sam3pay",
+      "name": "SAM3PAY",
+      "short": "SA",
+      "color": "#ff006e",
+      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -1134,14 +1142,6 @@
       "name": "DSPS",
       "short": "DSPS",
       "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "sam3pay",
-      "name": "SAM3PAY",
-      "short": "SA",
-      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 2
     },
@@ -11186,6 +11186,56 @@
       "location": "十鼓文創園區",
       "note": "［售票］\n2026 囪擊音樂祭於十鼓文創園區舉辦,包含兩日演出。卡司涵蓋烈鷹、海豚刑警、RainyKnight、溫室雜草 EasyWeeds、手合鐵鼓 CrossMetal、陳忻玥、腦體馬戲團、眠氣 HYPERSOMNIA、piscoband、香蕉哥哥、福夢 FUMON、體熊專科 MajorInBodyBear、問題總部 ItsYourFault、Shawn 尚融、野東西 WILDTHING、TRASH 等樂團與藝人。\n時間：18:40-19:10\n地圖：https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E9%BC%93%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80",
       "setlist": []
+    },
+    {
+      "id": "EV_20260127_BAND_4ea310",
+      "date": "20260127",
+      "band": "band_qqiyec_5",
+      "time": "",
+      "name": "新竹 元音盃決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "note": "［免費］\n活動於1月27日舉辦,地點在新竹市元培醫事科技大學圓形廣場。卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,並由聖恩主持。\n地圖：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "setlist": []
+    },
+    {
+      "id": "EV_20260127_FEI_91bb29",
+      "date": "20260127",
+      "band": "fei",
+      "time": "",
+      "name": "新竹 元音盃決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "note": "［免費］\n活動於1月27日舉辦,地點在新竹市元培醫事科技大學圓形廣場。卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,並由聖恩主持。\n地圖：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "setlist": []
+    },
+    {
+      "id": "EV_20260127_SINB_01b0f9",
+      "date": "20260127",
+      "band": "sinby",
+      "time": "",
+      "name": "新竹 元音盃決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "note": "［免費］\n活動於1月27日舉辦,地點在新竹市元培醫事科技大學圓形廣場。卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,並由聖恩主持。\n地圖：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "setlist": []
+    },
+    {
+      "id": "EV_20260127_BAND_967816",
+      "date": "20260127",
+      "band": "band_drsiw0_71",
+      "time": "",
+      "name": "新竹 元音盃決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "note": "［免費］\n活動於1月27日舉辦,地點在新竹市元培醫事科技大學圓形廣場。卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,並由聖恩主持。\n地圖：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "setlist": []
+    },
+    {
+      "id": "EV_20260127_SAM3_3d5fab",
+      "date": "20260127",
+      "band": "sam3pay",
+      "time": "",
+      "name": "新竹 元音盃決賽×校園演唱會",
+      "location": "新竹市元培醫事科技大學圓形廣場",
+      "note": "［免費］\n活動於1月27日舉辦,地點在新竹市元培醫事科技大學圓形廣場。卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,並由聖恩主持。\n地圖：https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
+      "setlist": []
     }
   ],
   "upcoming": [
@@ -17615,6 +17665,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "f80a4977-7c82-4480-a25a-0855bc06efc7",
-  "updatedAt": "2026-10-28T15:01:16.183Z"
+  "revision": "f33d57f9-da15-44f6-855f-1d75c666b49d",
+  "updatedAt": "2026-10-28T15:02:16.245Z"
 }
