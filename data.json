@@ -7,7 +7,7 @@
       "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
-      "eventCount": 58
+      "eventCount": 59
     },
     {
       "id": "AmazingShow",
@@ -74,6 +74,14 @@
       "eventCount": 8
     },
     {
+      "id": "icyball",
+      "name": "冰球樂團",
+      "short": "冰球樂團",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
@@ -88,14 +96,6 @@
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 7
-    },
-    {
-      "id": "icyball",
-      "name": "冰球樂團",
-      "short": "冰球樂團",
-      "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 6
     },
     {
       "id": "captainlu",
@@ -178,6 +178,14 @@
       "eventCount": 5
     },
     {
+      "id": "WendyWander",
+      "name": "溫蒂漫步",
+      "short": "溫蒂漫步",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
       "id": "EasyWeeds",
       "name": "溫室雜草",
       "short": "溫室雜草",
@@ -250,14 +258,6 @@
       "eventCount": 4
     },
     {
-      "id": "WendyWander",
-      "name": "溫蒂漫步",
-      "short": "溫蒂漫步",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
       "id": "fenix",
       "name": "FEniX",
       "short": "FEniX",
@@ -295,6 +295,14 @@
       "short": "薄暮",
       "color": "#06d6a0",
       "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "band_6gp8um_20",
+      "name": "烈鷹",
+      "short": "烈鷹",
+      "color": "#118ab2",
+      "category": "團體",
       "eventCount": 4
     },
     {
@@ -530,14 +538,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_6gp8um_20",
-      "name": "烈鷹",
-      "short": "烈鷹",
-      "color": "#118ab2",
-      "category": "團體",
-      "eventCount": 3
-    },
-    {
       "id": "Bestards",
       "name": "理想混蛋",
       "short": "理想混蛋",
@@ -638,6 +638,14 @@
       "name": "Multiverse Music",
       "short": "Multiverse Music",
       "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "band_qqiyec_18",
+      "name": "腦體馬戲團",
+      "short": "腦體馬戲團",
+      "color": "#2ec4b6",
       "category": "團體",
       "eventCount": 3
     },
@@ -1047,14 +1055,6 @@
       "short": "謝金燕",
       "color": "#06d6a0",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_qqiyec_18",
-      "name": "腦體馬戲團",
-      "short": "腦體馬戲團",
-      "color": "#2ec4b6",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -4719,6 +4719,70 @@
       "short": "戴曉",
       "color": "#fb5607",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_158",
+      "name": "鐵皮貓",
+      "short": "鐵皮",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_54",
+      "name": "逐火",
+      "short": "逐火",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "leeerix",
+      "name": "Leeerix 李瑞",
+      "short": "Le",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "obsess",
+      "name": "OBSESS",
+      "short": "OB",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "thefix",
+      "name": "THE FIX",
+      "short": "TH",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "yutori",
+      "name": "yutori",
+      "short": "yu",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "rejay",
+      "name": "REJAY",
+      "short": "RE",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "cephalo",
+      "name": "cephalo",
+      "short": "ce",
+      "color": "#8338ec",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -16390,250 +16454,380 @@
       "date": "20261211",
       "band": "band_drsiw0_58",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-482",
       "date": "20261211",
       "band": "band_qqiyec",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-483",
       "date": "20261211",
       "band": "band",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-484",
       "date": "20261211",
       "band": "papunband",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-485",
       "date": "20261211",
       "band": "band_qqiyec_5",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-486",
       "date": "20261211",
       "band": "band_qqiyec_9",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-487",
       "date": "20261211",
       "band": "band_drsiw0_22",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-488",
       "date": "20261211",
       "band": "band_6gp8um_3",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-489",
       "date": "20261211",
       "band": "band_6u8lrj_28",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-490",
       "date": "20261211",
       "band": "pizzali",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-491",
       "date": "20261211",
       "band": "lawa",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-492",
       "date": "20261211",
       "band": "theeon",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-493",
       "date": "20261211",
       "band": "lane140",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-494",
       "date": "20261211",
       "band": "7thvegajp",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-495",
       "date": "20261211",
       "band": "brkfstblendj",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-496",
       "date": "20261211",
       "band": "brandysenkij",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-497",
       "date": "20261211",
       "band": "kardikr",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-498",
       "date": "20261211",
       "band": "band_drsiw0_109",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-499",
       "date": "20261211",
       "band": "band_6gp8um_35",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-500",
       "date": "20261211",
       "band": "band_ioh2wr_1",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-501",
       "date": "20261211",
       "band": "7thvega",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-502",
       "date": "20261211",
       "band": "brkfstblend",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-503",
       "date": "20261211",
       "band": "brandysenki",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-504",
       "date": "20261211",
       "band": "kardi",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-505",
       "date": "20261211",
       "band": "band_yrjfv5",
       "time": "未公布",
-      "name": "漂遊者森林音樂祭",
+      "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n活動日期為 2026/12/11-12/13。卡司包含:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP) 與 KARDI (KR)。所有藝人的演出日期未定,以活動第一天(2026/12/11)為預設日期。"
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-608",
+      "date": "20261211",
+      "band": "mango",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-609",
+      "date": "20261211",
+      "band": "WendyWander",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-610",
+      "date": "20261211",
+      "band": "icyball",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-611",
+      "date": "20261211",
+      "band": "band_drsiw0_158",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-612",
+      "date": "20261211",
+      "band": "band_6gp8um_20",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-613",
+      "date": "20261211",
+      "band": "band_6gp8um_54",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-614",
+      "date": "20261211",
+      "band": "band_qqiyec_18",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-615",
+      "date": "20261211",
+      "band": "leeerix",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-616",
+      "date": "20261211",
+      "band": "obsess",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-617",
+      "date": "20261211",
+      "band": "thefix",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-618",
+      "date": "20261211",
+      "band": "yutori",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-619",
+      "date": "20261211",
+      "band": "rejay",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
+    },
+    {
+      "id": "upcoming-row-620",
+      "date": "20261211",
+      "band": "cephalo",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
       "id": "upcoming-row-506",
@@ -17421,6 +17615,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "66a17737-cc40-4b29-a168-2396228e8e46",
-  "updatedAt": "2026-10-28T12:00:53.694Z"
+  "revision": "f80a4977-7c82-4480-a25a-0855bc06efc7",
+  "updatedAt": "2026-10-28T15:01:16.183Z"
 }
