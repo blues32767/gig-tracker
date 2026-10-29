@@ -7,7 +7,7 @@
       "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
-      "eventCount": 59
+      "eventCount": 60
     },
     {
       "id": "AmazingShow",
@@ -31,7 +31,7 @@
       "short": "怕胖團",
       "color": "#1d3557",
       "category": "樂團",
-      "eventCount": 13
+      "eventCount": 14
     },
     {
       "id": "band_qqiyec_5",
@@ -39,7 +39,7 @@
       "short": "艾薇",
       "color": "#fb5607",
       "category": "個人",
-      "eventCount": 10
+      "eventCount": 11
     },
     {
       "id": "band_qqiyec_5",
@@ -47,7 +47,7 @@
       "short": "傻白",
       "color": "#3a86ff",
       "category": "樂團",
-      "eventCount": 10
+      "eventCount": 11
     },
     {
       "id": "pizzali",
@@ -106,6 +106,14 @@
       "eventCount": 7
     },
     {
+      "id": "band_6gp8um_11",
+      "name": "鼓鼓",
+      "short": "鼓鼓",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
       "id": "captainlu",
       "name": "盧廣仲",
       "short": "盧廣仲",
@@ -122,6 +130,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_1",
+      "name": "李浩瑋",
+      "short": "李浩瑋",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "band_6gp8um_3",
       "name": "白安",
       "short": "白安",
@@ -130,11 +146,27 @@
       "eventCount": 6
     },
     {
+      "id": "band",
+      "name": "粗大Band",
+      "short": "粗大Band",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 6
+    },
+    {
       "id": "band_drsiw0_27",
       "name": "玖壹壹",
       "short": "玖壹壹",
       "color": "#118ab2",
       "category": "團體",
+      "eventCount": 6
+    },
+    {
+      "id": "cholly",
+      "name": "C.HOLLY",
+      "short": "C.HOLLY",
+      "color": "#3a86ff",
+      "category": "個人",
       "eventCount": 6
     },
     {
@@ -152,22 +184,6 @@
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 6
-    },
-    {
-      "id": "band_6gp8um_11",
-      "name": "鼓鼓",
-      "short": "鼓鼓",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "band_drsiw0_1",
-      "name": "李浩瑋",
-      "short": "李浩瑋",
-      "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 5
     },
     {
       "id": "163braces",
@@ -191,22 +207,6 @@
       "short": "溫室雜草",
       "color": "#8338ec",
       "category": "樂團",
-      "eventCount": 5
-    },
-    {
-      "id": "band",
-      "name": "粗大Band",
-      "short": "粗大Band",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 5
-    },
-    {
-      "id": "cholly",
-      "name": "C.HOLLY",
-      "short": "C.HOLLY",
-      "color": "#3a86ff",
-      "category": "個人",
       "eventCount": 5
     },
     {
@@ -754,6 +754,14 @@
       "eventCount": 2
     },
     {
+      "id": "djekmc",
+      "name": "DJ EK + MC 阿蛋",
+      "short": "DJ EK + MC 阿蛋",
+      "color": "#00b4d8",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_45",
       "name": "梁文音",
       "short": "梁文音",
@@ -839,6 +847,14 @@
       "short": "安妮塔克",
       "color": "#8338ec",
       "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_57",
+      "name": "阿跨面",
+      "short": "阿跨面",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -958,6 +974,14 @@
       "name": "粹垢TRAEGO",
       "short": "粹垢TRAEGO",
       "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "belish",
+      "name": "BELISH",
+      "short": "BELISH",
+      "color": "#fb5607",
       "category": "樂團",
       "eventCount": 2
     },
@@ -1602,14 +1626,6 @@
       "eventCount": 1
     },
     {
-      "id": "djekmc",
-      "name": "DJ EK + MC 阿蛋",
-      "short": "DJ EK + MC 阿蛋",
-      "color": "#00b4d8",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "band_6gp8um_12",
       "name": "厲旭",
       "short": "厲旭",
@@ -1839,14 +1855,6 @@
       "short": "太巴塑天藝文化藝術團",
       "color": "#3a86ff",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_57",
-      "name": "阿跨面",
-      "short": "阿跨面",
-      "color": "#00b4d8",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -2343,14 +2351,6 @@
       "short": "外星人舞團",
       "color": "#ff006e",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "belish",
-      "name": "BELISH",
-      "short": "BELISH",
-      "color": "#fb5607",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -11244,6 +11244,126 @@
       "location": "新竹市元培醫事科技大學圓形廣場",
       "note": "［免費］\n活動於1月27日舉辦,地點在新竹市元培醫事科技大學圓形廣場。卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,並由聖恩主持。\n地圖:https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4\n活動為元音盃決賽暨校園演唱會,可校外參加。",
       "setlist": []
+    },
+    {
+      "id": "EV_20261029_MANG_5eb2be",
+      "date": "20261029",
+      "band": "mango",
+      "time": "20:25-21:00",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
+      "location": "桃園市萬能科技大學活動中心2樓",
+      "note": "［免費］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n萬能科技大學迎新活動,包含主持開場、長官致詞及多個表演團體演出。\n來源：https://www.threads.com/share/EBGJvPmyP/\n時間：20:25-21:00\n地圖：https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261029_BAND_17ac81",
+      "date": "20261029",
+      "band": "band_drsiw0_1",
+      "time": "19:25-19:40",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
+      "location": "桃園市萬能科技大學活動中心2樓",
+      "note": "［免費］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n萬能科技大學迎新活動,包含主持開場、長官致詞及多個表演團體演出。\n來源：https://www.threads.com/share/EBGJvPmyP/\n時間：19:25-19:40\n地圖：https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261029_BAND_089016",
+      "date": "20261029",
+      "band": "band",
+      "time": "18:50-19:10",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
+      "location": "桃園市萬能科技大學活動中心2樓",
+      "note": "［免費］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n萬能科技大學迎新活動,包含主持開場、長官致詞及多個表演團體演出。\n來源：https://www.threads.com/share/EBGJvPmyP/\n時間：18:50-19:10\n地圖：https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261029_BAND_7cce60",
+      "date": "20261029",
+      "band": "band_6gp8um_11",
+      "time": "10:00~16:00",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
+      "location": "桃園市萬能科技大學活動中心2樓",
+      "note": "［免費］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n萬能科技大學迎新活動,包含主持開場、長官致詞及多個表演團體演出。\n來源：https://www.threads.com/share/EBGJvPmyP/\n地圖：https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261029_CHOL_b6e3f5",
+      "date": "20261029",
+      "band": "cholly",
+      "time": "19:10-19:25",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
+      "location": "桃園市萬能科技大學活動中心2樓",
+      "note": "［免費］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n萬能科技大學迎新活動,包含主持開場、長官致詞及多個表演團體演出。\n來源：https://www.threads.com/share/EBGJvPmyP/\n時間：19:10-19:25\n地圖：https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261029_DJEK_7ba259",
+      "date": "20261029",
+      "band": "djekmc",
+      "time": "10:00~16:00",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
+      "location": "桃園市萬能科技大學活動中心2樓",
+      "note": "［免費］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n萬能科技大學迎新活動,包含主持開場、長官致詞及多個表演團體演出。\n來源：https://www.threads.com/share/EBGJvPmyP/\n地圖：https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261029_BAND_a31879",
+      "date": "20261029",
+      "band": "band_drsiw0_57",
+      "time": "",
+      "name": "《CR校園新聲造星計畫》複賽-成大賽區",
+      "location": "台中市逢甲大學大草坪",
+      "note": "［免費］\n卡司:怕胖團、阿跨面、BELISH。活動時間及入場資格等待公告。\n地圖：https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261029_BELI_4ea5eb",
+      "date": "20261029",
+      "band": "belish",
+      "time": "",
+      "name": "《CR校園新聲造星計畫》複賽-成大賽區",
+      "location": "台中市逢甲大學大草坪",
+      "note": "［免費］\n卡司:怕胖團、阿跨面、BELISH。活動時間及入場資格等待公告。\n地圖：https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261029_BAND_e4c2d2",
+      "date": "20261029",
+      "band": "band_qqiyec_5",
+      "time": "20:10-20:25",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
+      "location": "桃園市萬能科技大學活動中心2樓",
+      "note": "［免費］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n萬能科技大學迎新活動,包含主持開場、長官致詞及多個表演團體演出。\n來源：https://www.threads.com/share/EBGJvPmyP/\n時間：20:10-20:25\n地圖：https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261029_PAPU_e9a15e",
+      "date": "20261029",
+      "band": "papunband",
+      "time": "",
+      "name": "《CR校園新聲造星計畫》複賽-成大賽區",
+      "location": "台中市逢甲大學大草坪",
+      "note": "［免費］\n卡司:怕胖團、阿跨面、BELISH。活動時間及入場資格等待公告。\n地圖：https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261029_BAND_4ccd02",
+      "date": "20261029",
+      "band": "band_maaxir_7",
+      "time": "18:40-18:50",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
+      "location": "桃園市萬能科技大學活動中心2樓",
+      "note": "［免費］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n萬能科技大學迎新活動,包含主持開場、長官致詞及多個表演團體演出。\n來源：https://www.threads.com/share/EBGJvPmyP/\n時間：18:40-18:50\n地圖：https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261029_MCDJ_fbf0e2",
+      "date": "20261029",
+      "band": "mcdj",
+      "time": "19:40-20:10",
+      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
+      "location": "桃園市萬能科技大學活動中心2樓",
+      "note": "［免費］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n萬能科技大學迎新活動,包含主持開場、長官致詞及多個表演團體演出。\n來源：https://www.threads.com/share/EBGJvPmyP/\n時間：19:40-20:10\n地圖：https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
+      "setlist": []
     }
   ],
   "upcoming": [
@@ -11536,26 +11656,6 @@
       "location": "台中市逢甲大學大草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8",
       "note": "［免費］\n卡司:怕胖團、阿跨面、BELISH。活動時間及入場資格等待公告。"
-    },
-    {
-      "id": "upcoming-row-621",
-      "date": "20261029",
-      "band": "band_maaxir_7",
-      "time": "18:40-18:50",
-      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
-      "location": "桃園市萬能科技大學活動中心2樓",
-      "mapLink": "https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
-      "note": "［免費］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n萬能科技大學迎新活動,包含主持開場、長官致詞及多個表演團體演出。\n來源：https://www.threads.com/share/EBGJvPmyP/"
-    },
-    {
-      "id": "upcoming-row-622",
-      "date": "20261029",
-      "band": "mcdj",
-      "time": "19:40-20:10",
-      "name": "桃園 2026萬能科技大學迎新演唱會|萬新音浪",
-      "location": "桃園市萬能科技大學活動中心2樓",
-      "mapLink": "https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
-      "note": "［免費］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n萬能科技大學迎新活動,包含主持開場、長官致詞及多個表演團體演出。\n來源：https://www.threads.com/share/EBGJvPmyP/"
     },
     {
       "id": "upcoming-row-40",
@@ -17693,6 +17793,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "72b3a60b-a2cd-4276-bcf5-b8e490a3a947",
-  "updatedAt": "2026-10-29T02:52:47.601Z"
+  "revision": "fbf0c94b-ffb3-4fec-9e50-d4619adcd738",
+  "updatedAt": "2026-10-29T16:05:16.131Z"
 }
