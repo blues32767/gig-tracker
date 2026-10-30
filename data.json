@@ -4914,6 +4914,14 @@
       "eventCount": 1
     },
     {
+      "id": "ourock",
+      "name": "OUROCK",
+      "short": "OU",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -16465,7 +16473,7 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+      "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
       "id": "upcoming-row-640",
@@ -16475,7 +16483,7 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+      "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
       "id": "upcoming-row-641",
@@ -16485,7 +16493,17 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+      "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
+    },
+    {
+      "id": "upcoming-row-646",
+      "date": "20261121",
+      "band": "ourock",
+      "time": "未公布",
+      "name": "雲林 斗六燈海節",
+      "location": "雲林縣斗六圓環/太平老街",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
+      "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
       "id": "upcoming-row-444",
@@ -16555,7 +16573,7 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+      "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
       "id": "upcoming-row-643",
@@ -16565,7 +16583,7 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+      "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
       "id": "upcoming-row-644",
@@ -16575,7 +16593,7 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+      "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
       "id": "upcoming-row-645",
@@ -16585,7 +16603,7 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+      "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
       "id": "upcoming-row-450",
@@ -18163,6 +18181,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "b50f005c-f342-45cc-95dc-c80545de79c8",
-  "updatedAt": "2026-10-30T12:13:05.529Z"
+  "revision": "b6ea2ac7-5664-441d-8422-ce399ffd7c4f",
+  "updatedAt": "2026-10-30T14:26:49.553Z"
 }
