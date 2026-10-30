@@ -15146,16 +15146,6 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰。"
     },
     {
-      "id": "upcoming-row-628",
-      "date": "20261110",
-      "band": "sabrina",
-      "time": "18:00-21:00",
-      "name": "台中 迴聲草地音樂會",
-      "location": "台中市逢甲大學育樂館旁大草皮",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n卡司包含 Sabrina 胡恂舞,可校外參加。"
-    },
-    {
       "id": "upcoming-row-341",
       "date": "20261111",
       "band": "trash",
@@ -15774,6 +15764,16 @@
       "location": "雲林縣斗六膨鼠森林公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。"
+    },
+    {
+      "id": "upcoming-row-628",
+      "date": "20261114",
+      "band": "sabrina",
+      "time": "18:00-21:00",
+      "name": "台中 迴聲草地音樂會",
+      "location": "台中市逢甲大學育樂館旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司包含 Sabrina 胡恂舞,活動於逢甲大學育樂館旁大草皮舉辦。"
     },
     {
       "id": "upcoming-row-389",
@@ -18181,6 +18181,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "1c0c164b-e78d-47b8-8804-bd90b5c33875",
-  "updatedAt": "2026-10-30T17:26:01.740Z"
+  "revision": "9ecdf422-1f29-44ff-a5a4-259881a3611c",
+  "updatedAt": "2026-10-30T20:25:56.351Z"
 }
