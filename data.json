@@ -194,6 +194,14 @@
       "eventCount": 6
     },
     {
+      "id": "SHOU",
+      "name": "婁峻碩",
+      "short": "婁峻碩",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "163braces",
       "name": "163braces",
       "short": "163braces",
@@ -255,14 +263,6 @@
       "short": "胡凱兒",
       "color": "#385c6e",
       "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "SHOU",
-      "name": "婁峻碩",
-      "short": "婁峻碩",
-      "color": "#3a86ff",
-      "category": "個人",
       "eventCount": 4
     },
     {
@@ -991,6 +991,14 @@
       "short": "粹垢TRAEGO",
       "color": "#ef476f",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_84",
+      "name": "周湯豪",
+      "short": "周湯豪",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -2359,14 +2367,6 @@
       "short": "八三夭",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_84",
-      "name": "周湯豪",
-      "short": "周湯豪",
-      "color": "#8338ec",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -16346,6 +16346,26 @@
       "note": "［免費］\n卡司包含 TRASH、林亭翰、李浩瑋,主持席子淇。開放校外人士進場。"
     },
     {
+      "id": "upcoming-row-642",
+      "date": "20261120",
+      "band": "band_drsiw0_84",
+      "time": "未公布",
+      "name": "愛 Sharing2026 愛・Sharing 北高開燈",
+      "location": "台北統一時代百貨",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E7%B5%B1%E4%B8%80%E6%99%82%E4%BB%A3%E7%99%BE%E8%B2%A8",
+      "note": "［免費］\n活動於11/20 18:00 舉辦,台北場由周湯豪演出,高雄夢時代場由婁峻碩演出。"
+    },
+    {
+      "id": "upcoming-row-643",
+      "date": "20261120",
+      "band": "SHOU",
+      "time": "未公布",
+      "name": "愛 Sharing2026 愛・Sharing 北高開燈",
+      "location": "台北統一時代百貨",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E7%B5%B1%E4%B8%80%E6%99%82%E4%BB%A3%E7%99%BE%E8%B2%A8",
+      "note": "［免費］\n活動於11/20 18:00 舉辦,台北場由周湯豪演出,高雄夢時代場由婁峻碩演出。"
+    },
+    {
       "id": "upcoming-row-442",
       "date": "20261121",
       "band": "mango",
@@ -18091,6 +18111,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "b000dc59-9f50-4e04-b90b-7b0eb00786fe",
-  "updatedAt": "2026-10-30T05:27:24.228Z"
+  "revision": "15258203-21c0-4a0b-a055-91e4678e8875",
+  "updatedAt": "2026-10-30T05:28:43.605Z"
 }
