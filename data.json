@@ -15146,6 +15146,16 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰。"
     },
     {
+      "id": "upcoming-row-628",
+      "date": "20261110",
+      "band": "sabrina",
+      "time": "18:00-21:00",
+      "name": "台中 迴聲草地音樂會",
+      "location": "台中市逢甲大學育樂館旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司包含 Sabrina 胡恂舞,可校外參加。"
+    },
+    {
       "id": "upcoming-row-341",
       "date": "20261111",
       "band": "trash",
@@ -15214,16 +15224,6 @@
       "location": "台中市臺中科技大學體育館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%8F%B0%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E9%AB%94%E8%82%B2%E9%A4%A8",
       "note": "［免費］\n2026 CR造星計畫:中科大場\n2026/11/12 中科大體育館\n卡司:\n卡司:脆樂團、胡凱兒。活動日期為 2026年11月12日。\n來源：https://www.threads.com/share/GUHyhipLh/"
-    },
-    {
-      "id": "upcoming-row-628",
-      "date": "20261113",
-      "band": "sabrina",
-      "time": "18:00-21:00",
-      "name": "台中 迴聲草地音樂會",
-      "location": "台中市逢甲大學育樂館旁大草皮",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
-      "note": "［免費］\n卡司包含 Sabrina 胡恂舞,可校外參加。"
     },
     {
       "id": "upcoming-row-348",
@@ -18181,6 +18181,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "54343ee3-fc02-40b3-b848-3db9f7990c64",
-  "updatedAt": "2026-10-30T16:02:28.864Z"
+  "revision": "1c0c164b-e78d-47b8-8804-bd90b5c33875",
+  "updatedAt": "2026-10-30T17:26:01.740Z"
 }
