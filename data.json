@@ -11492,6 +11492,46 @@
       "location": "桃園市萬能科技大學活動中心2樓",
       "note": "［免費］\n⏰ 拿號碼牌| 17:00 🚪 入場|17:50 🎶 開唱|18:30\n🎟️ 入場方式💰 其他身份+校外朋友➜ 300元/人購票入場\n卡司:芒果醬、艾薇、C.HOLLY、李浩瑋、粗大BAND、DJ EK + MC 阿蛋。入場時間為 17:50,開唱時間為 18:30。(活動日期未公布)\n🎫 🎫🎫校內購票&領票🎫🎫🎫\n📆 日期:10/19~10/23、10/27~10/29\n⏰ 時間:10:00~16:00\n📍地點: 中山堂1樓\n💝 無法到校購票的同學+校外的朋友們也沒問題!\n📲 線上購票表單:https://forms.gle/3paRAAvktzPksjFJ6\n💳 完成匯款後,請於上述領票時間至中山堂1樓領票。\n萬能科技大學迎新活動,包含主持開場、長官致詞及多個表演團體演出。\n來源：https://www.threads.com/share/EBGJvPmyP/\n時間：19:40-20:10\n地圖：https://www.google.com/maps/search/%E8%90%AC%E8%83%BD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
       "setlist": []
+    },
+    {
+      "id": "EV_20261030_BAND_5ec77a",
+      "date": "20261030",
+      "band": "band_qqiyec_8",
+      "time": "",
+      "name": "台中 Legacy",
+      "location": "Legacy 台中",
+      "note": "［免費］\nFlesh Juicer 血肉果汁機演出,搭配 Manager-捏捏、Ne Ne、Belle。\n地圖：https://www.google.com/maps/search/?api=1&query=Legacy%20%E5%8F%B0%E4%B8%AD",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261030_MANA_5656a3",
+      "date": "20261030",
+      "band": "manager",
+      "time": "",
+      "name": "台中 Legacy",
+      "location": "Legacy 台中",
+      "note": "［免費］\nFlesh Juicer 血肉果汁機演出,搭配 Manager-捏捏、Ne Ne、Belle。\n地圖：https://www.google.com/maps/search/?api=1&query=Legacy%20%E5%8F%B0%E4%B8%AD",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261030_NENE_37f7e5",
+      "date": "20261030",
+      "band": "nene",
+      "time": "",
+      "name": "台中 Legacy",
+      "location": "Legacy 台中",
+      "note": "［免費］\nFlesh Juicer 血肉果汁機演出,搭配 Manager-捏捏、Ne Ne、Belle。\n地圖：https://www.google.com/maps/search/?api=1&query=Legacy%20%E5%8F%B0%E4%B8%AD",
+      "setlist": []
+    },
+    {
+      "id": "EV_20261030_BELL_2ecfe0",
+      "date": "20261030",
+      "band": "belle",
+      "time": "",
+      "name": "台中 Legacy",
+      "location": "Legacy 台中",
+      "note": "［免費］\nFlesh Juicer 血肉果汁機演出,搭配 Manager-捏捏、Ne Ne、Belle。\n地圖：https://www.google.com/maps/search/?api=1&query=Legacy%20%E5%8F%B0%E4%B8%AD",
+      "setlist": []
     }
   ],
   "upcoming": [
@@ -11684,46 +11724,6 @@
       "location": "嘉義縣中埔・獨角仙休閒農場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E3%83%BB%E7%8D%A8%E8%A7%92%E4%BB%99%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4",
       "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)\n原定於 2026/10/25 舉辦的《秋之盛典》秋天奇幻森林派對,因颱風影響延期,新舉辦日期尚未確定。\n來源：https://www.threads.com/share/D-0SYoRJo/"
-    },
-    {
-      "id": "upcoming-row-635",
-      "date": "20261030",
-      "band": "band_qqiyec_8",
-      "time": "未公布",
-      "name": "台中 Legacy",
-      "location": "Legacy 台中",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=Legacy%20%E5%8F%B0%E4%B8%AD",
-      "note": "［免費］\nFlesh Juicer 血肉果汁機演出,搭配 Manager-捏捏、Ne Ne、Belle。"
-    },
-    {
-      "id": "upcoming-row-636",
-      "date": "20261030",
-      "band": "manager",
-      "time": "未公布",
-      "name": "台中 Legacy",
-      "location": "Legacy 台中",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=Legacy%20%E5%8F%B0%E4%B8%AD",
-      "note": "［免費］\nFlesh Juicer 血肉果汁機演出,搭配 Manager-捏捏、Ne Ne、Belle。"
-    },
-    {
-      "id": "upcoming-row-637",
-      "date": "20261030",
-      "band": "nene",
-      "time": "未公布",
-      "name": "台中 Legacy",
-      "location": "Legacy 台中",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=Legacy%20%E5%8F%B0%E4%B8%AD",
-      "note": "［免費］\nFlesh Juicer 血肉果汁機演出,搭配 Manager-捏捏、Ne Ne、Belle。"
-    },
-    {
-      "id": "upcoming-row-638",
-      "date": "20261030",
-      "band": "belle",
-      "time": "未公布",
-      "name": "台中 Legacy",
-      "location": "Legacy 台中",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=Legacy%20%E5%8F%B0%E4%B8%AD",
-      "note": "［免費］\nFlesh Juicer 血肉果汁機演出,搭配 Manager-捏捏、Ne Ne、Belle。"
     },
     {
       "id": "upcoming-row-30",
@@ -16466,7 +16466,7 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
-      "id": "upcoming-row-639",
+      "id": "upcoming-row-635",
       "date": "20261121",
       "band": "sadog",
       "time": "20:00-20:30",
@@ -16476,7 +16476,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
-      "id": "upcoming-row-640",
+      "id": "upcoming-row-636",
       "date": "20261121",
       "band": "band_drsiw0_93",
       "time": "20:30-20:50",
@@ -16486,7 +16486,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
-      "id": "upcoming-row-641",
+      "id": "upcoming-row-637",
       "date": "20261121",
       "band": "mango",
       "time": "21:10-21:30",
@@ -16496,7 +16496,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
-      "id": "upcoming-row-646",
+      "id": "upcoming-row-642",
       "date": "20261121",
       "band": "ourock",
       "time": "未公布",
@@ -16566,7 +16566,7 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
-      "id": "upcoming-row-642",
+      "id": "upcoming-row-638",
       "date": "20261122",
       "band": "band_drsiw0_61",
       "time": "19:45-20:25",
@@ -16576,7 +16576,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
-      "id": "upcoming-row-643",
+      "id": "upcoming-row-639",
       "date": "20261122",
       "band": "savagem",
       "time": "20:25-20:45",
@@ -16586,7 +16586,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
-      "id": "upcoming-row-644",
+      "id": "upcoming-row-640",
       "date": "20261122",
       "band": "band_drsiw0_1",
       "time": "20:45-21:05",
@@ -16596,7 +16596,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
     },
     {
-      "id": "upcoming-row-645",
+      "id": "upcoming-row-641",
       "date": "20261122",
       "band": "band_drsiw0_25",
       "time": "21:10-21:30",
@@ -18181,6 +18181,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "b6ea2ac7-5664-441d-8422-ce399ffd7c4f",
-  "updatedAt": "2026-10-30T14:26:49.553Z"
+  "revision": "54343ee3-fc02-40b3-b848-3db9f7990c64",
+  "updatedAt": "2026-10-30T16:02:28.864Z"
 }
