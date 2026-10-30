@@ -50,20 +50,20 @@
       "eventCount": 11
     },
     {
+      "id": "band_nmq1yt",
+      "name": "鼓鼓 呂思緯",
+      "short": "鼓鼓 呂思緯",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 9
+    },
+    {
       "id": "pizzali",
       "name": "PIZZALI",
       "short": "PIZZALI",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 9
-    },
-    {
-      "id": "band_nmq1yt",
-      "name": "鼓鼓 呂思緯",
-      "short": "鼓鼓 呂思緯",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 8
     },
     {
       "id": "band_drsiw0_25",
@@ -950,6 +950,14 @@
       "name": "陳華",
       "short": "陳華",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_75",
+      "name": "呂士軒",
+      "short": "呂士軒",
+      "color": "#8338ec",
       "category": "個人",
       "eventCount": 2
     },
@@ -2182,14 +2190,6 @@
       "name": "DJ 丁安妮",
       "short": "DJ 丁安妮",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_75",
-      "name": "呂士軒",
-      "short": "呂士軒",
-      "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
     },
@@ -4863,6 +4863,22 @@
       "short": "Oz",
       "color": "#8338ec",
       "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_161",
+      "name": "鄧福如",
+      "short": "鄧福",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "jocelyn940",
+      "name": "Jocelyn 9.4.0",
+      "short": "Jo",
+      "color": "#fb5607",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -12850,6 +12866,26 @@
       "note": "［免費］\n開幕嘉賓 Ozone 小分隊(周祖安、李哲言、林煥鈞)於 10/31;閉幕嘉賓 Ariel Tsai 蔡佩軒及 YOYO 哥哥姐姐於 11/8。活動時間為每日 10:00–19:00。"
     },
     {
+      "id": "upcoming-row-638",
+      "date": "20261031",
+      "band": "band_drsiw0_161",
+      "time": "16:10-16:35",
+      "name": "台北 總統盃全民運動賽事嘉年華",
+      "location": "台北市總統府前南廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E7%B8%BD%E7%B5%B1%E5%BA%9C%E5%89%8D%E5%8D%97%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於10/31及11/01舉辦,包含鄧福如、呂士軒、Jocelyn 9.4.0、鼓鼓 呂思緯等演出。"
+    },
+    {
+      "id": "upcoming-row-639",
+      "date": "20261031",
+      "band": "band_drsiw0_75",
+      "time": "16:35-16:55",
+      "name": "台北 總統盃全民運動賽事嘉年華",
+      "location": "台北市總統府前南廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E7%B8%BD%E7%B5%B1%E5%BA%9C%E5%89%8D%E5%8D%97%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於10/31及11/01舉辦,包含鄧福如、呂士軒、Jocelyn 9.4.0、鼓鼓 呂思緯等演出。"
+    },
+    {
       "id": "upcoming-row-150",
       "date": "20261101",
       "band": "papunband",
@@ -13428,6 +13464,26 @@
       "location": "新竹市立棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AB%8B%E6%A3%92%E7%90%83%E5%A0%B4",
       "note": "［免費］\n活動採免費索票,10月24日新竹通用戶優先領票,10月26日開放全台球迷索取。卡司:孝淵、謝金燕。"
+    },
+    {
+      "id": "upcoming-row-640",
+      "date": "20261101",
+      "band": "jocelyn940",
+      "time": "15:34-15:54",
+      "name": "台北 總統盃全民運動賽事嘉年華",
+      "location": "台北市總統府前南廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E7%B8%BD%E7%B5%B1%E5%BA%9C%E5%89%8D%E5%8D%97%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於10/31及11/01舉辦,包含鄧福如、呂士軒、Jocelyn 9.4.0、鼓鼓 呂思緯等演出。"
+    },
+    {
+      "id": "upcoming-row-641",
+      "date": "20261101",
+      "band": "band_nmq1yt",
+      "time": "16:30-16:55",
+      "name": "台北 總統盃全民運動賽事嘉年華",
+      "location": "台北市總統府前南廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E7%B8%BD%E7%B5%B1%E5%BA%9C%E5%89%8D%E5%8D%97%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於10/31及11/01舉辦,包含鄧福如、呂士軒、Jocelyn 9.4.0、鼓鼓 呂思緯等演出。"
     },
     {
       "id": "upcoming-row-208",
@@ -18035,6 +18091,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "f78bd8e9-cbaf-41da-bf18-fe42a5283519",
-  "updatedAt": "2026-10-30T05:26:51.101Z"
+  "revision": "b000dc59-9f50-4e04-b90b-7b0eb00786fe",
+  "updatedAt": "2026-10-30T05:27:24.228Z"
 }
