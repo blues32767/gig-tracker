@@ -330,6 +330,14 @@
       "eventCount": 4
     },
     {
+      "id": "sabrina",
+      "name": "Sabrina 胡恂舞",
+      "short": "Sabrina 胡恂舞",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "juiceboy",
       "name": "Juice Boy",
       "short": "Juice Boy",
@@ -583,14 +591,6 @@
       "short": "宋德鶴",
       "color": "#118ab2",
       "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "sabrina",
-      "name": "Sabrina 胡恂舞",
-      "short": "Sabrina 胡恂舞",
-      "color": "#8338ec",
-      "category": "個人",
       "eventCount": 3
     },
     {
@@ -15110,6 +15110,16 @@
       "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
     },
     {
+      "id": "upcoming-row-637",
+      "date": "20261110",
+      "band": "sabrina",
+      "time": "18:00-21:00",
+      "name": "台中 迴聲草地音樂會",
+      "location": "台中市逢甲大學育樂館旁大草皮",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
+      "note": "［免費］\n卡司包含 Sabrina 胡恂舞,可校外參加。"
+    },
+    {
       "id": "upcoming-row-351",
       "date": "20261111",
       "band": "trash",
@@ -18025,6 +18035,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "5465a80f-526b-4c20-bf96-8356a4d81cfc",
-  "updatedAt": "2026-10-30T05:25:22.299Z"
+  "revision": "9ff683f8-2a3f-482b-a722-408093a864b7",
+  "updatedAt": "2026-10-30T05:26:14.284Z"
 }
