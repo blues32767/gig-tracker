@@ -298,6 +298,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_qqiyec_8",
+      "name": "血肉果汁機",
+      "short": "血肉果汁機",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_59",
       "name": "固定客",
       "short": "固定客",
@@ -463,14 +471,6 @@
       "short": "幽靈水晶",
       "color": "#ffd166",
       "category": "團體",
-      "eventCount": 3
-    },
-    {
-      "id": "band_qqiyec_8",
-      "name": "血肉果汁機",
-      "short": "血肉果汁機",
-      "color": "#ef476f",
-      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -4878,6 +4878,30 @@
       "name": "Jocelyn 9.4.0",
       "short": "Jo",
       "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "manager",
+      "name": "Manager-捏捏",
+      "short": "Ma",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "nene",
+      "name": "Ne Ne",
+      "short": "Ne",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "belle",
+      "name": "Belle",
+      "short": "Be",
+      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
     },
@@ -11746,6 +11770,46 @@
       "note": "［免費］\n卡司:怕胖團、阿跨面、BELISH。活動時間及入場資格等待公告。"
     },
     {
+      "id": "upcoming-row-644",
+      "date": "20261030",
+      "band": "band_qqiyec_8",
+      "time": "未公布",
+      "name": "台中 Legacy",
+      "location": "Legacy 台中",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Legacy%20%E5%8F%B0%E4%B8%AD",
+      "note": "［免費］\nFlesh Juicer 血肉果汁機演出,搭配 Manager-捏捏、Ne Ne、Belle。"
+    },
+    {
+      "id": "upcoming-row-645",
+      "date": "20261030",
+      "band": "manager",
+      "time": "未公布",
+      "name": "台中 Legacy",
+      "location": "Legacy 台中",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Legacy%20%E5%8F%B0%E4%B8%AD",
+      "note": "［免費］\nFlesh Juicer 血肉果汁機演出,搭配 Manager-捏捏、Ne Ne、Belle。"
+    },
+    {
+      "id": "upcoming-row-646",
+      "date": "20261030",
+      "band": "nene",
+      "time": "未公布",
+      "name": "台中 Legacy",
+      "location": "Legacy 台中",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Legacy%20%E5%8F%B0%E4%B8%AD",
+      "note": "［免費］\nFlesh Juicer 血肉果汁機演出,搭配 Manager-捏捏、Ne Ne、Belle。"
+    },
+    {
+      "id": "upcoming-row-647",
+      "date": "20261030",
+      "band": "belle",
+      "time": "未公布",
+      "name": "台中 Legacy",
+      "location": "Legacy 台中",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Legacy%20%E5%8F%B0%E4%B8%AD",
+      "note": "［免費］\nFlesh Juicer 血肉果汁機演出,搭配 Manager-捏捏、Ne Ne、Belle。"
+    },
+    {
       "id": "upcoming-row-40",
       "date": "20261031",
       "band": "papunband",
@@ -18111,6 +18175,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e83010af-713b-4c9e-9c03-a8abe4d3979b",
-  "updatedAt": "2026-10-30T08:26:46.619Z"
+  "revision": "e3b1c329-2861-45fb-8526-991c7288a89d",
+  "updatedAt": "2026-10-30T08:27:26.912Z"
 }
