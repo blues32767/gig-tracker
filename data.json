@@ -7,7 +7,7 @@
       "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
-      "eventCount": 60
+      "eventCount": 61
     },
     {
       "id": "AmazingShow",
@@ -71,7 +71,7 @@
       "short": "許富凱",
       "color": "#ef476f",
       "category": "個人",
-      "eventCount": 8
+      "eventCount": 9
     },
     {
       "id": "trash",
@@ -90,10 +90,26 @@
       "eventCount": 7
     },
     {
+      "id": "band_drsiw0_1",
+      "name": "李浩瑋",
+      "short": "李浩瑋",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
       "id": "SweetJohn",
       "name": "甜約翰",
       "short": "甜約翰",
       "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
+      "id": "band_drsiw0_61",
+      "name": "白頻率",
+      "short": "白頻率",
+      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 7
     },
@@ -126,14 +142,6 @@
       "name": "呂允",
       "short": "呂允",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "band_drsiw0_1",
-      "name": "李浩瑋",
-      "short": "李浩瑋",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 6
     },
@@ -175,14 +183,6 @@
       "short": "黃宇寒",
       "color": "#ffd166",
       "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "band_drsiw0_61",
-      "name": "白頻率",
-      "short": "白頻率",
-      "color": "#2ec4b6",
-      "category": "樂團",
       "eventCount": 6
     },
     {
@@ -1034,6 +1034,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_93",
+      "name": "陳孟賢",
+      "short": "陳孟賢",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_6gp8um_32",
       "name": "樂樂",
       "short": "樂樂",
@@ -1111,6 +1119,14 @@
       "short": "謝金燕",
       "color": "#06d6a0",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "sadog",
+      "name": "SADOG",
+      "short": "SADOG",
+      "color": "#3a86ff",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -2474,14 +2490,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_93",
-      "name": "陳孟賢",
-      "short": "陳孟賢",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_qqiyec_13",
       "name": "南方二重唱",
       "short": "南方二重唱",
@@ -3254,14 +3262,6 @@
       "name": "ELDON",
       "short": "ELDON",
       "color": "#fb5607",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "sadog",
-      "name": "SADOG",
-      "short": "SADOG",
-      "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
     },
@@ -4903,6 +4903,14 @@
       "short": "Be",
       "color": "#2ec4b6",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "savagem",
+      "name": "馬克 SAVAGE.M",
+      "short": "馬克",
+      "color": "#ef476f",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -16560,6 +16568,36 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
+      "id": "upcoming-row-648",
+      "date": "20261121",
+      "band": "sadog",
+      "time": "20:00-20:30",
+      "name": "雲林 斗六燈海節",
+      "location": "雲林縣斗六圓環/太平老街",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
+      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+    },
+    {
+      "id": "upcoming-row-649",
+      "date": "20261121",
+      "band": "band_drsiw0_93",
+      "time": "20:30-20:50",
+      "name": "雲林 斗六燈海節",
+      "location": "雲林縣斗六圓環/太平老街",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
+      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+    },
+    {
+      "id": "upcoming-row-650",
+      "date": "20261121",
+      "band": "mango",
+      "time": "21:10-21:30",
+      "name": "雲林 斗六燈海節",
+      "location": "雲林縣斗六圓環/太平老街",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
+      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+    },
+    {
       "id": "upcoming-row-455",
       "date": "20261122",
       "band": "band_6gp8um_15",
@@ -16618,6 +16656,46 @@
       "location": "台南市南紡購物中心A2館1F南紡廣場",
       "mapLink": "https://maps.app.goo.gl/Z9UZp99pKxVHyFs17",
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
+    },
+    {
+      "id": "upcoming-row-651",
+      "date": "20261122",
+      "band": "band_drsiw0_61",
+      "time": "19:45-20:25",
+      "name": "雲林 斗六燈海節",
+      "location": "雲林縣斗六圓環/太平老街",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
+      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+    },
+    {
+      "id": "upcoming-row-652",
+      "date": "20261122",
+      "band": "savagem",
+      "time": "20:25-20:45",
+      "name": "雲林 斗六燈海節",
+      "location": "雲林縣斗六圓環/太平老街",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
+      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+    },
+    {
+      "id": "upcoming-row-653",
+      "date": "20261122",
+      "band": "band_drsiw0_1",
+      "time": "20:45-21:05",
+      "name": "雲林 斗六燈海節",
+      "location": "雲林縣斗六圓環/太平老街",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
+      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
+    },
+    {
+      "id": "upcoming-row-654",
+      "date": "20261122",
+      "band": "band_drsiw0_25",
+      "time": "21:10-21:30",
+      "name": "雲林 斗六燈海節",
+      "location": "雲林縣斗六圓環/太平老街",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
+      "note": "［免費］\n斗六燈海節,包含 SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱等演出。"
     },
     {
       "id": "upcoming-row-461",
@@ -18175,6 +18253,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "26f987e2-861f-4558-bbcc-923b72794712",
-  "updatedAt": "2026-10-30T11:21:43.327Z"
+  "revision": "1e1c7f06-5046-4fba-aca9-2dee52c28e3e",
+  "updatedAt": "2026-10-30T11:24:49.034Z"
 }
