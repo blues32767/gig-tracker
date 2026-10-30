@@ -58,6 +58,14 @@
       "eventCount": 9
     },
     {
+      "id": "band_nmq1yt",
+      "name": "鼓鼓 呂思緯",
+      "short": "鼓鼓 呂思緯",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 8
+    },
+    {
       "id": "band_drsiw0_25",
       "name": "許富凱",
       "short": "許富凱",
@@ -79,14 +87,6 @@
       "short": "冰球樂團",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 7
-    },
-    {
-      "id": "band_nmq1yt",
-      "name": "鼓鼓 呂思緯",
-      "short": "鼓鼓 呂思緯",
-      "color": "#2ec4b6",
-      "category": "個人",
       "eventCount": 7
     },
     {
@@ -186,6 +186,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_85",
+      "name": "蕭景鴻",
+      "short": "蕭景鴻",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "163braces",
       "name": "163braces",
       "short": "163braces",
@@ -222,14 +230,6 @@
       "name": "欣菲 Sinby",
       "short": "欣菲",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_drsiw0_85",
-      "name": "蕭景鴻",
-      "short": "蕭景鴻",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 5
     },
@@ -431,6 +431,14 @@
       "short": "持修",
       "color": "#ffd166",
       "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "PACHILA",
+      "name": "帕崎拉",
+      "short": "帕崎拉",
+      "color": "#00b4d8",
+      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -650,6 +658,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_139",
+      "name": "徐暐翔",
+      "short": "徐暐翔",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "awkward",
       "name": "阿克沃 Awkward",
       "short": "阿克沃 Awkward",
@@ -806,14 +822,6 @@
       "name": "Control T",
       "short": "Control T",
       "color": "#fb5607",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "PACHILA",
-      "name": "帕崎拉",
-      "short": "帕崎拉",
-      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 2
     },
@@ -1098,10 +1106,26 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_134",
+      "name": "曾昱嘉",
+      "short": "曾昱嘉",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_6u8lrj_35",
       "name": "旺福樂團",
       "short": "旺福樂團",
       "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "pallas_1",
+      "name": "PALLAS 帕拉斯",
+      "short": "PALLAS 帕拉斯",
+      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 2
     },
@@ -1122,6 +1146,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_137",
+      "name": "郭家瑋",
+      "short": "郭家瑋",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_maaxir_7",
       "name": "中山高中熱舞社",
       "short": "中山高中熱舞社",
@@ -1134,14 +1166,6 @@
       "name": "張文綺",
       "short": "張文綺",
       "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_139",
-      "name": "徐暐翔",
-      "short": "徐暐翔",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 2
     },
@@ -3362,22 +3386,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_134",
-      "name": "曾昱嘉",
-      "short": "曾昱嘉",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "pallas_1",
-      "name": "PALLAS 帕拉斯",
-      "short": "PALLAS 帕拉斯",
-      "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_qqiyec_17",
       "name": "打倒三明治",
       "short": "打倒三明治",
@@ -3415,14 +3423,6 @@
       "short": "草屯囝仔",
       "color": "#118ab2",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_137",
-      "name": "郭家瑋",
-      "short": "郭家瑋",
-      "color": "#8338ec",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -4791,6 +4791,78 @@
       "short": "MC",
       "color": "#ff006e",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger小薑",
+      "short": "Gi",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "verna",
+      "name": "琟娜VERNA",
+      "short": "琟娜",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "tahai",
+      "name": "達嗨Tahai",
+      "short": "達嗨",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_55",
+      "name": "黃號",
+      "short": "黃號",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_hm2kvc",
+      "name": "DJ李翰",
+      "short": "DJ",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_159",
+      "name": "劉明湘",
+      "short": "劉明",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "bcrush",
+      "name": "B CRUSH",
+      "short": "BC",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_160",
+      "name": "閻奕格",
+      "short": "閻奕",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ozone_1",
+      "name": "Ozone林佳辰",
+      "short": "Oz",
+      "color": "#8338ec",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -13548,6 +13620,56 @@
       "note": "［免費］\n活動於11/4(六)下午5:30-9:30在新竹市元培醫事科技大學圓形廣場舉辦,歡迎校外人士參加。卡司包含艾薇、吳霏、欣菲、BIDO曾愷妤、SAM3PAY,並由聖恩主持。"
     },
     {
+      "id": "upcoming-row-621",
+      "date": "20261106",
+      "band": "ginger",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-622",
+      "date": "20261106",
+      "band": "verna",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-623",
+      "date": "20261106",
+      "band": "band_nmq1yt",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-624",
+      "date": "20261106",
+      "band": "tahai",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-625",
+      "date": "20261106",
+      "band": "band_drsiw0_85",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
       "id": "upcoming-row-222",
       "date": "20261107",
       "band": "mango",
@@ -14308,6 +14430,66 @@
       "note": "［售票］\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
     },
     {
+      "id": "upcoming-row-626",
+      "date": "20261107",
+      "band": "band_drsiw0_139",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-627",
+      "date": "20261107",
+      "band": "band_6gp8um_55",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-628",
+      "date": "20261107",
+      "band": "band_hm2kvc",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-629",
+      "date": "20261107",
+      "band": "band_drsiw0_159",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-630",
+      "date": "20261107",
+      "band": "bcrush",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-631",
+      "date": "20261107",
+      "band": "pallas_1",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
       "id": "upcoming-row-298",
       "date": "20261108",
       "band": "AmazingShow",
@@ -14876,6 +15058,56 @@
       "location": "雲林縣古坑鄉綠色隧道公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E5%8F%A4%E5%9D%91%E9%84%89%E7%B6%A0%E8%89%B2%E9%9A%A7%E9%81%93%E5%85%AC%E5%9C%92",
       "note": "［免費］\n開幕嘉賓 Ozone 小分隊(周祖安、李哲言、林煥鈞)於 10/31;閉幕嘉賓 Ariel Tsai 蔡佩軒及 YOYO 哥哥姐姐於 11/8。活動時間為每日 10:00–19:00。"
+    },
+    {
+      "id": "upcoming-row-632",
+      "date": "20261108",
+      "band": "band_drsiw0_137",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-633",
+      "date": "20261108",
+      "band": "PACHILA",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-634",
+      "date": "20261108",
+      "band": "band_drsiw0_160",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-635",
+      "date": "20261108",
+      "band": "band_drsiw0_134",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
+    },
+    {
+      "id": "upcoming-row-636",
+      "date": "20261108",
+      "band": "ozone_1",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動換票資訊,卡司包含Ginger小薑、琟娜VERNA、鼓鼓呂思緯、達嗨Tahai、蕭景鴻、徐暐翔、黃號、DJ李翰、劉明湘、B CRUSH、PALLAS帕拉斯、郭家瑋、帕崎拉PACHILA、閻奕格、曾昱嘉YuJia、Ozone林佳辰"
     },
     {
       "id": "upcoming-row-351",
@@ -17793,6 +18025,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "604907eb-981c-473b-8a01-42676d03e616",
-  "updatedAt": "2026-10-30T05:21:55.706Z"
+  "revision": "5465a80f-526b-4c20-bf96-8356a4d81cfc",
+  "updatedAt": "2026-10-30T05:25:22.299Z"
 }
