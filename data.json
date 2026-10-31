@@ -690,6 +690,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_13",
+      "name": "黃新皓",
+      "short": "黃新皓",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_14",
       "name": "翁鈺鈞",
       "short": "翁鈺鈞",
@@ -1010,6 +1018,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_91",
+      "name": "賴銘偉",
+      "short": "賴銘偉",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_93",
       "name": "陳孟賢",
       "short": "陳孟賢",
@@ -1210,6 +1226,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_145",
+      "name": "孫淑媚",
+      "short": "孫淑媚",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_6gp8um_1",
       "name": "王謙",
       "short": "王謙",
@@ -1294,14 +1318,6 @@
       "name": "沈建豪",
       "short": "沈建豪",
       "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_13",
-      "name": "黃新皓",
-      "short": "黃新皓",
-      "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
     },
@@ -2470,14 +2486,6 @@
       "name": "郭書瑤",
       "short": "郭書瑤",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_91",
-      "name": "賴銘偉",
-      "short": "賴銘偉",
-      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
     },
@@ -4338,14 +4346,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_145",
-      "name": "孫淑媚",
-      "short": "孫淑媚",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "ogreyouassho",
       "name": "OGRE YOU ASSHOLE",
       "short": "OGRE YOU ASSHOLE",
@@ -4943,6 +4943,54 @@
       "short": "暗影",
       "color": "#8338ec",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_162",
+      "name": "曾心梅",
+      "short": "曾心",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_163",
+      "name": "蘇宥蓉",
+      "short": "蘇宥",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_164",
+      "name": "江志豐",
+      "short": "江志",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_57",
+      "name": "楊哲",
+      "short": "楊哲",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_165",
+      "name": "郭婷筠",
+      "short": "郭婷",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_48",
+      "name": "惡魔舞團",
+      "short": "惡魔",
+      "color": "#ef476f",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -13490,6 +13538,96 @@
       "note": "［免費］\n活動於10/31及11/01舉辦,包含鄧福如、呂士軒、Jocelyn 9.4.0、鼓鼓 呂思緯等藝人演出。"
     },
     {
+      "id": "upcoming-row-644",
+      "date": "20261101",
+      "band": "band_drsiw0_145",
+      "time": "未公布",
+      "name": "高雄 2026 左楠關義盟三載朔源",
+      "location": "高雄市楠梓區大學三十三路路口",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E5%8D%81%E4%B8%89%E8%B7%AF%E8%B7%AF%E5%8F%A3",
+      "note": "［免費］\n活動為左楠關義盟三週年紀念,卡司包含孫淑媚、曾心梅、蘇宥蓉、賴銘偉、黃新皓、江志豐、楊哲、郭婷筠、惡魔舞團。"
+    },
+    {
+      "id": "upcoming-row-645",
+      "date": "20261101",
+      "band": "band_drsiw0_162",
+      "time": "未公布",
+      "name": "高雄 2026 左楠關義盟三載朔源",
+      "location": "高雄市楠梓區大學三十三路路口",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E5%8D%81%E4%B8%89%E8%B7%AF%E8%B7%AF%E5%8F%A3",
+      "note": "［免費］\n活動為左楠關義盟三週年紀念,卡司包含孫淑媚、曾心梅、蘇宥蓉、賴銘偉、黃新皓、江志豐、楊哲、郭婷筠、惡魔舞團。"
+    },
+    {
+      "id": "upcoming-row-646",
+      "date": "20261101",
+      "band": "band_drsiw0_163",
+      "time": "未公布",
+      "name": "高雄 2026 左楠關義盟三載朔源",
+      "location": "高雄市楠梓區大學三十三路路口",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E5%8D%81%E4%B8%89%E8%B7%AF%E8%B7%AF%E5%8F%A3",
+      "note": "［免費］\n活動為左楠關義盟三週年紀念,卡司包含孫淑媚、曾心梅、蘇宥蓉、賴銘偉、黃新皓、江志豐、楊哲、郭婷筠、惡魔舞團。"
+    },
+    {
+      "id": "upcoming-row-647",
+      "date": "20261101",
+      "band": "band_drsiw0_91",
+      "time": "未公布",
+      "name": "高雄 2026 左楠關義盟三載朔源",
+      "location": "高雄市楠梓區大學三十三路路口",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E5%8D%81%E4%B8%89%E8%B7%AF%E8%B7%AF%E5%8F%A3",
+      "note": "［免費］\n活動為左楠關義盟三週年紀念,卡司包含孫淑媚、曾心梅、蘇宥蓉、賴銘偉、黃新皓、江志豐、楊哲、郭婷筠、惡魔舞團。"
+    },
+    {
+      "id": "upcoming-row-648",
+      "date": "20261101",
+      "band": "band_drsiw0_13",
+      "time": "未公布",
+      "name": "高雄 2026 左楠關義盟三載朔源",
+      "location": "高雄市楠梓區大學三十三路路口",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E5%8D%81%E4%B8%89%E8%B7%AF%E8%B7%AF%E5%8F%A3",
+      "note": "［免費］\n活動為左楠關義盟三週年紀念,卡司包含孫淑媚、曾心梅、蘇宥蓉、賴銘偉、黃新皓、江志豐、楊哲、郭婷筠、惡魔舞團。"
+    },
+    {
+      "id": "upcoming-row-649",
+      "date": "20261101",
+      "band": "band_drsiw0_164",
+      "time": "未公布",
+      "name": "高雄 2026 左楠關義盟三載朔源",
+      "location": "高雄市楠梓區大學三十三路路口",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E5%8D%81%E4%B8%89%E8%B7%AF%E8%B7%AF%E5%8F%A3",
+      "note": "［免費］\n活動為左楠關義盟三週年紀念,卡司包含孫淑媚、曾心梅、蘇宥蓉、賴銘偉、黃新皓、江志豐、楊哲、郭婷筠、惡魔舞團。"
+    },
+    {
+      "id": "upcoming-row-650",
+      "date": "20261101",
+      "band": "band_6gp8um_57",
+      "time": "未公布",
+      "name": "高雄 2026 左楠關義盟三載朔源",
+      "location": "高雄市楠梓區大學三十三路路口",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E5%8D%81%E4%B8%89%E8%B7%AF%E8%B7%AF%E5%8F%A3",
+      "note": "［免費］\n活動為左楠關義盟三週年紀念,卡司包含孫淑媚、曾心梅、蘇宥蓉、賴銘偉、黃新皓、江志豐、楊哲、郭婷筠、惡魔舞團。"
+    },
+    {
+      "id": "upcoming-row-651",
+      "date": "20261101",
+      "band": "band_drsiw0_165",
+      "time": "未公布",
+      "name": "高雄 2026 左楠關義盟三載朔源",
+      "location": "高雄市楠梓區大學三十三路路口",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E5%8D%81%E4%B8%89%E8%B7%AF%E8%B7%AF%E5%8F%A3",
+      "note": "［免費］\n活動為左楠關義盟三週年紀念,卡司包含孫淑媚、曾心梅、蘇宥蓉、賴銘偉、黃新皓、江志豐、楊哲、郭婷筠、惡魔舞團。"
+    },
+    {
+      "id": "upcoming-row-652",
+      "date": "20261101",
+      "band": "band_6u8lrj_48",
+      "time": "未公布",
+      "name": "高雄 2026 左楠關義盟三載朔源",
+      "location": "高雄市楠梓區大學三十三路路口",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E5%8D%81%E4%B8%89%E8%B7%AF%E8%B7%AF%E5%8F%A3",
+      "note": "［免費］\n活動為左楠關義盟三週年紀念,卡司包含孫淑媚、曾心梅、蘇宥蓉、賴銘偉、黃新皓、江志豐、楊哲、郭婷筠、惡魔舞團。"
+    },
+    {
       "id": "upcoming-row-196",
       "date": "20261104",
       "band": "ozone",
@@ -18225,6 +18363,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "42183dbe-40f0-4110-97e0-5ed2db480c6d",
-  "updatedAt": "2026-10-31T05:26:56.368Z"
+  "revision": "7de2d8ab-15f5-44ac-9cda-88892fafce0b",
+  "updatedAt": "2026-10-31T11:26:28.423Z"
 }
