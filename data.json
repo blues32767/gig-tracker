@@ -162,6 +162,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_71",
+      "name": "曾愷妤",
+      "short": "曾愷妤",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "band_drsiw0_85",
       "name": "蕭景鴻",
       "short": "蕭景鴻",
@@ -176,6 +184,14 @@
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 6
+    },
+    {
+      "id": "WhoCares",
+      "name": "胡凱兒",
+      "short": "胡凱兒",
+      "color": "#385c6e",
+      "category": "樂團",
+      "eventCount": 5
     },
     {
       "id": "SHOU",
@@ -218,14 +234,6 @@
       "eventCount": 5
     },
     {
-      "id": "band_drsiw0_71",
-      "name": "曾愷妤",
-      "short": "曾愷妤",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
       "id": "sinby",
       "name": "欣菲 Sinby",
       "short": "欣菲",
@@ -248,14 +256,6 @@
       "color": "#C8102E",
       "category": "樂團",
       "eventCount": 5
-    },
-    {
-      "id": "WhoCares",
-      "name": "胡凱兒",
-      "short": "胡凱兒",
-      "color": "#385c6e",
-      "category": "樂團",
-      "eventCount": 4
     },
     {
       "id": "PatrickBrasca",
@@ -4991,6 +4991,22 @@
       "short": "惡魔",
       "color": "#ef476f",
       "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_166",
+      "name": "王彙筑",
+      "short": "王彙",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_25",
+      "name": "多情牛奶糖",
+      "short": "多情",
+      "color": "#06d6a0",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -14688,6 +14704,46 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
     },
     {
+      "id": "upcoming-row-653",
+      "date": "20261107",
+      "band": "WhoCares",
+      "time": "未公布",
+      "name": "嘉義 中正大學校慶演唱會《落日微光》",
+      "location": "嘉義縣民雄鄉中正大學鳳凰大道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E6%B0%91%E9%9B%84%E9%84%89%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93",
+      "note": "［免費］\n卡司包含胡凱兒、BIDO 曾愷妤、王彙筑、多情牛奶糖,主持席子淇 Jennifer。"
+    },
+    {
+      "id": "upcoming-row-654",
+      "date": "20261107",
+      "band": "band_drsiw0_71",
+      "time": "未公布",
+      "name": "嘉義 中正大學校慶演唱會《落日微光》",
+      "location": "嘉義縣民雄鄉中正大學鳳凰大道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E6%B0%91%E9%9B%84%E9%84%89%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93",
+      "note": "［免費］\n卡司包含胡凱兒、BIDO 曾愷妤、王彙筑、多情牛奶糖,主持席子淇 Jennifer。"
+    },
+    {
+      "id": "upcoming-row-655",
+      "date": "20261107",
+      "band": "band_drsiw0_166",
+      "time": "未公布",
+      "name": "嘉義 中正大學校慶演唱會《落日微光》",
+      "location": "嘉義縣民雄鄉中正大學鳳凰大道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E6%B0%91%E9%9B%84%E9%84%89%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93",
+      "note": "［免費］\n卡司包含胡凱兒、BIDO 曾愷妤、王彙筑、多情牛奶糖,主持席子淇 Jennifer。"
+    },
+    {
+      "id": "upcoming-row-656",
+      "date": "20261107",
+      "band": "band_qqiyec_25",
+      "time": "未公布",
+      "name": "嘉義 中正大學校慶演唱會《落日微光》",
+      "location": "嘉義縣民雄鄉中正大學鳳凰大道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E6%B0%91%E9%9B%84%E9%84%89%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93",
+      "note": "［免費］\n卡司包含胡凱兒、BIDO 曾愷妤、王彙筑、多情牛奶糖,主持席子淇 Jennifer。"
+    },
+    {
       "id": "upcoming-row-286",
       "date": "20261108",
       "band": "AmazingShow",
@@ -18363,6 +18419,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e9880bbf-1410-4ed7-be93-a54fb491abdb",
-  "updatedAt": "2026-10-31T11:28:41.192Z"
+  "revision": "b506ba93-3d79-4dbc-9fcc-ee723c0eefa9",
+  "updatedAt": "2026-10-31T14:24:51.394Z"
 }
