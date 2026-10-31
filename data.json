@@ -5010,6 +5010,22 @@
       "eventCount": 1
     },
     {
+      "id": "thechosens",
+      "name": "天選THE CHOSENs",
+      "short": "天選",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "mvp",
+      "name": "MVP迷霧森林樂團",
+      "short": "MV",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -15864,54 +15880,24 @@
       "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
-      "id": "upcoming-row-435",
-      "date": "20261114",
-      "band": "mango",
-      "time": "09:00-17:00",
-      "name": "桃園 花彩節",
-      "location": "桃園市大溪月眉休閒農業區",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
-      "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。"
-    },
-    {
       "id": "upcoming-row-436",
       "date": "20261114",
       "band": "SweetJohn",
-      "time": "09:00-17:00",
-      "name": "桃園 花彩節",
+      "time": "19:00-17:00",
+      "name": "桃園 花彩節花田音樂會",
       "location": "桃園市大溪月眉休閒農業區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
-      "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。"
+      "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。"
     },
     {
       "id": "upcoming-row-437",
       "date": "20261114",
       "band": "band_drsiw0_32",
-      "time": "09:00-17:00",
-      "name": "桃園 花彩節",
+      "time": "19:00-17:00",
+      "name": "桃園 花彩節花田音樂會",
       "location": "桃園市大溪月眉休閒農業區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
-      "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。"
-    },
-    {
-      "id": "upcoming-row-438",
-      "date": "20261114",
-      "band": "band_drsiw0_149",
-      "time": "09:00-17:00",
-      "name": "桃園 花彩節",
-      "location": "桃園市大溪月眉休閒農業區",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
-      "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。"
-    },
-    {
-      "id": "upcoming-row-439",
-      "date": "20261114",
-      "band": "band_6gp8um_42",
-      "time": "09:00-17:00",
-      "name": "桃園 花彩節",
-      "location": "桃園市大溪月眉休閒農業區",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
-      "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。"
+      "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。"
     },
     {
       "id": "upcoming-row-447",
@@ -16704,6 +16690,26 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
+      "id": "upcoming-row-438",
+      "date": "20261121",
+      "band": "band_drsiw0_149",
+      "time": "19:00-17:00",
+      "name": "桃園 花彩節花田音樂會",
+      "location": "桃園市大溪月眉休閒農業區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
+      "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。"
+    },
+    {
+      "id": "upcoming-row-439",
+      "date": "20261121",
+      "band": "band_6gp8um_42",
+      "time": "19:00-17:00",
+      "name": "桃園 花彩節花田音樂會",
+      "location": "桃園市大溪月眉休閒農業區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
+      "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。"
+    },
+    {
       "id": "upcoming-row-516",
       "date": "20261121",
       "band": "sadog",
@@ -16742,6 +16748,16 @@
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
+    },
+    {
+      "id": "upcoming-row-539",
+      "date": "20261121",
+      "band": "thechosens",
+      "time": "19:00-17:00",
+      "name": "桃園 花彩節花田音樂會",
+      "location": "桃園市大溪月眉休閒農業區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
+      "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。"
     },
     {
       "id": "upcoming-row-329",
@@ -16804,6 +16820,16 @@
       "note": "［免費］\n演出時間未定-免費自由入場\n全卡司:持修、Who Cares 胡凱兒、鄒序、梁河懸、冰球樂團、眠氣、庸俗救星、PALLAS 帕拉斯。活動日期為 2026年11月21日。\n來源：https://www.threads.com/share/P6XLA5AoL/"
     },
     {
+      "id": "upcoming-row-435",
+      "date": "20261122",
+      "band": "mango",
+      "time": "19:00-17:00",
+      "name": "桃園 花彩節花田音樂會",
+      "location": "桃園市大溪月眉休閒農業區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
+      "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。"
+    },
+    {
       "id": "upcoming-row-519",
       "date": "20261122",
       "band": "band_drsiw0_61",
@@ -16842,6 +16868,16 @@
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。"
+    },
+    {
+      "id": "upcoming-row-540",
+      "date": "20261122",
+      "band": "mvp",
+      "time": "19:00-17:00",
+      "name": "桃園 花彩節花田音樂會",
+      "location": "桃園市大溪月眉休閒農業區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
+      "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。"
     },
     {
       "id": "upcoming-row-335",
@@ -18419,6 +18455,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "45a66bea-5426-4532-86a6-520f738e6c86",
-  "updatedAt": "2026-10-31T16:02:14.068Z"
+  "revision": "91972665-4f5a-4fbe-be08-a1bed679661e",
+  "updatedAt": "2026-10-31T17:24:46.495Z"
 }
