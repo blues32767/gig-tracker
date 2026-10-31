@@ -18112,8 +18112,8 @@
       "date": "20261231",
       "band": "mango",
       "time": "未公布",
-      "name": "未公布",
-      "location": "未公布",
+      "name": "2026芒果醬跨年專場",
+      "location": "Legacy Taipei",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
       "note": ""
     },
@@ -18363,6 +18363,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7de2d8ab-15f5-44ac-9cda-88892fafce0b",
-  "updatedAt": "2026-10-31T11:26:28.423Z"
+  "revision": "e9880bbf-1410-4ed7-be93-a54fb491abdb",
+  "updatedAt": "2026-10-31T11:28:41.192Z"
 }
