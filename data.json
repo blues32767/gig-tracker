@@ -4930,6 +4930,22 @@
       "eventCount": 1
     },
     {
+      "id": "pigeon",
+      "name": "政駒 Pigeon",
+      "short": "政駒",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_47",
+      "name": "暗影天使",
+      "short": "暗影",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -15234,6 +15250,26 @@
       "note": "［免費］\n2026 CR造星計畫:中科大場\n2026/11/12 中科大體育館\n卡司:\n卡司:脆樂團、胡凱兒。活動日期為 2026年11月12日。\n來源：https://www.threads.com/share/GUHyhipLh/"
     },
     {
+      "id": "upcoming-row-643",
+      "date": "20261113",
+      "band": "pigeon",
+      "time": "未公布",
+      "name": "雲林 政駒 Pigeon 心靈導失",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n政駒 Pigeon 演出,粉絲數 718 位"
+    },
+    {
+      "id": "upcoming-row-644",
+      "date": "20261113",
+      "band": "band_6u8lrj_47",
+      "time": "未公布",
+      "name": "雲林 暗影天使",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n暗影天使演出,粉絲數 718 位"
+    },
+    {
       "id": "upcoming-row-347",
       "date": "20261114",
       "band": "mango",
@@ -18199,6 +18235,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "13a29069-5910-4bb3-86cf-dc20875e6637",
-  "updatedAt": "2026-10-31T02:24:37.597Z"
+  "revision": "93e4627a-26df-4690-aa43-4cc5a6da6f90",
+  "updatedAt": "2026-10-31T02:26:12.374Z"
 }
