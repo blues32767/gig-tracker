@@ -1186,6 +1186,14 @@
       "eventCount": 2
     },
     {
+      "id": "babymint",
+      "name": "babyMINT",
+      "short": "babyMINT",
+      "color": "#fb5607",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_16",
       "name": "張文綺",
       "short": "張文綺",
@@ -3522,14 +3530,6 @@
       "eventCount": 1
     },
     {
-      "id": "babymint",
-      "name": "babyMINT",
-      "short": "babyMINT",
-      "color": "#fb5607",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "band_qqiyec_21",
       "name": "法比鳳鳴齋",
       "short": "法比鳳鳴齋",
@@ -5031,6 +5031,22 @@
       "short": "LI",
       "color": "#ff006e",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_l0o0l9",
+      "name": "...",
+      "short": "..",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "verna_1",
+      "name": "VERNA 琟娜",
+      "short": "VE",
+      "color": "#3a86ff",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -13885,7 +13901,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-438",
@@ -13895,7 +13911,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-439",
@@ -13905,7 +13921,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-440",
@@ -13915,7 +13931,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-441",
@@ -13925,7 +13941,27 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
+    },
+    {
+      "id": "upcoming-row-477",
+      "date": "20261106",
+      "band": "band_l0o0l9",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
+    },
+    {
+      "id": "upcoming-row-478",
+      "date": "20261106",
+      "band": "verna_1",
+      "time": "20:00-20:20",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-39",
@@ -14695,7 +14731,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-443",
@@ -14705,7 +14741,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-444",
@@ -14715,7 +14751,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-445",
@@ -14725,7 +14761,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-446",
@@ -14735,7 +14771,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-447",
@@ -14745,7 +14781,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-466",
@@ -15415,7 +15451,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-449",
@@ -15425,7 +15461,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-450",
@@ -15435,7 +15471,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-451",
@@ -15445,7 +15481,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-452",
@@ -15455,7 +15491,7 @@
       "name": "台北 500小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。"
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-168",
@@ -16076,6 +16112,16 @@
       "location": "台中市逢甲大學育樂館旁大草皮",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A8%E6%97%81%E5%A4%A7%E8%8D%89%E7%9A%AE",
       "note": "［免費］\n卡司包含 Sabrina 胡恂舞,活動於逢甲大學育樂館旁大草皮舉辦。"
+    },
+    {
+      "id": "upcoming-row-479",
+      "date": "20261114",
+      "band": "babymint",
+      "time": "未公布",
+      "name": "台北 500小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。"
     },
     {
       "id": "upcoming-row-216",
@@ -18533,6 +18579,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ac1855e9-9279-4d62-9d8a-8c323be7c809",
-  "updatedAt": "2026-11-01T16:01:52.791Z"
+  "revision": "c5f62f57-b798-436f-a581-cf915a0e7cef",
+  "updatedAt": "2026-11-01T17:27:03.548Z"
 }
