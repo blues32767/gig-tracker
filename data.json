@@ -122,6 +122,14 @@
       "eventCount": 7
     },
     {
+      "id": "band_6gp8um_11",
+      "name": "鼓鼓",
+      "short": "鼓鼓",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
       "id": "captainlu",
       "name": "盧廣仲",
       "short": "盧廣仲",
@@ -182,14 +190,6 @@
       "name": "蕭景鴻",
       "short": "蕭景鴻",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "band_6gp8um_11",
-      "name": "鼓鼓",
-      "short": "鼓鼓",
-      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 6
     },
@@ -1247,6 +1247,62 @@
       "short": "孫淑媚",
       "color": "#fb5607",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger小薑",
+      "short": "Ginger小薑",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "verna",
+      "name": "琟娜VERNA",
+      "short": "琟娜VERNA",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "tahai",
+      "name": "達嗨Tahai",
+      "short": "達嗨Tahai",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_55",
+      "name": "黃號",
+      "short": "黃號",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_hm2kvc",
+      "name": "DJ李翰",
+      "short": "DJ李翰",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_159",
+      "name": "劉明湘",
+      "short": "劉明湘",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "bcrush",
+      "name": "B CRUSH",
+      "short": "B CRUSH",
+      "color": "#06d6a0",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -4810,62 +4866,6 @@
       "eventCount": 1
     },
     {
-      "id": "ginger",
-      "name": "Ginger小薑",
-      "short": "Ginger小薑",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "verna",
-      "name": "琟娜VERNA",
-      "short": "琟娜VERNA",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "tahai",
-      "name": "達嗨Tahai",
-      "short": "達嗨Tahai",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_55",
-      "name": "黃號",
-      "short": "黃號",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_hm2kvc",
-      "name": "DJ李翰",
-      "short": "DJ李翰",
-      "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_159",
-      "name": "劉明湘",
-      "short": "劉明湘",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "bcrush",
-      "name": "B CRUSH",
-      "short": "B CRUSH",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_160",
       "name": "閻奕格",
       "short": "閻奕格",
@@ -5055,6 +5055,22 @@
       "short": "Ta",
       "color": "#00b4d8",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_58",
+      "name": "阿弟",
+      "short": "阿弟",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_hckdox",
+      "name": "CN",
+      "short": "CN",
+      "color": "#ef476f",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -13982,6 +13998,56 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
     },
     {
+      "id": "upcoming-row-482",
+      "date": "20261106",
+      "band": "verna",
+      "time": "20:00-20:20",
+      "name": "2026 雲林 Young Power 青春雲林演唱會",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
+    },
+    {
+      "id": "upcoming-row-483",
+      "date": "20261106",
+      "band": "ginger",
+      "time": "20:20-20:40",
+      "name": "2026 雲林 Young Power 青春雲林演唱會",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
+    },
+    {
+      "id": "upcoming-row-484",
+      "date": "20261106",
+      "band": "tahai",
+      "time": "20:40-21:00",
+      "name": "2026 雲林 Young Power 青春雲林演唱會",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
+    },
+    {
+      "id": "upcoming-row-485",
+      "date": "20261106",
+      "band": "band_6gp8um_11",
+      "time": "21:00-21:30",
+      "name": "2026 雲林 Young Power 青春雲林演唱會",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
+    },
+    {
+      "id": "upcoming-row-486",
+      "date": "20261106",
+      "band": "band_6gp8um_58",
+      "time": "21:30-22:00",
+      "name": "2026 雲林 Young Power 青春雲林演唱會",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
+    },
+    {
       "id": "upcoming-row-39",
       "date": "20261107",
       "band": "mango",
@@ -14902,6 +14968,56 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
     },
     {
+      "id": "upcoming-row-487",
+      "date": "20261107",
+      "band": "bcrush",
+      "time": "16:00-16:30",
+      "name": "2026 雲林 Young Power 青春雲林演唱會",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
+    },
+    {
+      "id": "upcoming-row-488",
+      "date": "20261107",
+      "band": "band_hckdox",
+      "time": "16:30-17:00",
+      "name": "2026 雲林 Young Power 青春雲林演唱會",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
+    },
+    {
+      "id": "upcoming-row-489",
+      "date": "20261107",
+      "band": "band_hm2kvc",
+      "time": "17:20-19:00",
+      "name": "2026 雲林 Young Power 青春雲林演唱會",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
+    },
+    {
+      "id": "upcoming-row-490",
+      "date": "20261107",
+      "band": "band_6gp8um_55",
+      "time": "19:20-19:50",
+      "name": "2026 雲林 Young Power 青春雲林演唱會",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
+    },
+    {
+      "id": "upcoming-row-491",
+      "date": "20261107",
+      "band": "band_drsiw0_159",
+      "time": "19:50-20:20",
+      "name": "2026 雲林 Young Power 青春雲林演唱會",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
+    },
+    {
       "id": "upcoming-row-115",
       "date": "20261108",
       "band": "AmazingShow",
@@ -15769,7 +15885,7 @@
       "name": "2026 雲林 Young Power 青春雲林演唱會",
       "location": "雲林縣斗六膨鼠森林公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。"
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
       "id": "upcoming-row-191",
@@ -15779,7 +15895,7 @@
       "name": "2026 雲林 Young Power 青春雲林演唱會",
       "location": "雲林縣斗六膨鼠森林公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。"
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
       "id": "upcoming-row-192",
@@ -16089,7 +16205,7 @@
       "name": "2026 雲林 Young Power 青春雲林演唱會",
       "location": "雲林縣斗六膨鼠森林公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。"
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
       "id": "upcoming-row-394",
@@ -16099,7 +16215,7 @@
       "name": "2026 雲林 Young Power 青春雲林演唱會",
       "location": "雲林縣斗六膨鼠森林公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。"
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
       "id": "upcoming-row-395",
@@ -16109,7 +16225,7 @@
       "name": "2026 雲林 Young Power 青春雲林演唱會",
       "location": "雲林縣斗六膨鼠森林公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。"
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
       "id": "upcoming-row-396",
@@ -16119,7 +16235,7 @@
       "name": "2026 雲林 Young Power 青春雲林演唱會",
       "location": "雲林縣斗六膨鼠森林公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。"
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
       "id": "upcoming-row-408",
@@ -16129,7 +16245,7 @@
       "name": "2026 雲林 Young Power 青春雲林演唱會",
       "location": "雲林縣斗六膨鼠森林公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。"
+      "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
       "id": "upcoming-row-453",
@@ -18607,6 +18723,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7c07663b-7dae-40ec-9daf-15dbf5588383",
-  "updatedAt": "2026-11-01T20:26:35.188Z"
+  "revision": "0bd7bc84-b549-42e6-8a47-f56c160a5e10",
+  "updatedAt": "2026-11-01T23:27:12.004Z"
 }
