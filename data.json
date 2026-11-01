@@ -7,7 +7,7 @@
       "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
-      "eventCount": 61
+      "eventCount": 62
     },
     {
       "id": "AmazingShow",
@@ -274,6 +274,14 @@
       "eventCount": 4
     },
     {
+      "id": "unus",
+      "name": "U:NUS",
+      "short": "U:NUS",
+      "color": "#2ec4b6",
+      "category": "團體",
+      "eventCount": 4
+    },
+    {
       "id": "fenix",
       "name": "FEniX",
       "short": "FEniX",
@@ -367,14 +375,6 @@
       "short": "就以斯",
       "color": "#ff006e",
       "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "unus",
-      "name": "U:NUS",
-      "short": "U:NUS",
-      "color": "#2ec4b6",
-      "category": "團體",
       "eventCount": 3
     },
     {
@@ -12834,6 +12834,26 @@
       "location": "台中市大甲區日南車站旁廣場",
       "note": "［免費］\n活動時間為 17:00-21:30。卡司包含:沈文程 ft.日南小馬老師、劉阿昌 ft.打幫你樂團、震樂堂 ft.日南慈德宮哨角團、拍謝少年 ft.孟春排舞班、黃宇寒 Han。\n延期公告:https://www.instagram.com/p/De1nHWfydwc/?obrf=aG82dTEzdGJzcjI2\n時間：18:45-19:15\n地圖：https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%A4%A7%E7%94%B2%E5%8D%80%E6%97%A5%E5%8D%97%E8%BB%8A%E7%AB%99%E6%97%81%E5%BB%A3%E5%A0%B4",
       "setlist": []
+    },
+    {
+      "id": "EV_20241101_MANG_9bb3d2",
+      "date": "20241101",
+      "band": "mango",
+      "time": "",
+      "name": "雲林 青春雲林演唱會",
+      "location": "斗六膨鼠森林公園",
+      "note": "［免費］\n地圖:https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "setlist": []
+    },
+    {
+      "id": "EV_20241101_UNUS_da69da",
+      "date": "20241101",
+      "band": "unus",
+      "time": "",
+      "name": "雲林 青春雲林演唱會",
+      "location": "斗六膨鼠森林公園",
+      "note": "［免費］\n地圖:https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "setlist": []
     }
   ],
   "upcoming": [
@@ -18513,6 +18533,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ee3469ac-6d12-4eb3-93f7-dd6e8e263157",
-  "updatedAt": "2026-11-01T07:41:16.390Z"
+  "revision": "97763c8d-136b-4b4e-8a4e-2f8d859acdf9",
+  "updatedAt": "2026-11-01T11:27:28.585Z"
 }
