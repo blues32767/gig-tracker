@@ -106,6 +106,14 @@
       "eventCount": 7
     },
     {
+      "id": "band_drsiw0_71",
+      "name": "曾愷妤",
+      "short": "曾愷妤",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
       "id": "fei",
       "name": "吳霏 FEI",
       "short": "吳霏 FEI",
@@ -119,6 +127,14 @@
       "short": "盧廣仲",
       "color": "#36cc00",
       "category": "個人",
+      "eventCount": 6
+    },
+    {
+      "id": "WhoCares",
+      "name": "胡凱兒",
+      "short": "胡凱兒",
+      "color": "#385c6e",
+      "category": "樂團",
       "eventCount": 6
     },
     {
@@ -162,14 +178,6 @@
       "eventCount": 6
     },
     {
-      "id": "band_drsiw0_71",
-      "name": "曾愷妤",
-      "short": "曾愷妤",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 6
-    },
-    {
       "id": "band_drsiw0_85",
       "name": "蕭景鴻",
       "short": "蕭景鴻",
@@ -184,14 +192,6 @@
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 6
-    },
-    {
-      "id": "WhoCares",
-      "name": "胡凱兒",
-      "short": "胡凱兒",
-      "color": "#385c6e",
-      "category": "樂團",
-      "eventCount": 5
     },
     {
       "id": "SHOU",
@@ -1231,6 +1231,22 @@
       "short": "孫淑媚",
       "color": "#fb5607",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_166",
+      "name": "王彙筑",
+      "short": "王彙",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_qqiyec_25",
+      "name": "多情牛奶糖",
+      "short": "多情",
+      "color": "#06d6a0",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -4994,22 +5010,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_166",
-      "name": "王彙筑",
-      "short": "王彙",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_qqiyec_25",
-      "name": "多情牛奶糖",
-      "short": "多情",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "thechosens",
       "name": "天選THE CHOSENs",
       "short": "天選",
@@ -5022,6 +5022,14 @@
       "name": "MVP迷霧森林樂團",
       "short": "MV",
       "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "lineup",
+      "name": "LINE UP",
+      "short": "LI",
+      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
     },
@@ -14760,6 +14768,56 @@
       "note": "［免費］\n卡司包含胡凱兒、BIDO 曾愷妤、王彙筑、多情牛奶糖,主持席子淇 Jennifer。"
     },
     {
+      "id": "upcoming-row-541",
+      "date": "20261107",
+      "band": "lineup",
+      "time": "未公布",
+      "name": "嘉義 中正大學第37屆校慶演唱會",
+      "location": "中正大學鳳凰大道下半部第三草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93%E4%B8%8B%E5%8D%8A%E9%83%A8%E7%AC%AC%E4%B8%89%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n中正大學第37屆校慶演唱會,卡司包含 LINE UP、胡凱兒、王彙筑、曾愷妤、多情牛奶糖,主持人席子淇。免費入場。"
+    },
+    {
+      "id": "upcoming-row-542",
+      "date": "20261107",
+      "band": "WhoCares",
+      "time": "未公布",
+      "name": "嘉義 中正大學第37屆校慶演唱會",
+      "location": "中正大學鳳凰大道下半部第三草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93%E4%B8%8B%E5%8D%8A%E9%83%A8%E7%AC%AC%E4%B8%89%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n中正大學第37屆校慶演唱會,卡司包含 LINE UP、胡凱兒、王彙筑、曾愷妤、多情牛奶糖,主持人席子淇。免費入場。"
+    },
+    {
+      "id": "upcoming-row-543",
+      "date": "20261107",
+      "band": "band_drsiw0_166",
+      "time": "未公布",
+      "name": "嘉義 中正大學第37屆校慶演唱會",
+      "location": "中正大學鳳凰大道下半部第三草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93%E4%B8%8B%E5%8D%8A%E9%83%A8%E7%AC%AC%E4%B8%89%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n中正大學第37屆校慶演唱會,卡司包含 LINE UP、胡凱兒、王彙筑、曾愷妤、多情牛奶糖,主持人席子淇。免費入場。"
+    },
+    {
+      "id": "upcoming-row-544",
+      "date": "20261107",
+      "band": "band_drsiw0_71",
+      "time": "未公布",
+      "name": "嘉義 中正大學第37屆校慶演唱會",
+      "location": "中正大學鳳凰大道下半部第三草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93%E4%B8%8B%E5%8D%8A%E9%83%A8%E7%AC%AC%E4%B8%89%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n中正大學第37屆校慶演唱會,卡司包含 LINE UP、胡凱兒、王彙筑、曾愷妤、多情牛奶糖,主持人席子淇。免費入場。"
+    },
+    {
+      "id": "upcoming-row-545",
+      "date": "20261107",
+      "band": "band_qqiyec_25",
+      "time": "未公布",
+      "name": "嘉義 中正大學第37屆校慶演唱會",
+      "location": "中正大學鳳凰大道下半部第三草坪",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93%E4%B8%8B%E5%8D%8A%E9%83%A8%E7%AC%AC%E4%B8%89%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n中正大學第37屆校慶演唱會,卡司包含 LINE UP、胡凱兒、王彙筑、曾愷妤、多情牛奶糖,主持人席子淇。免費入場。"
+    },
+    {
       "id": "upcoming-row-173",
       "date": "20261108",
       "band": "AmazingShow",
@@ -18455,6 +18513,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "df8b0af0-70d1-41f9-b43b-856119c25414",
-  "updatedAt": "2026-11-01T02:28:01.911Z"
+  "revision": "73f762f5-7137-48a5-a532-a55e678b23c1",
+  "updatedAt": "2026-11-01T05:31:16.822Z"
 }
