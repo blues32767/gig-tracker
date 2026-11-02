@@ -31,7 +31,7 @@
       "short": "怕胖團",
       "color": "#1d3557",
       "category": "樂團",
-      "eventCount": 13
+      "eventCount": 14
     },
     {
       "id": "band_qqiyec_5",
@@ -218,6 +218,14 @@
       "eventCount": 5
     },
     {
+      "id": "unus",
+      "name": "U:NUS",
+      "short": "U:NUS",
+      "color": "#2ec4b6",
+      "category": "團體",
+      "eventCount": 5
+    },
+    {
       "id": "band",
       "name": "粗大Band",
       "short": "粗大Band",
@@ -274,14 +282,6 @@
       "eventCount": 4
     },
     {
-      "id": "unus",
-      "name": "U:NUS",
-      "short": "U:NUS",
-      "color": "#2ec4b6",
-      "category": "團體",
-      "eventCount": 4
-    },
-    {
       "id": "fenix",
       "name": "FEniX",
       "short": "FEniX",
@@ -295,6 +295,14 @@
       "short": "Ozone",
       "color": "#ffd166",
       "category": "團體",
+      "eventCount": 4
+    },
+    {
+      "id": "band_drsiw0_51",
+      "name": "李子森",
+      "short": "李子森",
+      "color": "#06d6a0",
+      "category": "個人",
       "eventCount": 4
     },
     {
@@ -458,14 +466,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_51",
-      "name": "李子森",
-      "short": "李子森",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "band_6u8lrj_10",
       "name": "幽靈水晶",
       "short": "幽靈水晶",
@@ -570,6 +570,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_6gp8um_25",
+      "name": "陳華",
+      "short": "陳華",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_77",
       "name": "宇宙人",
       "short": "宇宙人",
@@ -655,6 +663,14 @@
       "short": "腦體馬戲團",
       "color": "#2ec4b6",
       "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "pallas_1",
+      "name": "PALLAS 帕拉斯",
+      "short": "PALLAS 帕拉斯",
+      "color": "#00b4d8",
+      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -946,14 +962,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_6gp8um_25",
-      "name": "陳華",
-      "short": "陳華",
-      "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_75",
       "name": "呂士軒",
       "short": "呂士軒",
@@ -1150,14 +1158,6 @@
       "name": "旺福樂團",
       "short": "旺福樂團",
       "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "pallas_1",
-      "name": "PALLAS 帕拉斯",
-      "short": "PALLAS 帕拉斯",
-      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 2
     },
@@ -5063,6 +5063,14 @@
       "short": "CN",
       "color": "#ef476f",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_167",
+      "name": "林逸欣",
+      "short": "林逸",
+      "color": "#ef476f",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -17010,6 +17018,36 @@
       "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
+      "id": "upcoming-row-491",
+      "date": "20261121",
+      "band": "papunband",
+      "time": "未公布",
+      "name": "台南 虎頭埤水與綠・玩埤派對",
+      "location": "台南市新化區虎頭埤風景區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E5%8C%96%E5%8D%80%E8%99%8E%E9%A0%AD%E5%9F%A4%E9%A2%A8%E6%99%AF%E5%8D%80",
+      "note": "［免費］\n活動於 11/21-22 舉辦,卡司包含怕胖團、林逸欣、帕拉斯、李子森、陳華、U:NUS。"
+    },
+    {
+      "id": "upcoming-row-492",
+      "date": "20261121",
+      "band": "band_drsiw0_167",
+      "time": "未公布",
+      "name": "台南 虎頭埤水與綠・玩埤派對",
+      "location": "台南市新化區虎頭埤風景區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E5%8C%96%E5%8D%80%E8%99%8E%E9%A0%AD%E5%9F%A4%E9%A2%A8%E6%99%AF%E5%8D%80",
+      "note": "［免費］\n活動於 11/21-22 舉辦,卡司包含怕胖團、林逸欣、帕拉斯、李子森、陳華、U:NUS。"
+    },
+    {
+      "id": "upcoming-row-493",
+      "date": "20261121",
+      "band": "pallas_1",
+      "time": "未公布",
+      "name": "台南 虎頭埤水與綠・玩埤派對",
+      "location": "台南市新化區虎頭埤風景區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E5%8C%96%E5%8D%80%E8%99%8E%E9%A0%AD%E5%9F%A4%E9%A2%A8%E6%99%AF%E5%8D%80",
+      "note": "［免費］\n活動於 11/21-22 舉辦,卡司包含怕胖團、林逸欣、帕拉斯、李子森、陳華、U:NUS。"
+    },
+    {
       "id": "upcoming-row-271",
       "date": "20261122",
       "band": "band_6gp8um_15",
@@ -17128,6 +17166,36 @@
       "location": "桃園市大溪月眉休閒農業區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
       "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+    },
+    {
+      "id": "upcoming-row-494",
+      "date": "20261122",
+      "band": "band_drsiw0_51",
+      "time": "未公布",
+      "name": "台南 虎頭埤水與綠・玩埤派對",
+      "location": "台南市新化區虎頭埤風景區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E5%8C%96%E5%8D%80%E8%99%8E%E9%A0%AD%E5%9F%A4%E9%A2%A8%E6%99%AF%E5%8D%80",
+      "note": "［免費］\n活動於 11/21-22 舉辦,卡司包含怕胖團、林逸欣、帕拉斯、李子森、陳華、U:NUS。"
+    },
+    {
+      "id": "upcoming-row-495",
+      "date": "20261122",
+      "band": "band_6gp8um_25",
+      "time": "未公布",
+      "name": "台南 虎頭埤水與綠・玩埤派對",
+      "location": "台南市新化區虎頭埤風景區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E5%8C%96%E5%8D%80%E8%99%8E%E9%A0%AD%E5%9F%A4%E9%A2%A8%E6%99%AF%E5%8D%80",
+      "note": "［免費］\n活動於 11/21-22 舉辦,卡司包含怕胖團、林逸欣、帕拉斯、李子森、陳華、U:NUS。"
+    },
+    {
+      "id": "upcoming-row-496",
+      "date": "20261122",
+      "band": "unus",
+      "time": "未公布",
+      "name": "台南 虎頭埤水與綠・玩埤派對",
+      "location": "台南市新化區虎頭埤風景區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E5%8C%96%E5%8D%80%E8%99%8E%E9%A0%AD%E5%9F%A4%E9%A2%A8%E6%99%AF%E5%8D%80",
+      "note": "［免費］\n活動於 11/21-22 舉辦,卡司包含怕胖團、林逸欣、帕拉斯、李子森、陳華、U:NUS。"
     },
     {
       "id": "upcoming-row-277",
@@ -18705,6 +18773,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "bd6cce94-34ee-4da7-bc45-8c6e0431b873",
-  "updatedAt": "2026-11-02T06:31:44.296Z"
+  "revision": "1af1b70d-8fa9-4c52-a647-f8219aa3d651",
+  "updatedAt": "2026-11-02T08:26:12.316Z"
 }
