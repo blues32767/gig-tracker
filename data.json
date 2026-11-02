@@ -1308,7 +1308,7 @@
     {
       "id": "band_drsiw0_166",
       "name": "王彙筑",
-      "short": "王彙",
+      "short": "王彙筑",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 2
@@ -1316,7 +1316,7 @@
     {
       "id": "band_qqiyec_25",
       "name": "多情牛奶糖",
-      "short": "多情",
+      "short": "多情牛奶糖",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 2
@@ -4932,7 +4932,7 @@
     {
       "id": "ourock",
       "name": "OUROCK",
-      "short": "OU",
+      "short": "OUROCK",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -4948,7 +4948,7 @@
     {
       "id": "pigeon",
       "name": "政駒 Pigeon",
-      "short": "政駒",
+      "short": "政駒 Pigeon",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -4956,7 +4956,7 @@
     {
       "id": "band_6u8lrj_47",
       "name": "暗影天使",
-      "short": "暗影",
+      "short": "暗影天使",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -4964,7 +4964,7 @@
     {
       "id": "band_drsiw0_162",
       "name": "曾心梅",
-      "short": "曾心",
+      "short": "曾心梅",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -4972,7 +4972,7 @@
     {
       "id": "band_drsiw0_163",
       "name": "蘇宥蓉",
-      "short": "蘇宥",
+      "short": "蘇宥蓉",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -4980,7 +4980,7 @@
     {
       "id": "band_drsiw0_164",
       "name": "江志豐",
-      "short": "江志",
+      "short": "江志豐",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -4996,7 +4996,7 @@
     {
       "id": "band_drsiw0_165",
       "name": "郭婷筠",
-      "short": "郭婷",
+      "short": "郭婷筠",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -5004,7 +5004,7 @@
     {
       "id": "band_6u8lrj_48",
       "name": "惡魔舞團",
-      "short": "惡魔",
+      "short": "惡魔舞團",
       "color": "#ef476f",
       "category": "團體",
       "eventCount": 1
@@ -5012,7 +5012,7 @@
     {
       "id": "thechosens",
       "name": "天選THE CHOSENs",
-      "short": "天選",
+      "short": "天選THE CHOSENs",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -5020,7 +5020,7 @@
     {
       "id": "mvp",
       "name": "MVP迷霧森林樂團",
-      "short": "MV",
+      "short": "MVP迷霧森林樂團",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -5028,23 +5028,15 @@
     {
       "id": "lineup",
       "name": "LINE UP",
-      "short": "LI",
+      "short": "LINE UP",
       "color": "#ff006e",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_l0o0l9",
-      "name": "...",
-      "short": "..",
-      "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
     },
     {
       "id": "verna_1",
       "name": "VERNA 琟娜",
-      "short": "VE",
+      "short": "VERNA 琟娜",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -5052,7 +5044,7 @@
     {
       "id": "tahai_1",
       "name": "Tahai 達嗨",
-      "short": "Ta",
+      "short": "Tahai 達嗨",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -13970,16 +13962,6 @@
     {
       "id": "upcoming-row-477",
       "date": "20261106",
-      "band": "band_l0o0l9",
-      "time": "未公布",
-      "name": "台北 500小趴踢",
-      "location": "台北市西門紅樓北廣場/西門河岸留言",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
-      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
-    },
-    {
-      "id": "upcoming-row-478",
-      "date": "20261106",
       "band": "verna_1",
       "time": "20:00-20:20",
       "name": "台北 500小趴踢",
@@ -13988,7 +13970,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
     },
     {
-      "id": "upcoming-row-480",
+      "id": "upcoming-row-479",
       "date": "20261106",
       "band": "tahai_1",
       "time": "20:40-21:00",
@@ -13998,7 +13980,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
     },
     {
-      "id": "upcoming-row-482",
+      "id": "upcoming-row-481",
       "date": "20261106",
       "band": "verna",
       "time": "20:00-20:20",
@@ -14008,7 +13990,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
-      "id": "upcoming-row-483",
+      "id": "upcoming-row-482",
       "date": "20261106",
       "band": "ginger",
       "time": "20:20-20:40",
@@ -14018,7 +14000,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
-      "id": "upcoming-row-484",
+      "id": "upcoming-row-483",
       "date": "20261106",
       "band": "tahai",
       "time": "20:40-21:00",
@@ -14028,7 +14010,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
-      "id": "upcoming-row-485",
+      "id": "upcoming-row-484",
       "date": "20261106",
       "band": "band_6gp8um_11",
       "time": "21:00-21:30",
@@ -14038,7 +14020,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
-      "id": "upcoming-row-486",
+      "id": "upcoming-row-485",
       "date": "20261106",
       "band": "band_6gp8um_58",
       "time": "21:30-22:00",
@@ -14958,7 +14940,7 @@
       "note": "［免費］\n中正大學第37屆校慶演唱會,卡司包含 LINE UP、胡凱兒、王彙筑、曾愷妤、多情牛奶糖,主持人席子淇。免費入場。"
     },
     {
-      "id": "upcoming-row-481",
+      "id": "upcoming-row-480",
       "date": "20261107",
       "band": "band_drsiw0_43",
       "time": "16:30-17:00",
@@ -14968,7 +14950,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
     },
     {
-      "id": "upcoming-row-487",
+      "id": "upcoming-row-486",
       "date": "20261107",
       "band": "bcrush",
       "time": "16:00-16:30",
@@ -14978,7 +14960,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
-      "id": "upcoming-row-488",
+      "id": "upcoming-row-487",
       "date": "20261107",
       "band": "band_hckdox",
       "time": "16:30-17:00",
@@ -14988,7 +14970,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
-      "id": "upcoming-row-489",
+      "id": "upcoming-row-488",
       "date": "20261107",
       "band": "band_hm2kvc",
       "time": "17:20-19:00",
@@ -14998,7 +14980,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
-      "id": "upcoming-row-490",
+      "id": "upcoming-row-489",
       "date": "20261107",
       "band": "band_6gp8um_55",
       "time": "19:20-19:50",
@@ -15008,7 +14990,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。"
     },
     {
-      "id": "upcoming-row-491",
+      "id": "upcoming-row-490",
       "date": "20261107",
       "band": "band_drsiw0_159",
       "time": "19:50-20:20",
@@ -16258,7 +16240,7 @@
       "note": "［免費］\n卡司包含 Sabrina 胡恂舞,活動於逢甲大學育樂館旁大草皮舉辦。"
     },
     {
-      "id": "upcoming-row-479",
+      "id": "upcoming-row-478",
       "date": "20261114",
       "band": "babymint",
       "time": "未公布",
@@ -18724,5 +18706,5 @@
   },
   "schemaVersion": 2,
   "revision": "bd6cce94-34ee-4da7-bc45-8c6e0431b873",
-  "updatedAt": "2026-11-02T06:27:29.195Z"
+  "updatedAt": "2026-11-02T06:31:44.296Z"
 }
