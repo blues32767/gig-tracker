@@ -5082,6 +5082,14 @@
       "eventCount": 1
     },
     {
+      "id": "band_6gp8um_60",
+      "name": "修齊",
+      "short": "修齊",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -17636,6 +17644,16 @@
       "note": "［免費］\n卡司包含生祥樂隊、戴曉君、滅火器樂團"
     },
     {
+      "id": "upcoming-row-506",
+      "date": "20261205",
+      "band": "band_6gp8um_60",
+      "time": "未公布",
+      "name": "台北 修齊首張個人專輯《朋友、戀人與最糟糕的事》發行專場",
+      "location": "Legacy Taipei 音樂展演空間",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Legacy%20Taipei%20%E9%9F%B3%E6%A8%82%E5%B1%95%E6%BC%94%E7%A9%BA%E9%96%93",
+      "note": "［售票］\n修齊首張個人專輯《朋友、戀人與最糟糕的事》發行專場,預售票 800 元 / 現場票 1000 元 / 身障票 400 元,線上購票於 2026/11/05 開始販售。"
+    },
+    {
       "id": "upcoming-row-296",
       "date": "20261206",
       "band": "mango",
@@ -18911,6 +18929,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "57def1dd-9157-4650-93a9-94bcef2f7bb7",
-  "updatedAt": "2026-11-03T09:59:38.143Z"
+  "revision": "6fd71b05-b893-4490-8597-0aa54d78b901",
+  "updatedAt": "2026-11-03T11:55:35.198Z"
 }
