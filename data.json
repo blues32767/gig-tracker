@@ -674,6 +674,14 @@
       "eventCount": 3
     },
     {
+      "id": "babymint",
+      "name": "babyMINT",
+      "short": "babyMINT",
+      "color": "#fb5607",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_139",
       "name": "徐暐翔",
       "short": "徐暐翔",
@@ -1190,14 +1198,6 @@
       "name": "中山高中熱舞社",
       "short": "中山高中熱舞社",
       "color": "#ef476f",
-      "category": "團體",
-      "eventCount": 2
-    },
-    {
-      "id": "babymint",
-      "name": "babyMINT",
-      "short": "babyMINT",
-      "color": "#fb5607",
       "category": "團體",
       "eventCount": 2
     },
@@ -16266,6 +16266,16 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
     },
     {
+      "id": "upcoming-row-498",
+      "date": "20261114",
+      "band": "babymint",
+      "time": "未公布",
+      "name": "...",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］"
+    },
+    {
       "id": "upcoming-row-216",
       "date": "20261115",
       "band": "papunband",
@@ -18791,6 +18801,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "27ffc1ee-f06b-430d-adb1-3cfd5acb2133",
-  "updatedAt": "2026-11-03T06:46:34.386Z"
+  "revision": "4d9f8f50-baea-4abf-b416-bb649bb6b7a7",
+  "updatedAt": "2026-11-03T06:49:40.169Z"
 }
