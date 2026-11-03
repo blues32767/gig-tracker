@@ -58,6 +58,14 @@
       "eventCount": 10
     },
     {
+      "id": "icyball",
+      "name": "冰球樂團",
+      "short": "冰球樂團",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 9
+    },
+    {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
@@ -80,14 +88,6 @@
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 9
-    },
-    {
-      "id": "icyball",
-      "name": "冰球樂團",
-      "short": "冰球樂團",
-      "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 8
     },
     {
       "id": "SweetJohn",
@@ -370,6 +370,14 @@
       "eventCount": 4
     },
     {
+      "id": "Bestards",
+      "name": "理想混蛋",
+      "short": "理想混蛋",
+      "color": "#FF7F00",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_69",
       "name": "陳勢安",
       "short": "陳勢安",
@@ -575,14 +583,6 @@
       "short": "應聲倒地",
       "color": "#06d6a0",
       "category": "團體",
-      "eventCount": 3
-    },
-    {
-      "id": "Bestards",
-      "name": "理想混蛋",
-      "short": "理想混蛋",
-      "color": "#FF7F00",
-      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -879,6 +879,14 @@
       "short": "Control T",
       "color": "#fb5607",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_54",
+      "name": "王艷薇",
+      "short": "王艷薇",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -1958,14 +1966,6 @@
       "name": "吳獻",
       "short": "吳獻",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_54",
-      "name": "王艷薇",
-      "short": "王艷薇",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
     },
@@ -5135,6 +5135,22 @@
       "short": "luv",
       "color": "#06d6a0",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_170",
+      "name": "江美琪",
+      "short": "江美",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_171",
+      "name": "陳佩賢",
+      "short": "陳佩",
+      "color": "#ff006e",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -18442,6 +18458,56 @@
       "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
     },
     {
+      "id": "upcoming-row-529",
+      "date": "20261212",
+      "band": "band_drsiw0_170",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司:江美琪、王艷薇、陳佩賢、理想混蛋、冰球樂團。時間 18:00"
+    },
+    {
+      "id": "upcoming-row-530",
+      "date": "20261212",
+      "band": "band_drsiw0_54",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司:江美琪、王艷薇、陳佩賢、理想混蛋、冰球樂團。時間 18:00"
+    },
+    {
+      "id": "upcoming-row-531",
+      "date": "20261212",
+      "band": "band_drsiw0_171",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司:江美琪、王艷薇、陳佩賢、理想混蛋、冰球樂團。時間 18:00"
+    },
+    {
+      "id": "upcoming-row-532",
+      "date": "20261212",
+      "band": "Bestards",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司:江美琪、王艷薇、陳佩賢、理想混蛋、冰球樂團。時間 18:00"
+    },
+    {
+      "id": "upcoming-row-533",
+      "date": "20261212",
+      "band": "icyball",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司:江美琪、王艷薇、陳佩賢、理想混蛋、冰球樂團。時間 18:00"
+    },
+    {
       "id": "upcoming-row-344",
       "date": "20261213",
       "band": "mango",
@@ -19197,6 +19263,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "9fa3d67b-0cf5-438f-b23b-10efa79402ec",
-  "updatedAt": "2026-11-03T13:45:42.291Z"
+  "revision": "a1ca43c0-ac62-4fbc-8d4a-91607a1d6707",
+  "updatedAt": "2026-11-03T16:30:26.225Z"
 }
