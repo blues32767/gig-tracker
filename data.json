@@ -79,7 +79,7 @@
       "short": "TRASH",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 8
+      "eventCount": 9
     },
     {
       "id": "icyball",
@@ -87,6 +87,22 @@
       "short": "冰球樂團",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 7
+    },
+    {
+      "id": "LuYun",
+      "name": "呂允",
+      "short": "呂允",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
+      "id": "band_drsiw0_1",
+      "name": "李浩瑋",
+      "short": "李浩瑋",
+      "color": "#ef476f",
+      "category": "個人",
       "eventCount": 7
     },
     {
@@ -143,22 +159,6 @@
       "short": "胡凱兒",
       "color": "#385c6e",
       "category": "樂團",
-      "eventCount": 6
-    },
-    {
-      "id": "LuYun",
-      "name": "呂允",
-      "short": "呂允",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "band_drsiw0_1",
-      "name": "李浩瑋",
-      "short": "李浩瑋",
-      "color": "#ef476f",
-      "category": "個人",
       "eventCount": 6
     },
     {
@@ -250,6 +250,14 @@
       "eventCount": 5
     },
     {
+      "id": "sabrina",
+      "name": "Sabrina 胡恂舞",
+      "short": "Sabrina 胡恂舞",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "band_drsiw0_87",
       "name": "魏嘉瑩",
       "short": "魏嘉瑩",
@@ -295,6 +303,14 @@
       "short": "Ozone",
       "color": "#ffd166",
       "category": "團體",
+      "eventCount": 4
+    },
+    {
+      "id": "band_6gp8um_14",
+      "name": "持修",
+      "short": "持修",
+      "color": "#ffd166",
+      "category": "個人",
       "eventCount": 4
     },
     {
@@ -350,14 +366,6 @@
       "name": "陳勢安",
       "short": "陳勢安",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "sabrina",
-      "name": "Sabrina 胡恂舞",
-      "short": "Sabrina 胡恂舞",
-      "color": "#8338ec",
       "category": "個人",
       "eventCount": 4
     },
@@ -447,14 +455,6 @@
       "short": "YOYO 家族",
       "color": "#118ab2",
       "category": "團體",
-      "eventCount": 3
-    },
-    {
-      "id": "band_6gp8um_14",
-      "name": "持修",
-      "short": "持修",
-      "color": "#ffd166",
-      "category": "個人",
       "eventCount": 3
     },
     {
@@ -559,6 +559,14 @@
       "short": "理想混蛋",
       "color": "#FF7F00",
       "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_72",
+      "name": "謝語恩",
+      "short": "謝語恩",
+      "color": "#2ec4b6",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -712,6 +720,14 @@
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 3
+    },
+    {
+      "id": "band_6gp8um_1",
+      "name": "王謙",
+      "short": "王謙",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 2
     },
     {
       "id": "band_drsiw0_13",
@@ -934,14 +950,6 @@
       "name": "林頤原",
       "short": "林頤原",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_72",
-      "name": "謝語恩",
-      "short": "謝語恩",
-      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 2
     },
@@ -1320,14 +1328,6 @@
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 2
-    },
-    {
-      "id": "band_6gp8um_1",
-      "name": "王謙",
-      "short": "王謙",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
     },
     {
       "id": "band_drsiw0_3",
@@ -18406,6 +18406,76 @@
       "note": ""
     },
     {
+      "id": "upcoming-row-499",
+      "date": "20261225",
+      "band": "band_6gp8um_14",
+      "time": "未公布",
+      "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
+      "location": "台北市臺師大和平校區綜合體育館四樓",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+    },
+    {
+      "id": "upcoming-row-500",
+      "date": "20261225",
+      "band": "LuYun",
+      "time": "未公布",
+      "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
+      "location": "台北市臺師大和平校區綜合體育館四樓",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+    },
+    {
+      "id": "upcoming-row-501",
+      "date": "20261225",
+      "band": "band_6gp8um_1",
+      "time": "未公布",
+      "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
+      "location": "台北市臺師大和平校區綜合體育館四樓",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+    },
+    {
+      "id": "upcoming-row-502",
+      "date": "20261225",
+      "band": "trash",
+      "time": "未公布",
+      "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
+      "location": "台北市臺師大和平校區綜合體育館四樓",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+    },
+    {
+      "id": "upcoming-row-503",
+      "date": "20261225",
+      "band": "band_drsiw0_1",
+      "time": "未公布",
+      "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
+      "location": "台北市臺師大和平校區綜合體育館四樓",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+    },
+    {
+      "id": "upcoming-row-504",
+      "date": "20261225",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
+      "location": "台北市臺師大和平校區綜合體育館四樓",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+    },
+    {
+      "id": "upcoming-row-505",
+      "date": "20261225",
+      "band": "band_drsiw0_72",
+      "time": "未公布",
+      "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
+      "location": "台北市臺師大和平校區綜合體育館四樓",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+    },
+    {
       "id": "upcoming-row-354",
       "date": "20261226",
       "band": "kenshiyonezu",
@@ -18801,6 +18871,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "4d9f8f50-baea-4abf-b416-bb649bb6b7a7",
-  "updatedAt": "2026-11-03T06:49:40.169Z"
+  "revision": "d21d9b3a-243d-487f-b3bf-eb3ad8903670",
+  "updatedAt": "2026-11-03T09:36:39.578Z"
 }
