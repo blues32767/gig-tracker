@@ -15,7 +15,7 @@
       "short": "美秀集團",
       "color": "#e63946",
       "category": "樂團",
-      "eventCount": 15
+      "eventCount": 16
     },
     {
       "id": "gongguan",
@@ -32,6 +32,14 @@
       "color": "#1d3557",
       "category": "樂團",
       "eventCount": 14
+    },
+    {
+      "id": "trash",
+      "name": "TRASH",
+      "short": "TRASH",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 10
     },
     {
       "id": "band_qqiyec_5",
@@ -74,20 +82,20 @@
       "eventCount": 9
     },
     {
-      "id": "trash",
-      "name": "TRASH",
-      "short": "TRASH",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 9
-    },
-    {
       "id": "icyball",
       "name": "冰球樂團",
       "short": "冰球樂團",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 8
+    },
+    {
+      "id": "WhoCares",
+      "name": "胡凱兒",
+      "short": "胡凱兒",
+      "color": "#385c6e",
+      "category": "樂團",
+      "eventCount": 7
     },
     {
       "id": "LuYun",
@@ -154,10 +162,10 @@
       "eventCount": 6
     },
     {
-      "id": "WhoCares",
-      "name": "胡凱兒",
-      "short": "胡凱兒",
-      "color": "#385c6e",
+      "id": "WendyWander",
+      "name": "溫蒂漫步",
+      "short": "溫蒂漫步",
+      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 6
     },
@@ -199,14 +207,6 @@
       "short": "婁峻碩",
       "color": "#3a86ff",
       "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "WendyWander",
-      "name": "溫蒂漫步",
-      "short": "溫蒂漫步",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 5
     },
     {
@@ -306,6 +306,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_39",
+      "name": "脆樂團",
+      "short": "脆樂團",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_6gp8um_14",
       "name": "持修",
       "short": "持修",
@@ -367,6 +375,14 @@
       "short": "陳勢安",
       "color": "#fb5607",
       "category": "個人",
+      "eventCount": 4
+    },
+    {
+      "id": "band_6gp8um_35",
+      "name": "上山",
+      "short": "上山",
+      "color": "#ef476f",
+      "category": "樂團",
       "eventCount": 4
     },
     {
@@ -442,14 +458,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_39",
-      "name": "脆樂團",
-      "short": "脆樂團",
-      "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "yoyo",
       "name": "YOYO 家族",
       "short": "YOYO 家族",
@@ -461,6 +469,14 @@
       "id": "PACHILA",
       "name": "帕崎拉",
       "short": "帕崎拉",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "band_maaxir_1",
+      "name": "康士坦的變化球",
+      "short": "康士坦",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 3
@@ -631,14 +647,6 @@
       "short": "畢書盡",
       "color": "#8338ec",
       "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_6gp8um_35",
-      "name": "上山",
-      "short": "上山",
-      "color": "#ef476f",
-      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -879,14 +887,6 @@
       "short": "洪佩瑜",
       "color": "#8338ec",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_maaxir_1",
-      "name": "康士坦的變化球",
-      "short": "康士坦",
-      "color": "#00b4d8",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -1250,10 +1250,34 @@
       "eventCount": 2
     },
     {
+      "id": "ftkimsawol",
+      "name": "淺堤 ft. Kim Sawol",
+      "short": "淺堤 ft. Kim Sawol",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_32tclr_5",
+      "name": "我是機車少女",
+      "short": "我是機車少女",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_145",
       "name": "孫淑媚",
       "short": "孫淑媚",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_45",
+      "name": "海豚刑警",
+      "short": "海豚刑警",
+      "color": "#ef476f",
       "category": "個人",
       "eventCount": 2
     },
@@ -4106,14 +4130,6 @@
       "eventCount": 1
     },
     {
-      "id": "ftkimsawol",
-      "name": "淺堤 ft. Kim Sawol",
-      "short": "淺堤 ft. Kim Sawol",
-      "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "bzai",
       "name": "B&ZAI",
       "short": "B&ZAI",
@@ -4386,14 +4402,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_32tclr_5",
-      "name": "我是機車少女",
-      "short": "我是機車少女",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "iganana",
       "name": "Iga Nana",
       "short": "Iga Nana",
@@ -4590,14 +4598,6 @@
       "name": "許景淳",
       "short": "許景淳",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6u8lrj_45",
-      "name": "海豚刑警",
-      "short": "海豚刑警",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
     },
@@ -5095,6 +5095,38 @@
       "short": "米非",
       "color": "#00b4d8",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "fco",
+      "name": "FCO.",
+      "short": "FC",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "nek",
+      "name": "NEK!",
+      "short": "NE",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "tele",
+      "name": "Tele",
+      "short": "Te",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "luv",
+      "name": "luv",
+      "short": "lu",
+      "color": "#06d6a0",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -18720,6 +18752,146 @@
       "location": "LIVE WAREHOUSE 小庫",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=SUB",
       "note": "［免費］\n阿克沃Awkward追蹤首張專輯《裂縫之間》於全平台上架,舉辦台北站發片場。"
+    },
+    {
+      "id": "upcoming-row-509",
+      "date": "20270220",
+      "band": "AmazingShow",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-510",
+      "date": "20270220",
+      "band": "band_drsiw0_39",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-511",
+      "date": "20270220",
+      "band": "band_6gp8um_35",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-512",
+      "date": "20270220",
+      "band": "WhoCares",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-513",
+      "date": "20270220",
+      "band": "ftkimsawol",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-514",
+      "date": "20270220",
+      "band": "band_32tclr_5",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-515",
+      "date": "20270220",
+      "band": "fco",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-516",
+      "date": "20270220",
+      "band": "nek",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-517",
+      "date": "20270220",
+      "band": "WendyWander",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-518",
+      "date": "20270220",
+      "band": "trash",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-519",
+      "date": "20270220",
+      "band": "band_6u8lrj_45",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-520",
+      "date": "20270220",
+      "band": "band_maaxir_1",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-521",
+      "date": "20270220",
+      "band": "tele",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+    },
+    {
+      "id": "upcoming-row-522",
+      "date": "20270220",
+      "band": "luv",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     }
   ],
   "songsMap": {
@@ -18957,6 +19129,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "b7bfe814-1437-44ec-b923-b03c53772272",
-  "updatedAt": "2026-11-03T12:54:12.955Z"
+  "revision": "b4f6092b-c6ee-46b4-bf25-faa790025b50",
+  "updatedAt": "2026-11-03T12:56:27.396Z"
 }
