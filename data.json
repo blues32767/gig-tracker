@@ -16397,9 +16397,9 @@
       "band": "babymint",
       "time": "未公布",
       "name": "...",
-      "location": "未公布",
-      "mapLink": "",
-      "note": "［免費］"
+      "location": "...",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=...",
+      "note": "［免費］\n..."
     },
     {
       "id": "upcoming-row-523",
@@ -19197,6 +19197,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "4dedbbff-2182-4087-abe2-d6f2818d3a7c",
-  "updatedAt": "2026-11-03T13:17:03.815Z"
+  "revision": "9a7056bc-9308-400f-a289-9764227069da",
+  "updatedAt": "2026-11-03T13:21:45.767Z"
 }
