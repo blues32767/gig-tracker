@@ -7,13 +7,21 @@
       "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
-      "eventCount": 62
+      "eventCount": 63
     },
     {
       "id": "AmazingShow",
       "name": "美秀集團",
       "short": "美秀集團",
       "color": "#e63946",
+      "category": "樂團",
+      "eventCount": 15
+    },
+    {
+      "id": "papunband",
+      "name": "怕胖團",
+      "short": "怕胖團",
+      "color": "#1d3557",
       "category": "樂團",
       "eventCount": 15
     },
@@ -26,12 +34,12 @@
       "eventCount": 15
     },
     {
-      "id": "papunband",
-      "name": "怕胖團",
-      "short": "怕胖團",
-      "color": "#1d3557",
-      "category": "樂團",
-      "eventCount": 14
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富凱",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 10
     },
     {
       "id": "band_qqiyec_5",
@@ -66,14 +74,6 @@
       "eventCount": 9
     },
     {
-      "id": "band_drsiw0_25",
-      "name": "許富凱",
-      "short": "許富凱",
-      "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 9
-    },
-    {
       "id": "trash",
       "name": "TRASH",
       "short": "TRASH",
@@ -87,7 +87,7 @@
       "short": "冰球樂團",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 7
+      "eventCount": 8
     },
     {
       "id": "LuYun",
@@ -298,6 +298,14 @@
       "eventCount": 4
     },
     {
+      "id": "arkis",
+      "name": "ARKis",
+      "short": "ARKis",
+      "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 4
+    },
+    {
       "id": "ozone",
       "name": "Ozone",
       "short": "Ozone",
@@ -398,14 +406,6 @@
       "name": "Saturnday",
       "short": "Saturnday",
       "color": "#06d6a0",
-      "category": "團體",
-      "eventCount": 3
-    },
-    {
-      "id": "arkis",
-      "name": "ARKis",
-      "short": "ARKis",
-      "color": "#8338ec",
       "category": "團體",
       "eventCount": 3
     },
@@ -1326,6 +1326,14 @@
       "name": "多情牛奶糖",
       "short": "多情牛奶糖",
       "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_l0o0l9",
+      "name": "...",
+      "short": "..",
+      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 2
     },
@@ -5074,11 +5082,43 @@
       "eventCount": 1
     },
     {
-      "id": "band_l0o0l9",
-      "name": "...",
-      "short": "..",
-      "color": "#ffd166",
-      "category": "樂團",
+      "id": "band_drsiw0_168",
+      "name": "徐佳瑩",
+      "short": "徐佳",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_169",
+      "name": "柯有倫",
+      "short": "柯有",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_59",
+      "name": "浪犬",
+      "short": "浪犬",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_49",
+      "name": "幻藍小熊",
+      "short": "幻藍",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "varsam",
+      "name": "單先生&Varsam",
+      "short": "單先",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -13592,6 +13632,116 @@
       "location": "高雄市楠梓區大學三十三路路口",
       "note": "［免費］\n活動為左楠關義盟三週年紀念,卡司包含孫淑媚、曾心梅、蘇宥蓉、賴銘偉、黃新皓、江志豐、楊哲、郭婷筠、惡魔舞團。\n地圖：https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E5%8D%81%E4%B8%89%E8%B7%AF%E8%B7%AF%E5%8F%A3",
       "setlist": []
+    },
+    {
+      "id": "EV_20250221_BAND_d28c8a",
+      "date": "20250221",
+      "band": "band_l0o0l9",
+      "time": "",
+      "name": "2025 卡司",
+      "location": "",
+      "note": "［免費］\n2025 年演出卡司公布",
+      "setlist": []
+    },
+    {
+      "id": "EV_20250221_BAND_049aae",
+      "date": "20250221",
+      "band": "band_drsiw0_168",
+      "time": "",
+      "name": "2025 卡司",
+      "location": "",
+      "note": "［免費］\n2025 年演出卡司公布",
+      "setlist": []
+    },
+    {
+      "id": "EV_20250221_BAND_4d79ec",
+      "date": "20250221",
+      "band": "band_drsiw0_169",
+      "time": "",
+      "name": "2025 卡司",
+      "location": "",
+      "note": "［免費］\n2025 年演出卡司公布",
+      "setlist": []
+    },
+    {
+      "id": "EV_20250221_BAND_6587f1",
+      "date": "20250221",
+      "band": "band_drsiw0_25",
+      "time": "",
+      "name": "2025 卡司",
+      "location": "",
+      "note": "［免費］\n2025 年演出卡司公布",
+      "setlist": []
+    },
+    {
+      "id": "EV_20250221_PAPU_de806b",
+      "date": "20250221",
+      "band": "papunband",
+      "time": "",
+      "name": "2025 卡司",
+      "location": "",
+      "note": "［免費］\n2025 年演出卡司公布",
+      "setlist": []
+    },
+    {
+      "id": "EV_20250221_ICYB_d79a35",
+      "date": "20250221",
+      "band": "icyball",
+      "time": "",
+      "name": "2025 卡司",
+      "location": "",
+      "note": "［免費］\n2025 年演出卡司公布",
+      "setlist": []
+    },
+    {
+      "id": "EV_20250221_BAND_21cb2f",
+      "date": "20250221",
+      "band": "band_6gp8um_59",
+      "time": "",
+      "name": "2025 卡司",
+      "location": "",
+      "note": "［免費］\n2025 年演出卡司公布",
+      "setlist": []
+    },
+    {
+      "id": "EV_20250221_MANG_9c65de",
+      "date": "20250221",
+      "band": "mango",
+      "time": "",
+      "name": "2025 卡司",
+      "location": "",
+      "note": "［免費］\n2025 年演出卡司公布",
+      "setlist": []
+    },
+    {
+      "id": "EV_20250221_BAND_f60181",
+      "date": "20250221",
+      "band": "band_6u8lrj_49",
+      "time": "",
+      "name": "2025 卡司",
+      "location": "",
+      "note": "［免費］\n2025 年演出卡司公布",
+      "setlist": []
+    },
+    {
+      "id": "EV_20250221_ARKI_777df1",
+      "date": "20250221",
+      "band": "arkis",
+      "time": "",
+      "name": "2025 卡司",
+      "location": "",
+      "note": "［免費］\n2025 年演出卡司公布",
+      "setlist": []
+    },
+    {
+      "id": "EV_20250221_VARS_bf70dd",
+      "date": "20250221",
+      "band": "varsam",
+      "time": "",
+      "name": "2025 卡司",
+      "location": "",
+      "note": "［免費］\n2025 年演出卡司公布",
+      "setlist": []
     }
   ],
   "upcoming": [
@@ -18871,6 +19021,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d21d9b3a-243d-487f-b3bf-eb3ad8903670",
-  "updatedAt": "2026-11-03T09:36:39.578Z"
+  "revision": "57def1dd-9157-4650-93a9-94bcef2f7bb7",
+  "updatedAt": "2026-11-03T09:40:24.258Z"
 }
