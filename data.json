@@ -234,6 +234,14 @@
       "eventCount": 5
     },
     {
+      "id": "ozone",
+      "name": "Ozone",
+      "short": "Ozone",
+      "color": "#ffd166",
+      "category": "團體",
+      "eventCount": 5
+    },
+    {
       "id": "cholly",
       "name": "C.HOLLY",
       "short": "C.HOLLY",
@@ -294,14 +302,6 @@
       "name": "FEniX",
       "short": "FEniX",
       "color": "#8338ec",
-      "category": "團體",
-      "eventCount": 4
-    },
-    {
-      "id": "ozone",
-      "name": "Ozone",
-      "short": "Ozone",
-      "color": "#ffd166",
       "category": "團體",
       "eventCount": 4
     },
@@ -1350,6 +1350,22 @@
       "name": "多情牛奶糖",
       "short": "多情牛奶糖",
       "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_l0o0l9",
+      "name": "...",
+      "short": "..",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_61",
+      "name": "團名",
+      "short": "團名",
+      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 2
     },
@@ -5074,14 +5090,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_l0o0l9",
-      "name": "...",
-      "short": "..",
-      "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_6gp8um_60",
       "name": "修齊",
       "short": "修齊",
@@ -5126,14 +5134,6 @@
       "name": "luv",
       "short": "lu",
       "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_61",
-      "name": "團名",
-      "short": "團名",
-      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
     },
@@ -14026,7 +14026,7 @@
       "date": "20261106",
       "band": "ginger",
       "time": "20:20-20:40",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -14036,7 +14036,7 @@
       "date": "20261106",
       "band": "verna",
       "time": "未公布",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -14046,7 +14046,7 @@
       "date": "20261106",
       "band": "band_nmq1yt",
       "time": "21:00-21:30",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -14056,7 +14056,7 @@
       "date": "20261106",
       "band": "tahai",
       "time": "未公布",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -14066,7 +14066,7 @@
       "date": "20261106",
       "band": "band_drsiw0_85",
       "time": "21:30-22:00",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -14076,7 +14076,7 @@
       "date": "20261106",
       "band": "verna_1",
       "time": "20:00-20:20",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -14086,7 +14086,7 @@
       "date": "20261106",
       "band": "tahai_1",
       "time": "20:40-21:00",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -14140,6 +14140,26 @@
       "location": "高雄流行音樂中心海風廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
+    },
+    {
+      "id": "upcoming-row-525",
+      "date": "20261106",
+      "band": "band_6gp8um_61",
+      "time": "未公布",
+      "name": "臺北 2026 500 小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
+    },
+    {
+      "id": "upcoming-row-526",
+      "date": "20261106",
+      "band": "band_l0o0l9",
+      "time": "未公布",
+      "name": "臺北 2026 500 小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
     },
     {
       "id": "upcoming-row-39",
@@ -14906,7 +14926,7 @@
       "date": "20261107",
       "band": "band_drsiw0_139",
       "time": "20:20-20:50",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -14916,7 +14936,7 @@
       "date": "20261107",
       "band": "band_6gp8um_55",
       "time": "19:20-19:50",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -14926,7 +14946,7 @@
       "date": "20261107",
       "band": "band_hm2kvc",
       "time": "17:20-19:00",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -14936,7 +14956,7 @@
       "date": "20261107",
       "band": "band_drsiw0_159",
       "time": "19:50-20:20",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -14946,7 +14966,7 @@
       "date": "20261107",
       "band": "bcrush",
       "time": "16:00-16:30",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -14956,7 +14976,7 @@
       "date": "20261107",
       "band": "pallas_1",
       "time": "21:10-21:40",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -15056,7 +15076,7 @@
       "date": "20261107",
       "band": "band_drsiw0_43",
       "time": "16:30-17:00",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -15686,7 +15706,7 @@
       "date": "20261108",
       "band": "band_drsiw0_137",
       "time": "16:10-16:30",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -15696,7 +15716,7 @@
       "date": "20261108",
       "band": "PACHILA",
       "time": "15:00-15:30",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -15706,7 +15726,7 @@
       "date": "20261108",
       "band": "band_drsiw0_160",
       "time": "16:30-17:00",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -15716,7 +15736,7 @@
       "date": "20261108",
       "band": "band_drsiw0_134",
       "time": "15:50-16:10",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -15726,7 +15746,17 @@
       "date": "20261108",
       "band": "ozone_1",
       "time": "17:00-17:30",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
+      "location": "台北市西門紅樓北廣場/西門河岸留言",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
+      "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
+    },
+    {
+      "id": "upcoming-row-527",
+      "date": "20261108",
+      "band": "ozone",
+      "time": "未公布",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -16356,7 +16386,7 @@
       "date": "20261114",
       "band": "babymint",
       "time": "未公布",
-      "name": "台北 500小趴踢",
+      "name": "臺北 2026 500 小趴踢",
       "location": "台北市西門紅樓北廣場/西門河岸留言",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E5%8C%97%E5%BB%A3%E5%A0%B4%2F%E8%A5%BF%E9%96%80%E6%B2%B3%E5%B2%B8%E7%95%99%E8%A8%80",
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。"
@@ -19157,6 +19187,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "63bcbc4b-25bb-49ea-b0fd-8503ceb49b8b",
-  "updatedAt": "2026-11-03T13:07:20.197Z"
+  "revision": "5f27cece-051a-464d-9d30-8b2bb8e858de",
+  "updatedAt": "2026-11-03T13:11:11.630Z"
 }
