@@ -87,7 +87,7 @@
       "short": "冰球樂團",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 7
+      "eventCount": 8
     },
     {
       "id": "LuYun",
@@ -5086,6 +5086,14 @@
       "name": "修齊",
       "short": "修齊",
       "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "mify",
+      "name": "米非 Mify",
+      "short": "米非",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
     },
@@ -17654,6 +17662,26 @@
       "note": "［售票］\n修齊首張個人專輯《朋友、戀人與最糟糕的事》發行專場,預售票 800 元 / 現場票 1000 元 / 身障票 400 元,線上購票於 2026/11/05 開始販售。"
     },
     {
+      "id": "upcoming-row-507",
+      "date": "20261205",
+      "band": "icyball",
+      "time": "未公布",
+      "name": "新竹 東興圳光藝節",
+      "location": "新竹縣竹北市文興路 (東興圳公園)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
+      "note": "［免費］\n新公佈卡司,包含 icyball 冰球樂團、米非 Mify 等。"
+    },
+    {
+      "id": "upcoming-row-508",
+      "date": "20261205",
+      "band": "mify",
+      "time": "未公布",
+      "name": "新竹 東興圳光藝節",
+      "location": "新竹縣竹北市文興路 (東興圳公園)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
+      "note": "［免費］\n新公佈卡司,包含 icyball 冰球樂團、米非 Mify 等。"
+    },
+    {
       "id": "upcoming-row-296",
       "date": "20261206",
       "band": "mango",
@@ -18929,6 +18957,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "6fd71b05-b893-4490-8597-0aa54d78b901",
-  "updatedAt": "2026-11-03T11:55:35.198Z"
+  "revision": "b7bfe814-1437-44ec-b923-b03c53772272",
+  "updatedAt": "2026-11-03T12:54:12.955Z"
 }
