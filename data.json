@@ -386,6 +386,14 @@
       "eventCount": 4
     },
     {
+      "id": "babymint",
+      "name": "babyMINT",
+      "short": "babyMINT",
+      "color": "#fb5607",
+      "category": "團體",
+      "eventCount": 4
+    },
+    {
       "id": "juiceboy",
       "name": "Juice Boy",
       "short": "Juice Boy",
@@ -687,14 +695,6 @@
       "short": "PALLAS 帕拉斯",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "babymint",
-      "name": "babyMINT",
-      "short": "babyMINT",
-      "color": "#fb5607",
-      "category": "團體",
       "eventCount": 3
     },
     {
@@ -16364,6 +16364,16 @@
       "note": "［免費］"
     },
     {
+      "id": "upcoming-row-523",
+      "date": "20261114",
+      "band": "babymint",
+      "time": "未公布",
+      "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
+      "location": "台北市臺師大和平校區綜合體育館四樓",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。\n早鳥票 400 元,11/01 啟售。卡司:持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持:席子淇。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
+    },
+    {
       "id": "upcoming-row-216",
       "date": "20261115",
       "band": "papunband",
@@ -18527,71 +18537,71 @@
       "id": "upcoming-row-499",
       "date": "20261225",
       "band": "band_6gp8um_14",
-      "time": "未公布",
+      "time": "18:00-21:00",
       "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
       "location": "台北市臺師大和平校區綜合體育館四樓",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
-      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。\n早鳥票 400 元,11/01 啟售。卡司:持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持:席子淇。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
       "id": "upcoming-row-500",
       "date": "20261225",
       "band": "LuYun",
-      "time": "未公布",
+      "time": "18:00-21:00",
       "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
       "location": "台北市臺師大和平校區綜合體育館四樓",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
-      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。\n早鳥票 400 元,11/01 啟售。卡司:持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持:席子淇。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
       "id": "upcoming-row-501",
       "date": "20261225",
       "band": "band_6gp8um_1",
-      "time": "未公布",
+      "time": "18:00-21:00",
       "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
       "location": "台北市臺師大和平校區綜合體育館四樓",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
-      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。\n早鳥票 400 元,11/01 啟售。卡司:持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持:席子淇。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
       "id": "upcoming-row-502",
       "date": "20261225",
       "band": "trash",
-      "time": "未公布",
+      "time": "18:00-21:00",
       "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
       "location": "台北市臺師大和平校區綜合體育館四樓",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
-      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。\n早鳥票 400 元,11/01 啟售。卡司:持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持:席子淇。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
       "id": "upcoming-row-503",
       "date": "20261225",
       "band": "band_drsiw0_1",
-      "time": "未公布",
+      "time": "18:00-21:00",
       "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
       "location": "台北市臺師大和平校區綜合體育館四樓",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
-      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。\n早鳥票 400 元,11/01 啟售。卡司:持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持:席子淇。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
       "id": "upcoming-row-504",
       "date": "20261225",
       "band": "sabrina",
-      "time": "未公布",
+      "time": "18:00-21:00",
       "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
       "location": "台北市臺師大和平校區綜合體育館四樓",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
-      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。\n早鳥票 400 元,11/01 啟售。卡司:持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持:席子淇。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
       "id": "upcoming-row-505",
       "date": "20261225",
       "band": "band_drsiw0_72",
-      "time": "未公布",
+      "time": "18:00-21:00",
       "name": "台北 Dreamcore 臺師大五系聯合耶誕晚會",
       "location": "台北市臺師大和平校區綜合體育館四樓",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%87%BA%E5%B8%AB%E5%A4%A7%E5%92%8C%E5%B9%B3%E6%A0%A1%E5%8D%80%E7%B6%9C%E5%90%88%E9%AB%94%E8%82%B2%E9%A4%A8%E5%9B%9B%E6%A8%93",
-      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。"
+      "note": "［售票］\n早鳥票 400 元,11/01 起售。可校外購票。\n早鳥票 400 元,11/01 啟售。卡司:持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持:席子淇。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
       "id": "upcoming-row-354",
@@ -19129,6 +19139,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "b4f6092b-c6ee-46b4-bf25-faa790025b50",
-  "updatedAt": "2026-11-03T12:56:27.396Z"
+  "revision": "92e83656-1f2a-4f8d-b74c-04fad3c9e300",
+  "updatedAt": "2026-11-03T13:00:36.592Z"
 }
