@@ -5706,6 +5706,150 @@
       "eventCount": 1
     },
     {
+      "id": "djveena",
+      "name": "DJ Veena",
+      "short": "DJ",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "djlynne",
+      "name": "DJ Lynne",
+      "short": "DJ",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "uukuk1matu",
+      "name": "¥ØU$UK€ ¥UK1MAT$U",
+      "short": "¥Ø",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "212omara",
+      "name": "212OMARA",
+      "short": "21",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "alanwalker",
+      "name": "Alan Walker",
+      "short": "Al",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "alyhia",
+      "name": "ALY$HIA",
+      "short": "AL",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "ashleybaby",
+      "name": "ASHLEYBABY",
+      "short": "AS",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "bunt",
+      "name": "BUNT.",
+      "short": "BU",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "camelphat",
+      "name": "CAMELPHAT",
+      "short": "CA",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "chrisavantga",
+      "name": "Chris Avantgarde",
+      "short": "Ch",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "dubvision",
+      "name": "DubVision",
+      "short": "Du",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "hal",
+      "name": "HALŌ",
+      "short": "HA",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "korolova",
+      "name": "Korolova",
+      "short": "Ko",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "levity",
+      "name": "LEVITY",
+      "short": "LE",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "matissesadko",
+      "name": "Matisse & Sadko",
+      "short": "Ma",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "mykris",
+      "name": "MYKRIS",
+      "short": "MY",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "sebastianing",
+      "name": "Sebastian Ingrosso",
+      "short": "Se",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "thirdparty",
+      "name": "Third Party",
+      "short": "Th",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -18670,6 +18814,186 @@
       "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
+      "id": "upcoming-row-646",
+      "date": "20261114",
+      "band": "djveena",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-647",
+      "date": "20261114",
+      "band": "djlynne",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-648",
+      "date": "20261114",
+      "band": "uukuk1matu",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-649",
+      "date": "20261114",
+      "band": "212omara",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-650",
+      "date": "20261114",
+      "band": "alanwalker",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-651",
+      "date": "20261114",
+      "band": "alyhia",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-652",
+      "date": "20261114",
+      "band": "ashleybaby",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-653",
+      "date": "20261114",
+      "band": "bunt",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-654",
+      "date": "20261114",
+      "band": "camelphat",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-655",
+      "date": "20261114",
+      "band": "chrisavantga",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-656",
+      "date": "20261114",
+      "band": "dubvision",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-657",
+      "date": "20261114",
+      "band": "hal",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-658",
+      "date": "20261114",
+      "band": "korolova",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-659",
+      "date": "20261114",
+      "band": "levity",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-660",
+      "date": "20261114",
+      "band": "matissesadko",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-661",
+      "date": "20261114",
+      "band": "mykris",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-662",
+      "date": "20261114",
+      "band": "sebastianing",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
+      "id": "upcoming-row-663",
+      "date": "20261114",
+      "band": "thirdparty",
+      "time": "未公布",
+      "name": "臺北 ULTRA Taiwan",
+      "location": "臺北市大佳河濱公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。"
+    },
+    {
       "id": "upcoming-row-222",
       "date": "20261115",
       "band": "emptyoriofty",
@@ -21345,6 +21669,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e595625d-42b5-4c9d-b81e-dc5b37d18f37",
-  "updatedAt": "2026-11-04T06:11:36.363Z"
+  "revision": "c402a6a1-0093-4340-9220-0859161b0678",
+  "updatedAt": "2026-11-04T06:13:43.108Z"
 }
