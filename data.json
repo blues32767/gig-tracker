@@ -346,6 +346,14 @@
       "eventCount": 5
     },
     {
+      "id": "babymint",
+      "name": "babyMINT",
+      "short": "babyMINT",
+      "color": "#fb5607",
+      "category": "團體",
+      "eventCount": 5
+    },
+    {
       "id": "PatrickBrasca",
       "name": "派偉俊",
       "short": "派偉俊",
@@ -506,6 +514,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_112",
+      "name": "陳忻玥",
+      "short": "陳忻玥",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "sadog",
       "name": "SADOG",
       "short": "SADOG",
@@ -527,14 +543,6 @@
       "short": "PALLAS 帕拉斯",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "babymint",
-      "name": "babyMINT",
-      "short": "babyMINT",
-      "color": "#fb5607",
-      "category": "團體",
       "eventCount": 4
     },
     {
@@ -838,14 +846,6 @@
       "name": "CJ Mit",
       "short": "CJ Mit",
       "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_112",
-      "name": "陳忻玥",
-      "short": "陳忻玥",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 3
     },
@@ -1326,6 +1326,14 @@
       "name": "INHON 胤宏",
       "short": "INHON 胤宏",
       "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_111",
+      "name": "李杰明",
+      "short": "李杰明",
+      "color": "#ffd166",
       "category": "個人",
       "eventCount": 2
     },
@@ -3342,14 +3350,6 @@
       "name": "Ni!KA",
       "short": "Ni!KA",
       "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_111",
-      "name": "李杰明",
-      "short": "李杰明",
-      "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
     },
@@ -6430,6 +6430,14 @@
       "name": "黄瑋昕",
       "short": "黄瑋",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_60",
+      "name": "共振效應",
+      "short": "共振",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
     },
@@ -22646,6 +22654,46 @@
       "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
     },
     {
+      "id": "upcoming-row-758",
+      "date": "20261219",
+      "band": "band_drsiw0_111",
+      "time": "未公布",
+      "name": "基隆 潮聲回港",
+      "location": "基隆國門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%9C%8B%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間為 2026/12/19 18:00-22:00,卡司包含李杰明、陳忻玥、共振效應、babyMINT。"
+    },
+    {
+      "id": "upcoming-row-759",
+      "date": "20261219",
+      "band": "band_drsiw0_112",
+      "time": "未公布",
+      "name": "基隆 潮聲回港",
+      "location": "基隆國門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%9C%8B%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間為 2026/12/19 18:00-22:00,卡司包含李杰明、陳忻玥、共振效應、babyMINT。"
+    },
+    {
+      "id": "upcoming-row-760",
+      "date": "20261219",
+      "band": "band_6u8lrj_60",
+      "time": "未公布",
+      "name": "基隆 潮聲回港",
+      "location": "基隆國門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%9C%8B%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間為 2026/12/19 18:00-22:00,卡司包含李杰明、陳忻玥、共振效應、babyMINT。"
+    },
+    {
+      "id": "upcoming-row-761",
+      "date": "20261219",
+      "band": "babymint",
+      "time": "未公布",
+      "name": "基隆 潮聲回港",
+      "location": "基隆國門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BA%E9%9A%86%E5%9C%8B%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動時間為 2026/12/19 18:00-22:00,卡司包含李杰明、陳忻玥、共振效應、babyMINT。"
+    },
+    {
       "id": "upcoming-row-368",
       "date": "20261220",
       "band": "AmazingShow",
@@ -23351,6 +23399,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "8c327b39-dae1-42b9-838b-138848a9835c",
-  "updatedAt": "2026-11-04T17:08:15.034Z"
+  "revision": "f8d6a46c-7d74-41a3-8dbb-a217e0ee137c",
+  "updatedAt": "2026-11-04T20:03:03.551Z"
 }
