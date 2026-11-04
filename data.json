@@ -6372,7 +6372,7 @@
     {
       "id": "verna_2",
       "name": "VERNA 雉娜",
-      "short": "VE",
+      "short": "VERNA 雉娜",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -6380,7 +6380,7 @@
     {
       "id": "band_drsiw0_189",
       "name": "馬世芳",
-      "short": "馬世",
+      "short": "馬世芳",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -6396,7 +6396,7 @@
     {
       "id": "band_qqiyec_31",
       "name": "帕拉斯樂團",
-      "short": "帕拉",
+      "short": "帕拉斯樂團",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -6404,7 +6404,7 @@
     {
       "id": "band_b1ai4l",
       "name": "假如IF",
-      "short": "假如",
+      "short": "假如IF",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -23298,5 +23298,5 @@
   },
   "schemaVersion": 2,
   "revision": "bb529556-66e1-4a14-81f4-1e638817ed86",
-  "updatedAt": "2026-11-04T08:36:36.667Z"
+  "updatedAt": "2026-11-04T08:41:53.062Z"
 }
