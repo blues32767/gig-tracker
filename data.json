@@ -15537,7 +15537,7 @@
       "id": "upcoming-row-546",
       "date": "20261104",
       "band": "djsam3pay",
-      "time": "21:05-21:25",
+      "time": "19:30-19:50",
       "name": "新竹 元音盃歌唱決賽×校園演唱會",
       "location": "新竹市元培醫事科技大學圓形廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
@@ -23379,6 +23379,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "eff8fb41-5465-4fc1-aa2e-3b4c1e39de7c",
-  "updatedAt": "2026-11-04T08:06:05.580Z"
+  "revision": "e6a36519-9c98-4a77-bbcf-e3634cf3602a",
+  "updatedAt": "2026-11-04T08:07:04.231Z"
 }
