@@ -5658,6 +5658,22 @@
       "eventCount": 1
     },
     {
+      "id": "band_drsiw0_179",
+      "name": "法克遊",
+      "short": "法克",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ktvdjdoublek",
+      "name": "慶記 KTV-DJ Double K",
+      "short": "慶記",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -15185,7 +15201,7 @@
       "id": "upcoming-row-40",
       "date": "20261107",
       "band": "AmazingShow",
-      "time": "未公布",
+      "time": "16:20-17:00",
       "name": "台中 玖壹壹南北貳路音樂節",
       "location": "臺中市水湳中央公園(中央球場)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
@@ -15195,7 +15211,7 @@
       "id": "upcoming-row-41",
       "date": "20261107",
       "band": "captainlu",
-      "time": "未公布",
+      "time": "18:00-18:40",
       "name": "台中 玖壹壹南北貳路音樂節",
       "location": "臺中市水湳中央公園(中央球場)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
@@ -16165,7 +16181,7 @@
       "id": "upcoming-row-565",
       "date": "20261107",
       "band": "band_drsiw0_27",
-      "time": "未公布",
+      "time": "19:40-21:40",
       "name": "台中 玖壹壹南北貳路音樂節",
       "location": "臺中市水湳中央公園(中央球場)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
@@ -16175,7 +16191,7 @@
       "id": "upcoming-row-566",
       "date": "20261107",
       "band": "band_drsiw0_73",
-      "time": "未公布",
+      "time": "19:40-21:40",
       "name": "台中 玖壹壹南北貳路音樂節",
       "location": "臺中市水湳中央公園(中央球場)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
@@ -16225,7 +16241,7 @@
       "id": "upcoming-row-571",
       "date": "20261107",
       "band": "pizzali",
-      "time": "未公布",
+      "time": "13:40-14:10",
       "name": "台中 玖壹壹南北貳路音樂節",
       "location": "臺中市水湳中央公園(中央球場)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
@@ -16305,7 +16321,7 @@
       "id": "upcoming-row-579",
       "date": "20261107",
       "band": "gordon",
-      "time": "未公布",
+      "time": "14:40-15:20",
       "name": "台中 玖壹壹南北貳路音樂節",
       "location": "臺中市水湳中央公園(中央球場)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
@@ -16375,7 +16391,7 @@
       "id": "upcoming-row-586",
       "date": "20261107",
       "band": "band_drsiw0_90",
-      "time": "未公布",
+      "time": "19:00-19:40",
       "name": "台中 玖壹壹南北貳路音樂節",
       "location": "臺中市水湳中央公園(中央球場)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
@@ -16395,7 +16411,7 @@
       "id": "upcoming-row-588",
       "date": "20261107",
       "band": "band_drsiw0_174",
-      "time": "未公布",
+      "time": "13:00-13:40",
       "name": "台中 玖壹壹南北貳路音樂節",
       "location": "臺中市水湳中央公園(中央球場)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
@@ -16435,7 +16451,7 @@
       "id": "upcoming-row-592",
       "date": "20261107",
       "band": "band_drsiw0_21",
-      "time": "未公布",
+      "time": "13:40-14:10",
       "name": "台中 玖壹壹南北貳路音樂節",
       "location": "臺中市水湳中央公園(中央球場)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
@@ -16680,6 +16696,26 @@
       "location": "屏東縣內埔六堆紀念公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E5%85%AD%E5%A0%86%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92",
       "note": "［免費］\n2026 狂客音樂祭,於 11/07 (六) – 11/08 (日) 在屏東縣六堆紀念公園舉辦。卡司包含甜約翰、冰球樂團、韋禮安、吳汶芳、李翊君、周蕙、羅時豐、U:NUS、羅文裕、火焰蟲、這好、陳以諾、黑旋風等共 13 組演出者。\n活動時間:11/07-11/08。卡司包含兩日演出,具體場次未公布。\n活動日期為 11/07 至 11/08。\n來源：https://weavewave.app/activity/crazy-hakka-music-festival-2026"
+    },
+    {
+      "id": "upcoming-row-640",
+      "date": "20261107",
+      "band": "band_drsiw0_179",
+      "time": "19:00-19:40",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［售票］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n玖壹壹南北貳路音樂節,於 11/07(六)至 11/08(日)在臺中市水湳中央公園舉辦。卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記 KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練 Sunny、簡嘉彣、BK、SHEN 等共 54 組藝人。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-641",
+      "date": "20261107",
+      "band": "ktvdjdoublek",
+      "time": "19:00-19:40",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［售票］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n玖壹壹南北貳路音樂節,於 11/07(六)至 11/08(日)在臺中市水湳中央公園舉辦。卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記 KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練 Sunny、簡嘉彣、BK、SHEN 等共 54 組藝人。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
     },
     {
       "id": "upcoming-row-84",
@@ -21237,6 +21273,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "fe37beb9-6508-4d7c-9bbf-fa18ac6ef47e",
-  "updatedAt": "2026-11-04T05:46:57.436Z"
+  "revision": "1d070326-0023-4b31-a81f-19a31a01f0b3",
+  "updatedAt": "2026-11-04T05:48:42.724Z"
 }
