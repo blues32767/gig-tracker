@@ -5140,7 +5140,7 @@
     {
       "id": "band_drsiw0_170",
       "name": "江美琪",
-      "short": "江美",
+      "short": "江美琪",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -5148,7 +5148,7 @@
     {
       "id": "band_drsiw0_171",
       "name": "陳佩賢",
-      "short": "陳佩",
+      "short": "陳佩賢",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -19470,5 +19470,5 @@
   },
   "schemaVersion": 2,
   "revision": "9f055ad1-78ff-45af-a56d-3ebfd81ccbf0",
-  "updatedAt": "2026-11-04T01:35:52.312Z"
+  "updatedAt": "2026-11-04T02:56:45.448Z"
 }
