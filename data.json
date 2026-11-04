@@ -18685,7 +18685,7 @@
       "id": "upcoming-row-557",
       "date": "20261114",
       "band": "mango",
-      "time": "15:10-17:00",
+      "time": "15:10-16:00",
       "name": "台北 友善電商嘉年華",
       "location": "台北文創大樓文化廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93%E6%96%87%E5%8C%96%E5%BB%A3%E5%A0%B4",
@@ -22068,5 +22068,5 @@
   },
   "schemaVersion": 2,
   "revision": "145027c6-40a8-44d6-ba68-ab00f88cf2d5",
-  "updatedAt": "2026-11-04T06:50:39.740Z"
+  "updatedAt": "2026-11-04T06:56:38.675Z"
 }
