@@ -34,6 +34,22 @@
       "eventCount": 14
     },
     {
+      "id": "band_qqiyec_5",
+      "name": "艾薇",
+      "short": "艾薇",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 11
+    },
+    {
+      "id": "band_qqiyec_5",
+      "name": "傻子與白痴",
+      "short": "傻白",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 11
+    },
+    {
       "id": "icyball",
       "name": "冰球樂團",
       "short": "冰球樂團",
@@ -62,22 +78,6 @@
       "name": "TRASH",
       "short": "TRASH",
       "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 10
-    },
-    {
-      "id": "band_qqiyec_5",
-      "name": "艾薇",
-      "short": "艾薇",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 10
-    },
-    {
-      "id": "band_qqiyec_5",
-      "name": "傻子與白痴",
-      "short": "傻白",
-      "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 10
     },
@@ -138,6 +138,14 @@
       "eventCount": 7
     },
     {
+      "id": "WendyWander",
+      "name": "溫蒂漫步",
+      "short": "溫蒂漫步",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
       "id": "band_drsiw0_85",
       "name": "蕭景鴻",
       "short": "蕭景鴻",
@@ -159,14 +167,6 @@
       "short": "盧廣仲",
       "color": "#36cc00",
       "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "WendyWander",
-      "name": "溫蒂漫步",
-      "short": "溫蒂漫步",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 6
     },
     {
@@ -270,6 +270,14 @@
       "name": "C.HOLLY",
       "short": "C.HOLLY",
       "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "band_6gp8um_14",
+      "name": "持修",
+      "short": "持修",
+      "color": "#ffd166",
       "category": "個人",
       "eventCount": 5
     },
@@ -378,14 +386,6 @@
       "eventCount": 4
     },
     {
-      "id": "band_6gp8um_14",
-      "name": "持修",
-      "short": "持修",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
       "id": "PACHILA",
       "name": "帕崎拉",
       "short": "帕崎拉",
@@ -406,6 +406,14 @@
       "name": "血肉果汁機",
       "short": "血肉果汁機",
       "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "band_6u8lrj_14",
+      "name": "拍謝少年",
+      "short": "拍謝少年",
+      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 4
     },
@@ -682,14 +690,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_6u8lrj_14",
-      "name": "拍謝少年",
-      "short": "拍謝少年",
-      "color": "#ff006e",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "band_6u8lrj_15",
       "name": "擊沈女孩",
       "short": "擊沈女孩",
@@ -879,6 +879,14 @@
       "short": "阿克沃 Awkward",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "band_6u8lrj_45",
+      "name": "海豚刑警",
+      "short": "海豚刑警",
+      "color": "#ef476f",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -1490,6 +1498,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6u8lrj_43",
+      "name": "傷心欲絕",
+      "short": "傷心欲絕",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_144",
       "name": "袁語笙",
       "short": "袁語笙",
@@ -1522,11 +1538,11 @@
       "eventCount": 2
     },
     {
-      "id": "band_6u8lrj_45",
-      "name": "海豚刑警",
-      "short": "海豚刑警",
-      "color": "#ef476f",
-      "category": "個人",
+      "id": "verrisca",
+      "name": "硝子羊Verrisca",
+      "short": "硝子羊Verrisca",
+      "color": "#118ab2",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -4418,14 +4434,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_43",
-      "name": "傷心欲絕",
-      "short": "傷心欲絕",
-      "color": "#ff006e",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "nanaeddiexar",
       "name": "永續議題計畫:童話作的國際音樂會 賣給啤酒樂隊人的 Nana&Eddie X A_Root同根生 智博&小楊",
       "short": "永續議題計畫:童話作的國際音樂會 賣給啤酒樂隊人的 Nana&Eddie X A_Root同根生 智博&小楊",
@@ -4606,14 +4614,6 @@
       "name": "Wimpy",
       "short": "Wimpy",
       "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "verrisca",
-      "name": "硝子羊Verrisca",
-      "short": "硝子羊Verrisca",
-      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
     },
@@ -6110,6 +6110,70 @@
       "name": "THE FIX [KR]",
       "short": "TH",
       "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "yuragijp",
+      "name": "Yuragi[JP]",
+      "short": "Yu",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "hellonico",
+      "name": "Hello Nico",
+      "short": "He",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "djmatt",
+      "name": "DJ MATT",
+      "short": "DJ",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "djsmash",
+      "name": "DJ SMASH",
+      "short": "DJ",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "suspended4th",
+      "name": "SUSPENDED 4TH [JP]",
+      "short": "SU",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "alijp",
+      "name": "ALI[JP]",
+      "short": "AL",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_185",
+      "name": "陳珊妮",
+      "short": "陳珊",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "xiexiejp",
+      "name": "xiexie[JP]",
+      "short": "xi",
+      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
     },
@@ -21204,8 +21268,8 @@
       "time": "未公布",
       "name": "台北 條通祭 2026 Tiaotong Festival",
       "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
-      "mapLink": "",
-      "note": "［免費］\n表演日期未定\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
     },
     {
       "id": "upcoming-row-322",
@@ -21506,6 +21570,156 @@
       "location": "苗栗縣頭份運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
       "note": "［免費］\n冬聚戀歌歲末演唱會 2026,地點苗栗頭份運動公園,時間 2026/12/12。卡司包含冰球樂團、理想混蛋、江美琪、王艷薇、陳佩賢。免費入場。"
+    },
+    {
+      "id": "upcoming-row-698",
+      "date": "20261212",
+      "band": "yuragijp",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-699",
+      "date": "20261212",
+      "band": "hellonico",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-700",
+      "date": "20261212",
+      "band": "band_6gp8um_14",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-701",
+      "date": "20261212",
+      "band": "WendyWander",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-702",
+      "date": "20261212",
+      "band": "band_qqiyec_5",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-703",
+      "date": "20261212",
+      "band": "band_6u8lrj_45",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-704",
+      "date": "20261212",
+      "band": "verrisca",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-705",
+      "date": "20261212",
+      "band": "djmatt",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-706",
+      "date": "20261212",
+      "band": "djsmash",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-707",
+      "date": "20261212",
+      "band": "suspended4th",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-708",
+      "date": "20261212",
+      "band": "alijp",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-709",
+      "date": "20261212",
+      "band": "band_6u8lrj_14",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-710",
+      "date": "20261212",
+      "band": "band_drsiw0_185",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-711",
+      "date": "20261212",
+      "band": "band_6u8lrj_43",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-712",
+      "date": "20261212",
+      "band": "xiexiejp",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
     },
     {
       "id": "upcoming-row-342",
@@ -22293,6 +22507,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3a29ac67-2ee3-4ba3-9f26-c31009bfdbf1",
-  "updatedAt": "2026-11-04T07:08:36.264Z"
+  "revision": "2e410aaa-605f-4df8-8e53-2b0968f8f3d1",
+  "updatedAt": "2026-11-04T07:09:33.011Z"
 }
