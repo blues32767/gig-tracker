@@ -50,22 +50,6 @@
       "eventCount": 10
     },
     {
-      "id": "band_qqiyec_5",
-      "name": "艾薇",
-      "short": "艾薇",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 10
-    },
-    {
-      "id": "band_qqiyec_5",
-      "name": "傻子與白痴",
-      "short": "傻白",
-      "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 10
-    },
-    {
       "id": "icyball",
       "name": "冰球樂團",
       "short": "冰球樂團",
@@ -87,6 +71,22 @@
       "short": "許富凱",
       "color": "#ef476f",
       "category": "個人",
+      "eventCount": 9
+    },
+    {
+      "id": "band_qqiyec_5",
+      "name": "艾薇",
+      "short": "艾薇",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 9
+    },
+    {
+      "id": "band_qqiyec_5",
+      "name": "傻子與白痴",
+      "short": "傻白",
+      "color": "#3a86ff",
+      "category": "樂團",
       "eventCount": 9
     },
     {
@@ -127,22 +127,6 @@
       "short": "白頻率",
       "color": "#2ec4b6",
       "category": "樂團",
-      "eventCount": 7
-    },
-    {
-      "id": "band_drsiw0_71",
-      "name": "曾愷妤",
-      "short": "曾愷妤",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 7
-    },
-    {
-      "id": "fei",
-      "name": "吳霏 FEI",
-      "short": "吳霏 FEI",
-      "color": "#3a86ff",
-      "category": "個人",
       "eventCount": 7
     },
     {
@@ -210,6 +194,22 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_71",
+      "name": "曾愷妤",
+      "short": "曾愷妤",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
+      "id": "fei",
+      "name": "吳霏 FEI",
+      "short": "吳霏 FEI",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "SHOU",
       "name": "婁峻碩",
       "short": "婁峻碩",
@@ -246,14 +246,6 @@
       "name": "C.HOLLY",
       "short": "C.HOLLY",
       "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "sinby",
-      "name": "欣菲 Sinby",
-      "short": "欣菲",
-      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 5
     },
@@ -390,6 +382,14 @@
       "name": "陳勢安",
       "short": "陳勢安",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
+      "id": "sinby",
+      "name": "欣菲 Sinby",
+      "short": "欣菲",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 4
     },
@@ -735,14 +735,6 @@
       "short": "手合鐵鼓 CrossMetal",
       "color": "#06d6a0",
       "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "sam3pay",
-      "name": "SAM3PAY",
-      "short": "SAM3PAY",
-      "color": "#ff006e",
-      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -1351,6 +1343,14 @@
       "short": "海豚刑警",
       "color": "#ef476f",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "sam3pay",
+      "name": "SAM3PAY",
+      "short": "SAM3PAY",
+      "color": "#ff006e",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -14054,7 +14054,7 @@
       "note": "［免費］\n活動於11/4(六)下午5:30-9:30在新竹市元培醫事科技大學圓形廣場舉辦,歡迎校外人士參加。卡司包含艾薇、吳霏、欣菲、BIDO曾愷妤、SAM3PAY,並由聖恩主持。"
     },
     {
-      "id": "upcoming-row-437",
+      "id": "upcoming-row-432",
       "date": "20261106",
       "band": "ginger",
       "time": "20:20-20:40",
@@ -14064,7 +14064,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-438",
+      "id": "upcoming-row-433",
       "date": "20261106",
       "band": "verna",
       "time": "未公布",
@@ -14074,7 +14074,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-439",
+      "id": "upcoming-row-434",
       "date": "20261106",
       "band": "band_nmq1yt",
       "time": "21:00-21:30",
@@ -14084,7 +14084,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-440",
+      "id": "upcoming-row-435",
       "date": "20261106",
       "band": "tahai",
       "time": "未公布",
@@ -14094,7 +14094,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-441",
+      "id": "upcoming-row-436",
       "date": "20261106",
       "band": "band_drsiw0_85",
       "time": "21:30-22:00",
@@ -14104,7 +14104,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-477",
+      "id": "upcoming-row-472",
       "date": "20261106",
       "band": "verna_1",
       "time": "20:00-20:20",
@@ -14114,7 +14114,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-479",
+      "id": "upcoming-row-474",
       "date": "20261106",
       "band": "tahai_1",
       "time": "20:40-21:00",
@@ -14124,7 +14124,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-481",
+      "id": "upcoming-row-476",
       "date": "20261106",
       "band": "verna",
       "time": "20:00-20:20",
@@ -14134,7 +14134,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
     },
     {
-      "id": "upcoming-row-482",
+      "id": "upcoming-row-477",
       "date": "20261106",
       "band": "ginger",
       "time": "20:20-20:40",
@@ -14144,7 +14144,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
     },
     {
-      "id": "upcoming-row-483",
+      "id": "upcoming-row-478",
       "date": "20261106",
       "band": "tahai",
       "time": "20:40-21:00",
@@ -14154,7 +14154,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
     },
     {
-      "id": "upcoming-row-484",
+      "id": "upcoming-row-479",
       "date": "20261106",
       "band": "band_6gp8um_11",
       "time": "21:00-21:30",
@@ -14164,7 +14164,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
     },
     {
-      "id": "upcoming-row-485",
+      "id": "upcoming-row-480",
       "date": "20261106",
       "band": "band_6gp8um_58",
       "time": "21:30-22:00",
@@ -14174,7 +14174,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
     },
     {
-      "id": "upcoming-row-525",
+      "id": "upcoming-row-520",
       "date": "20261106",
       "band": "band_6gp8um_61",
       "time": "未公布",
@@ -14184,7 +14184,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-526",
+      "id": "upcoming-row-521",
       "date": "20261106",
       "band": "band_l0o0l9",
       "time": "未公布",
@@ -14194,7 +14194,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-537",
+      "id": "upcoming-row-532",
       "date": "20261106",
       "band": "verna",
       "time": "未公布",
@@ -14204,7 +14204,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-538",
+      "id": "upcoming-row-533",
       "date": "20261106",
       "band": "ginger",
       "time": "未公布",
@@ -14214,7 +14214,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-539",
+      "id": "upcoming-row-534",
       "date": "20261106",
       "band": "tahai",
       "time": "未公布",
@@ -14224,7 +14224,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-540",
+      "id": "upcoming-row-535",
       "date": "20261106",
       "band": "band_nmq1yt",
       "time": "未公布",
@@ -14234,7 +14234,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-541",
+      "id": "upcoming-row-536",
       "date": "20261106",
       "band": "band_drsiw0_85",
       "time": "未公布",
@@ -15004,7 +15004,7 @@
       "note": "［售票］\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
     },
     {
-      "id": "upcoming-row-442",
+      "id": "upcoming-row-437",
       "date": "20261107",
       "band": "band_drsiw0_139",
       "time": "20:20-20:50",
@@ -15014,7 +15014,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-443",
+      "id": "upcoming-row-438",
       "date": "20261107",
       "band": "band_6gp8um_55",
       "time": "19:20-19:50",
@@ -15024,7 +15024,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-444",
+      "id": "upcoming-row-439",
       "date": "20261107",
       "band": "band_hm2kvc",
       "time": "17:20-19:00",
@@ -15034,7 +15034,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-445",
+      "id": "upcoming-row-440",
       "date": "20261107",
       "band": "band_drsiw0_159",
       "time": "19:50-20:20",
@@ -15044,7 +15044,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-446",
+      "id": "upcoming-row-441",
       "date": "20261107",
       "band": "bcrush",
       "time": "16:00-16:30",
@@ -15054,7 +15054,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-447",
+      "id": "upcoming-row-442",
       "date": "20261107",
       "band": "pallas_1",
       "time": "21:10-21:40",
@@ -15064,9 +15064,39 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-466",
+      "id": "upcoming-row-461",
       "date": "20261107",
       "band": "WhoCares",
+      "time": "未公布",
+      "name": "嘉義 中正大學校慶演唱會《落日微光》",
+      "location": "嘉義縣民雄鄉中正大學鳳凰大道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E6%B0%91%E9%9B%84%E9%84%89%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93",
+      "note": "［免費］\n卡司包含胡凱兒、BIDO 曾愷妤、王彙筑、多情牛奶糖,主持席子淇 Jennifer。"
+    },
+    {
+      "id": "upcoming-row-462",
+      "date": "20261107",
+      "band": "band_drsiw0_71",
+      "time": "未公布",
+      "name": "嘉義 中正大學校慶演唱會《落日微光》",
+      "location": "嘉義縣民雄鄉中正大學鳳凰大道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E6%B0%91%E9%9B%84%E9%84%89%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93",
+      "note": "［免費］\n卡司包含胡凱兒、BIDO 曾愷妤、王彙筑、多情牛奶糖,主持席子淇 Jennifer。"
+    },
+    {
+      "id": "upcoming-row-463",
+      "date": "20261107",
+      "band": "band_drsiw0_166",
+      "time": "未公布",
+      "name": "嘉義 中正大學校慶演唱會《落日微光》",
+      "location": "嘉義縣民雄鄉中正大學鳳凰大道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E6%B0%91%E9%9B%84%E9%84%89%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93",
+      "note": "［免費］\n卡司包含胡凱兒、BIDO 曾愷妤、王彙筑、多情牛奶糖,主持席子淇 Jennifer。"
+    },
+    {
+      "id": "upcoming-row-464",
+      "date": "20261107",
+      "band": "band_qqiyec_25",
       "time": "未公布",
       "name": "嘉義 中正大學校慶演唱會《落日微光》",
       "location": "嘉義縣民雄鄉中正大學鳳凰大道",
@@ -15076,36 +15106,6 @@
     {
       "id": "upcoming-row-467",
       "date": "20261107",
-      "band": "band_drsiw0_71",
-      "time": "未公布",
-      "name": "嘉義 中正大學校慶演唱會《落日微光》",
-      "location": "嘉義縣民雄鄉中正大學鳳凰大道",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E6%B0%91%E9%9B%84%E9%84%89%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93",
-      "note": "［免費］\n卡司包含胡凱兒、BIDO 曾愷妤、王彙筑、多情牛奶糖,主持席子淇 Jennifer。"
-    },
-    {
-      "id": "upcoming-row-468",
-      "date": "20261107",
-      "band": "band_drsiw0_166",
-      "time": "未公布",
-      "name": "嘉義 中正大學校慶演唱會《落日微光》",
-      "location": "嘉義縣民雄鄉中正大學鳳凰大道",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E6%B0%91%E9%9B%84%E9%84%89%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93",
-      "note": "［免費］\n卡司包含胡凱兒、BIDO 曾愷妤、王彙筑、多情牛奶糖,主持席子淇 Jennifer。"
-    },
-    {
-      "id": "upcoming-row-469",
-      "date": "20261107",
-      "band": "band_qqiyec_25",
-      "time": "未公布",
-      "name": "嘉義 中正大學校慶演唱會《落日微光》",
-      "location": "嘉義縣民雄鄉中正大學鳳凰大道",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E6%B0%91%E9%9B%84%E9%84%89%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8%E9%B3%B3%E5%87%B0%E5%A4%A7%E9%81%93",
-      "note": "［免費］\n卡司包含胡凱兒、BIDO 曾愷妤、王彙筑、多情牛奶糖,主持席子淇 Jennifer。"
-    },
-    {
-      "id": "upcoming-row-472",
-      "date": "20261107",
       "band": "lineup",
       "time": "未公布",
       "name": "嘉義 中正大學第37屆校慶演唱會",
@@ -15114,7 +15114,7 @@
       "note": "［免費］\n中正大學第37屆校慶演唱會,卡司包含 LINE UP、胡凱兒、王彙筑、曾愷妤、多情牛奶糖,主持人席子淇。免費入場。"
     },
     {
-      "id": "upcoming-row-473",
+      "id": "upcoming-row-468",
       "date": "20261107",
       "band": "WhoCares",
       "time": "未公布",
@@ -15124,7 +15124,7 @@
       "note": "［免費］\n中正大學第37屆校慶演唱會,卡司包含 LINE UP、胡凱兒、王彙筑、曾愷妤、多情牛奶糖,主持人席子淇。免費入場。"
     },
     {
-      "id": "upcoming-row-474",
+      "id": "upcoming-row-469",
       "date": "20261107",
       "band": "band_drsiw0_166",
       "time": "未公布",
@@ -15134,7 +15134,7 @@
       "note": "［免費］\n中正大學第37屆校慶演唱會,卡司包含 LINE UP、胡凱兒、王彙筑、曾愷妤、多情牛奶糖,主持人席子淇。免費入場。"
     },
     {
-      "id": "upcoming-row-475",
+      "id": "upcoming-row-470",
       "date": "20261107",
       "band": "band_drsiw0_71",
       "time": "未公布",
@@ -15144,7 +15144,7 @@
       "note": "［免費］\n中正大學第37屆校慶演唱會,卡司包含 LINE UP、胡凱兒、王彙筑、曾愷妤、多情牛奶糖,主持人席子淇。免費入場。"
     },
     {
-      "id": "upcoming-row-476",
+      "id": "upcoming-row-471",
       "date": "20261107",
       "band": "band_qqiyec_25",
       "time": "未公布",
@@ -15154,7 +15154,7 @@
       "note": "［免費］\n中正大學第37屆校慶演唱會,卡司包含 LINE UP、胡凱兒、王彙筑、曾愷妤、多情牛奶糖,主持人席子淇。免費入場。"
     },
     {
-      "id": "upcoming-row-480",
+      "id": "upcoming-row-475",
       "date": "20261107",
       "band": "band_drsiw0_43",
       "time": "16:30-17:00",
@@ -15164,7 +15164,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-486",
+      "id": "upcoming-row-481",
       "date": "20261107",
       "band": "bcrush",
       "time": "16:00-16:30",
@@ -15174,7 +15174,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
     },
     {
-      "id": "upcoming-row-487",
+      "id": "upcoming-row-482",
       "date": "20261107",
       "band": "band_hckdox",
       "time": "16:30-17:00",
@@ -15184,7 +15184,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
     },
     {
-      "id": "upcoming-row-488",
+      "id": "upcoming-row-483",
       "date": "20261107",
       "band": "band_hm2kvc",
       "time": "17:20-19:00",
@@ -15194,7 +15194,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
     },
     {
-      "id": "upcoming-row-489",
+      "id": "upcoming-row-484",
       "date": "20261107",
       "band": "band_6gp8um_55",
       "time": "19:20-19:50",
@@ -15204,7 +15204,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
     },
     {
-      "id": "upcoming-row-490",
+      "id": "upcoming-row-485",
       "date": "20261107",
       "band": "band_drsiw0_159",
       "time": "19:50-20:20",
@@ -15214,7 +15214,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
     },
     {
-      "id": "upcoming-row-542",
+      "id": "upcoming-row-537",
       "date": "20261107",
       "band": "bcrush",
       "time": "未公布",
@@ -15224,7 +15224,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-543",
+      "id": "upcoming-row-538",
       "date": "20261107",
       "band": "band_drsiw0_43",
       "time": "未公布",
@@ -15234,7 +15234,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-544",
+      "id": "upcoming-row-539",
       "date": "20261107",
       "band": "band_hm2kvc",
       "time": "未公布",
@@ -15244,7 +15244,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-545",
+      "id": "upcoming-row-540",
       "date": "20261107",
       "band": "band_drsiw0_159",
       "time": "未公布",
@@ -15254,7 +15254,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-546",
+      "id": "upcoming-row-541",
       "date": "20261107",
       "band": "band_drsiw0_139",
       "time": "未公布",
@@ -15264,7 +15264,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-547",
+      "id": "upcoming-row-542",
       "date": "20261107",
       "band": "band_6gp8um_55",
       "time": "未公布",
@@ -15274,7 +15274,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-548",
+      "id": "upcoming-row-543",
       "date": "20261107",
       "band": "pallas_1",
       "time": "未公布",
@@ -15854,7 +15854,7 @@
       "note": "［免費］\n開幕嘉賓 Ozone 小分隊(周祖安、李哲言、林煥鈞)於 10/31;閉幕嘉賓 Ariel Tsai 蔡佩軒及 YOYO 哥哥姐姐於 11/8。活動時間為每日 10:00–19:00。"
     },
     {
-      "id": "upcoming-row-448",
+      "id": "upcoming-row-443",
       "date": "20261108",
       "band": "band_drsiw0_137",
       "time": "16:10-16:30",
@@ -15864,7 +15864,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-449",
+      "id": "upcoming-row-444",
       "date": "20261108",
       "band": "PACHILA",
       "time": "15:00-15:30",
@@ -15874,7 +15874,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-450",
+      "id": "upcoming-row-445",
       "date": "20261108",
       "band": "band_drsiw0_160",
       "time": "16:30-17:00",
@@ -15884,7 +15884,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-451",
+      "id": "upcoming-row-446",
       "date": "20261108",
       "band": "band_drsiw0_134",
       "time": "15:50-16:10",
@@ -15894,7 +15894,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-452",
+      "id": "upcoming-row-447",
       "date": "20261108",
       "band": "ozone_1",
       "time": "17:00-17:30",
@@ -15904,7 +15904,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-527",
+      "id": "upcoming-row-522",
       "date": "20261108",
       "band": "ozone",
       "time": "未公布",
@@ -15914,7 +15914,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-549",
+      "id": "upcoming-row-544",
       "date": "20261108",
       "band": "PACHILA",
       "time": "未公布",
@@ -15924,7 +15924,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-550",
+      "id": "upcoming-row-545",
       "date": "20261108",
       "band": "band_drsiw0_134",
       "time": "未公布",
@@ -15934,7 +15934,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-551",
+      "id": "upcoming-row-546",
       "date": "20261108",
       "band": "band_drsiw0_160",
       "time": "未公布",
@@ -15944,7 +15944,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-552",
+      "id": "upcoming-row-547",
       "date": "20261108",
       "band": "ozone",
       "time": "未公布",
@@ -16024,7 +16024,7 @@
       "note": "［免費］\n2026 CR造星計畫:中科大場\n2026/11/12 中科大體育館\n卡司:\n卡司:脆樂團、胡凱兒。活動日期為 2026年11月12日。\n來源：https://www.threads.com/share/GUHyhipLh/"
     },
     {
-      "id": "upcoming-row-464",
+      "id": "upcoming-row-459",
       "date": "20261113",
       "band": "pigeon",
       "time": "未公布",
@@ -16034,7 +16034,7 @@
       "note": "［免費］\n政駒 Pigeon 演出,粉絲數 718 位"
     },
     {
-      "id": "upcoming-row-465",
+      "id": "upcoming-row-460",
       "date": "20261113",
       "band": "band_6u8lrj_47",
       "time": "未公布",
@@ -16564,7 +16564,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
     },
     {
-      "id": "upcoming-row-453",
+      "id": "upcoming-row-448",
       "date": "20261114",
       "band": "sabrina",
       "time": "18:00-21:00",
@@ -16574,7 +16574,7 @@
       "note": "［免費］\n卡司包含 Sabrina 胡恂舞,活動於逢甲大學育樂館旁大草皮舉辦。"
     },
     {
-      "id": "upcoming-row-478",
+      "id": "upcoming-row-473",
       "date": "20261114",
       "band": "babymint",
       "time": "未公布",
@@ -16584,7 +16584,7 @@
       "note": "［免費］\n活動為當日免費換票,卡司包含 Ginger 小薑、琟娜 VERNA、鼓鼓 呂思緯、達嗨 Tahai、蕭景鴻、徐暐翔、黃號、DJ 李翰、劉明湘、B CRUSH、PALLAS 帕拉斯、郭家瑋、帕崎拉 PACHILA、閻奕格、曾昱嘉 YuJia、Ozone 林佳辰。\n500小趴踢免費活動,提供當日換票服務。\n500小趴踢活動於 11/6-8 舉辦,台北市西門河岸留言,當日免費活動換票。\n2026 年 500 小趴踢,日期為 11/06-11/08。\n2026 年 500 小趴踢,於西門紅樓北廣場與西門河岸留舉辦。"
     },
     {
-      "id": "upcoming-row-498",
+      "id": "upcoming-row-493",
       "date": "20261114",
       "band": "babymint",
       "time": "未公布",
@@ -16594,7 +16594,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-523",
+      "id": "upcoming-row-518",
       "date": "20261114",
       "band": "babymint",
       "time": "未公布",
@@ -16604,7 +16604,7 @@
       "note": "［售票］\n早鳥票 400 元,11/01 開售。卡司包含持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持席子淇。可校外購票。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
-      "id": "upcoming-row-524",
+      "id": "upcoming-row-519",
       "date": "20261114",
       "band": "band_6gp8um_61",
       "time": "未公布",
@@ -16614,7 +16614,7 @@
       "note": "［免費］\n時段:未公布;卡司:11/14(babyMINT)\n活動於2026年11月14日在斗六膨鼠森林公園舉辦,為免費入場。卡司包含 babyMINT、Saturnday、陳泳希、徐暐翔、怕胖團、丁噹、曾沛慈。\n500小趴踢活動,當日免費入場換票。\n8 組音樂卡司,Coming soon...."
     },
     {
-      "id": "upcoming-row-534",
+      "id": "upcoming-row-529",
       "date": "20261114",
       "band": "band_l0o0l9",
       "time": "未公布",
@@ -16624,7 +16624,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-535",
+      "id": "upcoming-row-530",
       "date": "20261114",
       "band": "band_f8vico",
       "time": "未公布",
@@ -16634,7 +16634,7 @@
       "note": "［免費］\n...\n..."
     },
     {
-      "id": "upcoming-row-536",
+      "id": "upcoming-row-531",
       "date": "20261114",
       "band": "band_nv7wep",
       "time": "未公布",
@@ -17194,7 +17194,7 @@
       "note": "［免費］\n卡司包含 TRASH、林亭翰、李浩瑋,主持席子淇。開放校外人士進場。"
     },
     {
-      "id": "upcoming-row-454",
+      "id": "upcoming-row-449",
       "date": "20261120",
       "band": "band_drsiw0_84",
       "time": "未公布",
@@ -17204,7 +17204,7 @@
       "note": "［免費］\n活動於11/20 18:00 舉辦,台北場由周湯豪演出,高雄夢時代場由婁峻碩演出。"
     },
     {
-      "id": "upcoming-row-455",
+      "id": "upcoming-row-450",
       "date": "20261120",
       "band": "SHOU",
       "time": "未公布",
@@ -17354,7 +17354,7 @@
       "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
-      "id": "upcoming-row-456",
+      "id": "upcoming-row-451",
       "date": "20261121",
       "band": "sadog",
       "time": "20:00-20:30",
@@ -17364,7 +17364,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
     },
     {
-      "id": "upcoming-row-457",
+      "id": "upcoming-row-452",
       "date": "20261121",
       "band": "band_drsiw0_93",
       "time": "20:30-20:50",
@@ -17374,7 +17374,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
     },
     {
-      "id": "upcoming-row-458",
+      "id": "upcoming-row-453",
       "date": "20261121",
       "band": "mango",
       "time": "21:10-21:30",
@@ -17384,7 +17384,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
     },
     {
-      "id": "upcoming-row-463",
+      "id": "upcoming-row-458",
       "date": "20261121",
       "band": "ourock",
       "time": "未公布",
@@ -17394,7 +17394,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
     },
     {
-      "id": "upcoming-row-470",
+      "id": "upcoming-row-465",
       "date": "20261121",
       "band": "thechosens",
       "time": "未公布",
@@ -17404,7 +17404,7 @@
       "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
-      "id": "upcoming-row-491",
+      "id": "upcoming-row-486",
       "date": "20261121",
       "band": "papunband",
       "time": "13:00-18:00",
@@ -17414,7 +17414,7 @@
       "note": "［免費］\n玩埤派對2026 虎頭埤水與綠・玩埤派對,時間為 11/21-11/22,地點臺南虎頭埤風景區。卡司包含怕胖團、帕拉斯、林逸欣、陳華、李子森、U:NUS。免費入場。"
     },
     {
-      "id": "upcoming-row-492",
+      "id": "upcoming-row-487",
       "date": "20261121",
       "band": "band_drsiw0_167",
       "time": "13:00-18:00",
@@ -17424,7 +17424,7 @@
       "note": "［免費］\n玩埤派對2026 虎頭埤水與綠・玩埤派對,時間為 11/21-11/22,地點臺南虎頭埤風景區。卡司包含怕胖團、帕拉斯、林逸欣、陳華、李子森、U:NUS。免費入場。"
     },
     {
-      "id": "upcoming-row-493",
+      "id": "upcoming-row-488",
       "date": "20261121",
       "band": "pallas_1",
       "time": "13:00-18:00",
@@ -17434,7 +17434,7 @@
       "note": "［免費］\n玩埤派對2026 虎頭埤水與綠・玩埤派對,時間為 11/21-11/22,地點臺南虎頭埤風景區。卡司包含怕胖團、帕拉斯、林逸欣、陳華、李子森、U:NUS。免費入場。"
     },
     {
-      "id": "upcoming-row-497",
+      "id": "upcoming-row-492",
       "date": "20261121",
       "band": "band_l0o0l9",
       "time": "未公布",
@@ -17514,7 +17514,7 @@
       "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
-      "id": "upcoming-row-459",
+      "id": "upcoming-row-454",
       "date": "20261122",
       "band": "band_drsiw0_61",
       "time": "19:45-20:25",
@@ -17524,7 +17524,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
     },
     {
-      "id": "upcoming-row-460",
+      "id": "upcoming-row-455",
       "date": "20261122",
       "band": "savagem",
       "time": "20:25-20:45",
@@ -17534,7 +17534,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
     },
     {
-      "id": "upcoming-row-461",
+      "id": "upcoming-row-456",
       "date": "20261122",
       "band": "band_drsiw0_1",
       "time": "20:45-21:05",
@@ -17544,7 +17544,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
     },
     {
-      "id": "upcoming-row-462",
+      "id": "upcoming-row-457",
       "date": "20261122",
       "band": "band_drsiw0_25",
       "time": "21:10-21:30",
@@ -17554,7 +17554,7 @@
       "note": "［免費］\n活動於11/21至11/22在斗六圓環及太平老街舉辦,卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
     },
     {
-      "id": "upcoming-row-471",
+      "id": "upcoming-row-466",
       "date": "20261122",
       "band": "mvp",
       "time": "未公布",
@@ -17564,7 +17564,7 @@
       "note": "［免費］\n卡司包含芒果醬、甜約翰、李翊君、許景淳、鄭怡等。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
-      "id": "upcoming-row-494",
+      "id": "upcoming-row-489",
       "date": "20261122",
       "band": "band_drsiw0_51",
       "time": "13:00-18:00",
@@ -17574,7 +17574,7 @@
       "note": "［免費］\n玩埤派對2026 虎頭埤水與綠・玩埤派對,時間為 11/21-11/22,地點臺南虎頭埤風景區。卡司包含怕胖團、帕拉斯、林逸欣、陳華、李子森、U:NUS。免費入場。"
     },
     {
-      "id": "upcoming-row-495",
+      "id": "upcoming-row-490",
       "date": "20261122",
       "band": "band_6gp8um_25",
       "time": "13:00-18:00",
@@ -17584,7 +17584,7 @@
       "note": "［免費］\n玩埤派對2026 虎頭埤水與綠・玩埤派對,時間為 11/21-11/22,地點臺南虎頭埤風景區。卡司包含怕胖團、帕拉斯、林逸欣、陳華、李子森、U:NUS。免費入場。"
     },
     {
-      "id": "upcoming-row-496",
+      "id": "upcoming-row-491",
       "date": "20261122",
       "band": "unus",
       "time": "13:00-18:00",
@@ -17652,56 +17652,6 @@
       "location": "臺北-中國科技大學臺北校區中山育樂館",
       "mapLink": "https://maps.app.goo.gl/Jv2bxAxT3yNq9P2t8",
       "note": "［免費］\n卡司:\n卡司:李浩瑋、JUICE BOY、9M88、公館青少年、TRASH。主持:閻奕格、木木。入場時間為 15:00-15:30。\n.\n📍入場時間:11/25(週三)15:00-15:30\n🍀10月20日起在校生有繳交‘’學生活動費‘’可至學生會登記領取‘’優先席“號碼牌,數量有限。🍀\n🍀學生活動費可至學生會或學務處課外組補繳費🍀\n📍入場方式:✨️免費入場✨️\n1.須出示有效學生證(須蓋當學期註冊章)及學生資訊系統登入畫面(須查驗身分證)。\n或是\n2.在學證明(格致樓一樓大廳可以列印)及學生資訊系統登入畫面(須查驗身分證)。\n📍排隊區(於中山育樂館):\n🌟本校學生→二樓天橋\n🌟校外人士→三樓天橋(雨備另行公告)\n🔸本次活動因參與者眾多,入場時建議配戴口罩。\n-\n來源：https://www.threads.com/share/QKAQgxo8C/"
-    },
-    {
-      "id": "upcoming-row-419",
-      "date": "20261126",
-      "band": "band_qqiyec_5",
-      "time": "未公布",
-      "name": "新竹 元音盃決賽×校園演唱會",
-      "location": "新竹市元培醫事科技大學圓形廣場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,主持為聖恩。"
-    },
-    {
-      "id": "upcoming-row-420",
-      "date": "20261126",
-      "band": "fei",
-      "time": "未公布",
-      "name": "新竹 元音盃決賽×校園演唱會",
-      "location": "新竹市元培醫事科技大學圓形廣場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,主持為聖恩。"
-    },
-    {
-      "id": "upcoming-row-421",
-      "date": "20261126",
-      "band": "sinby",
-      "time": "未公布",
-      "name": "新竹 元音盃決賽×校園演唱會",
-      "location": "新竹市元培醫事科技大學圓形廣場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,主持為聖恩。"
-    },
-    {
-      "id": "upcoming-row-422",
-      "date": "20261126",
-      "band": "band_drsiw0_71",
-      "time": "未公布",
-      "name": "新竹 元音盃決賽×校園演唱會",
-      "location": "新竹市元培醫事科技大學圓形廣場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,主持為聖恩。"
-    },
-    {
-      "id": "upcoming-row-423",
-      "date": "20261126",
-      "band": "sam3pay",
-      "time": "未公布",
-      "name": "新竹 元音盃決賽×校園演唱會",
-      "location": "新竹市元培醫事科技大學圓形廣場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%85%83%E5%9F%B9%E9%86%AB%E4%BA%8B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%93%E5%BD%A2%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n卡司包含艾薇、吳霏、欣菲、BIDO 曾愷妤、SAM3PAY,主持為聖恩。"
     },
     {
       "id": "upcoming-row-283",
@@ -17964,7 +17914,7 @@
       "note": "［免費］\n卡司包含生祥樂隊、戴曉君、滅火器樂團"
     },
     {
-      "id": "upcoming-row-506",
+      "id": "upcoming-row-501",
       "date": "20261205",
       "band": "band_6gp8um_60",
       "time": "未公布",
@@ -17974,7 +17924,7 @@
       "note": "［售票］\n修齊首張個人專輯《朋友、戀人與最糟糕的事》發行專場,預售票 800 元 / 現場票 1000 元 / 身障票 400 元,線上購票於 2026/11/05 開始販售。"
     },
     {
-      "id": "upcoming-row-507",
+      "id": "upcoming-row-502",
       "date": "20261205",
       "band": "icyball",
       "time": "未公布",
@@ -17984,7 +17934,7 @@
       "note": "［免費］\n新公佈卡司,包含 icyball 冰球樂團、米非 Mify 等。"
     },
     {
-      "id": "upcoming-row-508",
+      "id": "upcoming-row-503",
       "date": "20261205",
       "band": "mify",
       "time": "未公布",
@@ -18264,7 +18214,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-424",
+      "id": "upcoming-row-419",
       "date": "20261211",
       "band": "mango",
       "time": "未公布",
@@ -18274,7 +18224,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-425",
+      "id": "upcoming-row-420",
       "date": "20261211",
       "band": "WendyWander",
       "time": "未公布",
@@ -18284,7 +18234,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-426",
+      "id": "upcoming-row-421",
       "date": "20261211",
       "band": "icyball",
       "time": "未公布",
@@ -18294,7 +18244,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-427",
+      "id": "upcoming-row-422",
       "date": "20261211",
       "band": "band_drsiw0_158",
       "time": "未公布",
@@ -18304,7 +18254,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-428",
+      "id": "upcoming-row-423",
       "date": "20261211",
       "band": "band_6gp8um_20",
       "time": "未公布",
@@ -18314,7 +18264,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-429",
+      "id": "upcoming-row-424",
       "date": "20261211",
       "band": "band_6gp8um_54",
       "time": "未公布",
@@ -18324,7 +18274,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-430",
+      "id": "upcoming-row-425",
       "date": "20261211",
       "band": "band_qqiyec_18",
       "time": "未公布",
@@ -18334,7 +18284,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-431",
+      "id": "upcoming-row-426",
       "date": "20261211",
       "band": "leeerix",
       "time": "未公布",
@@ -18344,7 +18294,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-432",
+      "id": "upcoming-row-427",
       "date": "20261211",
       "band": "obsess",
       "time": "未公布",
@@ -18354,7 +18304,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-433",
+      "id": "upcoming-row-428",
       "date": "20261211",
       "band": "thefix",
       "time": "未公布",
@@ -18364,7 +18314,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-434",
+      "id": "upcoming-row-429",
       "date": "20261211",
       "band": "yutori",
       "time": "未公布",
@@ -18374,7 +18324,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-435",
+      "id": "upcoming-row-430",
       "date": "20261211",
       "band": "rejay",
       "time": "未公布",
@@ -18384,7 +18334,7 @@
       "note": "［售票］\n新公佈卡司:芒果醬、溫蒂漫步、icyball冰球樂團、鐵皮貓、烈鷹、逐火、腦體馬戲團、Leeerix 李瑞、OBSESS、THE FIX(KR)、yutori(JP)、REJAY(JP)、cephalo(JP)。已公佈卡司:麋先生、無妄合作社、粗大Band、怕胖團、傻子與白痴、芒果街老爸、吐司貓、白安、老大不小、後站人、上山、柯泯薰 ft. 黃玠瑋、PIZZALI、LAWA、THE EON永夜、Lane 140.、7thVega (JP)、brkfstblend (JP)、Brandy Senki (JP)、KARDI (KR)。"
     },
     {
-      "id": "upcoming-row-436",
+      "id": "upcoming-row-431",
       "date": "20261211",
       "band": "cephalo",
       "time": "未公布",
@@ -18664,7 +18614,7 @@
       "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
     },
     {
-      "id": "upcoming-row-529",
+      "id": "upcoming-row-524",
       "date": "20261212",
       "band": "band_drsiw0_170",
       "time": "未公布",
@@ -18674,7 +18624,7 @@
       "note": "［免費］\n冬聚戀歌歲末演唱會 2026,地點苗栗頭份運動公園,時間 2026/12/12。卡司包含冰球樂團、理想混蛋、江美琪、王艷薇、陳佩賢。免費入場。"
     },
     {
-      "id": "upcoming-row-530",
+      "id": "upcoming-row-525",
       "date": "20261212",
       "band": "band_drsiw0_54",
       "time": "未公布",
@@ -18684,7 +18634,7 @@
       "note": "［免費］\n冬聚戀歌歲末演唱會 2026,地點苗栗頭份運動公園,時間 2026/12/12。卡司包含冰球樂團、理想混蛋、江美琪、王艷薇、陳佩賢。免費入場。"
     },
     {
-      "id": "upcoming-row-531",
+      "id": "upcoming-row-526",
       "date": "20261212",
       "band": "band_drsiw0_171",
       "time": "未公布",
@@ -18694,7 +18644,7 @@
       "note": "［免費］\n冬聚戀歌歲末演唱會 2026,地點苗栗頭份運動公園,時間 2026/12/12。卡司包含冰球樂團、理想混蛋、江美琪、王艷薇、陳佩賢。免費入場。"
     },
     {
-      "id": "upcoming-row-532",
+      "id": "upcoming-row-527",
       "date": "20261212",
       "band": "Bestards",
       "time": "未公布",
@@ -18704,7 +18654,7 @@
       "note": "［免費］\n冬聚戀歌歲末演唱會 2026,地點苗栗頭份運動公園,時間 2026/12/12。卡司包含冰球樂團、理想混蛋、江美琪、王艷薇、陳佩賢。免費入場。"
     },
     {
-      "id": "upcoming-row-533",
+      "id": "upcoming-row-528",
       "date": "20261212",
       "band": "icyball",
       "time": "未公布",
@@ -18854,7 +18804,7 @@
       "note": ""
     },
     {
-      "id": "upcoming-row-499",
+      "id": "upcoming-row-494",
       "date": "20261225",
       "band": "band_6gp8um_14",
       "time": "18:00-21:00",
@@ -18864,7 +18814,7 @@
       "note": "［售票］\n早鳥票 400 元,11/01 開售。卡司包含持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持席子淇。可校外購票。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
-      "id": "upcoming-row-500",
+      "id": "upcoming-row-495",
       "date": "20261225",
       "band": "LuYun",
       "time": "18:00-21:00",
@@ -18874,7 +18824,7 @@
       "note": "［售票］\n早鳥票 400 元,11/01 開售。卡司包含持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持席子淇。可校外購票。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
-      "id": "upcoming-row-501",
+      "id": "upcoming-row-496",
       "date": "20261225",
       "band": "band_6gp8um_1",
       "time": "18:00-21:00",
@@ -18884,7 +18834,7 @@
       "note": "［售票］\n早鳥票 400 元,11/01 開售。卡司包含持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持席子淇。可校外購票。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
-      "id": "upcoming-row-502",
+      "id": "upcoming-row-497",
       "date": "20261225",
       "band": "trash",
       "time": "18:00-21:00",
@@ -18894,7 +18844,7 @@
       "note": "［售票］\n早鳥票 400 元,11/01 開售。卡司包含持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持席子淇。可校外購票。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
-      "id": "upcoming-row-503",
+      "id": "upcoming-row-498",
       "date": "20261225",
       "band": "band_drsiw0_1",
       "time": "18:00-21:00",
@@ -18904,7 +18854,7 @@
       "note": "［售票］\n早鳥票 400 元,11/01 開售。卡司包含持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持席子淇。可校外購票。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
-      "id": "upcoming-row-504",
+      "id": "upcoming-row-499",
       "date": "20261225",
       "band": "sabrina",
       "time": "18:00-21:00",
@@ -18914,7 +18864,7 @@
       "note": "［售票］\n早鳥票 400 元,11/01 開售。卡司包含持修、呂允、王謙、TRASH、李浩瑋、Sabrina 胡恂舞、謝語恩。主持席子淇。可校外購票。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
-      "id": "upcoming-row-505",
+      "id": "upcoming-row-500",
       "date": "20261225",
       "band": "band_drsiw0_72",
       "time": "18:00-21:00",
@@ -18974,7 +18924,7 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n原活動時間:2026/10/24 - 10/25。卡司包含:林頤原、吳永吉與礦工兄弟、裝咖人、固定客、卜星慧、安妮塔克、鳳鳴齋國樂團&法比、來者何人、SilkywarmS [KR]、奏手候& 羅威堂 [JP]、柯大堡。\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
-      "id": "upcoming-row-528",
+      "id": "upcoming-row-523",
       "date": "20261226",
       "band": "SweetJohn",
       "time": "未公布",
@@ -19094,144 +19044,144 @@
       "note": "［免費］\n阿克沃Awkward追蹤首張專輯《裂縫之間》於全平台上架,舉辦台北站發片場。"
     },
     {
-      "id": "upcoming-row-509",
+      "id": "upcoming-row-504",
       "date": "20270220",
       "band": "AmazingShow",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-510",
+      "id": "upcoming-row-505",
       "date": "20270220",
       "band": "band_drsiw0_39",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-511",
+      "id": "upcoming-row-506",
       "date": "20270220",
       "band": "band_6gp8um_35",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-512",
+      "id": "upcoming-row-507",
       "date": "20270220",
       "band": "WhoCares",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-513",
+      "id": "upcoming-row-508",
       "date": "20270220",
       "band": "ftkimsawol",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-514",
+      "id": "upcoming-row-509",
       "date": "20270220",
       "band": "band_32tclr_5",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-515",
+      "id": "upcoming-row-510",
       "date": "20270220",
       "band": "fco",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-516",
+      "id": "upcoming-row-511",
       "date": "20270220",
       "band": "nek",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-517",
+      "id": "upcoming-row-512",
       "date": "20270220",
       "band": "WendyWander",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-518",
+      "id": "upcoming-row-513",
       "date": "20270220",
       "band": "trash",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-519",
+      "id": "upcoming-row-514",
       "date": "20270220",
       "band": "band_6u8lrj_45",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-520",
+      "id": "upcoming-row-515",
       "date": "20270220",
       "band": "band_maaxir_1",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-521",
+      "id": "upcoming-row-516",
       "date": "20270220",
       "band": "tele",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     },
     {
-      "id": "upcoming-row-522",
+      "id": "upcoming-row-517",
       "date": "20270220",
       "band": "luv",
       "time": "未公布",
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
+      "note": "［售票］\n時間未定、日期未定\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)\n第二波卡司公布,包含美秀集團、Crispy 脆樂團、上山、Who Cares 胡凱兒等。"
     }
   ],
   "songsMap": {
@@ -19469,6 +19419,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "9f055ad1-78ff-45af-a56d-3ebfd81ccbf0",
-  "updatedAt": "2026-11-04T02:56:45.448Z"
+  "revision": "b928ca7d-5e8f-4ebb-a42d-82054f5a5a1e",
+  "updatedAt": "2026-11-04T02:58:17.168Z"
 }
