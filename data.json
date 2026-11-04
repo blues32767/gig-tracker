@@ -90,6 +90,14 @@
       "eventCount": 9
     },
     {
+      "id": "band_drsiw0_61",
+      "name": "白頻率",
+      "short": "白頻率",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 9
+    },
+    {
       "id": "WhoCares",
       "name": "胡凱兒",
       "short": "胡凱兒",
@@ -111,14 +119,6 @@
       "short": "玖壹壹",
       "color": "#118ab2",
       "category": "團體",
-      "eventCount": 8
-    },
-    {
-      "id": "band_drsiw0_61",
-      "name": "白頻率",
-      "short": "白頻率",
-      "color": "#2ec4b6",
-      "category": "樂團",
       "eventCount": 8
     },
     {
@@ -210,6 +210,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_59",
+      "name": "固定客",
+      "short": "固定客",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 6
+    },
+    {
       "id": "band_drsiw0_71",
       "name": "曾愷妤",
       "short": "曾愷妤",
@@ -238,6 +246,14 @@
       "name": "滅火器",
       "short": "滅火器",
       "color": "#C8102E",
+      "category": "樂團",
+      "eventCount": 6
+    },
+    {
+      "id": "band_6gp8um_35",
+      "name": "上山",
+      "short": "上山",
+      "color": "#ef476f",
       "category": "樂團",
       "eventCount": 6
     },
@@ -290,19 +306,19 @@
       "eventCount": 5
     },
     {
-      "id": "band_drsiw0_59",
-      "name": "固定客",
-      "short": "固定客",
-      "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 5
-    },
-    {
       "id": "band_6gp8um_19",
       "name": "薄暮",
       "short": "薄暮",
       "color": "#06d6a0",
       "category": "樂團",
+      "eventCount": 5
+    },
+    {
+      "id": "band_6u8lrj_17",
+      "name": "應聲倒地",
+      "short": "應聲倒地",
+      "color": "#06d6a0",
+      "category": "團體",
       "eventCount": 5
     },
     {
@@ -327,14 +343,6 @@
       "short": "魏嘉瑩",
       "color": "#118ab2",
       "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_6gp8um_35",
-      "name": "上山",
-      "short": "上山",
-      "color": "#ef476f",
-      "category": "樂團",
       "eventCount": 5
     },
     {
@@ -386,6 +394,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_qqiyec",
+      "name": "無妄合作社",
+      "short": "無妄合作社",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "PACHILA",
       "name": "帕崎拉",
       "short": "帕崎拉",
@@ -406,6 +422,22 @@
       "name": "血肉果汁機",
       "short": "血肉果汁機",
       "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "shootup",
+      "name": "SHOOTUP",
+      "short": "SHOOTUP",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "thesalitus",
+      "name": "The Salitus",
+      "short": "The Salitus",
+      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 4
     },
@@ -442,14 +474,6 @@
       "eventCount": 4
     },
     {
-      "id": "band_6u8lrj_17",
-      "name": "應聲倒地",
-      "short": "應聲倒地",
-      "color": "#06d6a0",
-      "category": "團體",
-      "eventCount": 4
-    },
-    {
       "id": "Bestards",
       "name": "理想混蛋",
       "short": "理想混蛋",
@@ -482,10 +506,34 @@
       "eventCount": 4
     },
     {
+      "id": "band_6u8lrj_23",
+      "name": "普通隊長",
+      "short": "普通隊長",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_6u8lrj_29",
       "name": "海洋家族",
       "short": "海洋家族",
       "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 4
+    },
+    {
+      "id": "sadog",
+      "name": "SADOG",
+      "short": "SADOG",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "band_qqiyec_18",
+      "name": "腦體馬戲團",
+      "short": "腦體馬戲團",
+      "color": "#2ec4b6",
       "category": "團體",
       "eventCount": 4
     },
@@ -546,14 +594,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_qqiyec",
-      "name": "無妄合作社",
-      "short": "無妄合作社",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "ktv",
       "name": "慶記KTV 羅曼迪克",
       "short": "慶記",
@@ -599,6 +639,14 @@
       "short": "YOYO 家族",
       "color": "#118ab2",
       "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "band_6gp8um_15",
+      "name": "眠氣",
+      "short": "眠氣",
+      "color": "#06d6a0",
+      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -674,22 +722,6 @@
       "eventCount": 3
     },
     {
-      "id": "shootup",
-      "name": "SHOOTUP",
-      "short": "SHOOTUP",
-      "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "thesalitus",
-      "name": "The Salitus",
-      "short": "The Salitus",
-      "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "whoou",
       "name": "來者何人 Whoou!",
       "short": "來者何人 Whoou!",
@@ -746,6 +778,14 @@
       "eventCount": 3
     },
     {
+      "id": "traego",
+      "name": "粹垢TRAEGO",
+      "short": "粹垢TRAEGO",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_83",
       "name": "宋德鶴",
       "short": "宋德鶴",
@@ -766,14 +806,6 @@
       "name": "紙鳶",
       "short": "紙鳶",
       "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "band_6u8lrj_23",
-      "name": "普通隊長",
-      "short": "普通隊長",
-      "color": "#ef476f",
       "category": "樂團",
       "eventCount": 3
     },
@@ -850,19 +882,11 @@
       "eventCount": 3
     },
     {
-      "id": "sadog",
-      "name": "SADOG",
-      "short": "SADOG",
-      "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "band_qqiyec_18",
-      "name": "腦體馬戲團",
-      "short": "腦體馬戲團",
-      "color": "#2ec4b6",
-      "category": "團體",
+      "id": "band_6gp8um_38",
+      "name": "旅人",
+      "short": "旅人",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -894,6 +918,14 @@
       "name": "淺堤 ft. Kim Sawol",
       "short": "淺堤 ft. Kim Sawol",
       "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "band_6u8lrj_43",
+      "name": "傷心欲絕",
+      "short": "傷心欲絕",
+      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 3
     },
@@ -1082,14 +1114,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_6gp8um_15",
-      "name": "眠氣",
-      "short": "眠氣",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_54",
       "name": "王艷薇",
       "short": "王艷薇",
@@ -1119,6 +1143,14 @@
       "short": "安妮塔克",
       "color": "#8338ec",
       "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_62",
+      "name": "碎紙花",
+      "short": "碎紙花",
+      "color": "#3a86ff",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -1207,14 +1239,6 @@
       "short": "BIDO",
       "color": "#2ec4b6",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "traego",
-      "name": "粹垢TRAEGO",
-      "short": "粹垢TRAEGO",
-      "color": "#ef476f",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -1426,11 +1450,19 @@
       "eventCount": 2
     },
     {
-      "id": "band_6gp8um_38",
-      "name": "旅人",
-      "short": "旅人",
-      "color": "#00b4d8",
+      "id": "band_9z3xfp",
+      "name": "少年A",
+      "short": "少年A",
+      "color": "#3a86ff",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_33",
+      "name": "頂加集會",
+      "short": "頂加集會",
+      "color": "#2ec4b6",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -1530,10 +1562,26 @@
       "eventCount": 2
     },
     {
+      "id": "butterriot",
+      "name": "BUTTER RIOT",
+      "short": "BUTTER RIOT",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "band_6u8lrj_39",
       "name": "生祥樂隊",
       "short": "生祥樂隊",
       "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "random",
+      "name": "隨性 Random",
+      "short": "隨性 Random",
+      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 2
     },
@@ -1554,6 +1602,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6gp8um_46",
+      "name": "胖虎",
+      "short": "胖虎",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "band_joqn9u",
       "name": "反骨與亞服:瘋克妖女靈性昇華瑜伽 高小糕",
       "short": "反骨與亞服:瘋克妖女靈性昇華瑜伽 高小糕",
@@ -1562,18 +1618,18 @@
       "eventCount": 2
     },
     {
-      "id": "ftsomeshiit",
-      "name": "大象體操 ft. someshiit 山姆",
-      "short": "大象體操 ft. someshiit 山姆",
-      "color": "#06d6a0",
+      "id": "rigxcommonpe",
+      "name": "倒車入庫 R.I.G X COMMON PEOPLE LIKE YOU",
+      "short": "倒車入庫 R.I.G X COMMON PEOPLE LIKE YOU",
+      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 2
     },
     {
-      "id": "band_6u8lrj_43",
-      "name": "傷心欲絕",
-      "short": "傷心欲絕",
-      "color": "#ff006e",
+      "id": "ftsomeshiit",
+      "name": "大象體操 ft. someshiit 山姆",
+      "short": "大象體操 ft. someshiit 山姆",
+      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 2
     },
@@ -1610,6 +1666,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_146",
+      "name": "貓膽汁",
+      "short": "貓膽汁",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "verrisca",
       "name": "硝子羊Verrisca",
       "short": "硝子羊Verrisca",
@@ -1630,6 +1694,14 @@
       "name": "SAM3PAY",
       "short": "SAM3PAY",
       "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "obsess",
+      "name": "OBSESS",
+      "short": "OBSESS",
+      "color": "#ef476f",
       "category": "樂團",
       "eventCount": 2
     },
@@ -2382,14 +2454,6 @@
       "name": "yubiori [JP]",
       "short": "yubiori [JP]",
       "color": "#8338ec",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_62",
-      "name": "碎紙花",
-      "short": "碎紙花",
-      "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
     },
@@ -3474,22 +3538,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_9z3xfp",
-      "name": "少年A",
-      "short": "少年A",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6u8lrj_33",
-      "name": "頂加集會",
-      "short": "頂加集會",
-      "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "donald",
       "name": "達諾Donald",
       "short": "達諾Donald",
@@ -3914,14 +3962,6 @@
       "eventCount": 1
     },
     {
-      "id": "butterriot",
-      "name": "BUTTER RIOT",
-      "short": "BUTTER RIOT",
-      "color": "#8338ec",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_frsy1h",
       "name": "臺澎金馬使用說明書-法白",
       "short": "臺澎金馬使用說明書-法白",
@@ -4006,14 +4046,6 @@
       "name": "Sambomaster (JP)",
       "short": "Sambomaster (JP)",
       "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "random",
-      "name": "隨性 Random",
-      "short": "隨性 Random",
-      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
     },
@@ -4103,14 +4135,6 @@
       "short": "三個不結婚的女人 Talk & Show",
       "color": "#06d6a0",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_46",
-      "name": "胖虎",
-      "short": "胖虎",
-      "color": "#118ab2",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -4346,14 +4370,6 @@
       "eventCount": 1
     },
     {
-      "id": "rigxcommonpe",
-      "name": "倒車入庫 R.I.G X COMMON PEOPLE LIKE YOU",
-      "short": "倒車入庫 R.I.G X COMMON PEOPLE LIKE YOU",
-      "color": "#118ab2",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "anjuwu",
       "name": "安豬 ANJUWU",
       "short": "安豬 ANJUWU",
@@ -4526,14 +4542,6 @@
       "name": "coldrain",
       "short": "coldrain",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_146",
-      "name": "貓膽汁",
-      "short": "貓膽汁",
-      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
     },
@@ -4863,14 +4871,6 @@
       "short": "Leeerix 李瑞",
       "color": "#2ec4b6",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "obsess",
-      "name": "OBSESS",
-      "short": "OBSESS",
-      "color": "#ef476f",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -6223,6 +6223,142 @@
       "short": "DJ",
       "color": "#2ec4b6",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_186",
+      "name": "罷黜者",
+      "short": "罷黜",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_187",
+      "name": "一點生",
+      "short": "一點",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_57",
+      "name": "薩圖提嘎",
+      "short": "薩圖",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "motifhive",
+      "name": "MOTIF HIVE",
+      "short": "MO",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir_14",
+      "name": "八十八顆芭樂籽",
+      "short": "八十",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_188",
+      "name": "無先生",
+      "short": "無先",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_vr4wqq",
+      "name": "BB彈",
+      "short": "BB",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_27",
+      "name": "貳伍吸菸所",
+      "short": "貳伍",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_28",
+      "name": "梅西的房間",
+      "short": "梅西",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_58",
+      "name": "荒山茉莉",
+      "short": "荒山",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_79",
+      "name": "徐行",
+      "short": "徐行",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_80",
+      "name": "貓拳",
+      "short": "貓拳",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_29",
+      "name": "鯊魚娃娃機",
+      "short": "鯊魚",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_81",
+      "name": "廢埕",
+      "short": "廢埕",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_59",
+      "name": "銀杏中年",
+      "short": "銀杏",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_30",
+      "name": "老貓偵探社",
+      "short": "老貓",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "defeatthegia",
+      "name": "DEFEAT THE GIANT",
+      "short": "DE",
+      "color": "#fb5607",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -22080,6 +22216,406 @@
       "note": "［售票］\n美秀集團2026年12月巡迴專場-台北一場\n2026/10/29 (四) 中午12:00~晚上23:59美秀集團官網會員優先預購\n2026/10/30 (五) 中午12:00 全面開賣\n各階段售票不預留名額,任一場次於2026/10/29(四)會員優先預購完售即不在2026/10/30 (五)開放購票,預售票完售後不開放現場購票。\n售票平台:https://www.indievox.com/activity/detail/26_iv04280c7\n來源：https://www.instagram.com/p/De-8lCoJxQO/?utm_source=ig_web_copy_link&srtk=NTc4MTIwNjQ2YQ==\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
     },
     {
+      "id": "upcoming-row-734",
+      "date": "20261219",
+      "band": "band_drsiw0_186",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-735",
+      "date": "20261219",
+      "band": "band_6u8lrj_43",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-736",
+      "date": "20261219",
+      "band": "band_6gp8um_46",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-737",
+      "date": "20261219",
+      "band": "band_drsiw0_146",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-738",
+      "date": "20261219",
+      "band": "band_6gp8um_38",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-739",
+      "date": "20261219",
+      "band": "band_drsiw0_59",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-740",
+      "date": "20261219",
+      "band": "band_drsiw0_62",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-741",
+      "date": "20261219",
+      "band": "band_drsiw0_187",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-742",
+      "date": "20261219",
+      "band": "traego",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-743",
+      "date": "20261219",
+      "band": "random",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-744",
+      "date": "20261219",
+      "band": "band_6u8lrj_57",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-745",
+      "date": "20261219",
+      "band": "motifhive",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-746",
+      "date": "20261219",
+      "band": "band_maaxir_14",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-747",
+      "date": "20261219",
+      "band": "band_drsiw0_61",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-748",
+      "date": "20261219",
+      "band": "band_qqiyec_18",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-749",
+      "date": "20261219",
+      "band": "obsess",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-750",
+      "date": "20261219",
+      "band": "band_drsiw0_188",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-751",
+      "date": "20261219",
+      "band": "band_9z3xfp",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-752",
+      "date": "20261219",
+      "band": "band_qqiyec",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-753",
+      "date": "20261219",
+      "band": "band_vr4wqq",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-754",
+      "date": "20261219",
+      "band": "band_qqiyec_27",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-755",
+      "date": "20261219",
+      "band": "band_6u8lrj_23",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-756",
+      "date": "20261219",
+      "band": "band_6u8lrj_33",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-757",
+      "date": "20261219",
+      "band": "butterriot",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-758",
+      "date": "20261219",
+      "band": "thesalitus",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-759",
+      "date": "20261219",
+      "band": "shootup",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-760",
+      "date": "20261219",
+      "band": "band_qqiyec_28",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-761",
+      "date": "20261219",
+      "band": "band_6u8lrj_17",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-762",
+      "date": "20261219",
+      "band": "band_6u8lrj_58",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-763",
+      "date": "20261219",
+      "band": "band_6gp8um_35",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-764",
+      "date": "20261219",
+      "band": "band_6gp8um_79",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-765",
+      "date": "20261219",
+      "band": "band_6gp8um_15",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-766",
+      "date": "20261219",
+      "band": "sadog",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-767",
+      "date": "20261219",
+      "band": "band_6gp8um_80",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-768",
+      "date": "20261219",
+      "band": "band_qqiyec_29",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-769",
+      "date": "20261219",
+      "band": "band_6gp8um_81",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-770",
+      "date": "20261219",
+      "band": "band_6u8lrj_59",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-771",
+      "date": "20261219",
+      "band": "rigxcommonpe",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-772",
+      "date": "20261219",
+      "band": "band_qqiyec_30",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-773",
+      "date": "20261219",
+      "band": "defeatthegia",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
       "id": "upcoming-row-373",
       "date": "20261220",
       "band": "AmazingShow",
@@ -22765,6 +23301,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "439a1bd5-e3f5-4e09-b374-eecb34891d60",
-  "updatedAt": "2026-11-04T07:10:44.443Z"
+  "revision": "6952b767-6a91-44c9-a963-2eff4a1a8b4d",
+  "updatedAt": "2026-11-04T07:11:40.366Z"
 }
