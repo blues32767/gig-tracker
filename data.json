@@ -6418,6 +6418,14 @@
       "eventCount": 1
     },
     {
+      "id": "band_b1ai4l",
+      "name": "假如IF",
+      "short": "假如",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -20211,7 +20219,7 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n活動於 11/21-11/22 在斗六圓環及太平老街舉辦,卡司包含 OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
+      "note": "［免費］\n斗六燈海節於11/21至11/22在斗六圓環及太平老街舉辦,每日演出時間為17:00-21:30。卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克SAVAGE.M、李浩瑋、許富凱等藝人。\n斗六燈海節,免費入場。"
     },
     {
       "id": "upcoming-row-450",
@@ -20221,7 +20229,7 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n活動於 11/21-11/22 在斗六圓環及太平老街舉辦,卡司包含 OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
+      "note": "［免費］\n斗六燈海節於11/21至11/22在斗六圓環及太平老街舉辦,每日演出時間為17:00-21:30。卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克SAVAGE.M、李浩瑋、許富凱等藝人。\n斗六燈海節,免費入場。"
     },
     {
       "id": "upcoming-row-451",
@@ -20231,17 +20239,17 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n活動於 11/21-11/22 在斗六圓環及太平老街舉辦,卡司包含 OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
+      "note": "［免費］\n斗六燈海節於11/21至11/22在斗六圓環及太平老街舉辦,每日演出時間為17:00-21:30。卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克SAVAGE.M、李浩瑋、許富凱等藝人。\n斗六燈海節,免費入場。"
     },
     {
       "id": "upcoming-row-456",
       "date": "20261121",
       "band": "ourock",
-      "time": "未公布",
+      "time": "18:15-18:45",
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n活動於 11/21-11/22 在斗六圓環及太平老街舉辦,卡司包含 OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
+      "note": "［免費］\n斗六燈海節於11/21至11/22在斗六圓環及太平老街舉辦,每日演出時間為17:00-21:30。卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克SAVAGE.M、李浩瑋、許富凱等藝人。\n斗六燈海節,免費入場。"
     },
     {
       "id": "upcoming-row-463",
@@ -20401,7 +20409,7 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n活動於 11/21-11/22 在斗六圓環及太平老街舉辦,卡司包含 OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
+      "note": "［免費］\n斗六燈海節於11/21至11/22在斗六圓環及太平老街舉辦,每日演出時間為17:00-21:30。卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克SAVAGE.M、李浩瑋、許富凱等藝人。\n斗六燈海節,免費入場。"
     },
     {
       "id": "upcoming-row-453",
@@ -20411,7 +20419,7 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n活動於 11/21-11/22 在斗六圓環及太平老街舉辦,卡司包含 OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
+      "note": "［免費］\n斗六燈海節於11/21至11/22在斗六圓環及太平老街舉辦,每日演出時間為17:00-21:30。卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克SAVAGE.M、李浩瑋、許富凱等藝人。\n斗六燈海節,免費入場。"
     },
     {
       "id": "upcoming-row-454",
@@ -20421,7 +20429,7 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n活動於 11/21-11/22 在斗六圓環及太平老街舉辦,卡司包含 OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
+      "note": "［免費］\n斗六燈海節於11/21至11/22在斗六圓環及太平老街舉辦,每日演出時間為17:00-21:30。卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克SAVAGE.M、李浩瑋、許富凱等藝人。\n斗六燈海節,免費入場。"
     },
     {
       "id": "upcoming-row-455",
@@ -20431,7 +20439,7 @@
       "name": "雲林 斗六燈海節",
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
-      "note": "［免費］\n活動於 11/21-11/22 在斗六圓環及太平老街舉辦,卡司包含 OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克 SAVAGE.M、李浩瑋、許富凱。\n斗六燈海節,免費入場。"
+      "note": "［免費］\n斗六燈海節於11/21至11/22在斗六圓環及太平老街舉辦,每日演出時間為17:00-21:30。卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克SAVAGE.M、李浩瑋、許富凱等藝人。\n斗六燈海節,免費入場。"
     },
     {
       "id": "upcoming-row-464",
@@ -20472,6 +20480,16 @@
       "location": "台南市新化區虎頭埤風景區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E5%8C%96%E5%8D%80%E8%99%8E%E9%A0%AD%E5%9F%A4%E9%A2%A8%E6%99%AF%E5%8D%80",
       "note": "［免費］\n玩埤派對2026 虎頭埤水與綠・玩埤派對,時間為 11/21-11/22,地點臺南虎頭埤風景區。卡司包含怕胖團、帕拉斯、林逸欣、陳華、李子森、U:NUS。免費入場。"
+    },
+    {
+      "id": "upcoming-row-786",
+      "date": "20261122",
+      "band": "band_b1ai4l",
+      "time": "17:35-18:35",
+      "name": "雲林 斗六燈海節",
+      "location": "雲林縣斗六圓環/太平老街",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
+      "note": "［免費］\n斗六燈海節於11/21至11/22在斗六圓環及太平老街舉辦,每日演出時間為17:00-21:30。卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克SAVAGE.M、李浩瑋、許富凱等藝人。\n斗六燈海節,免費入場。"
     },
     {
       "id": "upcoming-row-275",
@@ -23469,6 +23487,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "5c6b4752-d25e-423b-96e1-b1b14dc43d51",
-  "updatedAt": "2026-11-04T08:18:54.906Z"
+  "revision": "bb529556-66e1-4a14-81f4-1e638817ed86",
+  "updatedAt": "2026-11-04T08:21:04.866Z"
 }
