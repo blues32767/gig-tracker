@@ -7,21 +7,21 @@
       "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
-      "eventCount": 63
-    },
-    {
-      "id": "AmazingShow",
-      "name": "美秀集團",
-      "short": "美秀集團",
-      "color": "#e63946",
-      "category": "樂團",
-      "eventCount": 16
+      "eventCount": 64
     },
     {
       "id": "gongguan",
       "name": "公館青少年",
       "short": "公館青少年",
       "color": "#2a9d8f",
+      "category": "樂團",
+      "eventCount": 17
+    },
+    {
+      "id": "AmazingShow",
+      "name": "美秀集團",
+      "short": "美秀集團",
+      "color": "#e63946",
       "category": "樂團",
       "eventCount": 16
     },
@@ -482,6 +482,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_6u8lrj_29",
+      "name": "海洋家族",
+      "short": "海洋家族",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 4
+    },
+    {
       "id": "babymint",
       "name": "babyMINT",
       "short": "babyMINT",
@@ -786,11 +794,27 @@
       "eventCount": 3
     },
     {
-      "id": "band_6u8lrj_29",
-      "name": "海洋家族",
-      "short": "海洋家族",
-      "color": "#118ab2",
-      "category": "團體",
+      "id": "gary",
+      "name": "洪紹欽 Gary",
+      "short": "洪紹欽 Gary",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_107",
+      "name": "陳以恆",
+      "short": "陳以恆",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "cjmit",
+      "name": "CJ Mit",
+      "short": "CJ Mit",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -1274,27 +1298,67 @@
       "eventCount": 2
     },
     {
-      "id": "gary",
-      "name": "洪紹欽 Gary",
-      "short": "洪紹欽 Gary",
+      "id": "band_6gp8um_33",
+      "name": "雷仔",
+      "short": "雷仔",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_34",
+      "name": "倚瑄",
+      "short": "倚瑄",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "aoi",
+      "name": "青虫aoi",
+      "short": "青虫aoi",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "arase",
+      "name": "Arase阿拉斯",
+      "short": "Arase阿拉斯",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "achau",
+      "name": "阿超 achau",
+      "short": "阿超 achau",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "zoomie",
+      "name": "柔米 Zoomie",
+      "short": "柔米 Zoomie",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_108",
+      "name": "李拾壹",
+      "short": "李拾壹",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_107",
-      "name": "陳以恆",
-      "short": "陳以恆",
+      "id": "pscoft",
+      "name": "P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐",
+      "short": "P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "cjmit",
-      "name": "CJ Mit",
-      "short": "CJ Mit",
-      "color": "#8338ec",
-      "category": "個人",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -1487,6 +1551,14 @@
       "short": "DSPS",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_joqn9u",
+      "name": "反骨與亞服:瘋克妖女靈性昇華瑜伽 高小糕",
+      "short": "反骨與亞服:瘋克妖女靈性昇華瑜伽 高小糕",
+      "color": "#ff006e",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -3130,62 +3202,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6gp8um_33",
-      "name": "雷仔",
-      "short": "雷仔",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_34",
-      "name": "倚瑄",
-      "short": "倚瑄",
-      "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "aoi",
-      "name": "青虫aoi",
-      "short": "青虫aoi",
-      "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "arase",
-      "name": "Arase阿拉斯",
-      "short": "Arase阿拉斯",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "achau",
-      "name": "阿超 achau",
-      "short": "阿超 achau",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "zoomie",
-      "name": "柔米 Zoomie",
-      "short": "柔米 Zoomie",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_108",
-      "name": "李拾壹",
-      "short": "李拾壹",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_109",
       "name": "後站人",
       "short": "後站人",
@@ -3199,14 +3215,6 @@
       "short": "柯泯薰 & 黃玠瑋",
       "color": "#ffd166",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "pscoft",
-      "name": "P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐",
-      "short": "P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -4278,14 +4286,6 @@
       "name": "禁藥王",
       "short": "禁藥王",
       "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_joqn9u",
-      "name": "反骨與亞服:瘋克妖女靈性昇華瑜伽 高小糕",
-      "short": "反骨與亞服:瘋克妖女靈性昇華瑜伽 高小糕",
-      "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
     },
@@ -6174,6 +6174,46 @@
       "name": "xiexie[JP]",
       "short": "xi",
       "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "soniacalico",
+      "name": "Sonia Calico",
+      "short": "So",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "andr",
+      "name": "Andr",
+      "short": "An",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_jdej5c",
+      "name": "楊舒雅(饒舌工作坊)",
+      "short": "楊舒",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_beto9z",
+      "name": "台大嘻研~美少女戰士",
+      "short": "台大",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "arootug",
+      "name": "A_Root同根生(演出嘉賓:UG)",
+      "short": "A_",
+      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
     },
@@ -21722,6 +21762,206 @@
       "note": "［售票］\n本祭演出時間尚未公布|*Yuragi[JP]、盧廣仲、Hello Nico、持修、溫蒂漫步Wendy Wander、傻子與白痴、海豚刑警 IRUKA PORISU、硝子羊 Verrisca、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、ALI[JP]、拍謝少年、陳珊妮、傷心欲絕、xiexie[JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
     },
     {
+      "id": "upcoming-row-713",
+      "date": "20261212",
+      "band": "mango",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-714",
+      "date": "20261212",
+      "band": "band_6gp8um_34",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-715",
+      "date": "20261212",
+      "band": "gary",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-716",
+      "date": "20261212",
+      "band": "band_6gp8um_33",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-717",
+      "date": "20261212",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-718",
+      "date": "20261212",
+      "band": "soniacalico",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-719",
+      "date": "20261212",
+      "band": "andr",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-720",
+      "date": "20261212",
+      "band": "band_joqn9u",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-721",
+      "date": "20261212",
+      "band": "band_jdej5c",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-722",
+      "date": "20261212",
+      "band": "band_beto9z",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-723",
+      "date": "20261212",
+      "band": "aoi",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-724",
+      "date": "20261212",
+      "band": "band_drsiw0_107",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-725",
+      "date": "20261212",
+      "band": "pscoft",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-726",
+      "date": "20261212",
+      "band": "band_6u8lrj_29",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-727",
+      "date": "20261212",
+      "band": "band_drsiw0_108",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-728",
+      "date": "20261212",
+      "band": "achau",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-729",
+      "date": "20261212",
+      "band": "zoomie",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-730",
+      "date": "20261212",
+      "band": "arootug",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-731",
+      "date": "20261212",
+      "band": "arase",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-732",
+      "date": "20261212",
+      "band": "cjmit",
+      "time": "未公布",
+      "name": "苗栗 蟹逅小聚場露營音樂祭",
+      "location": "苗栗縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3",
+      "note": "［售票］\n本祭演出時間尚未公布|*芒果醬Mango jump ft. 哈哈台蓋瑞、倚瑄、洪紹欽 Gary、雷仔 Leizai、公館青少年 GGteens、Sonia Calico、Andr、高小糕、楊舒雅(饒舌工作坊)、台大嘻研~美少女戰士、青虫aoi、陳以恆、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、海洋家族、李拾壹、阿超achau、柔米Zoomie、A_Root同根生(演出嘉賓:UG)、Arase阿拉斯 ft.那屋瓦KD、CJ MIT 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
       "id": "upcoming-row-342",
       "date": "20261213",
       "band": "mango",
@@ -22507,6 +22747,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "2e410aaa-605f-4df8-8e53-2b0968f8f3d1",
-  "updatedAt": "2026-11-04T07:09:33.011Z"
+  "revision": "6f3720c3-74f9-4afd-98f9-957228e3b5be",
+  "updatedAt": "2026-11-04T07:10:09.092Z"
 }
