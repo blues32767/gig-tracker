@@ -5866,6 +5866,158 @@
       "eventCount": 1
     },
     {
+      "id": "band_6gp8um_75",
+      "name": "山姆",
+      "short": "山姆",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "puzzleman",
+      "name": "PUZZLEMAN",
+      "short": "PU",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_55",
+      "name": "睡後故事",
+      "short": "睡後",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_180",
+      "name": "克里夫",
+      "short": "克里",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_32tclr_6",
+      "name": "才能有限公司",
+      "short": "才能",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_181",
+      "name": "林昀駿",
+      "short": "林昀",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_76",
+      "name": "馬尾",
+      "short": "馬尾",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_77",
+      "name": "安慶",
+      "short": "安慶",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_56",
+      "name": "夏悦舞集",
+      "short": "夏悦",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_x0dfmj",
+      "name": "搭好,我們出不去",
+      "short": "搭好",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_182",
+      "name": "裘海正",
+      "short": "裘海",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_183",
+      "name": "蔡丹尼",
+      "short": "蔡丹",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_78",
+      "name": "嶼浵",
+      "short": "嶼浵",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_184",
+      "name": "蘇文劭",
+      "short": "蘇文",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "afralin",
+      "name": "Afra Lin",
+      "short": "Af",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "barbara",
+      "name": "Barbara",
+      "short": "Ba",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "collicen",
+      "name": "Colli Cen",
+      "short": "Co",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "harikuyamaku",
+      "name": "Harikuyamaku",
+      "short": "Ha",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "junkyardsham",
+      "name": "Junkyard Shaman",
+      "short": "Ju",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -19930,6 +20082,196 @@
       "note": "［免費］\n[免費]不對外開放\n校內限定"
     },
     {
+      "id": "upcoming-row-666",
+      "date": "20261204",
+      "band": "band_6gp8um_75",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-667",
+      "date": "20261204",
+      "band": "puzzleman",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-668",
+      "date": "20261204",
+      "band": "band_6u8lrj_55",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-669",
+      "date": "20261204",
+      "band": "band_drsiw0_180",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-670",
+      "date": "20261204",
+      "band": "band_32tclr_6",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-671",
+      "date": "20261204",
+      "band": "band_drsiw0_181",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-672",
+      "date": "20261204",
+      "band": "band_6gp8um_76",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-673",
+      "date": "20261204",
+      "band": "band_6gp8um_77",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-674",
+      "date": "20261204",
+      "band": "band_6u8lrj_56",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-675",
+      "date": "20261204",
+      "band": "band_x0dfmj",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-676",
+      "date": "20261204",
+      "band": "band_drsiw0_182",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-677",
+      "date": "20261204",
+      "band": "band_drsiw0_183",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-678",
+      "date": "20261204",
+      "band": "band_6gp8um_78",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-679",
+      "date": "20261204",
+      "band": "band_drsiw0_184",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-680",
+      "date": "20261204",
+      "band": "afralin",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-681",
+      "date": "20261204",
+      "band": "barbara",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-682",
+      "date": "20261204",
+      "band": "collicen",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-683",
+      "date": "20261204",
+      "band": "harikuyamaku",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
+      "id": "upcoming-row-684",
+      "date": "20261204",
+      "band": "junkyardsham",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n2026 黑熊部落音樂祭,於 12/04(五)至 12/06(日)在顏氏牧場舉辦。卡司包含山姆、PUZZLEMAN、睡後故事、克里夫、才能有限公司、林昀駿、馬尾、安慶、夏悦舞集、搭好我們出不去、裘海正、蔡丹尼、嶼浵、蘇文劭、Afra Lin、Barbara、Colli Cen、Harikuyamaku、Junkyard Shaman 等共 19 組演出。"
+    },
+    {
       "id": "upcoming-row-6",
       "date": "20261205",
       "band": "band_drsiw0_87",
@@ -21725,6 +22067,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "bb7f2679-6834-43a2-ab5d-0ef047e2bc7a",
-  "updatedAt": "2026-11-04T06:17:22.053Z"
+  "revision": "5aa8993b-85f9-4e97-a10f-837ae5c39127",
+  "updatedAt": "2026-11-04T06:18:28.857Z"
 }
