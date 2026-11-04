@@ -6044,7 +6044,7 @@
     {
       "id": "alohaproduct",
       "name": "ALOHA Production 夏悅舞集",
-      "short": "AL",
+      "short": "ALOHA Production 夏悅舞集",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -6052,7 +6052,7 @@
     {
       "id": "barbarajp",
       "name": "Barbara [JP]",
-      "short": "Ba",
+      "short": "Barbara [JP]",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -6060,7 +6060,7 @@
     {
       "id": "troylin",
       "name": "Troy Lin",
-      "short": "Tr",
+      "short": "Troy Lin",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -6068,7 +6068,7 @@
     {
       "id": "junkyardsham_1",
       "name": "Junkyard Shaman [FI] × Afra Lin",
-      "short": "Ju",
+      "short": "Junkyard Shaman [FI] × Afra Lin",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -6076,7 +6076,7 @@
     {
       "id": "cencen",
       "name": "Cen Cen",
-      "short": "Ce",
+      "short": "Cen Cen",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -6084,7 +6084,7 @@
     {
       "id": "rejayjp",
       "name": "REJAY [JP]",
-      "short": "RE",
+      "short": "REJAY [JP]",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -6092,7 +6092,7 @@
     {
       "id": "yutorijp",
       "name": "yutori [JP]",
-      "short": "yu",
+      "short": "yutori [JP]",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -6100,7 +6100,7 @@
     {
       "id": "leerix",
       "name": "Leerix 李瑞",
-      "short": "Le",
+      "short": "Leerix 李瑞",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -6108,7 +6108,7 @@
     {
       "id": "cephalojp",
       "name": "cephalo [JP]",
-      "short": "ce",
+      "short": "cephalo [JP]",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -6116,7 +6116,7 @@
     {
       "id": "thefixkr",
       "name": "THE FIX [KR]",
-      "short": "TH",
+      "short": "THE FIX [KR]",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -6124,7 +6124,7 @@
     {
       "id": "yuragijp",
       "name": "Yuragi[JP]",
-      "short": "Yu",
+      "short": "Yuragi[JP]",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -6132,7 +6132,7 @@
     {
       "id": "hellonico",
       "name": "Hello Nico",
-      "short": "He",
+      "short": "Hello Nico",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -6140,7 +6140,7 @@
     {
       "id": "djmatt",
       "name": "DJ MATT",
-      "short": "DJ",
+      "short": "DJ MATT",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -6148,7 +6148,7 @@
     {
       "id": "djsmash",
       "name": "DJ SMASH",
-      "short": "DJ",
+      "short": "DJ SMASH",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -6156,7 +6156,7 @@
     {
       "id": "suspended4th",
       "name": "SUSPENDED 4TH [JP]",
-      "short": "SU",
+      "short": "SUSPENDED 4TH [JP]",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -6164,7 +6164,7 @@
     {
       "id": "alijp",
       "name": "ALI[JP]",
-      "short": "AL",
+      "short": "ALI[JP]",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -6172,7 +6172,7 @@
     {
       "id": "band_drsiw0_185",
       "name": "陳珊妮",
-      "short": "陳珊",
+      "short": "陳珊妮",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -6180,7 +6180,7 @@
     {
       "id": "xiexiejp",
       "name": "xiexie[JP]",
-      "short": "xi",
+      "short": "xiexie[JP]",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -6188,7 +6188,7 @@
     {
       "id": "soniacalico",
       "name": "Sonia Calico",
-      "short": "So",
+      "short": "Sonia Calico",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -6196,7 +6196,7 @@
     {
       "id": "andr",
       "name": "Andr",
-      "short": "An",
+      "short": "Andr",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -6204,7 +6204,7 @@
     {
       "id": "band_jdej5c",
       "name": "楊舒雅(饒舌工作坊)",
-      "short": "楊舒",
+      "short": "楊舒雅(饒舌工作坊)",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -6212,7 +6212,7 @@
     {
       "id": "band_beto9z",
       "name": "台大嘻研~美少女戰士",
-      "short": "台大",
+      "short": "台大嘻研~美少女戰士",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -6220,7 +6220,7 @@
     {
       "id": "arootug",
       "name": "A_Root同根生(演出嘉賓:UG)",
-      "short": "A_",
+      "short": "A_Root同根生(演出嘉賓:UG)",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -6228,7 +6228,7 @@
     {
       "id": "band_iywgsu",
       "name": "DJ 妖嬌",
-      "short": "DJ",
+      "short": "DJ 妖嬌",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -6236,7 +6236,7 @@
     {
       "id": "band_drsiw0_186",
       "name": "罷黜者",
-      "short": "罷黜",
+      "short": "罷黜者",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -6244,7 +6244,7 @@
     {
       "id": "band_drsiw0_187",
       "name": "一點生",
-      "short": "一點",
+      "short": "一點生",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -6252,7 +6252,7 @@
     {
       "id": "band_6u8lrj_57",
       "name": "薩圖提嘎",
-      "short": "薩圖",
+      "short": "薩圖提嘎",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -6260,7 +6260,7 @@
     {
       "id": "motifhive",
       "name": "MOTIF HIVE",
-      "short": "MO",
+      "short": "MOTIF HIVE",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -6268,7 +6268,7 @@
     {
       "id": "band_maaxir_14",
       "name": "八十八顆芭樂籽",
-      "short": "八十",
+      "short": "八十八顆芭樂籽",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -6276,7 +6276,7 @@
     {
       "id": "band_drsiw0_188",
       "name": "無先生",
-      "short": "無先",
+      "short": "無先生",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -6284,7 +6284,7 @@
     {
       "id": "band_vr4wqq",
       "name": "BB彈",
-      "short": "BB",
+      "short": "BB彈",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -6292,7 +6292,7 @@
     {
       "id": "band_qqiyec_27",
       "name": "貳伍吸菸所",
-      "short": "貳伍",
+      "short": "貳伍吸菸所",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -6300,7 +6300,7 @@
     {
       "id": "band_qqiyec_28",
       "name": "梅西的房間",
-      "short": "梅西",
+      "short": "梅西的房間",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -6308,7 +6308,7 @@
     {
       "id": "band_6u8lrj_58",
       "name": "荒山茉莉",
-      "short": "荒山",
+      "short": "荒山茉莉",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -6332,7 +6332,7 @@
     {
       "id": "band_qqiyec_29",
       "name": "鯊魚娃娃機",
-      "short": "鯊魚",
+      "short": "鯊魚娃娃機",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -6348,7 +6348,7 @@
     {
       "id": "band_6u8lrj_59",
       "name": "銀杏中年",
-      "short": "銀杏",
+      "short": "銀杏中年",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -6356,7 +6356,7 @@
     {
       "id": "band_qqiyec_30",
       "name": "老貓偵探社",
-      "short": "老貓",
+      "short": "老貓偵探社",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -6364,7 +6364,7 @@
     {
       "id": "defeatthegia",
       "name": "DEFEAT THE GIANT",
-      "short": "DE",
+      "short": "DEFEAT THE GIANT",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -6372,7 +6372,7 @@
     {
       "id": "kiattng_1",
       "name": "吳永吉 Kiat Táng 與礦工兄弟",
-      "short": "吳永",
+      "short": "吳永吉 Kiat Táng 與礦工兄弟",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -23330,5 +23330,5 @@
   },
   "schemaVersion": 2,
   "revision": "ed32b677-b8f6-4476-a93a-77da00fa3485",
-  "updatedAt": "2026-11-04T07:12:07.968Z"
+  "updatedAt": "2026-11-04T07:39:02.232Z"
 }
