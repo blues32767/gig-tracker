@@ -554,6 +554,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_6u8lrj_45",
+      "name": "海豚刑警",
+      "short": "海豚刑警",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "juiceboy",
       "name": "Juice Boy",
       "short": "Juice Boy",
@@ -935,14 +943,6 @@
       "short": "阿克沃 Awkward",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "band_6u8lrj_45",
-      "name": "海豚刑警",
-      "short": "海豚刑警",
-      "color": "#ef476f",
-      "category": "個人",
       "eventCount": 3
     },
     {
@@ -1639,6 +1639,14 @@
       "short": "大象體操 ft. someshiit 山姆",
       "color": "#06d6a0",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "ana",
+      "name": "ana",
+      "short": "ana",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -4446,14 +4454,6 @@
       "name": "永井琳子",
       "short": "永井琳子",
       "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "ana",
-      "name": "ana",
-      "short": "ana",
-      "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
     },
@@ -19494,6 +19494,26 @@
       "note": "［售票］\n2026 年 11 月 14 日(六)於臺北市大佳河濱公園舉辦的 ULTRA Taiwan 音樂節,陣容包含 DJ Veena、DJ Lynne、¥ØU$UK€ ¥UK1MAT$U、212OMARA、Alan Walker、ALY$HIA、ASHLEYBABY、BUNT.、CAMELPHAT、Chris Avantgarde、DubVision、HALŌ、Korolova、LEVITY、Matisse & Sadko、MYKRIS、Sebastian Ingrosso、Third Party 等共 18 組演出。\n本祭演出時間尚未公布"
     },
     {
+      "id": "upcoming-row-779",
+      "date": "20261114",
+      "band": "band_6u8lrj_45",
+      "time": "15:00-18:00",
+      "name": "台南 南青行動年度成果展",
+      "location": "台南市南紡購物中心A2館1F南紡廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8D%97%E7%B4%A1%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83A2%E9%A4%A81F%E5%8D%97%E7%B4%A1%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n青年公共參與行動計畫年度成果展,卡司包含海豚刑警、ana。"
+    },
+    {
+      "id": "upcoming-row-780",
+      "date": "20261114",
+      "band": "ana",
+      "time": "15:00-18:00",
+      "name": "台南 南青行動年度成果展",
+      "location": "台南市南紡購物中心A2館1F南紡廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8D%97%E7%B4%A1%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83A2%E9%A4%A81F%E5%8D%97%E7%B4%A1%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n青年公共參與行動計畫年度成果展,卡司包含海豚刑警、ana。"
+    },
+    {
       "id": "upcoming-row-220",
       "date": "20261115",
       "band": "emptyoriofty",
@@ -23359,6 +23379,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "fde6f4b0-6077-4d14-a2a4-9b89e99d62b2",
-  "updatedAt": "2026-11-04T08:03:57.260Z"
+  "revision": "030d343e-454e-4218-8b4c-e273be2da486",
+  "updatedAt": "2026-11-04T08:05:13.752Z"
 }
