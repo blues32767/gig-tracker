@@ -17998,7 +17998,7 @@
       "date": "20261205",
       "band": "icyball",
       "time": "未公布",
-      "name": "新竹 東興圳光藝節2026 開幕式",
+      "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
       "note": "［免費］\n新公佈卡司,包含 icyball 冰球樂團、米非 Mify 等。"
@@ -18008,7 +18008,7 @@
       "date": "20261205",
       "band": "mify",
       "time": "未公布",
-      "name": "新竹 東興圳光藝節2026 開幕式",
+      "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
       "note": "［免費］\n新公佈卡司,包含 icyball 冰球樂團、米非 Mify 等。"
@@ -19519,6 +19519,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "c4d12153-5b35-4f4c-af9c-35e6e50d8ecd",
-  "updatedAt": "2026-11-04T04:41:57.145Z"
+  "revision": "b5db671b-b9fa-4622-a7fe-35328b074f16",
+  "updatedAt": "2026-11-04T04:44:18.216Z"
 }
