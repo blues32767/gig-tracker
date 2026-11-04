@@ -5674,6 +5674,38 @@
       "eventCount": 1
     },
     {
+      "id": "sk8fire",
+      "name": "SK8 FIRE × 精神時光屋滑板道場",
+      "short": "SK",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_zl0uwf",
+      "name": "日本環球影城 25 週年特別演出",
+      "short": "日本",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_84v17o_2",
+      "name": "異鄉人的憤怒舞鼓教室",
+      "short": "異鄉",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_tjzmxt",
+      "name": "經期似超人 小紅帽 × 宅女小紅",
+      "short": "經期",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -17755,7 +17787,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-193",
@@ -17765,17 +17797,17 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-194",
       "date": "20261114",
       "band": "shallowlevef",
-      "time": "18:45-19:25",
+      "time": "12:10-12:50",
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-195",
@@ -17785,7 +17817,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-196",
@@ -17795,7 +17827,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-197",
@@ -17805,7 +17837,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-198",
@@ -17815,7 +17847,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-199",
@@ -17825,7 +17857,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-200",
@@ -17835,7 +17867,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-201",
@@ -17845,7 +17877,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-202",
@@ -17855,7 +17887,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-203",
@@ -17865,7 +17897,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-204",
@@ -17875,7 +17907,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-205",
@@ -17885,7 +17917,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-206",
@@ -17895,7 +17927,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-207",
@@ -17905,7 +17937,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-208",
@@ -17915,7 +17947,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-209",
@@ -17925,7 +17957,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-210",
@@ -17935,7 +17967,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-211",
@@ -17945,17 +17977,17 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-212",
       "date": "20261114",
       "band": "band_6u8lrj_40",
-      "time": "19:35-19:45",
+      "time": "20:40-21:40",
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-213",
@@ -17965,7 +17997,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-214",
@@ -17975,7 +18007,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-215",
@@ -17985,7 +18017,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-217",
@@ -17995,7 +18027,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-218",
@@ -18005,7 +18037,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-221",
@@ -18015,7 +18047,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-223",
@@ -18025,7 +18057,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-226",
@@ -18035,7 +18067,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-227",
@@ -18045,7 +18077,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-230",
@@ -18055,7 +18087,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-233",
@@ -18065,7 +18097,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-234",
@@ -18075,7 +18107,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-237",
@@ -18085,7 +18117,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-240",
@@ -18095,7 +18127,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-243",
@@ -18105,7 +18137,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-378",
@@ -18365,7 +18397,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-620",
@@ -18375,7 +18407,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-621",
@@ -18385,7 +18417,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-622",
@@ -18395,7 +18427,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-623",
@@ -18405,7 +18437,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-624",
@@ -18415,7 +18447,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-625",
@@ -18425,7 +18457,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-626",
@@ -18435,7 +18467,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-627",
@@ -18445,7 +18477,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-628",
@@ -18455,7 +18487,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-629",
@@ -18465,7 +18497,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-630",
@@ -18475,7 +18507,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-631",
@@ -18485,7 +18517,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-632",
@@ -18495,7 +18527,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-633",
@@ -18505,7 +18537,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-634",
@@ -18515,7 +18547,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-635",
@@ -18525,7 +18557,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-636",
@@ -18535,7 +18567,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-637",
@@ -18545,7 +18577,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-638",
@@ -18555,7 +18587,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-639",
@@ -18565,7 +18597,47 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-642",
+      "date": "20261114",
+      "band": "sk8fire",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-643",
+      "date": "20261114",
+      "band": "band_zl0uwf",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-644",
+      "date": "20261114",
+      "band": "band_84v17o_2",
+      "time": "15:55-16:25",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-645",
+      "date": "20261114",
+      "band": "band_tjzmxt",
+      "time": "17:05-17:35",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-216",
@@ -18605,7 +18677,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-224",
@@ -18615,7 +18687,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-225",
@@ -18625,7 +18697,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-228",
@@ -18635,7 +18707,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-229",
@@ -18645,7 +18717,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-231",
@@ -18655,7 +18727,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-232",
@@ -18665,7 +18737,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-235",
@@ -18675,7 +18747,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-236",
@@ -18685,7 +18757,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-238",
@@ -18695,7 +18767,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-239",
@@ -18705,7 +18777,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-241",
@@ -18715,7 +18787,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-242",
@@ -18725,7 +18797,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-244",
@@ -18735,7 +18807,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14(六) - 11/15(日) 於桃園市舉辦,陣容包含滅火器、美秀集團、血肉果汁機等共 60 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-384",
@@ -21273,6 +21345,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3b5f5d11-5914-4e8c-bbd4-9ef43b8b325d",
-  "updatedAt": "2026-11-04T05:51:14.782Z"
+  "revision": "e5ce4340-cb44-4d18-ba39-0d3175595d8b",
+  "updatedAt": "2026-11-04T06:07:28.470Z"
 }
