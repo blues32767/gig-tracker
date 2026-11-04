@@ -6410,6 +6410,14 @@
       "eventCount": 1
     },
     {
+      "id": "band_qqiyec_31",
+      "name": "帕拉斯樂團",
+      "short": "帕拉",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -20316,6 +20324,16 @@
       "note": "［免費］\n原定10/24活動因颱風延期舉辦。\n延期來源:https://www.facebook.com/share/p/1QdVwKQM7J/\n2026 埔里山城有聲演唱會,於 11/21 (六) 在南投縣埔里仁愛公園舉辦。陣容共 6 組演出:宇宙人、樂天女孩、帕拉斯、于台煙、李子森、袁小迪。\nPALLAS 帕拉斯演出,目標成為激勵這個世代的花火。\n本祭演出時間尚未公布\n來源：https://www.facebook.com/share/p/1QdVwKQM7J/"
     },
     {
+      "id": "upcoming-row-785",
+      "date": "20261121",
+      "band": "band_qqiyec_31",
+      "time": "13:00-18:00",
+      "name": "臺南 玩埤派對2026 虎頭埤水與綠・玩埤派對",
+      "location": "台南市新化區虎頭埤風景區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E5%8C%96%E5%8D%80%E8%99%8E%E9%A0%AD%E5%9F%A4%E9%A2%A8%E6%99%AF%E5%8D%80",
+      "note": "［免費］\n玩埤派對2026 虎頭埤水與綠・玩埤派對,時間為 11/21-11/22,地點臺南虎頭埤風景區。卡司包含怕胖團、帕拉斯、林逸欣、陳華、李子森、U:NUS。免費入場。"
+    },
+    {
       "id": "upcoming-row-257",
       "date": "20261122",
       "band": "WhoCares",
@@ -23451,6 +23469,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "2f62e659-e426-4aab-99da-a98dd99367a6",
-  "updatedAt": "2026-11-04T08:17:32.841Z"
+  "revision": "5c6b4752-d25e-423b-96e1-b1b14dc43d51",
+  "updatedAt": "2026-11-04T08:18:54.906Z"
 }
