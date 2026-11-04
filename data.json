@@ -50,6 +50,14 @@
       "eventCount": 10
     },
     {
+      "id": "pizzali",
+      "name": "PIZZALI",
+      "short": "PIZZALI",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 10
+    },
+    {
       "id": "trash",
       "name": "TRASH",
       "short": "TRASH",
@@ -72,14 +80,6 @@
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 10
-    },
-    {
-      "id": "pizzali",
-      "name": "PIZZALI",
-      "short": "PIZZALI",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 9
     },
     {
       "id": "band_drsiw0_25",
@@ -106,6 +106,14 @@
       "eventCount": 8
     },
     {
+      "id": "band_drsiw0_27",
+      "name": "玖壹壹",
+      "short": "玖壹壹",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 8
+    },
+    {
       "id": "band_drsiw0_61",
       "name": "白頻率",
       "short": "白頻率",
@@ -127,14 +135,6 @@
       "short": "李浩瑋",
       "color": "#ef476f",
       "category": "個人",
-      "eventCount": 7
-    },
-    {
-      "id": "band_drsiw0_27",
-      "name": "玖壹壹",
-      "short": "玖壹壹",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 7
     },
     {
@@ -226,6 +226,22 @@
       "eventCount": 6
     },
     {
+      "id": "sabrina",
+      "name": "Sabrina 胡恂舞",
+      "short": "Sabrina 胡恂舞",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
+      "id": "FireEX",
+      "name": "滅火器",
+      "short": "滅火器",
+      "color": "#C8102E",
+      "category": "樂團",
+      "eventCount": 6
+    },
+    {
       "id": "SHOU",
       "name": "婁峻碩",
       "short": "婁峻碩",
@@ -290,11 +306,11 @@
       "eventCount": 5
     },
     {
-      "id": "sabrina",
-      "name": "Sabrina 胡恂舞",
-      "short": "Sabrina 胡恂舞",
-      "color": "#8338ec",
-      "category": "個人",
+      "id": "band_drsiw0_77",
+      "name": "宇宙人",
+      "short": "宇宙人",
+      "color": "#06d6a0",
+      "category": "樂團",
       "eventCount": 5
     },
     {
@@ -303,14 +319,6 @@
       "short": "魏嘉瑩",
       "color": "#118ab2",
       "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "FireEX",
-      "name": "滅火器",
-      "short": "滅火器",
-      "color": "#C8102E",
-      "category": "樂團",
       "eventCount": 5
     },
     {
@@ -334,6 +342,14 @@
       "name": "163braces",
       "short": "163braces",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
+      "id": "joyce",
+      "name": "JOYCE 就以斯",
+      "short": "就以斯",
+      "color": "#ff006e",
       "category": "個人",
       "eventCount": 4
     },
@@ -442,11 +458,11 @@
       "eventCount": 4
     },
     {
-      "id": "band_drsiw0_77",
-      "name": "宇宙人",
-      "short": "宇宙人",
-      "color": "#06d6a0",
-      "category": "樂團",
+      "id": "band_drsiw0_84",
+      "name": "周湯豪",
+      "short": "周湯豪",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 4
     },
     {
@@ -490,14 +506,6 @@
       "eventCount": 3
     },
     {
-      "id": "joyce",
-      "name": "JOYCE 就以斯",
-      "short": "就以斯",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "saturnday",
       "name": "Saturnday",
       "short": "Saturnday",
@@ -519,6 +527,22 @@
       "short": "無妄合作社",
       "color": "#ef476f",
       "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "ktv",
+      "name": "慶記KTV 羅曼迪克",
+      "short": "慶記",
+      "color": "#ffd166",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_21",
+      "name": "林可綸",
+      "short": "林可綸",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -714,10 +738,10 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_84",
-      "name": "周湯豪",
-      "short": "周湯豪",
-      "color": "#8338ec",
+      "id": "band_6gp8um_27",
+      "name": "潤少",
+      "short": "潤少",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 3
     },
@@ -814,6 +838,14 @@
       "name": "曾昱嘉",
       "short": "曾昱嘉",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_137",
+      "name": "郭家瑋",
+      "short": "郭家瑋",
+      "color": "#8338ec",
       "category": "個人",
       "eventCount": 3
     },
@@ -970,22 +1002,6 @@
       "eventCount": 2
     },
     {
-      "id": "ktv",
-      "name": "慶記KTV 羅曼迪克",
-      "short": "慶記",
-      "color": "#ffd166",
-      "category": "團體",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_21",
-      "name": "林可綸",
-      "short": "林可綸",
-      "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_6gp8um_7",
       "name": "寶賤",
       "short": "寶賤",
@@ -1082,6 +1098,22 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_73",
+      "name": "高爾宣",
+      "short": "高爾宣",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_qqiyec_10",
+      "name": "西屯純愛組",
+      "short": "西屯純愛組",
+      "color": "#ffd166",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
       "id": "multiverse",
       "name": "Multiverse",
       "short": "Multiverse",
@@ -1138,11 +1170,11 @@
       "eventCount": 2
     },
     {
-      "id": "band_6gp8um_27",
-      "name": "潤少",
-      "short": "潤少",
-      "color": "#118ab2",
-      "category": "個人",
+      "id": "belish",
+      "name": "BELISH",
+      "short": "BELISH",
+      "color": "#fb5607",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -1151,6 +1183,14 @@
       "short": "A_Root 同根生 feat. 蔡家蓁",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_90",
+      "name": "郭書瑤",
+      "short": "郭書瑤",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -1222,6 +1262,14 @@
       "name": "CJ Mit",
       "short": "CJ Mit",
       "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "inhon",
+      "name": "INHON 胤宏",
+      "short": "INHON 胤宏",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 2
     },
@@ -1298,6 +1346,14 @@
       "eventCount": 2
     },
     {
+      "id": "peatle",
+      "name": "Peatle",
+      "short": "Peatle",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_126",
       "name": "卡尼特",
       "short": "卡尼特",
@@ -1330,10 +1386,18 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_137",
-      "name": "郭家瑋",
-      "short": "郭家瑋",
-      "color": "#8338ec",
+      "id": "willy",
+      "name": "Willy 簡嘉彣",
+      "short": "Willy 簡嘉彣",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_138",
+      "name": "蕭秉治",
+      "short": "蕭秉治",
+      "color": "#fb5607",
       "category": "個人",
       "eventCount": 2
     },
@@ -1350,6 +1414,14 @@
       "name": "張文綺",
       "short": "張文綺",
       "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_47",
+      "name": "王識賢",
+      "short": "王識賢",
+      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 2
     },
@@ -1394,6 +1466,22 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_144",
+      "name": "袁語笙",
+      "short": "袁語笙",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "gordon",
+      "name": "國蛋 GorDoN",
+      "short": "國蛋 GorDoN",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_32tclr_5",
       "name": "我是機車少女",
       "short": "我是機車少女",
@@ -1418,6 +1506,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6gp8um_52",
+      "name": "郁欣",
+      "short": "郁欣",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "sam3pay",
       "name": "SAM3PAY",
       "short": "SAM3PAY",
@@ -1430,6 +1526,14 @@
       "name": "閻奕格",
       "short": "閻奕格",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "savagem",
+      "name": "馬克 SAVAGE.M",
+      "short": "馬克 SAVAGE.M",
+      "color": "#ef476f",
       "category": "個人",
       "eventCount": 2
     },
@@ -1454,6 +1558,22 @@
       "name": "團名",
       "short": "團名",
       "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_51",
+      "name": "多重宇宙",
+      "short": "多重",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "djyu",
+      "name": "DJ YU",
+      "short": "DJ",
+      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 2
     },
@@ -2290,22 +2410,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_73",
-      "name": "高爾宣",
-      "short": "高爾宣",
-      "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_qqiyec_10",
-      "name": "西屯純愛組",
-      "short": "西屯純愛組",
-      "color": "#ffd166",
-      "category": "團體",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_74",
       "name": "間奕格",
       "short": "間奕格",
@@ -2594,14 +2698,6 @@
       "eventCount": 1
     },
     {
-      "id": "belish",
-      "name": "BELISH",
-      "short": "BELISH",
-      "color": "#fb5607",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "bae",
       "name": "林采欣 Bae",
       "short": "林采欣 Bae",
@@ -2670,14 +2766,6 @@
       "name": "楊淨宇",
       "short": "楊淨宇",
       "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_90",
-      "name": "郭書瑤",
-      "short": "郭書瑤",
-      "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
     },
@@ -3130,14 +3218,6 @@
       "eventCount": 1
     },
     {
-      "id": "inhon",
-      "name": "INHON 胤宏",
-      "short": "INHON 胤宏",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "xinz",
       "name": "Xinz",
       "short": "Xinz",
@@ -3402,14 +3482,6 @@
       "eventCount": 1
     },
     {
-      "id": "peatle",
-      "name": "Peatle",
-      "short": "Peatle",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_124",
       "name": "曾允成",
       "short": "曾允成",
@@ -3559,22 +3631,6 @@
       "short": "草屯囝仔",
       "color": "#118ab2",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "willy",
-      "name": "Willy 簡嘉彣",
-      "short": "Willy 簡嘉彣",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_138",
-      "name": "蕭秉治",
-      "short": "蕭秉治",
-      "color": "#fb5607",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -3798,14 +3854,6 @@
       "name": "YOYO雲朵姐姐",
       "short": "YOYO雲朵姐姐",
       "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_47",
-      "name": "王識賢",
-      "short": "王識賢",
-      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
     },
@@ -4378,14 +4426,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_144",
-      "name": "袁語笙",
-      "short": "袁語笙",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "nanaeddiexar",
       "name": "永續議題計畫:童話作的國際音樂會 賣給啤酒樂隊人的 Nana&Eddie X A_Root同根生 智博&小楊",
       "short": "永續議題計畫:童話作的國際音樂會 賣給啤酒樂隊人的 Nana&Eddie X A_Root同根生 智博&小楊",
@@ -4398,14 +4438,6 @@
       "name": "好日HoNi",
       "short": "好日HoNi",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "gordon",
-      "name": "國蛋 GorDoN",
-      "short": "國蛋 GorDoN",
-      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
     },
@@ -4730,14 +4762,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6gp8um_52",
-      "name": "郁欣",
-      "short": "郁欣",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "jud",
       "name": "JUD 陳泳希",
       "short": "JUD 陳泳希",
@@ -4935,14 +4959,6 @@
       "short": "Belle",
       "color": "#2ec4b6",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "savagem",
-      "name": "馬克 SAVAGE.M",
-      "short": "馬克 SAVAGE.M",
-      "color": "#ef476f",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -5226,14 +5242,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_51",
-      "name": "多重宇宙",
-      "short": "多重",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "brbp",
       "name": "BRBP",
       "short": "BR",
@@ -5246,14 +5254,6 @@
       "name": "NIKOKIKO TAN TAN",
       "short": "NI",
       "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "djyu",
-      "name": "DJ YU",
-      "short": "DJ",
-      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
     },
@@ -5294,6 +5294,206 @@
       "name": "SADOG × ONE CLICK STRAIGHT",
       "short": "SA",
       "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_63",
+      "name": "阿夜",
+      "short": "阿夜",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_64",
+      "name": "狗柏",
+      "short": "狗柏",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_172",
+      "name": "林芃逸",
+      "short": "林芃",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_65",
+      "name": "雲翔",
+      "short": "雲翔",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_52",
+      "name": "質感流氓",
+      "short": "質感",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_66",
+      "name": "栗子",
+      "short": "栗子",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_173",
+      "name": "徐晧程",
+      "short": "徐晧",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_174",
+      "name": "戴愛玲",
+      "short": "戴愛",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_175",
+      "name": "葛仲珊",
+      "short": "葛仲",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "quanzo",
+      "name": "Quanzo",
+      "short": "Qu",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_176",
+      "name": "張雲開",
+      "short": "張雲",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "younglee",
+      "name": "YoungLee",
+      "short": "Yo",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_67",
+      "name": "陳全",
+      "short": "陳全",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "sinnermoon",
+      "name": "SiNNER MOON",
+      "short": "Si",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_68",
+      "name": "阿法",
+      "short": "阿法",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_69",
+      "name": "五木",
+      "short": "五木",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "300monkey",
+      "name": "300Monkey",
+      "short": "30",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_177",
+      "name": "剛伯樂",
+      "short": "剛伯",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "frankieparis",
+      "name": "Frankie Paris",
+      "short": "Fr",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "vigoz",
+      "name": "Vigoz",
+      "short": "Vi",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_70",
+      "name": "西閣",
+      "short": "西閣",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_71",
+      "name": "阿力",
+      "short": "阿力",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "sunny",
+      "name": "教練Sunny",
+      "short": "教練",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_oxbj1m",
+      "name": "BK",
+      "short": "BK",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "shen",
+      "name": "SHEN",
+      "short": "SH",
+      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
     },
@@ -14825,21 +15025,21 @@
       "id": "upcoming-row-40",
       "date": "20261107",
       "band": "AmazingShow",
-      "time": "未定",
+      "time": "未公布",
       "name": "台中 玖壹壹南北貳路音樂節",
-      "location": "台中市水湳中央公園球場",
+      "location": "臺中市水湳中央公園(中央球場)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/"
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
     },
     {
       "id": "upcoming-row-41",
       "date": "20261107",
       "band": "captainlu",
-      "time": "未定",
+      "time": "未公布",
       "name": "台中 玖壹壹南北貳路音樂節",
-      "location": "台中市水湳中央公園球場",
+      "location": "臺中市水湳中央公園(中央球場)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/"
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
     },
     {
       "id": "upcoming-row-42",
@@ -15740,6 +15940,516 @@
       "location": "...",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=...",
       "note": "［免費］\n...\n..."
+    },
+    {
+      "id": "upcoming-row-565",
+      "date": "20261107",
+      "band": "band_drsiw0_27",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-566",
+      "date": "20261107",
+      "band": "band_drsiw0_73",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-567",
+      "date": "20261107",
+      "band": "band_6gp8um_63",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-568",
+      "date": "20261107",
+      "band": "band_6gp8um_64",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-569",
+      "date": "20261107",
+      "band": "band_drsiw0_138",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-570",
+      "date": "20261107",
+      "band": "band_drsiw0_47",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-571",
+      "date": "20261107",
+      "band": "pizzali",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-572",
+      "date": "20261107",
+      "band": "band_drsiw0_77",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-573",
+      "date": "20261107",
+      "band": "FireEX",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-574",
+      "date": "20261107",
+      "band": "joyce",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-575",
+      "date": "20261107",
+      "band": "band_drsiw0_84",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-576",
+      "date": "20261107",
+      "band": "band_qqiyec_10",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-577",
+      "date": "20261107",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-578",
+      "date": "20261107",
+      "band": "band_6gp8um_52",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-579",
+      "date": "20261107",
+      "band": "gordon",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-580",
+      "date": "20261107",
+      "band": "ktv",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-581",
+      "date": "20261107",
+      "band": "djyu",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-582",
+      "date": "20261107",
+      "band": "band_drsiw0_172",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-583",
+      "date": "20261107",
+      "band": "band_6gp8um_65",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-584",
+      "date": "20261107",
+      "band": "band_6u8lrj_52",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-585",
+      "date": "20261107",
+      "band": "band_6gp8um_66",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-586",
+      "date": "20261107",
+      "band": "band_drsiw0_90",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-587",
+      "date": "20261107",
+      "band": "band_drsiw0_173",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-588",
+      "date": "20261107",
+      "band": "band_drsiw0_174",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-589",
+      "date": "20261107",
+      "band": "band_drsiw0_175",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-590",
+      "date": "20261107",
+      "band": "band_6u8lrj_51",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-591",
+      "date": "20261107",
+      "band": "belish",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-592",
+      "date": "20261107",
+      "band": "band_drsiw0_21",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-593",
+      "date": "20261107",
+      "band": "band_6gp8um_27",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-594",
+      "date": "20261107",
+      "band": "band_drsiw0_137",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-595",
+      "date": "20261107",
+      "band": "quanzo",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-596",
+      "date": "20261107",
+      "band": "band_drsiw0_176",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-597",
+      "date": "20261107",
+      "band": "younglee",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-598",
+      "date": "20261107",
+      "band": "band_drsiw0_144",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-599",
+      "date": "20261107",
+      "band": "band_6gp8um_67",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-600",
+      "date": "20261107",
+      "band": "savagem",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-601",
+      "date": "20261107",
+      "band": "peatle",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-602",
+      "date": "20261107",
+      "band": "sinnermoon",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-603",
+      "date": "20261107",
+      "band": "band_6gp8um_68",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-604",
+      "date": "20261107",
+      "band": "band_6gp8um_69",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-605",
+      "date": "20261107",
+      "band": "300monkey",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-606",
+      "date": "20261107",
+      "band": "inhon",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-607",
+      "date": "20261107",
+      "band": "band_drsiw0_177",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-608",
+      "date": "20261107",
+      "band": "frankieparis",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-609",
+      "date": "20261107",
+      "band": "vigoz",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-610",
+      "date": "20261107",
+      "band": "band_6gp8um_70",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-611",
+      "date": "20261107",
+      "band": "band_6gp8um_71",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-612",
+      "date": "20261107",
+      "band": "sunny",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-613",
+      "date": "20261107",
+      "band": "willy",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-614",
+      "date": "20261107",
+      "band": "band_oxbj1m",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
+    },
+    {
+      "id": "upcoming-row-615",
+      "date": "20261107",
+      "band": "shen",
+      "time": "未公布",
+      "name": "台中 玖壹壹南北貳路音樂節",
+      "location": "臺中市水湳中央公園(中央球場)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n資訊來源:https://www.facebook.com/share/p/1FcKhA8vmM/\n2026年11月7日至8日舉辦,卡司包含玖壹壹、高爾宣、阿夜、狗柏、美秀集團、盧廣仲、蕭秉治、王識賢、PIZZALI、宇宙人、滅火器、就以斯、周湯豪、西屯純愛組、胡恂舞、郁欣、國蛋、慶記KTV、DJ YU、林芃逸、雲翔、質感流氓、栗子、郭書瑤、徐晧程、戴愛玲、葛仲珊、多重宇宙、BELISH、林可綸、潤少、郭家瑋、Quanzo、張雲開、YoungLee、袁語笙、陳全、馬克、Peatle、SiNNER MOON、阿法、五木、300Monkey、胤宏、剛伯樂、Frankie Paris、Vigoz、西閣、阿力、教練Sunny、簡嘉彣、BK、SHEN。\n來源：https://www.facebook.com/share/p/1FcKhA8vmM/\n來源：https://weavewave.app/activity/nine-one-one-south-north-road-2026"
     },
     {
       "id": "upcoming-row-84",
@@ -20127,6 +20837,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "9794a143-66d4-4533-aa56-43947ef526ed",
-  "updatedAt": "2026-11-04T05:34:26.580Z"
+  "revision": "03b5a7d5-965a-47f9-9870-b95a8459ba59",
+  "updatedAt": "2026-11-04T05:38:03.455Z"
 }
