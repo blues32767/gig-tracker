@@ -506,6 +506,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_19",
+      "name": "邱淑蟬",
+      "short": "邱淑蟬",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "saturnday",
       "name": "Saturnday",
       "short": "Saturnday",
@@ -850,6 +858,14 @@
       "eventCount": 3
     },
     {
+      "id": "ftkimsawol",
+      "name": "淺堤 ft. Kim Sawol",
+      "short": "淺堤 ft. Kim Sawol",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "awkward",
       "name": "阿克沃 Awkward",
       "short": "阿克沃 Awkward",
@@ -990,14 +1006,6 @@
       "name": "黃偉晉",
       "short": "黃偉晉",
       "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_19",
-      "name": "邱淑蟬",
-      "short": "邱淑蟬",
-      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 2
     },
@@ -1226,6 +1234,14 @@
       "eventCount": 2
     },
     {
+      "id": "yappy",
+      "name": "Yappy",
+      "short": "Yappy",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_22",
       "name": "吐司貓",
       "short": "吐司貓",
@@ -1450,18 +1466,18 @@
       "eventCount": 2
     },
     {
+      "id": "band_1gsu1h",
+      "name": "客家就是我家 黃子軒 x 王鍾銘 x 王鍾惟",
+      "short": "客家就是我家 黃子軒 x 王鍾銘 x 王鍾惟",
+      "color": "#3a86ff",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
       "id": "dsps",
       "name": "DSPS",
       "short": "DSPS",
       "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "ftkimsawol",
-      "name": "淺堤 ft. Kim Sawol",
-      "short": "淺堤 ft. Kim Sawol",
-      "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 2
     },
@@ -3010,14 +3026,6 @@
       "eventCount": 1
     },
     {
-      "id": "yappy",
-      "name": "Yappy",
-      "short": "Yappy",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_105",
       "name": "賈斯汀",
       "short": "賈斯汀",
@@ -4031,14 +4039,6 @@
       "short": "debloop",
       "color": "#fb5607",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_1gsu1h",
-      "name": "客家就是我家 黃子軒 x 王鍾銘 x 王鍾惟",
-      "short": "客家就是我家 黃子軒 x 王鍾銘 x 王鍾惟",
-      "color": "#3a86ff",
-      "category": "團體",
       "eventCount": 1
     },
     {
@@ -5518,6 +5518,142 @@
       "name": "秋波愛麗",
       "short": "秋波",
       "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "tatsuyaamano",
+      "name": "Tatsuya Amano",
+      "short": "Ta",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "emptyorio",
+      "name": "EmptyORio",
+      "short": "Em",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "dragonash",
+      "name": "Dragon Ash",
+      "short": "Dr",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "fever333",
+      "name": "FEVER 333",
+      "short": "FE",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "gigo",
+      "name": "GIGO",
+      "short": "GI",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "crystallake",
+      "name": "Crystal Lake",
+      "short": "Cr",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir_12",
+      "name": "サンボマスター",
+      "short": "サン",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_54",
+      "name": "隨性樂團",
+      "short": "隨性",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "hana",
+      "name": "HANA",
+      "short": "HA",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "northern19",
+      "name": "Northern19",
+      "short": "No",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "egowrappin",
+      "name": "EGO-WRAPPIN'",
+      "short": "EG",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "isyanasarasv_1",
+      "name": "Isyana Sarasvati",
+      "short": "Is",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir_13",
+      "name": "法律白話文運動",
+      "short": "法律",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "gymv",
+      "name": "GYMV",
+      "short": "GY",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_lrujfm",
+      "name": "우륵과 풍각쟁이들",
+      "short": "우륵",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_178",
+      "name": "王鍾錡",
+      "short": "王鍾",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_73",
+      "name": "爵犬",
+      "short": "爵犬",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
     },
@@ -17583,7 +17719,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-193",
@@ -17593,7 +17729,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-194",
@@ -17603,7 +17739,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-195",
@@ -17613,7 +17749,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-196",
@@ -17623,7 +17759,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-197",
@@ -17633,7 +17769,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-198",
@@ -17643,7 +17779,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-199",
@@ -17653,7 +17789,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-200",
@@ -17663,7 +17799,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-201",
@@ -17673,7 +17809,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-202",
@@ -17683,7 +17819,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-203",
@@ -17693,7 +17829,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-204",
@@ -17703,7 +17839,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-205",
@@ -17713,7 +17849,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-206",
@@ -17723,7 +17859,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-207",
@@ -17733,7 +17869,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-208",
@@ -17743,7 +17879,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-209",
@@ -17753,7 +17889,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-210",
@@ -17763,7 +17899,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-211",
@@ -17773,7 +17909,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-212",
@@ -17783,7 +17919,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-213",
@@ -17793,7 +17929,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-214",
@@ -17803,7 +17939,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-215",
@@ -17813,7 +17949,127 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-217",
+      "date": "20261114",
+      "band": "AmazingShow",
+      "time": "18:45-19:25",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-218",
+      "date": "20261114",
+      "band": "gongguan",
+      "time": "11:50-12:20",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-221",
+      "date": "20261114",
+      "band": "band_6u8lrj_23",
+      "time": "11:15-11:55",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-223",
+      "date": "20261114",
+      "band": "cholly",
+      "time": "13:00-13:30",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-226",
+      "date": "20261114",
+      "band": "trash",
+      "time": "14:05-14:45",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-227",
+      "date": "20261114",
+      "band": "band_drsiw0_107",
+      "time": "14:10-14:40",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-230",
+      "date": "20261114",
+      "band": "debloop",
+      "time": "15:20-15:50",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-233",
+      "date": "20261114",
+      "band": "band_drsiw0_55",
+      "time": "16:00-16:40",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-234",
+      "date": "20261114",
+      "band": "dsps",
+      "time": "16:30-17:00",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-237",
+      "date": "20261114",
+      "band": "band_6u8lrj_15",
+      "time": "17:40-18:10",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-240",
+      "date": "20261114",
+      "band": "band_6gp8um_46",
+      "time": "18:50-19:20",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-243",
+      "date": "20261114",
+      "band": "band_drsiw0_59",
+      "time": "20:00-20:30",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-378",
@@ -18066,6 +18322,216 @@
       "note": "［免費］\n活動於 11/14 舉辦,演出包含 icyball 冰球樂團、先知瑪莉、Control T、庸俗救星、Crispy 脆樂團、芒果醬等藝人。\n來源：https://www.instagram.com/icyballband/"
     },
     {
+      "id": "upcoming-row-619",
+      "date": "20261114",
+      "band": "tatsuyaamano",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-620",
+      "date": "20261114",
+      "band": "ftkimsawol",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-621",
+      "date": "20261114",
+      "band": "emptyorio",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-622",
+      "date": "20261114",
+      "band": "yappy",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-623",
+      "date": "20261114",
+      "band": "dragonash",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-624",
+      "date": "20261114",
+      "band": "fever333",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-625",
+      "date": "20261114",
+      "band": "gigo",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-626",
+      "date": "20261114",
+      "band": "crystallake",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-627",
+      "date": "20261114",
+      "band": "band_maaxir_12",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-628",
+      "date": "20261114",
+      "band": "band_6u8lrj_54",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-629",
+      "date": "20261114",
+      "band": "hana",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-630",
+      "date": "20261114",
+      "band": "northern19",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-631",
+      "date": "20261114",
+      "band": "egowrappin",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-632",
+      "date": "20261114",
+      "band": "isyanasarasv_1",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-633",
+      "date": "20261114",
+      "band": "band_maaxir_13",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-634",
+      "date": "20261114",
+      "band": "band_drsiw0_19",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-635",
+      "date": "20261114",
+      "band": "gymv",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-636",
+      "date": "20261114",
+      "band": "band_lrujfm",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-637",
+      "date": "20261114",
+      "band": "band_1gsu1h",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-638",
+      "date": "20261114",
+      "band": "band_drsiw0_178",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
+      "id": "upcoming-row-639",
+      "date": "20261114",
+      "band": "band_6gp8um_73",
+      "time": "未公布",
+      "name": "桃園 FIREBALL Fest. 火球祭",
+      "location": "桃園市樂天桃園棒球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+    },
+    {
       "id": "upcoming-row-216",
       "date": "20261115",
       "band": "papunband",
@@ -18074,26 +18540,6 @@
       "location": "台北市八德路一段(封街)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%AB%E5%BE%B7%E8%B3%87%E8%A8%8A%E5%95%86%E5%9C%88",
       "note": "［免費］\n活動日期為 2026/11/14 至 2026/11/15。11/14 卡司包含東部壞男孩、芒果醬、甜約翰;11/15 卡司包含火星混蛋、Control T、怕胖團。"
-    },
-    {
-      "id": "upcoming-row-217",
-      "date": "20261115",
-      "band": "AmazingShow",
-      "time": "18:45-19:25",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
-    },
-    {
-      "id": "upcoming-row-218",
-      "date": "20261115",
-      "band": "gongguan",
-      "time": "11:50-12:20",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-219",
@@ -18116,16 +18562,6 @@
       "note": "［免費］\n活動日期為 2026/11/14 至 2026/11/15。11/14 卡司包含東部壞男孩、芒果醬、甜約翰;11/15 卡司包含火星混蛋、Control T、怕胖團。"
     },
     {
-      "id": "upcoming-row-221",
-      "date": "20261115",
-      "band": "band_6u8lrj_23",
-      "time": "11:15-11:55",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
-    },
-    {
       "id": "upcoming-row-222",
       "date": "20261115",
       "band": "emptyoriofty",
@@ -18133,17 +18569,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
-    },
-    {
-      "id": "upcoming-row-223",
-      "date": "20261115",
-      "band": "cholly",
-      "time": "13:00-13:30",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-224",
@@ -18153,7 +18579,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-225",
@@ -18163,27 +18589,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
-    },
-    {
-      "id": "upcoming-row-226",
-      "date": "20261115",
-      "band": "trash",
-      "time": "14:05-14:45",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
-    },
-    {
-      "id": "upcoming-row-227",
-      "date": "20261115",
-      "band": "band_drsiw0_107",
-      "time": "14:10-14:40",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-228",
@@ -18193,7 +18599,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-229",
@@ -18203,17 +18609,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
-    },
-    {
-      "id": "upcoming-row-230",
-      "date": "20261115",
-      "band": "debloop",
-      "time": "15:20-15:50",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-231",
@@ -18223,7 +18619,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-232",
@@ -18233,27 +18629,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
-    },
-    {
-      "id": "upcoming-row-233",
-      "date": "20261115",
-      "band": "band_drsiw0_55",
-      "time": "16:00-16:40",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
-    },
-    {
-      "id": "upcoming-row-234",
-      "date": "20261115",
-      "band": "dsps",
-      "time": "16:30-17:00",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-235",
@@ -18263,7 +18639,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-236",
@@ -18273,17 +18649,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
-    },
-    {
-      "id": "upcoming-row-237",
-      "date": "20261115",
-      "band": "band_6u8lrj_15",
-      "time": "17:40-18:10",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-238",
@@ -18293,7 +18659,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-239",
@@ -18303,17 +18669,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
-    },
-    {
-      "id": "upcoming-row-240",
-      "date": "20261115",
-      "band": "band_6gp8um_46",
-      "time": "18:50-19:20",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-241",
@@ -18323,7 +18679,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-242",
@@ -18333,17 +18689,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
-    },
-    {
-      "id": "upcoming-row-243",
-      "date": "20261115",
-      "band": "band_drsiw0_59",
-      "time": "20:00-20:30",
-      "name": "桃園 FIREBALL Fest. 火球祭",
-      "location": "桃園市樂天桃園棒球場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-244",
@@ -18353,7 +18699,7 @@
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
-      "note": "［售票］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
+      "note": "［免費］\n2026 FIREBALL Fest. 火球祭於樂天桃園棒球場舉辦,包含多組國內外樂團及特別演出。\n2026 年 11/14 (六) – 11/15 (日) 於桃園市舉辦,陣容共 48 組演出。\n來源：https://www.facebook.com/share/p/1BAUy6JdsS/"
     },
     {
       "id": "upcoming-row-384",
@@ -20891,6 +21237,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "91d8f2f0-dbc5-4032-8ee4-7c74e81ca413",
-  "updatedAt": "2026-11-04T05:45:10.137Z"
+  "revision": "fe37beb9-6508-4d7c-9bbf-fa18ac6ef47e",
+  "updatedAt": "2026-11-04T05:46:57.436Z"
 }
