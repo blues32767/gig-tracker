@@ -34,6 +34,14 @@
       "eventCount": 15
     },
     {
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富凱",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 11
+    },
+    {
       "id": "band_qqiyec_5",
       "name": "艾薇",
       "short": "艾薇",
@@ -62,14 +70,6 @@
       "name": "PIZZALI",
       "short": "PIZZALI",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 10
-    },
-    {
-      "id": "band_drsiw0_25",
-      "name": "許富凱",
-      "short": "許富凱",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 10
     },
@@ -930,6 +930,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_145",
+      "name": "孫淑媚",
+      "short": "孫淑媚",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "awkward",
       "name": "阿克沃 Awkward",
       "short": "阿克沃 Awkward",
@@ -1615,14 +1623,6 @@
       "short": "我是機車少女",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_145",
-      "name": "孫淑媚",
-      "short": "孫淑媚",
-      "color": "#fb5607",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -23202,6 +23202,26 @@
       "note": ""
     },
     {
+      "id": "upcoming-row-775",
+      "date": "20261231",
+      "band": "band_drsiw0_145",
+      "time": "未公布",
+      "name": "高雄 雄嗨趴2027 高雄跨年晚會",
+      "location": "高雄市前鎮區夢時代購物中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80%E5%A4%A2%E6%99%82%E4%BB%A3%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83",
+      "note": "［免費］\n雄嗨趴2027 高雄跨年晚會,卡司包含孫淑媚、許富凱等藝人。"
+    },
+    {
+      "id": "upcoming-row-776",
+      "date": "20261231",
+      "band": "band_drsiw0_25",
+      "time": "未公布",
+      "name": "高雄 雄嗨趴2027 高雄跨年晚會",
+      "location": "高雄市前鎮區夢時代購物中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80%E5%A4%A2%E6%99%82%E4%BB%A3%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83",
+      "note": "［免費］\n雄嗨趴2027 高雄跨年晚會,卡司包含孫淑媚、許富凱等藝人。"
+    },
+    {
       "id": "upcoming-row-369",
       "date": "20270102",
       "band": "awkward",
@@ -23617,6 +23637,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "a1631864-bb07-4369-bc55-87d45400c691",
-  "updatedAt": "2026-11-05T08:07:46.048Z"
+  "revision": "07d18391-e060-4b74-b869-d8b71f2590b7",
+  "updatedAt": "2026-11-05T14:03:38.139Z"
 }
