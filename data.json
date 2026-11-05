@@ -18605,7 +18605,7 @@
       "id": "upcoming-row-193",
       "date": "20261114",
       "band": "momo",
-      "time": "13:35-14:05",
+      "time": "14:45-15:15",
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
@@ -19365,7 +19365,7 @@
       "id": "upcoming-row-610",
       "date": "20261114",
       "band": "band_84v17o_2",
-      "time": "14:45-15:15",
+      "time": "15:55-16:25",
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
@@ -23637,6 +23637,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "242a8701-08cb-4f33-81cf-5d3a8dd370c1",
-  "updatedAt": "2026-11-05T17:06:47.939Z"
+  "revision": "ea98f0de-4dac-4837-a3dd-76cab252def1",
+  "updatedAt": "2026-11-05T17:09:13.774Z"
 }
