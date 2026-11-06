@@ -18813,7 +18813,7 @@
       "id": "upcoming-row-205",
       "date": "20261114",
       "band": "band_6u8lrj_40",
-      "time": "20:40-21:40",
+      "time": "19:45-20:25",
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
@@ -19433,7 +19433,7 @@
       "id": "upcoming-row-594",
       "date": "20261114",
       "band": "sk8fire",
-      "time": "未公布",
+      "time": "15:20-15:50",
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
@@ -19443,7 +19443,7 @@
       "id": "upcoming-row-595",
       "date": "20261114",
       "band": "band_zl0uwf",
-      "time": "未公布",
+      "time": "14:05-14:45",
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
@@ -23945,6 +23945,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "6744f708-1028-4553-b855-5ac1282a54d8",
-  "updatedAt": "2026-11-06T17:09:22.316Z"
+  "revision": "ccaecba5-724b-41bd-84e9-c8cab7d6d269",
+  "updatedAt": "2026-11-06T17:11:06.279Z"
 }
