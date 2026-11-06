@@ -746,6 +746,22 @@
       "eventCount": 3
     },
     {
+      "id": "ohan",
+      "name": "OHAN",
+      "short": "OHAN",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_qqiyec_9",
+      "name": "芒果街老爸",
+      "short": "芒果街老爸",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_72",
       "name": "謝語恩",
       "short": "謝語恩",
@@ -1090,22 +1106,6 @@
       "eventCount": 2
     },
     {
-      "id": "ohan",
-      "name": "OHAN",
-      "short": "OHAN",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_qqiyec_9",
-      "name": "芒果街老爸",
-      "short": "芒果街老爸",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_65",
       "name": "林頤原",
       "short": "林頤原",
@@ -1258,10 +1258,26 @@
       "eventCount": 2
     },
     {
+      "id": "band_6u8lrj_28",
+      "name": "老大不小",
+      "short": "老大不小",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "theeon",
       "name": "THE EON永夜",
       "short": "THE EON永夜",
       "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "lane140",
+      "name": "Lane 140.",
+      "short": "Lane 140.",
+      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 2
     },
@@ -1319,6 +1335,14 @@
       "short": "李拾壹",
       "color": "#00b4d8",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_109",
+      "name": "後站人",
+      "short": "後站人",
+      "color": "#2ec4b6",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -1629,6 +1653,30 @@
       "id": "band_drsiw0_146",
       "name": "貓膽汁",
       "short": "貓膽汁",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "soulsorry",
+      "name": "Soul Sorry",
+      "short": "Soul Sorry",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_148",
+      "name": "虎小島",
+      "short": "虎小島",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "wimpy",
+      "name": "Wimpy",
+      "short": "Wimpy",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 2
@@ -3226,27 +3274,11 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_28",
-      "name": "老大不小",
-      "short": "老大不小",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "lawa",
       "name": "LAWA",
       "short": "LAWA",
       "color": "#ffd166",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "lane140",
-      "name": "Lane 140.",
-      "short": "Lane 140.",
-      "color": "#118ab2",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -3278,14 +3310,6 @@
       "name": "KARDI (KR)",
       "short": "KARDI (KR)",
       "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_109",
-      "name": "後站人",
-      "short": "後站人",
-      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
     },
@@ -4594,34 +4618,10 @@
       "eventCount": 1
     },
     {
-      "id": "soulsorry",
-      "name": "Soul Sorry",
-      "short": "Soul Sorry",
-      "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "backtodream",
       "name": "夢迴 BackTODream",
       "short": "夢迴 BackTODream",
       "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_148",
-      "name": "虎小島",
-      "short": "虎小島",
-      "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "wimpy",
-      "name": "Wimpy",
-      "short": "Wimpy",
-      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
     },
@@ -6535,6 +6535,86 @@
       "short": "辛龍",
       "color": "#2ec4b6",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "shiyaruru",
+      "name": "夏璐璐 Shiyaruru",
+      "short": "夏璐",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "emoment",
+      "name": "emoment",
+      "short": "em",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "illusion",
+      "name": "Illusion",
+      "short": "Il",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "wildfastfood",
+      "name": "越野快餐車 Wild Fast Food",
+      "short": "越野",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "hothotneighb",
+      "name": "辣鄰居 Hot Hot Neighbros",
+      "short": "辣鄰",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "thebansu",
+      "name": "萬事樂隊 The Bansu",
+      "short": "萬事",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "sharkchimney",
+      "name": "鯊魚煙囪 Shark Chimney",
+      "short": "鯊魚",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "wildcry",
+      "name": "荒鳴 Wild Cry",
+      "short": "荒鳴",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "recall",
+      "name": "RECall",
+      "short": "RE",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "chirrp",
+      "name": "chirrp.",
+      "short": "ch",
+      "color": "#2ec4b6",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -20627,7 +20707,7 @@
       "name": "台北 CHO3小 S3",
       "location": "未公布",
       "mapLink": "",
-      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。"
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
     },
     {
       "id": "upcoming-row-570",
@@ -20637,7 +20717,187 @@
       "name": "台北 CHO3小 S3",
       "location": "未公布",
       "mapLink": "",
-      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。"
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-765",
+      "date": "20261125",
+      "band": "lane140",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-766",
+      "date": "20261125",
+      "band": "shiyaruru",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-767",
+      "date": "20261125",
+      "band": "band_drsiw0_148",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-768",
+      "date": "20261125",
+      "band": "emoment",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-769",
+      "date": "20261125",
+      "band": "band_6u8lrj_28",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-770",
+      "date": "20261125",
+      "band": "illusion",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-771",
+      "date": "20261125",
+      "band": "band_qqiyec_9",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-772",
+      "date": "20261125",
+      "band": "wildfastfood",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-773",
+      "date": "20261125",
+      "band": "hothotneighb",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-774",
+      "date": "20261125",
+      "band": "band_drsiw0_109",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-775",
+      "date": "20261125",
+      "band": "thebansu",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-776",
+      "date": "20261125",
+      "band": "sharkchimney",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-777",
+      "date": "20261125",
+      "band": "wildcry",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-778",
+      "date": "20261125",
+      "band": "recall",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-779",
+      "date": "20261125",
+      "band": "wimpy",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-780",
+      "date": "20261125",
+      "band": "chirrp",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-781",
+      "date": "20261125",
+      "band": "ohan",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
+    },
+    {
+      "id": "upcoming-row-782",
+      "date": "20261125",
+      "band": "soulsorry",
+      "time": "未公布",
+      "name": "台北 CHO3小 S3",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。"
     },
     {
       "id": "upcoming-row-276",
@@ -23685,6 +23945,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "262db90c-3949-4899-aa0e-004727217071",
-  "updatedAt": "2026-11-06T16:01:45.510Z"
+  "revision": "fb4f03f4-2785-45b8-94e0-cae84ec56749",
+  "updatedAt": "2026-11-06T17:06:42.712Z"
 }
