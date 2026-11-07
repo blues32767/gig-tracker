@@ -6618,6 +6618,22 @@
       "eventCount": 1
     },
     {
+      "id": "band_drsiw0_197",
+      "name": "徐皓程",
+      "short": "徐皓",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "steeven",
+      "name": "STEEVEN",
+      "short": "ST",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -18350,6 +18366,26 @@
       "note": "［免費］\n暗影天使演出,粉絲數 718 位"
     },
     {
+      "id": "upcoming-row-783",
+      "date": "20261113",
+      "band": "band_drsiw0_197",
+      "time": "未公布",
+      "name": "高雄 ABSORB 三週年慶",
+      "location": "高雄市新興區文衡二路143巷48號",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%96%B0%E8%88%88%E5%8D%80%E6%96%87%E8%A1%A1%E4%BA%8C%E8%B7%AF143%E5%B7%B748%E8%99%9F",
+      "note": "［免費］\nABSORB 三週年慶,連徐皓程與 STEEVEN 現場演出。"
+    },
+    {
+      "id": "upcoming-row-784",
+      "date": "20261113",
+      "band": "steeven",
+      "time": "未公布",
+      "name": "高雄 ABSORB 三週年慶",
+      "location": "高雄市新興區文衡二路143巷48號",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%96%B0%E8%88%88%E5%8D%80%E6%96%87%E8%A1%A1%E4%BA%8C%E8%B7%AF143%E5%B7%B748%E8%99%9F",
+      "note": "［免費］\nABSORB 三週年慶,連徐皓程與 STEEVEN 現場演出。"
+    },
+    {
       "id": "upcoming-row-23",
       "date": "20261114",
       "band": "ozone",
@@ -23945,6 +23981,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "14b86e74-5b78-4c8f-9753-7ff181105b2f",
-  "updatedAt": "2026-11-06T17:13:23.787Z"
+  "revision": "bd571ded-1138-4b84-8028-cfb239dd9b35",
+  "updatedAt": "2026-11-07T00:12:29.816Z"
 }
