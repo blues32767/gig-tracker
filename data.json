@@ -10,6 +10,14 @@
       "eventCount": 64
     },
     {
+      "id": "AmazingShow",
+      "name": "美秀集團",
+      "short": "美秀集團",
+      "color": "#e63946",
+      "category": "樂團",
+      "eventCount": 17
+    },
+    {
       "id": "gongguan",
       "name": "公館青少年",
       "short": "公館青少年",
@@ -18,20 +26,20 @@
       "eventCount": 17
     },
     {
-      "id": "AmazingShow",
-      "name": "美秀集團",
-      "short": "美秀集團",
-      "color": "#e63946",
-      "category": "樂團",
-      "eventCount": 16
-    },
-    {
       "id": "papunband",
       "name": "怕胖團",
       "short": "怕胖團",
       "color": "#1d3557",
       "category": "樂團",
       "eventCount": 15
+    },
+    {
+      "id": "pizzali",
+      "name": "PIZZALI",
+      "short": "PIZZALI",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 11
     },
     {
       "id": "band_drsiw0_25",
@@ -74,11 +82,11 @@
       "eventCount": 10
     },
     {
-      "id": "pizzali",
-      "name": "PIZZALI",
-      "short": "PIZZALI",
-      "color": "#06d6a0",
-      "category": "個人",
+      "id": "band_drsiw0_27",
+      "name": "玖壹壹",
+      "short": "玖壹壹",
+      "color": "#118ab2",
+      "category": "團體",
       "eventCount": 10
     },
     {
@@ -87,14 +95,6 @@
       "short": "鼓鼓 呂思緯",
       "color": "#2ec4b6",
       "category": "個人",
-      "eventCount": 9
-    },
-    {
-      "id": "band_drsiw0_27",
-      "name": "玖壹壹",
-      "short": "玖壹壹",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 9
     },
     {
@@ -120,6 +120,14 @@
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 8
+    },
+    {
+      "id": "captainlu",
+      "name": "盧廣仲",
+      "short": "盧廣仲",
+      "color": "#36cc00",
+      "category": "個人",
+      "eventCount": 7
     },
     {
       "id": "LuYun",
@@ -152,14 +160,6 @@
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 7
-    },
-    {
-      "id": "captainlu",
-      "name": "盧廣仲",
-      "short": "盧廣仲",
-      "color": "#36cc00",
-      "category": "個人",
-      "eventCount": 6
     },
     {
       "id": "SHOU",
@@ -274,6 +274,14 @@
       "eventCount": 6
     },
     {
+      "id": "joyce",
+      "name": "JOYCE 就以斯",
+      "short": "就以斯",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "ozone",
       "name": "Ozone",
       "short": "Ozone",
@@ -374,14 +382,6 @@
       "name": "163braces",
       "short": "163braces",
       "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "joyce",
-      "name": "JOYCE 就以斯",
-      "short": "就以斯",
-      "color": "#ff006e",
       "category": "個人",
       "eventCount": 4
     },
@@ -770,6 +770,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_qqiyec_10",
+      "name": "西屯純愛組",
+      "short": "西屯純愛組",
+      "color": "#ffd166",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
       "id": "band_6u8lrj_20",
       "name": "椅子樂團",
       "short": "椅子樂團",
@@ -818,6 +826,14 @@
       "eventCount": 3
     },
     {
+      "id": "belish",
+      "name": "BELISH",
+      "short": "BELISH",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_27",
       "name": "潤少",
       "short": "潤少",
@@ -846,6 +862,14 @@
       "name": "畢書盡",
       "short": "畢書盡",
       "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_90",
+      "name": "郭書瑤",
+      "short": "郭書瑤",
+      "color": "#fb5607",
       "category": "個人",
       "eventCount": 3
     },
@@ -946,6 +970,22 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_144",
+      "name": "袁語笙",
+      "short": "袁語笙",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "gordon",
+      "name": "國蛋 GorDoN",
+      "short": "國蛋 GorDoN",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_145",
       "name": "孫淑媚",
       "short": "孫淑媚",
@@ -966,6 +1006,14 @@
       "name": "手合鐵鼓 CrossMetal",
       "short": "手合鐵鼓 CrossMetal",
       "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_6gp8um_52",
+      "name": "郁欣",
+      "short": "郁欣",
+      "color": "#ff006e",
       "category": "個人",
       "eventCount": 3
     },
@@ -1130,14 +1178,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_qqiyec_10",
-      "name": "西屯純愛組",
-      "short": "西屯純愛組",
-      "color": "#ffd166",
-      "category": "團體",
-      "eventCount": 2
-    },
-    {
       "id": "multiverse",
       "name": "Multiverse",
       "short": "Multiverse",
@@ -1194,27 +1234,11 @@
       "eventCount": 2
     },
     {
-      "id": "belish",
-      "name": "BELISH",
-      "short": "BELISH",
-      "color": "#fb5607",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "arootfeat",
       "name": "A_Root 同根生 feat. 蔡家蓁",
       "short": "A_Root 同根生 feat. 蔡家蓁",
       "color": "#ffd166",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_90",
-      "name": "郭書瑤",
-      "short": "郭書瑤",
-      "color": "#fb5607",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -1634,22 +1658,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_144",
-      "name": "袁語笙",
-      "short": "袁語笙",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "gordon",
-      "name": "國蛋 GorDoN",
-      "short": "國蛋 GorDoN",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_32tclr_5",
       "name": "我是機車少女",
       "short": "我是機車少女",
@@ -1695,14 +1703,6 @@
       "short": "硝子羊Verrisca",
       "color": "#118ab2",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6gp8um_52",
-      "name": "郁欣",
-      "short": "郁欣",
-      "color": "#ff006e",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -1831,6 +1831,38 @@
       "short": "DJ YU",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_66",
+      "name": "栗子",
+      "short": "栗子",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_174",
+      "name": "戴愛玲",
+      "short": "戴愛玲",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "sunny",
+      "name": "教練Sunny",
+      "short": "教練Sunny",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_179",
+      "name": "法克遊",
+      "short": "法克遊",
+      "color": "#2ec4b6",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -5338,26 +5370,10 @@
       "eventCount": 1
     },
     {
-      "id": "band_6gp8um_66",
-      "name": "栗子",
-      "short": "栗子",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_173",
       "name": "徐晧程",
       "short": "徐晧程",
       "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_174",
-      "name": "戴愛玲",
-      "short": "戴愛玲",
-      "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
     },
@@ -5470,14 +5486,6 @@
       "name": "阿力",
       "short": "阿力",
       "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "sunny",
-      "name": "教練Sunny",
-      "short": "教練Sunny",
-      "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
     },
@@ -5654,14 +5662,6 @@
       "name": "爵犬",
       "short": "爵犬",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_179",
-      "name": "法克遊",
-      "short": "法克遊",
-      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
     },
@@ -6750,6 +6750,38 @@
       "name": "陳亞琦Kiki",
       "short": "陳亞",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "across",
+      "name": "林可倫AcRoss",
+      "short": "林可",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "shenjp",
+      "name": "SHEN JP",
+      "short": "SH",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_203",
+      "name": "郭家璋",
+      "short": "郭家",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "shiggashay",
+      "name": "SHIGGA SHAY 西關",
+      "short": "SH",
+      "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
     },
@@ -17636,6 +17668,196 @@
       "note": "［免費］\n2026 浪人祭音樂節,於台南觀夕平台旁大草皮舉辦。活動包含多組國內外樂團演出,涵蓋獨立搖滾、電子、民謠等風格。\n2026年11月7日至8日於台南舉辦的音樂祭,包含多場演出與工作坊。\n2026 年 11/07(六)至 11/08(日)於臺南市舉辦,共計 83 組演出陣容。包含鯤鯓、劍獅、金鶴廳等場地及 B&ZAI、Been Stellar、雀斑 Freckles、Sunny Day Service、拍謝少年 ft. 謝銘祐、ano、淺堤 Shallow Levée ft. Kim Sawol、こっちのけんと Kocchi no Kento、紫今、血肉果汁機 Flesh Juicer、理想混蛋 Bestards、NELL、溫室雜草、Laura day romance、Band Nah、公館青少年、君島大空、無妄合作社、Vuize 王鍾惟、禁藥王、Andy Maker、Multiverse Music、Srirajah Rockers ft. Leo 王、0WAVE、庸俗救星、薄暮、RIBINGU、上山、粉內、Tickle Tickle 癢癢、音樂祭上台南不難 - 小尾巴 ft. 怡岑、反叛與臣服:龐克妖女靈性昇華瑜珈塾 - 高小糕、倒車入庫 R.I.G × COMMON PEOPLE LIKE YOU、SADOG × ONE CLICK STRAIGHT、DJ Drug The Beat、安豬 ANJUWU、高小糕等演出。\n織浪 WeaveWave 音樂祭,陣容共 83 組演出。\n一日店長呂允於11/8(日)17:20-17:50限定登場。\n來源：https://www.facebook.com/share/p/1FGBHPhQGx/"
     },
     {
+      "id": "upcoming-row-804",
+      "date": "20261107",
+      "band": "band_drsiw0_174",
+      "time": "13:00-13:40",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-805",
+      "date": "20261107",
+      "band": "pizzali",
+      "time": "13:40-14:10",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-806",
+      "date": "20261107",
+      "band": "across",
+      "time": "13:40-14:10",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-807",
+      "date": "20261107",
+      "band": "sunny",
+      "time": "13:00-13:20",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-808",
+      "date": "20261107",
+      "band": "band_drsiw0_144",
+      "time": "13:20-13:40",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-809",
+      "date": "20261107",
+      "band": "gordon",
+      "time": "14:40-15:20",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-810",
+      "date": "20261107",
+      "band": "belish",
+      "time": "15:00-15:20",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-811",
+      "date": "20261107",
+      "band": "band_6gp8um_66",
+      "time": "14:20-14:40",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-812",
+      "date": "20261107",
+      "band": "AmazingShow",
+      "time": "16:20-17:00",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-813",
+      "date": "20261107",
+      "band": "joyce",
+      "time": "15:20-15:40",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-814",
+      "date": "20261107",
+      "band": "shenjp",
+      "time": "15:40-16:10",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-815",
+      "date": "20261107",
+      "band": "band_qqiyec_10",
+      "time": "17:20-17:40",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-816",
+      "date": "20261107",
+      "band": "captainlu",
+      "time": "18:00-18:40",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-817",
+      "date": "20261107",
+      "band": "band_drsiw0_203",
+      "time": "16:10-16:30",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-818",
+      "date": "20261107",
+      "band": "shiggashay",
+      "time": "17:40-18:00",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-819",
+      "date": "20261107",
+      "band": "band_drsiw0_90",
+      "time": "18:40-19:00",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-820",
+      "date": "20261107",
+      "band": "band_drsiw0_27",
+      "time": "19:40-21:40",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-821",
+      "date": "20261107",
+      "band": "band_6gp8um_52",
+      "time": "17:00-17:20",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-822",
+      "date": "20261107",
+      "band": "band_drsiw0_179",
+      "time": "19:00-19:40",
+      "name": "台中 南北貳路 S3",
+      "location": "台中 Galaxy Party Stage / Supermovia Stage / Starlight Club",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Galaxy%20Party%20Stage%20%2F%20Supermovia%20Stage%20%2F%20Starlight%20Club",
+      "note": "［免費］\n活動於11/07(六)舉辦,包含中港銀河大舞廳、超新星雲湧站、水族星光Club三個場地。卡司包含戴愛玲、國蛋GorDon、美秀集團、盧廣仲、玖壹壹等藝人。"
+    },
+    {
       "id": "upcoming-row-77",
       "date": "20261108",
       "band": "vuize",
@@ -24291,6 +24513,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "be4e7e3d-60da-44df-897e-59b4e0c39093",
-  "updatedAt": "2026-11-07T00:23:14.427Z"
+  "revision": "2e0c4d4c-43f2-4c57-bf08-451162068318",
+  "updatedAt": "2026-11-07T00:25:45.477Z"
 }
