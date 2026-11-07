@@ -39,7 +39,7 @@
       "short": "PIZZALI",
       "color": "#06d6a0",
       "category": "個人",
-      "eventCount": 11
+      "eventCount": 12
     },
     {
       "id": "band_drsiw0_25",
@@ -130,6 +130,14 @@
       "eventCount": 7
     },
     {
+      "id": "SHOU",
+      "name": "婁峻碩",
+      "short": "婁峻碩",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
       "id": "LuYun",
       "name": "呂允",
       "short": "呂允",
@@ -160,14 +168,6 @@
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 7
-    },
-    {
-      "id": "SHOU",
-      "name": "婁峻碩",
-      "short": "婁峻碩",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 6
     },
     {
       "id": "EasyWeeds",
@@ -410,6 +410,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_21",
+      "name": "林可綸",
+      "short": "林可綸",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_51",
       "name": "李子森",
       "short": "李子森",
@@ -599,14 +607,6 @@
       "short": "慶記",
       "color": "#ffd166",
       "category": "團體",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_21",
-      "name": "林可綸",
-      "short": "林可綸",
-      "color": "#118ab2",
-      "category": "個人",
       "eventCount": 3
     },
     {
@@ -1702,6 +1702,14 @@
       "name": "硝子羊Verrisca",
       "short": "硝子羊Verrisca",
       "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "daydreamkitc",
+      "name": "白日夢廚房 Daydream Kitchen",
+      "short": "白日夢廚房 Daydream Kitchen",
+      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 2
     },
@@ -4670,14 +4678,6 @@
       "name": "Diepression 戴佩蔓",
       "short": "Diepression 戴佩蔓",
       "color": "#8338ec",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "daydreamkitc",
-      "name": "白日夢廚房 Daydream Kitchen",
-      "short": "白日夢廚房 Daydream Kitchen",
-      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
     },
@@ -23788,6 +23788,46 @@
       "note": ""
     },
     {
+      "id": "upcoming-row-823",
+      "date": "20261224",
+      "band": "SHOU",
+      "time": "未公布",
+      "name": "高雄 潮音樂祭",
+      "location": "漢神洲際購物廣場6F琉光花園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%BC%A2%E7%A5%9E%E6%B4%B2%E9%9A%9B%E8%B3%BC%E7%89%A9%E5%BB%A3%E5%A0%B46F%E7%90%89%E5%85%89%E8%8A%B1%E5%9C%92",
+      "note": "［免費］\n卡司包含婁峻碩、PIZZALI、林可綸、白日夢廚房。活動同步推出互動體驗:「夜。潮限定|簽名海報」憑當日單筆消費滿 1,500 元發票紙本兌換,限量 65 組;「夜。潮限定|心動同框」憑當日單筆消費滿 1,000 元發票紙本兌換,限量 30 組。"
+    },
+    {
+      "id": "upcoming-row-824",
+      "date": "20261224",
+      "band": "pizzali",
+      "time": "未公布",
+      "name": "高雄 潮音樂祭",
+      "location": "漢神洲際購物廣場6F琉光花園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%BC%A2%E7%A5%9E%E6%B4%B2%E9%9A%9B%E8%B3%BC%E7%89%A9%E5%BB%A3%E5%A0%B46F%E7%90%89%E5%85%89%E8%8A%B1%E5%9C%92",
+      "note": "［免費］\n卡司包含婁峻碩、PIZZALI、林可綸、白日夢廚房。活動同步推出互動體驗:「夜。潮限定|簽名海報」憑當日單筆消費滿 1,500 元發票紙本兌換,限量 65 組;「夜。潮限定|心動同框」憑當日單筆消費滿 1,000 元發票紙本兌換,限量 30 組。"
+    },
+    {
+      "id": "upcoming-row-825",
+      "date": "20261224",
+      "band": "band_drsiw0_21",
+      "time": "未公布",
+      "name": "高雄 潮音樂祭",
+      "location": "漢神洲際購物廣場6F琉光花園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%BC%A2%E7%A5%9E%E6%B4%B2%E9%9A%9B%E8%B3%BC%E7%89%A9%E5%BB%A3%E5%A0%B46F%E7%90%89%E5%85%89%E8%8A%B1%E5%9C%92",
+      "note": "［免費］\n卡司包含婁峻碩、PIZZALI、林可綸、白日夢廚房。活動同步推出互動體驗:「夜。潮限定|簽名海報」憑當日單筆消費滿 1,500 元發票紙本兌換,限量 65 組;「夜。潮限定|心動同框」憑當日單筆消費滿 1,000 元發票紙本兌換,限量 30 組。"
+    },
+    {
+      "id": "upcoming-row-826",
+      "date": "20261224",
+      "band": "daydreamkitc",
+      "time": "未公布",
+      "name": "高雄 潮音樂祭",
+      "location": "漢神洲際購物廣場6F琉光花園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%BC%A2%E7%A5%9E%E6%B4%B2%E9%9A%9B%E8%B3%BC%E7%89%A9%E5%BB%A3%E5%A0%B46F%E7%90%89%E5%85%89%E8%8A%B1%E5%9C%92",
+      "note": "［免費］\n卡司包含婁峻碩、PIZZALI、林可綸、白日夢廚房。活動同步推出互動體驗:「夜。潮限定|簽名海報」憑當日單筆消費滿 1,500 元發票紙本兌換,限量 65 組;「夜。潮限定|心動同框」憑當日單筆消費滿 1,000 元發票紙本兌換,限量 30 組。"
+    },
+    {
       "id": "upcoming-row-346",
       "date": "20261225",
       "band": "mango",
@@ -24513,6 +24553,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "f94e21d7-003a-498c-83ac-f9fd4abeb302",
-  "updatedAt": "2026-11-07T05:13:35.342Z"
+  "revision": "70dcdbb7-910b-4e37-b5bf-1cb0a9f0713a",
+  "updatedAt": "2026-11-07T05:15:12.733Z"
 }
