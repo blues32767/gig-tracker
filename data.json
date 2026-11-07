@@ -346,6 +346,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_drsiw0_112",
+      "name": "陳忻玥",
+      "short": "陳忻玥",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "babymint",
       "name": "babyMINT",
       "short": "babyMINT",
@@ -511,14 +519,6 @@
       "short": "海洋家族",
       "color": "#118ab2",
       "category": "團體",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_112",
-      "name": "陳忻玥",
-      "short": "陳忻玥",
-      "color": "#06d6a0",
-      "category": "個人",
       "eventCount": 4
     },
     {
@@ -974,6 +974,14 @@
       "name": "王謙",
       "short": "王謙",
       "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_7",
+      "name": "蔡旻佑",
+      "short": "蔡旻佑",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 2
     },
@@ -1826,6 +1834,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6gp8um_88",
+      "name": "李李",
+      "short": "李李",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_3",
       "name": "許效舜",
       "short": "許效舜",
@@ -1854,14 +1870,6 @@
       "name": "王彩樺",
       "short": "王彩樺",
       "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_7",
-      "name": "蔡旻佑",
-      "short": "蔡旻佑",
-      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
     },
@@ -6694,6 +6702,54 @@
       "name": "阿布舞",
       "short": "阿布",
       "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "uej",
+      "name": "UEJ",
+      "short": "UE",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_201",
+      "name": "王特面",
+      "short": "王特",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "andy",
+      "name": "Andy宥銨",
+      "short": "An",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ceci",
+      "name": "西西CeCi.",
+      "short": "西西",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_202",
+      "name": "江泓均",
+      "short": "江泓",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "kiki",
+      "name": "陳亞琦Kiki",
+      "short": "陳亞",
+      "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
     },
@@ -19850,6 +19906,86 @@
       "note": "［免費］\n卡司包含婁峻碩、梁文音、usay詠綺、舒米恩、紀曉君、RK魯凱音樂誌"
     },
     {
+      "id": "upcoming-row-794",
+      "date": "20261114",
+      "band": "band_drsiw0_112",
+      "time": "19:30-20:00",
+      "name": "雲林 幸福島嶼_米來 Future",
+      "location": "雲林縣斗南鎮斗南之森食農教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
+    },
+    {
+      "id": "upcoming-row-795",
+      "date": "20261114",
+      "band": "band_6gp8um_88",
+      "time": "16:00-17:00",
+      "name": "雲林 幸福島嶼_米來 Future",
+      "location": "雲林縣斗南鎮斗南之森食農教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
+    },
+    {
+      "id": "upcoming-row-796",
+      "date": "20261114",
+      "band": "uej",
+      "time": "17:10-18:10",
+      "name": "雲林 幸福島嶼_米來 Future",
+      "location": "雲林縣斗南鎮斗南之森食農教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
+    },
+    {
+      "id": "upcoming-row-797",
+      "date": "20261114",
+      "band": "band_drsiw0_201",
+      "time": "18:20-19:20",
+      "name": "雲林 幸福島嶼_米來 Future",
+      "location": "雲林縣斗南鎮斗南之森食農教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
+    },
+    {
+      "id": "upcoming-row-798",
+      "date": "20261114",
+      "band": "andy",
+      "time": "15:00-15:50",
+      "name": "雲林 幸福島嶼_米來 Future",
+      "location": "雲林縣斗南鎮斗南之森食農教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
+    },
+    {
+      "id": "upcoming-row-799",
+      "date": "20261114",
+      "band": "ceci",
+      "time": "16:00-17:00",
+      "name": "雲林 幸福島嶼_米來 Future",
+      "location": "雲林縣斗南鎮斗南之森食農教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
+    },
+    {
+      "id": "upcoming-row-800",
+      "date": "20261114",
+      "band": "band_drsiw0_202",
+      "time": "17:10-18:10",
+      "name": "雲林 幸福島嶼_米來 Future",
+      "location": "雲林縣斗南鎮斗南之森食農教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
+    },
+    {
+      "id": "upcoming-row-801",
+      "date": "20261114",
+      "band": "kiki",
+      "time": "18:20-19:20",
+      "name": "雲林 幸福島嶼_米來 Future",
+      "location": "雲林縣斗南鎮斗南之森食農教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
+    },
+    {
       "id": "upcoming-row-215",
       "date": "20261115",
       "band": "emptyoriofty",
@@ -20098,6 +20234,26 @@
       "location": "嘉義市政府文化局音樂廳",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%E9%9F%B3%E6%A8%82%E5%BB%B3",
       "note": "［售票］\n特邀韓國舞者 CRAZY KYO、VHZ DANCE CREW、蔡承祐 (U:NUS)、KITTIES、阿布舞及主持人。16:00 開放入場,16:30 正式演出。"
+    },
+    {
+      "id": "upcoming-row-802",
+      "date": "20261115",
+      "band": "band_drsiw0_7",
+      "time": "未公布",
+      "name": "雲林 幸福島嶼_米來 Future",
+      "location": "雲林縣斗南鎮斗南之森食農教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
+    },
+    {
+      "id": "upcoming-row-803",
+      "date": "20261115",
+      "band": "band_6gp8um_88",
+      "time": "未公布",
+      "name": "雲林 幸福島嶼_米來 Future",
+      "location": "雲林縣斗南鎮斗南之森食農教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
     },
     {
       "id": "upcoming-row-394",
@@ -24135,6 +24291,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ac45f9ae-7daf-4690-847f-6f7e2110de14",
-  "updatedAt": "2026-11-07T00:20:38.729Z"
+  "revision": "625077eb-676b-42aa-ad11-3c0d29c32c09",
+  "updatedAt": "2026-11-07T00:22:31.753Z"
 }
