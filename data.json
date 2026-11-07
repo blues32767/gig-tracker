@@ -20128,6 +20128,16 @@
       "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
     },
     {
+      "id": "upcoming-row-802",
+      "date": "20261114",
+      "band": "band_drsiw0_7",
+      "time": "19:30-20:00",
+      "name": "雲林 幸福島嶼_米來 Future",
+      "location": "雲林縣斗南鎮斗南之森食農教育園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
+    },
+    {
       "id": "upcoming-row-168",
       "date": "20261115",
       "band": "mango",
@@ -20396,16 +20406,6 @@
       "location": "嘉義市政府文化局音樂廳",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%E9%9F%B3%E6%A8%82%E5%BB%B3",
       "note": "［免費］\nBASLinE +1 晚場 SHOW,採用自由入座分批進場制。下午場為免費索票(14:00-15:00),晚上場為售票(16:30-18:00)。卡司包含特邀藝人蔡承祐 (U:NUS)、CRAZY KYO、VHZ DANCE CREW、KITTIES 及阿布舞。"
-    },
-    {
-      "id": "upcoming-row-802",
-      "date": "20261115",
-      "band": "band_drsiw0_7",
-      "time": "未公布",
-      "name": "雲林 幸福島嶼_米來 Future",
-      "location": "雲林縣斗南鎮斗南之森食農教育園區",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
-      "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
     },
     {
       "id": "upcoming-row-803",
@@ -24513,6 +24513,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "76f3f119-9096-40a4-b323-0467a757dd30",
-  "updatedAt": "2026-11-07T05:09:55.895Z"
+  "revision": "f94e21d7-003a-498c-83ac-f9fd4abeb302",
+  "updatedAt": "2026-11-07T05:13:35.342Z"
 }
