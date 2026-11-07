@@ -186,6 +186,14 @@
       "eventCount": 6
     },
     {
+      "id": "unus",
+      "name": "U:NUS",
+      "short": "U:NUS",
+      "color": "#2ec4b6",
+      "category": "團體",
+      "eventCount": 6
+    },
+    {
       "id": "band",
       "name": "粗大Band",
       "short": "粗大Band",
@@ -264,14 +272,6 @@
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 6
-    },
-    {
-      "id": "unus",
-      "name": "U:NUS",
-      "short": "U:NUS",
-      "color": "#2ec4b6",
-      "category": "團體",
-      "eventCount": 5
     },
     {
       "id": "ozone",
@@ -6654,6 +6654,46 @@
       "name": "席子淇",
       "short": "席子",
       "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "crazykyo",
+      "name": "CRAZY KYO",
+      "short": "CR",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "vhzdancecrew",
+      "name": "VHZ DANCE CREW",
+      "short": "VH",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_199",
+      "name": "蔡承祐",
+      "short": "蔡承",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "kitties",
+      "name": "KITTIES",
+      "short": "KI",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_200",
+      "name": "阿布舞",
+      "short": "阿布",
+      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
     },
@@ -20000,6 +20040,66 @@
       "note": "［免費］\n卡司包含畢書盡、舞思愛、黃宇寒、HUR+(林詩雅、香蘭)、小芙尼家族 1"
     },
     {
+      "id": "upcoming-row-788",
+      "date": "20261115",
+      "band": "crazykyo",
+      "time": "未公布",
+      "name": "嘉義 特邀演出",
+      "location": "嘉義市政府文化局音樂廳",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%E9%9F%B3%E6%A8%82%E5%BB%B3",
+      "note": "［售票］\n特邀韓國舞者 CRAZY KYO、VHZ DANCE CREW、蔡承祐 (U:NUS)、KITTIES、阿布舞及主持人。16:00 開放入場,16:30 正式演出。"
+    },
+    {
+      "id": "upcoming-row-789",
+      "date": "20261115",
+      "band": "vhzdancecrew",
+      "time": "未公布",
+      "name": "嘉義 特邀演出",
+      "location": "嘉義市政府文化局音樂廳",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%E9%9F%B3%E6%A8%82%E5%BB%B3",
+      "note": "［售票］\n特邀韓國舞者 CRAZY KYO、VHZ DANCE CREW、蔡承祐 (U:NUS)、KITTIES、阿布舞及主持人。16:00 開放入場,16:30 正式演出。"
+    },
+    {
+      "id": "upcoming-row-790",
+      "date": "20261115",
+      "band": "band_drsiw0_199",
+      "time": "未公布",
+      "name": "嘉義 特邀演出",
+      "location": "嘉義市政府文化局音樂廳",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%E9%9F%B3%E6%A8%82%E5%BB%B3",
+      "note": "［售票］\n特邀韓國舞者 CRAZY KYO、VHZ DANCE CREW、蔡承祐 (U:NUS)、KITTIES、阿布舞及主持人。16:00 開放入場,16:30 正式演出。"
+    },
+    {
+      "id": "upcoming-row-791",
+      "date": "20261115",
+      "band": "unus",
+      "time": "未公布",
+      "name": "嘉義 特邀演出",
+      "location": "嘉義市政府文化局音樂廳",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%E9%9F%B3%E6%A8%82%E5%BB%B3",
+      "note": "［售票］\n特邀韓國舞者 CRAZY KYO、VHZ DANCE CREW、蔡承祐 (U:NUS)、KITTIES、阿布舞及主持人。16:00 開放入場,16:30 正式演出。"
+    },
+    {
+      "id": "upcoming-row-792",
+      "date": "20261115",
+      "band": "kitties",
+      "time": "未公布",
+      "name": "嘉義 特邀演出",
+      "location": "嘉義市政府文化局音樂廳",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%E9%9F%B3%E6%A8%82%E5%BB%B3",
+      "note": "［售票］\n特邀韓國舞者 CRAZY KYO、VHZ DANCE CREW、蔡承祐 (U:NUS)、KITTIES、阿布舞及主持人。16:00 開放入場,16:30 正式演出。"
+    },
+    {
+      "id": "upcoming-row-793",
+      "date": "20261115",
+      "band": "band_drsiw0_200",
+      "time": "未公布",
+      "name": "嘉義 特邀演出",
+      "location": "嘉義市政府文化局音樂廳",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E6%94%BF%E5%BA%9C%E6%96%87%E5%8C%96%E5%B1%80%E9%9F%B3%E6%A8%82%E5%BB%B3",
+      "note": "［售票］\n特邀韓國舞者 CRAZY KYO、VHZ DANCE CREW、蔡承祐 (U:NUS)、KITTIES、阿布舞及主持人。16:00 開放入場,16:30 正式演出。"
+    },
+    {
       "id": "upcoming-row-394",
       "date": "20261118",
       "band": "band_qqiyec_5",
@@ -24035,6 +24135,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ee0616b9-4068-45a6-a79e-159b24879efd",
-  "updatedAt": "2026-11-07T00:17:27.724Z"
+  "revision": "12b25a8a-af84-48b8-bb96-8f7b7ccae620",
+  "updatedAt": "2026-11-07T00:19:09.557Z"
 }
