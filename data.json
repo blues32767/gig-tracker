@@ -21542,16 +21542,6 @@
       "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
     },
     {
-      "id": "upcoming-row-610",
-      "date": "20261121",
-      "band": "band_qqiyec_32",
-      "time": "19:00-21:30",
-      "name": "花蓮 星潮原聲演唱會",
-      "location": "花蓮市東大門廣場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
-    },
-    {
       "id": "upcoming-row-123",
       "date": "20261122",
       "band": "WhoCares",
@@ -21690,6 +21680,16 @@
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
       "note": "［免費］\n斗六燈海節於11/21至11/22在斗六圓環及太平老街舉辦,每日演出時間為17:00-21:30。卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克SAVAGE.M、李浩瑋、許富凱等藝人。\n斗六燈海節,免費入場。\n活動記者會,出席藝人李浩瑋。"
+    },
+    {
+      "id": "upcoming-row-610",
+      "date": "20261122",
+      "band": "band_qqiyec_32",
+      "time": "19:00-21:30",
+      "name": "花蓮 星潮原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
     },
     {
       "id": "upcoming-row-611",
@@ -25277,6 +25277,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "fbc53510-444c-4f2b-9460-3f9a689a50ff",
-  "updatedAt": "2026-11-10T04:32:56.519Z"
+  "revision": "08c3f05c-f71a-4906-bcc6-394b660f708b",
+  "updatedAt": "2026-11-10T04:33:37.603Z"
 }
