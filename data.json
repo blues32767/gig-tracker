@@ -594,6 +594,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_18",
+      "name": "黃偉晉",
+      "short": "黃偉晉",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_19",
       "name": "邱淑蟬",
       "short": "邱淑蟬",
@@ -1090,10 +1098,10 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_18",
-      "name": "黃偉晉",
-      "short": "黃偉晉",
-      "color": "#118ab2",
+      "id": "band_6gp8um_4",
+      "name": "品冠",
+      "short": "品冠",
+      "color": "#ffd166",
       "category": "個人",
       "eventCount": 2
     },
@@ -1494,6 +1502,14 @@
       "name": "Peatle",
       "short": "Peatle",
       "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_125",
+      "name": "阿布絲",
+      "short": "阿布絲",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 2
     },
@@ -2031,14 +2047,6 @@
       "short": "好樂團",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_4",
-      "name": "品冠",
-      "short": "品冠",
-      "color": "#ffd166",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -3730,14 +3738,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_125",
-      "name": "阿布絲",
-      "short": "阿布絲",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_32tclr_4",
       "name": "泰雅原舞工坊",
       "short": "泰雅原舞工坊",
@@ -5206,6 +5206,14 @@
       "name": "林逸欣",
       "short": "林逸欣",
       "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_49",
+      "name": "幻藍小熊",
+      "short": "幻藍小熊",
+      "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
     },
@@ -6898,6 +6906,62 @@
       "eventCount": 1
     },
     {
+      "id": "band_drsiw0_205",
+      "name": "李玖哲",
+      "short": "李玖",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "younite",
+      "name": "YOUNITE",
+      "short": "YO",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "ozone_2",
+      "name": "Ozone周子翔",
+      "short": "Oz",
+      "color": "#3a86ff",
+      "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_32",
+      "name": "宇宙啦啦隊",
+      "short": "宇宙",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "ftisland",
+      "name": "FTISLAND",
+      "short": "FT",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "kimsungkyu",
+      "name": "金聖圭 KIM SUNG KYU",
+      "short": "金聖",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "djrdohajiahn",
+      "name": "DJR (DOHA JIAHN R1AN)",
+      "short": "DJ",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -6966,14 +7030,6 @@
       "name": "浪犬",
       "short": "浪犬",
       "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 0
-    },
-    {
-      "id": "band_6u8lrj_49",
-      "name": "幻藍小熊",
-      "short": "幻藍小熊",
-      "color": "#ff006e",
       "category": "個人",
       "eventCount": 0
     },
@@ -21340,6 +21396,56 @@
       "note": "［免費］\n本祭演出時間尚未公布"
     },
     {
+      "id": "upcoming-row-609",
+      "date": "20261121",
+      "band": "band_drsiw0_205",
+      "time": "19:00-21:30",
+      "name": "花蓮 星潮原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
+    },
+    {
+      "id": "upcoming-row-610",
+      "date": "20261121",
+      "band": "band_6gp8um_4",
+      "time": "19:00-21:30",
+      "name": "花蓮 星潮原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
+    },
+    {
+      "id": "upcoming-row-611",
+      "date": "20261121",
+      "band": "band_6u8lrj_49",
+      "time": "19:00-21:30",
+      "name": "花蓮 星潮原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
+    },
+    {
+      "id": "upcoming-row-612",
+      "date": "20261121",
+      "band": "younite",
+      "time": "19:00-21:30",
+      "name": "花蓮 星潮原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
+    },
+    {
+      "id": "upcoming-row-613",
+      "date": "20261121",
+      "band": "ozone_2",
+      "time": "19:00-21:30",
+      "name": "花蓮 星潮原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
+    },
+    {
       "id": "upcoming-row-123",
       "date": "20261122",
       "band": "WhoCares",
@@ -21478,6 +21584,66 @@
       "location": "雲林縣斗六圓環/太平老街",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%85%AD%E5%9C%93%E7%92%B0%2F%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97",
       "note": "［免費］\n斗六燈海節於11/21至11/22在斗六圓環及太平老街舉辦,每日演出時間為17:00-21:30。卡司包含OUROCK、SADOG、陳孟賢、芒果醬、白頻率、馬克SAVAGE.M、李浩瑋、許富凱等藝人。\n斗六燈海節,免費入場。\n活動記者會,出席藝人李浩瑋。"
+    },
+    {
+      "id": "upcoming-row-614",
+      "date": "20261122",
+      "band": "band_qqiyec_32",
+      "time": "19:00-21:30",
+      "name": "花蓮 星潮原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
+    },
+    {
+      "id": "upcoming-row-615",
+      "date": "20261122",
+      "band": "ftisland",
+      "time": "19:00-21:30",
+      "name": "花蓮 星潮原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
+    },
+    {
+      "id": "upcoming-row-616",
+      "date": "20261122",
+      "band": "kimsungkyu",
+      "time": "19:00-21:30",
+      "name": "花蓮 星潮原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
+    },
+    {
+      "id": "upcoming-row-617",
+      "date": "20261122",
+      "band": "band_drsiw0_18",
+      "time": "19:00-21:30",
+      "name": "花蓮 星潮原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
+    },
+    {
+      "id": "upcoming-row-618",
+      "date": "20261122",
+      "band": "band_drsiw0_125",
+      "time": "19:00-21:30",
+      "name": "花蓮 星潮原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
+    },
+    {
+      "id": "upcoming-row-619",
+      "date": "20261122",
+      "band": "djrdohajiahn",
+      "time": "19:00-21:30",
+      "name": "花蓮 星潮原聲演唱會",
+      "location": "花蓮市東大門廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。"
     },
     {
       "id": "upcoming-row-141",
@@ -24955,6 +25121,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ba189200-40fb-465c-842a-cc916ffc190a",
-  "updatedAt": "2026-11-10T03:42:52.587Z"
+  "revision": "0718b3b6-fd4c-41bc-90f5-4e84a3f7020c",
+  "updatedAt": "2026-11-10T03:43:44.763Z"
 }
