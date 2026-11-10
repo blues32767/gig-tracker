@@ -962,6 +962,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_125",
+      "name": "阿布絲",
+      "short": "阿布絲",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_137",
       "name": "郭家瑋",
       "short": "郭家瑋",
@@ -1522,14 +1530,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_125",
-      "name": "阿布絲",
-      "short": "阿布絲",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_126",
       "name": "卡尼特",
       "short": "卡尼特",
@@ -1846,6 +1846,14 @@
       "name": "馬克 SAVAGE.M",
       "short": "馬克 SAVAGE.M",
       "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_56",
+      "name": "萬芳",
+      "short": "萬芳",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 2
     },
@@ -5074,14 +5082,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6gp8um_56",
-      "name": "萬芳",
-      "short": "萬芳",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "pigeon",
       "name": "政駒 Pigeon",
       "short": "政駒 Pigeon",
@@ -7015,6 +7015,54 @@
       "short": "DJ",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_uhxcnu_2",
+      "name": "黃韻玲浪漫里樂團",
+      "short": "黃韻",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "djkenlin",
+      "name": "DJKenLin林軒",
+      "short": "DJ",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_33",
+      "name": "日本流線形",
+      "short": "日本",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_32tclr_8",
+      "name": "郭子浮花樂隊",
+      "short": "郭子",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_207",
+      "name": "劉若英",
+      "short": "劉若",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_208",
+      "name": "霜淇淋",
+      "short": "霜淇",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -20592,6 +20640,86 @@
       "note": "［免費］\n全民情歌天后丁噹、浪姐冠軍曾沛慈、怕胖團、徐暐翔、JUD 陳泳希、Saturnday、babyMINT 等超強卡司登場"
     },
     {
+      "id": "upcoming-row-637",
+      "date": "20261114",
+      "band": "band_drsiw0_125",
+      "time": "未公布",
+      "name": "台中 第八屆愛之日常音樂節",
+      "location": "台中圓滿劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%9C%93%E6%BB%BF%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n歌手卡司全公布,包含阿布絲、黃韻玲浪漫里樂團、萬芳、DJKenLin林軒、日本流線形、郭子浮花樂隊、劉若英、霜淇淋。"
+    },
+    {
+      "id": "upcoming-row-638",
+      "date": "20261114",
+      "band": "band_uhxcnu_2",
+      "time": "未公布",
+      "name": "台中 第八屆愛之日常音樂節",
+      "location": "台中圓滿劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%9C%93%E6%BB%BF%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n歌手卡司全公布,包含阿布絲、黃韻玲浪漫里樂團、萬芳、DJKenLin林軒、日本流線形、郭子浮花樂隊、劉若英、霜淇淋。"
+    },
+    {
+      "id": "upcoming-row-639",
+      "date": "20261114",
+      "band": "band_6gp8um_56",
+      "time": "未公布",
+      "name": "台中 第八屆愛之日常音樂節",
+      "location": "台中圓滿劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%9C%93%E6%BB%BF%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n歌手卡司全公布,包含阿布絲、黃韻玲浪漫里樂團、萬芳、DJKenLin林軒、日本流線形、郭子浮花樂隊、劉若英、霜淇淋。"
+    },
+    {
+      "id": "upcoming-row-640",
+      "date": "20261114",
+      "band": "djkenlin",
+      "time": "未公布",
+      "name": "台中 第八屆愛之日常音樂節",
+      "location": "台中圓滿劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%9C%93%E6%BB%BF%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n歌手卡司全公布,包含阿布絲、黃韻玲浪漫里樂團、萬芳、DJKenLin林軒、日本流線形、郭子浮花樂隊、劉若英、霜淇淋。"
+    },
+    {
+      "id": "upcoming-row-641",
+      "date": "20261114",
+      "band": "band_qqiyec_33",
+      "time": "未公布",
+      "name": "台中 第八屆愛之日常音樂節",
+      "location": "台中圓滿劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%9C%93%E6%BB%BF%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n歌手卡司全公布,包含阿布絲、黃韻玲浪漫里樂團、萬芳、DJKenLin林軒、日本流線形、郭子浮花樂隊、劉若英、霜淇淋。"
+    },
+    {
+      "id": "upcoming-row-642",
+      "date": "20261114",
+      "band": "band_32tclr_8",
+      "time": "未公布",
+      "name": "台中 第八屆愛之日常音樂節",
+      "location": "台中圓滿劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%9C%93%E6%BB%BF%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n歌手卡司全公布,包含阿布絲、黃韻玲浪漫里樂團、萬芳、DJKenLin林軒、日本流線形、郭子浮花樂隊、劉若英、霜淇淋。"
+    },
+    {
+      "id": "upcoming-row-643",
+      "date": "20261114",
+      "band": "band_drsiw0_207",
+      "time": "未公布",
+      "name": "台中 第八屆愛之日常音樂節",
+      "location": "台中圓滿劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%9C%93%E6%BB%BF%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n歌手卡司全公布,包含阿布絲、黃韻玲浪漫里樂團、萬芳、DJKenLin林軒、日本流線形、郭子浮花樂隊、劉若英、霜淇淋。"
+    },
+    {
+      "id": "upcoming-row-644",
+      "date": "20261114",
+      "band": "band_drsiw0_208",
+      "time": "未公布",
+      "name": "台中 第八屆愛之日常音樂節",
+      "location": "台中圓滿劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%9C%93%E6%BB%BF%E5%8A%87%E5%A0%B4",
+      "note": "［免費］\n歌手卡司全公布,包含阿布絲、黃韻玲浪漫里樂團、萬芳、DJKenLin林軒、日本流線形、郭子浮花樂隊、劉若英、霜淇淋。"
+    },
+    {
       "id": "upcoming-row-80",
       "date": "20261115",
       "band": "papunband",
@@ -25347,6 +25475,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d64cd6a4-f5eb-4f38-a9b5-99f0dcb2737e",
-  "updatedAt": "2026-11-10T06:12:28.262Z"
+  "revision": "338f365b-7326-4563-91ce-36fd2515b4ca",
+  "updatedAt": "2026-11-10T06:13:42.672Z"
 }
