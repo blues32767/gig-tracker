@@ -962,6 +962,14 @@
       "eventCount": 3
     },
     {
+      "id": "willy",
+      "name": "Willy 簡嘉彣",
+      "short": "Willy 簡嘉彣",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_139",
       "name": "徐暐翔",
       "short": "徐暐翔",
@@ -1566,14 +1574,6 @@
       "name": "鄭怡",
       "short": "鄭怡",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "willy",
-      "name": "Willy 簡嘉彣",
-      "short": "Willy 簡嘉彣",
-      "color": "#ff006e",
       "category": "個人",
       "eventCount": 2
     },
@@ -6966,6 +6966,30 @@
       "name": "郭靜 Claire",
       "short": "郭靜",
       "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_206",
+      "name": "莊振凱",
+      "short": "莊振",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "buy_1",
+      "name": "過癮萬事屋 Bu$Y",
+      "short": "過癮",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "djpanimc",
+      "name": "DJ Pani&MC 大維",
+      "short": "DJ",
+      "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
     },
@@ -19097,31 +19121,31 @@
       "id": "upcoming-row-45",
       "date": "20261114",
       "band": "band_drsiw0_27",
-      "time": "未公布",
-      "name": "嗨翻阿里港",
+      "time": "19:00-22:00",
+      "name": "屏東 嗨翻阿里港音樂派對",
       "location": "屏東縣里港鄉過江河堤公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%84%89%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間:2026/11/14 19:00-22:00。卡司包含:玖壹壹、Bu$Y、外星人舞團,並有莊振凱、Willy 簡嘉彣、DJ Pani、MC 大維等演出與主持。"
+      "note": "［免費］\n歲末最嗨音樂派對,嘻哈、流行、電音、熱舞輪番上陣。卡司包含玖壹壹、莊振凱、過癮萬事屋 Bu$Y、Willy 簡嘉彣、DJ Pani&MC 大維、外星人舞團、活力主持美珊。"
     },
     {
       "id": "upcoming-row-46",
       "date": "20261114",
       "band": "buy",
       "time": "未公布",
-      "name": "嗨翻阿里港",
+      "name": "屏東 嗨翻阿里港音樂派對",
       "location": "屏東縣里港鄉過江河堤公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%84%89%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間:2026/11/14 19:00-22:00。卡司包含:玖壹壹、Bu$Y、外星人舞團,並有莊振凱、Willy 簡嘉彣、DJ Pani、MC 大維等演出與主持。"
+      "note": "［免費］\n歲末最嗨音樂派對,嘻哈、流行、電音、熱舞輪番上陣。卡司包含玖壹壹、莊振凱、過癮萬事屋 Bu$Y、Willy 簡嘉彣、DJ Pani&MC 大維、外星人舞團、活力主持美珊。"
     },
     {
       "id": "upcoming-row-47",
       "date": "20261114",
       "band": "band_qqiyec_12",
-      "time": "未公布",
-      "name": "嗨翻阿里港",
+      "time": "19:00-22:00",
+      "name": "屏東 嗨翻阿里港音樂派對",
       "location": "屏東縣里港鄉過江河堤公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%84%89%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動時間:2026/11/14 19:00-22:00。卡司包含:玖壹壹、Bu$Y、外星人舞團,並有莊振凱、Willy 簡嘉彣、DJ Pani、MC 大維等演出與主持。"
+      "note": "［免費］\n歲末最嗨音樂派對,嘻哈、流行、電音、熱舞輪番上陣。卡司包含玖壹壹、莊振凱、過癮萬事屋 Bu$Y、Willy 簡嘉彣、DJ Pani&MC 大維、外星人舞團、活力主持美珊。"
     },
     {
       "id": "upcoming-row-48",
@@ -20392,6 +20416,46 @@
       "location": "雲林縣斗南鎮斗南之森食農教育園區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
       "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
+    },
+    {
+      "id": "upcoming-row-625",
+      "date": "20261114",
+      "band": "band_drsiw0_206",
+      "time": "19:00-22:00",
+      "name": "屏東 嗨翻阿里港音樂派對",
+      "location": "屏東縣里港鄉過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%84%89%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n歲末最嗨音樂派對,嘻哈、流行、電音、熱舞輪番上陣。卡司包含玖壹壹、莊振凱、過癮萬事屋 Bu$Y、Willy 簡嘉彣、DJ Pani&MC 大維、外星人舞團、活力主持美珊。"
+    },
+    {
+      "id": "upcoming-row-626",
+      "date": "20261114",
+      "band": "buy_1",
+      "time": "19:00-22:00",
+      "name": "屏東 嗨翻阿里港音樂派對",
+      "location": "屏東縣里港鄉過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%84%89%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n歲末最嗨音樂派對,嘻哈、流行、電音、熱舞輪番上陣。卡司包含玖壹壹、莊振凱、過癮萬事屋 Bu$Y、Willy 簡嘉彣、DJ Pani&MC 大維、外星人舞團、活力主持美珊。"
+    },
+    {
+      "id": "upcoming-row-627",
+      "date": "20261114",
+      "band": "willy",
+      "time": "19:00-22:00",
+      "name": "屏東 嗨翻阿里港音樂派對",
+      "location": "屏東縣里港鄉過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%84%89%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n歲末最嗨音樂派對,嘻哈、流行、電音、熱舞輪番上陣。卡司包含玖壹壹、莊振凱、過癮萬事屋 Bu$Y、Willy 簡嘉彣、DJ Pani&MC 大維、外星人舞團、活力主持美珊。"
+    },
+    {
+      "id": "upcoming-row-628",
+      "date": "20261114",
+      "band": "djpanimc",
+      "time": "19:00-22:00",
+      "name": "屏東 嗨翻阿里港音樂派對",
+      "location": "屏東縣里港鄉過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%84%89%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n歲末最嗨音樂派對,嘻哈、流行、電音、熱舞輪番上陣。卡司包含玖壹壹、莊振凱、過癮萬事屋 Bu$Y、Willy 簡嘉彣、DJ Pani&MC 大維、外星人舞團、活力主持美珊。"
     },
     {
       "id": "upcoming-row-80",
@@ -25179,6 +25243,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "8c629287-db34-4c3b-9c3b-c0c8b7785359",
-  "updatedAt": "2026-11-10T03:45:03.732Z"
+  "revision": "d67e36f5-77c6-480a-8619-b77c08c05e6b",
+  "updatedAt": "2026-11-10T03:49:11.670Z"
 }
