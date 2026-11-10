@@ -15,7 +15,7 @@
       "short": "美秀集團",
       "color": "#e63946",
       "category": "樂團",
-      "eventCount": 17
+      "eventCount": 18
     },
     {
       "id": "gongguan",
@@ -66,6 +66,14 @@
       "eventCount": 11
     },
     {
+      "id": "band_drsiw0_27",
+      "name": "玖壹壹",
+      "short": "玖壹壹",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 11
+    },
+    {
       "id": "trash",
       "name": "TRASH",
       "short": "TRASH",
@@ -79,14 +87,6 @@
       "short": "冰球樂團",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 10
-    },
-    {
-      "id": "band_drsiw0_27",
-      "name": "玖壹壹",
-      "short": "玖壹壹",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 10
     },
     {
@@ -6990,6 +6990,22 @@
       "name": "DJ Pani&MC 大維",
       "short": "DJ",
       "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir_15",
+      "name": "我甘願重新愛過",
+      "short": "我甘",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_64",
+      "name": "南北貳路",
+      "short": "南北",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
     },
@@ -18818,6 +18834,46 @@
       "note": "［免費］\n時段:未公布;卡司:10/25(許富凱、朱海君、林姍、李子森、杜忻恬、曾瑋中、UniGirls 啦啦隊)\n原定於 2026/10/25 舉辦的《秋之盛典》秋天奇幻森林派對,因颱風影響延期,新舉辦日期尚未確定。\n來源：https://www.threads.com/share/D-0SYoRJo/"
     },
     {
+      "id": "upcoming-row-629",
+      "date": "20261110",
+      "band": "band_drsiw0_27",
+      "time": "未公布",
+      "name": "台北 玖壹壹 洋蔥",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n卡司包含玖壹壹、美秀集團、我甘願重新愛過、南北貳路。"
+    },
+    {
+      "id": "upcoming-row-630",
+      "date": "20261110",
+      "band": "AmazingShow",
+      "time": "未公布",
+      "name": "台北 玖壹壹 洋蔥",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n卡司包含玖壹壹、美秀集團、我甘願重新愛過、南北貳路。"
+    },
+    {
+      "id": "upcoming-row-631",
+      "date": "20261110",
+      "band": "band_maaxir_15",
+      "time": "未公布",
+      "name": "台北 玖壹壹 洋蔥",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n卡司包含玖壹壹、美秀集團、我甘願重新愛過、南北貳路。"
+    },
+    {
+      "id": "upcoming-row-632",
+      "date": "20261110",
+      "band": "band_6u8lrj_64",
+      "time": "未公布",
+      "name": "台北 玖壹壹 洋蔥",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n卡司包含玖壹壹、美秀集團、我甘願重新愛過、南北貳路。"
+    },
+    {
       "id": "upcoming-row-32",
       "date": "20261111",
       "band": "trash",
@@ -25243,6 +25299,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d67e36f5-77c6-480a-8619-b77c08c05e6b",
-  "updatedAt": "2026-11-10T03:49:11.670Z"
+  "revision": "9b5be1e9-5e47-40c0-88f2-3b75d232aa3b",
+  "updatedAt": "2026-11-10T03:49:58.786Z"
 }
