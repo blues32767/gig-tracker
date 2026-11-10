@@ -95,7 +95,7 @@
       "short": "鼓鼓 呂思緯",
       "color": "#2ec4b6",
       "category": "個人",
-      "eventCount": 9
+      "eventCount": 10
     },
     {
       "id": "band_drsiw0_61",
@@ -118,6 +118,14 @@
       "name": "甜約翰",
       "short": "甜約翰",
       "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 8
+    },
+    {
+      "id": "WendyWander",
+      "name": "溫蒂漫步",
+      "short": "溫蒂漫步",
+      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 8
     },
@@ -154,19 +162,19 @@
       "eventCount": 7
     },
     {
-      "id": "WendyWander",
-      "name": "溫蒂漫步",
-      "short": "溫蒂漫步",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 7
-    },
-    {
       "id": "EasyWeeds",
       "name": "溫室雜草",
       "short": "溫室雜草",
       "color": "#8338ec",
       "category": "樂團",
+      "eventCount": 7
+    },
+    {
+      "id": "band_6gp8um_3",
+      "name": "白安",
+      "short": "白安",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 7
     },
     {
@@ -184,14 +192,6 @@
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 7
-    },
-    {
-      "id": "band_6gp8um_3",
-      "name": "白安",
-      "short": "白安",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 6
     },
     {
       "id": "unus",
@@ -618,11 +618,27 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_7",
+      "name": "蔡旻佑",
+      "short": "蔡旻佑",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "ffo",
       "name": "F.F.O",
       "short": "F.F.O",
       "color": "#00b4d8",
       "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "band_6gp8um_4",
+      "name": "品冠",
+      "short": "品冠",
+      "color": "#ffd166",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -830,6 +846,14 @@
       "name": "陳華",
       "short": "陳華",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "gummyb",
+      "name": "Gummy B × 陳嫺靜",
+      "short": "Gummy B × 陳嫺靜",
+      "color": "#fb5607",
       "category": "個人",
       "eventCount": 3
     },
@@ -1098,18 +1122,18 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_174",
+      "name": "戴愛玲",
+      "short": "戴愛玲",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_1",
       "name": "王謙",
       "short": "王謙",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_7",
-      "name": "蔡旻佑",
-      "short": "蔡旻佑",
-      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 2
     },
@@ -1158,14 +1182,6 @@
       "name": "黃妃",
       "short": "黃妃",
       "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6gp8um_4",
-      "name": "品冠",
-      "short": "品冠",
-      "color": "#ffd166",
       "category": "個人",
       "eventCount": 2
     },
@@ -1278,14 +1294,6 @@
       "name": "呂士軒",
       "short": "呂士軒",
       "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "gummyb",
-      "name": "Gummy B × 陳嫺靜",
-      "short": "Gummy B × 陳嫺靜",
-      "color": "#fb5607",
       "category": "個人",
       "eventCount": 2
     },
@@ -1910,14 +1918,6 @@
       "name": "栗子",
       "short": "栗子",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_174",
-      "name": "戴愛玲",
-      "short": "戴愛玲",
-      "color": "#ffd166",
       "category": "個人",
       "eventCount": 2
     },
@@ -7078,6 +7078,14 @@
       "name": "當代電影大師",
       "short": "當代",
       "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_uhxcnu_3",
+      "name": "藝舞蓉文化藝術團",
+      "short": "藝舞",
+      "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
     },
@@ -20736,6 +20744,86 @@
       "note": "［免費］\n歌手卡司全公布,包含阿布絲、黃韻玲浪漫里樂團、萬芳、DJKenLin林軒、日本流線形、郭子浮花樂隊、劉若英、霜淇淋。"
     },
     {
+      "id": "upcoming-row-659",
+      "date": "20261114",
+      "band": "gummyb",
+      "time": "18:10-18:25",
+      "name": "花蓮 大山大海.花現未來草地音樂會",
+      "location": "花蓮縣運動休閒園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E9%81%8B%E5%8B%95%E4%BC%91%E9%96%92%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n卡司包含陳嫺靜、白安、戴愛玲、品冠、藝舞蓉文化藝術團、蔡旻佑、溫蒂漫步、鼓鼓 呂思緯。"
+    },
+    {
+      "id": "upcoming-row-660",
+      "date": "20261114",
+      "band": "band_6gp8um_3",
+      "time": "18:35-19:00",
+      "name": "花蓮 大山大海.花現未來草地音樂會",
+      "location": "花蓮縣運動休閒園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E9%81%8B%E5%8B%95%E4%BC%91%E9%96%92%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n卡司包含陳嫺靜、白安、戴愛玲、品冠、藝舞蓉文化藝術團、蔡旻佑、溫蒂漫步、鼓鼓 呂思緯。"
+    },
+    {
+      "id": "upcoming-row-661",
+      "date": "20261114",
+      "band": "band_drsiw0_174",
+      "time": "19:05-19:30",
+      "name": "花蓮 大山大海.花現未來草地音樂會",
+      "location": "花蓮縣運動休閒園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E9%81%8B%E5%8B%95%E4%BC%91%E9%96%92%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n卡司包含陳嫺靜、白安、戴愛玲、品冠、藝舞蓉文化藝術團、蔡旻佑、溫蒂漫步、鼓鼓 呂思緯。"
+    },
+    {
+      "id": "upcoming-row-662",
+      "date": "20261114",
+      "band": "band_6gp8um_4",
+      "time": "19:35-20:00",
+      "name": "花蓮 大山大海.花現未來草地音樂會",
+      "location": "花蓮縣運動休閒園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E9%81%8B%E5%8B%95%E4%BC%91%E9%96%92%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n卡司包含陳嫺靜、白安、戴愛玲、品冠、藝舞蓉文化藝術團、蔡旻佑、溫蒂漫步、鼓鼓 呂思緯。"
+    },
+    {
+      "id": "upcoming-row-663",
+      "date": "20261114",
+      "band": "band_uhxcnu_3",
+      "time": "18:10-18:25",
+      "name": "花蓮 大山大海.花現未來草地音樂會",
+      "location": "花蓮縣運動休閒園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E9%81%8B%E5%8B%95%E4%BC%91%E9%96%92%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n卡司包含陳嫺靜、白安、戴愛玲、品冠、藝舞蓉文化藝術團、蔡旻佑、溫蒂漫步、鼓鼓 呂思緯。"
+    },
+    {
+      "id": "upcoming-row-664",
+      "date": "20261114",
+      "band": "band_drsiw0_7",
+      "time": "18:30-18:55",
+      "name": "花蓮 大山大海.花現未來草地音樂會",
+      "location": "花蓮縣運動休閒園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E9%81%8B%E5%8B%95%E4%BC%91%E9%96%92%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n卡司包含陳嫺靜、白安、戴愛玲、品冠、藝舞蓉文化藝術團、蔡旻佑、溫蒂漫步、鼓鼓 呂思緯。"
+    },
+    {
+      "id": "upcoming-row-665",
+      "date": "20261114",
+      "band": "WendyWander",
+      "time": "19:05-19:45",
+      "name": "花蓮 大山大海.花現未來草地音樂會",
+      "location": "花蓮縣運動休閒園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E9%81%8B%E5%8B%95%E4%BC%91%E9%96%92%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n卡司包含陳嫺靜、白安、戴愛玲、品冠、藝舞蓉文化藝術團、蔡旻佑、溫蒂漫步、鼓鼓 呂思緯。"
+    },
+    {
+      "id": "upcoming-row-666",
+      "date": "20261114",
+      "band": "band_nmq1yt",
+      "time": "19:55-20:20",
+      "name": "花蓮 大山大海.花現未來草地音樂會",
+      "location": "花蓮縣運動休閒園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E7%B8%A3%E9%81%8B%E5%8B%95%E4%BC%91%E9%96%92%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n卡司包含陳嫺靜、白安、戴愛玲、品冠、藝舞蓉文化藝術團、蔡旻佑、溫蒂漫步、鼓鼓 呂思緯。"
+    },
+    {
       "id": "upcoming-row-80",
       "date": "20261115",
       "band": "papunband",
@@ -25631,6 +25719,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "5ba2b2cb-3de8-4762-b8e1-78e31421e25f",
-  "updatedAt": "2026-11-10T06:40:23.725Z"
+  "revision": "0c6e07a4-5e4b-46b7-8d05-3f8d4cf8e59b",
+  "updatedAt": "2026-11-10T06:41:44.398Z"
 }
