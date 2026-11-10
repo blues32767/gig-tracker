@@ -290,6 +290,14 @@
       "eventCount": 6
     },
     {
+      "id": "163braces",
+      "name": "163braces",
+      "short": "163braces",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "joyce",
       "name": "JOYCE 就以斯",
       "short": "就以斯",
@@ -398,14 +406,6 @@
       "name": "派偉俊",
       "short": "派偉俊",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "163braces",
-      "name": "163braces",
-      "short": "163braces",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 4
     },
@@ -18989,7 +18989,7 @@
       "band": "trash",
       "time": "未公布",
       "name": "《CR校園新聲造星計畫》複賽-成大賽區",
-      "location": "台中市逢甲大學大草坪",
+      "location": "台中市臺中科技大學體育館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E5%A4%A7%E8%8D%89%E5%9D%AA",
       "note": "［免費］\n卡司:TRASH、163 braces、帕崎拉 PACHILA。活動日期為 2026年11月11日。"
     },
@@ -18999,7 +18999,7 @@
       "band": "PACHILA",
       "time": "未公布",
       "name": "《CR校園新聲造星計畫》複賽-成大賽區",
-      "location": "台中市逢甲大學大草坪",
+      "location": "台中市臺中科技大學體育館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E5%A4%A7%E8%8D%89%E5%9D%AA",
       "note": "［免費］\n卡司:TRASH、163 braces、帕崎拉 PACHILA。活動日期為 2026年11月11日。"
     },
@@ -19044,24 +19044,34 @@
       "note": "［免費］\n晚會表演嘉賓包含艾薇、PIZZALI、AuZTIN 吳昱廷、林可綸。活動開放校外人士進入,入場時間 17:40,請注意清場規定。"
     },
     {
+      "id": "upcoming-row-667",
+      "date": "20261111",
+      "band": "163braces",
+      "time": "未公布",
+      "name": "《CR校園新聲造星計畫》複賽-成大賽區",
+      "location": "台中市臺中科技大學體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:TRASH、163 braces、帕崎拉 PACHILA。活動日期為 2026年11月11日。"
+    },
+    {
       "id": "upcoming-row-37",
       "date": "20261112",
       "band": "WhoCares",
       "time": "未公布",
-      "name": "造星計畫3天2026 CR造星計畫:中科大場",
+      "name": "《CR校園新聲造星計畫》複賽-成大賽區",
       "location": "台中市臺中科技大學體育館",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%8F%B0%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E9%AB%94%E8%82%B2%E9%A4%A8",
-      "note": "［免費］\n2026 CR造星計畫:中科大場\n2026/11/12 中科大體育館\n卡司:\n卡司:脆樂團、胡凱兒。活動日期為 2026年11月12日。\n來源：https://www.threads.com/share/GUHyhipLh/"
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:TRASH、163 braces、帕崎拉 PACHILA。活動日期為 2026年11月11日。"
     },
     {
       "id": "upcoming-row-38",
       "date": "20261112",
       "band": "band_drsiw0_39",
       "time": "未公布",
-      "name": "造星計畫3天2026 CR造星計畫:中科大場",
+      "name": "《CR校園新聲造星計畫》複賽-成大賽區",
       "location": "台中市臺中科技大學體育館",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%8F%B0%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E9%AB%94%E8%82%B2%E9%A4%A8",
-      "note": "［免費］\n2026 CR造星計畫:中科大場\n2026/11/12 中科大體育館\n卡司:\n卡司:脆樂團、胡凱兒。活動日期為 2026年11月12日。\n來源：https://www.threads.com/share/GUHyhipLh/"
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E5%A4%A7%E8%8D%89%E5%9D%AA",
+      "note": "［免費］\n卡司:TRASH、163 braces、帕崎拉 PACHILA。活動日期為 2026年11月11日。"
     },
     {
       "id": "upcoming-row-298",
@@ -25719,6 +25729,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "80c25a22-9865-42c8-8d1a-b5d185390245",
-  "updatedAt": "2026-11-10T06:42:55.765Z"
+  "revision": "f7bfc4c1-74fc-446e-bbd3-9481d6638c96",
+  "updatedAt": "2026-11-10T06:44:11.076Z"
 }
