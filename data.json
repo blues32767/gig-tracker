@@ -10,18 +10,18 @@
       "eventCount": 64
     },
     {
-      "id": "AmazingShow",
-      "name": "美秀集團",
-      "short": "美秀集團",
-      "color": "#e63946",
-      "category": "樂團",
-      "eventCount": 17
-    },
-    {
       "id": "gongguan",
       "name": "公館青少年",
       "short": "公館青少年",
       "color": "#2a9d8f",
+      "category": "樂團",
+      "eventCount": 18
+    },
+    {
+      "id": "AmazingShow",
+      "name": "美秀集團",
+      "short": "美秀集團",
+      "color": "#e63946",
       "category": "樂團",
       "eventCount": 17
     },
@@ -562,6 +562,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_83",
+      "name": "宋德鶴",
+      "short": "宋德鶴",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_84",
       "name": "周湯豪",
       "short": "周湯豪",
@@ -638,6 +646,14 @@
       "name": "F.F.O",
       "short": "F.F.O",
       "color": "#00b4d8",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "NeciKen",
+      "name": "南西肯恩",
+      "short": "南西肯恩",
+      "color": "#118ab2",
       "category": "團體",
       "eventCount": 3
     },
@@ -870,14 +886,6 @@
       "name": "粹垢TRAEGO",
       "short": "粹垢TRAEGO",
       "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_83",
-      "name": "宋德鶴",
-      "short": "宋德鶴",
-      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 3
     },
@@ -1178,14 +1186,6 @@
       "eventCount": 2
     },
     {
-      "id": "NeciKen",
-      "name": "南西肯恩",
-      "short": "南西肯恩",
-      "color": "#118ab2",
-      "category": "團體",
-      "eventCount": 2
-    },
-    {
       "id": "pia",
       "name": "PiA 吳蓓雅",
       "short": "吳蓓雅",
@@ -1199,6 +1199,14 @@
       "short": "黃妃",
       "color": "#3a86ff",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "yamonsocialc",
+      "name": "壓滿俱樂部 YaMon Social Club",
+      "short": "壓滿俱樂部",
+      "color": "#2ec4b6",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -2151,14 +2159,6 @@
       "short": "A Tempo Quartet",
       "color": "#3a86ff",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "yamonsocialc",
-      "name": "壓滿俱樂部 YaMon Social Club",
-      "short": "壓滿俱樂部",
-      "color": "#2ec4b6",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -7134,6 +7134,22 @@
       "name": "Yosebe",
       "short": "Yo",
       "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_66",
+      "name": "後山霓虹",
+      "short": "後山",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_35",
+      "name": "小男孩樂團",
+      "short": "小男",
+      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
     },
@@ -23064,6 +23080,36 @@
       "note": "［免費］\n活動日期為 2026/12/05,卡司包含庸俗救星、薄荷綠工廠、DSPS、存在証明、蛋頭 BG8LOCC、宅邦戰隊、工口紳士 Ero Gent、JP THE WAVY。"
     },
     {
+      "id": "upcoming-row-671",
+      "date": "20261205",
+      "band": "yamonsocialc",
+      "time": "14:30-15:00",
+      "name": "嘉義 花海生活節",
+      "location": "嘉義市玉山路底",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
+      "note": "［免費］\n活動於12/05及12/06舉辦,包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團等演出。"
+    },
+    {
+      "id": "upcoming-row-672",
+      "date": "20261205",
+      "band": "band_6u8lrj_66",
+      "time": "16:00-16:30",
+      "name": "嘉義 花海生活節",
+      "location": "嘉義市玉山路底",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
+      "note": "［免費］\n活動於12/05及12/06舉辦,包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團等演出。"
+    },
+    {
+      "id": "upcoming-row-673",
+      "date": "20261205",
+      "band": "band_drsiw0_83",
+      "time": "17:30-18:00",
+      "name": "嘉義 花海生活節",
+      "location": "嘉義市玉山路底",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
+      "note": "［免費］\n活動於12/05及12/06舉辦,包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團等演出。"
+    },
+    {
       "id": "upcoming-row-152",
       "date": "20261206",
       "band": "mango",
@@ -23082,6 +23128,36 @@
       "location": "高雄 LIVE WAREHOUSE",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%20LIVE%20WAREHOUSE",
       "note": "［售票］\n美秀集團2026年12月巡迴專場-高雄二場\n2026/10/29 (四) 中午12:00~晚上23:59美秀集團官網會員優先預購\n2026/10/30 (五) 中午12:00 全面開賣\n各階段售票不預留名額,任一場次於2026/10/29(四)會員優先預購完售即不在2026/10/30 (五)開放購票,預售票完售後不開放現場購票。\n售票平台:https://www.indievox.com/activity/detail/26_iv04280c7\n來源：https://www.instagram.com/p/De-8lCoJxQO/?utm_source=ig_web_copy_link&srtk=NTc4MTIwNjQ2YQ==\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
+    },
+    {
+      "id": "upcoming-row-674",
+      "date": "20261206",
+      "band": "gongguan",
+      "time": "14:15-14:45",
+      "name": "嘉義 花海生活節",
+      "location": "嘉義市玉山路底",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
+      "note": "［免費］\n活動於12/05及12/06舉辦,包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團等演出。"
+    },
+    {
+      "id": "upcoming-row-675",
+      "date": "20261206",
+      "band": "NeciKen",
+      "time": "16:00-16:30",
+      "name": "嘉義 花海生活節",
+      "location": "嘉義市玉山路底",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
+      "note": "［免費］\n活動於12/05及12/06舉辦,包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團等演出。"
+    },
+    {
+      "id": "upcoming-row-676",
+      "date": "20261206",
+      "band": "band_qqiyec_35",
+      "time": "17:30-18:00",
+      "name": "嘉義 花海生活節",
+      "location": "嘉義市玉山路底",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
+      "note": "［免費］\n活動於12/05及12/06舉辦,包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團等演出。"
     },
     {
       "id": "upcoming-row-153",
@@ -25919,6 +25995,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "948e5abf-c83d-4e05-9bd2-ee3cd9fd2698",
-  "updatedAt": "2026-11-10T12:40:45.080Z"
+  "revision": "ec953116-3194-4c97-ad33-5c8e2d1c7591",
+  "updatedAt": "2026-11-10T18:32:53.585Z"
 }
