@@ -21943,7 +21943,7 @@
       "id": "upcoming-row-629",
       "date": "20261122",
       "band": "djr",
-      "time": "未公布",
+      "time": "19:00-21:30",
       "name": "花蓮 星潮原聲演唱會",
       "location": "花蓮市東大門廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
@@ -25475,6 +25475,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "9c6ff252-495d-42e1-b922-1aeef0588937",
-  "updatedAt": "2026-11-10T06:14:41.667Z"
+  "revision": "84945241-dec8-4cdf-b80c-44d38ec79831",
+  "updatedAt": "2026-11-10T06:16:15.762Z"
 }
