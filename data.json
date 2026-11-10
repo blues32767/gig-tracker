@@ -378,6 +378,14 @@
       "eventCount": 5
     },
     {
+      "id": "pallas_1",
+      "name": "PALLAS 帕拉斯",
+      "short": "PALLAS 帕拉斯",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
       "id": "babymint",
       "name": "babyMINT",
       "short": "babyMINT",
@@ -554,14 +562,6 @@
       "eventCount": 4
     },
     {
-      "id": "pallas_1",
-      "name": "PALLAS 帕拉斯",
-      "short": "PALLAS 帕拉斯",
-      "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
       "id": "ftkimsawol",
       "name": "淺堤 ft. Kim Sawol",
       "short": "淺堤 ft. Kim Sawol",
@@ -703,6 +703,14 @@
       "short": "帕崎拉",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_54",
+      "name": "王艷薇",
+      "short": "王艷薇",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -1114,6 +1122,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_33",
+      "name": "韋禮安",
+      "short": "韋禮安",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_34",
       "name": "羅文裕",
       "short": "羅文裕",
@@ -1134,14 +1150,6 @@
       "name": "孝琳",
       "short": "孝琳",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_54",
-      "name": "王艷薇",
-      "short": "王艷薇",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -1519,6 +1527,14 @@
       "short": "卡尼特",
       "color": "#118ab2",
       "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_130",
+      "name": "蕭煌奇",
+      "short": "蕭煌奇",
+      "color": "#ffd166",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -2215,14 +2231,6 @@
       "short": "VH",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_33",
-      "name": "韋禮安",
-      "short": "韋禮安",
-      "color": "#06d6a0",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -3782,14 +3790,6 @@
       "name": "琳誼",
       "short": "琳誼",
       "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_130",
-      "name": "蕭煌奇",
-      "short": "蕭煌奇",
-      "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
     },
@@ -6959,6 +6959,14 @@
       "short": "DJ",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "claire",
+      "name": "郭靜 Claire",
+      "short": "郭靜",
+      "color": "#06d6a0",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -24506,6 +24514,56 @@
       "note": "［售票］\n臺師大五系聯合舉辦,包含持修、呂允、師大韓舞、樂樂謝語恩、李浩瑋、Howard Lee、席子淇、Sabrina胡恂舞、王謙 Goatak、TRASH 等藝人演出。\nDreamcore 臺師大五系聯合耶誕晚會,於 12/25 舉辦,早鳥票 400 元,11/01 啟售。"
     },
     {
+      "id": "upcoming-row-620",
+      "date": "20261225",
+      "band": "band_drsiw0_130",
+      "time": "未公布",
+      "name": "雲林 Holy High 聖誕跨年系列活動",
+      "location": "斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n雲林聖誕狂歡演唱會,卡司包含蕭煌奇、韋禮安 Weibird、郭靜 Claire、王艷薇 Evangeline、PALLAS-帕拉斯。活動日期為 12/25(五) 18:00 起,免費入場。"
+    },
+    {
+      "id": "upcoming-row-621",
+      "date": "20261225",
+      "band": "band_drsiw0_33",
+      "time": "未公布",
+      "name": "雲林 Holy High 聖誕跨年系列活動",
+      "location": "斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n雲林聖誕狂歡演唱會,卡司包含蕭煌奇、韋禮安 Weibird、郭靜 Claire、王艷薇 Evangeline、PALLAS-帕拉斯。活動日期為 12/25(五) 18:00 起,免費入場。"
+    },
+    {
+      "id": "upcoming-row-622",
+      "date": "20261225",
+      "band": "claire",
+      "time": "未公布",
+      "name": "雲林 Holy High 聖誕跨年系列活動",
+      "location": "斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n雲林聖誕狂歡演唱會,卡司包含蕭煌奇、韋禮安 Weibird、郭靜 Claire、王艷薇 Evangeline、PALLAS-帕拉斯。活動日期為 12/25(五) 18:00 起,免費入場。"
+    },
+    {
+      "id": "upcoming-row-623",
+      "date": "20261225",
+      "band": "band_drsiw0_54",
+      "time": "未公布",
+      "name": "雲林 Holy High 聖誕跨年系列活動",
+      "location": "斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n雲林聖誕狂歡演唱會,卡司包含蕭煌奇、韋禮安 Weibird、郭靜 Claire、王艷薇 Evangeline、PALLAS-帕拉斯。活動日期為 12/25(五) 18:00 起,免費入場。"
+    },
+    {
+      "id": "upcoming-row-624",
+      "date": "20261225",
+      "band": "pallas_1",
+      "time": "未公布",
+      "name": "雲林 Holy High 聖誕跨年系列活動",
+      "location": "斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n雲林聖誕狂歡演唱會,卡司包含蕭煌奇、韋禮安 Weibird、郭靜 Claire、王艷薇 Evangeline、PALLAS-帕拉斯。活動日期為 12/25(五) 18:00 起,免費入場。"
+    },
+    {
       "id": "upcoming-row-218",
       "date": "20261226",
       "band": "kenshiyonezu",
@@ -25121,6 +25179,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "0718b3b6-fd4c-41bc-90f5-4e84a3f7020c",
-  "updatedAt": "2026-11-10T03:43:44.763Z"
+  "revision": "8c629287-db34-4c3b-9c3b-c0c8b7785359",
+  "updatedAt": "2026-11-10T03:45:03.732Z"
 }
