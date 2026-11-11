@@ -522,6 +522,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_54",
+      "name": "王艷薇",
+      "short": "王艷薇",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_qqiyec_8",
       "name": "血肉果汁機",
       "short": "血肉果汁機",
@@ -778,10 +786,10 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_54",
-      "name": "王艷薇",
-      "short": "王艷薇",
-      "color": "#118ab2",
+      "id": "band_drsiw0_55",
+      "name": "洪佩瑜",
+      "short": "洪佩瑜",
+      "color": "#8338ec",
       "category": "個人",
       "eventCount": 3
     },
@@ -1154,6 +1162,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_6u8lrj_46",
+      "name": "香蕉哥哥",
+      "short": "香蕉哥哥",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_52",
       "name": "郁欣",
       "short": "郁欣",
@@ -1270,14 +1286,6 @@
       "name": "孝琳",
       "short": "孝琳",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_55",
-      "name": "洪佩瑜",
-      "short": "洪佩瑜",
-      "color": "#8338ec",
       "category": "個人",
       "eventCount": 2
     },
@@ -1791,14 +1799,6 @@
       "short": "工口紳士 Ero Gent",
       "color": "#3a86ff",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6u8lrj_46",
-      "name": "香蕉哥哥",
-      "short": "香蕉哥哥",
-      "color": "#8338ec",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -7454,6 +7454,14 @@
       "name": "HUT BOY [TH]",
       "short": "HU",
       "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_36",
+      "name": "正修熱舞社",
+      "short": "正修",
+      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
     },
@@ -25374,6 +25382,46 @@
       "note": "［售票］\n美秀集團2026年12月巡迴專場-台中二場\n2026/10/29 (四) 中午12:00~晚上23:59美秀集團官網會員優先預購\n2026/10/30 (五) 中午12:00 全面開賣\n各階段售票不預留名額,任一場次於2026/10/29(四)會員優先預購完售即不在2026/10/30 (五)開放購票,預售票完售後不開放現場購票。\n售票平台:https://www.indievox.com/activity/detail/26_iv04280c7\n來源：https://www.instagram.com/p/De-8lCoJxQO/?utm_source=ig_web_copy_link&srtk=NTc4MTIwNjQ2YQ==\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
     },
     {
+      "id": "upcoming-row-741",
+      "date": "20261217",
+      "band": "band_drsiw0_54",
+      "time": "未公布",
+      "name": "高雄 正修科技大學人文廣場「瑜你香遇 愛啟微光」聖誕草地迎新音樂會",
+      "location": "高雄市左營區中正一路10號 正修科技大學人文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80%E4%B8%AD%E6%AD%A3%E4%B8%80%E8%B7%AF10%E8%99%9F%20%E6%AD%A3%E4%BF%AE%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%BA%BA%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於12/17 18:30在正科大人文廣場舉辦,卡司包含王艷薇、洪佩瑜、香蕉哥哥、正修熱舞社。VIP區需發票兌換或會員資格,一般區免費開放校外人士自由入場。"
+    },
+    {
+      "id": "upcoming-row-742",
+      "date": "20261217",
+      "band": "band_drsiw0_55",
+      "time": "未公布",
+      "name": "高雄 正修科技大學人文廣場「瑜你香遇 愛啟微光」聖誕草地迎新音樂會",
+      "location": "高雄市左營區中正一路10號 正修科技大學人文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80%E4%B8%AD%E6%AD%A3%E4%B8%80%E8%B7%AF10%E8%99%9F%20%E6%AD%A3%E4%BF%AE%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%BA%BA%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於12/17 18:30在正科大人文廣場舉辦,卡司包含王艷薇、洪佩瑜、香蕉哥哥、正修熱舞社。VIP區需發票兌換或會員資格,一般區免費開放校外人士自由入場。"
+    },
+    {
+      "id": "upcoming-row-743",
+      "date": "20261217",
+      "band": "band_6u8lrj_46",
+      "time": "未公布",
+      "name": "高雄 正修科技大學人文廣場「瑜你香遇 愛啟微光」聖誕草地迎新音樂會",
+      "location": "高雄市左營區中正一路10號 正修科技大學人文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80%E4%B8%AD%E6%AD%A3%E4%B8%80%E8%B7%AF10%E8%99%9F%20%E6%AD%A3%E4%BF%AE%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%BA%BA%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於12/17 18:30在正科大人文廣場舉辦,卡司包含王艷薇、洪佩瑜、香蕉哥哥、正修熱舞社。VIP區需發票兌換或會員資格,一般區免費開放校外人士自由入場。"
+    },
+    {
+      "id": "upcoming-row-744",
+      "date": "20261217",
+      "band": "band_qqiyec_36",
+      "time": "未公布",
+      "name": "高雄 正修科技大學人文廣場「瑜你香遇 愛啟微光」聖誕草地迎新音樂會",
+      "location": "高雄市左營區中正一路10號 正修科技大學人文廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B7%A6%E7%87%9F%E5%8D%80%E4%B8%AD%E6%AD%A3%E4%B8%80%E8%B7%AF10%E8%99%9F%20%E6%AD%A3%E4%BF%AE%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%BA%BA%E6%96%87%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n活動於12/17 18:30在正科大人文廣場舉辦,卡司包含王艷薇、洪佩瑜、香蕉哥哥、正修熱舞社。VIP區需發票兌換或會員資格,一般區免費開放校外人士自由入場。"
+    },
+    {
       "id": "upcoming-row-206",
       "date": "20261218",
       "band": "mango",
@@ -26939,6 +26987,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "1d8332f7-a050-489b-a414-de079f710215",
-  "updatedAt": "2026-11-11T15:36:08.670Z"
+  "revision": "51df15fe-8a88-4f3f-ac59-738a1f3fe846",
+  "updatedAt": "2026-11-11T15:38:10.972Z"
 }
