@@ -338,6 +338,22 @@
       "eventCount": 5
     },
     {
+      "id": "band_6u8lrj_14",
+      "name": "拍謝少年",
+      "short": "拍謝少年",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
+      "id": "psco",
+      "name": "P!SCO",
+      "short": "P!SCO",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
       "id": "band_6gp8um_19",
       "name": "薄暮",
       "short": "薄暮",
@@ -518,22 +534,6 @@
       "name": "來者何人 Whoou!",
       "short": "來者何人 Whoou!",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "band_6u8lrj_14",
-      "name": "拍謝少年",
-      "short": "拍謝少年",
-      "color": "#ff006e",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "psco",
-      "name": "P!SCO",
-      "short": "P!SCO",
-      "color": "#fb5607",
       "category": "樂團",
       "eventCount": 4
     },
@@ -970,6 +970,14 @@
       "eventCount": 3
     },
     {
+      "id": "aoi",
+      "name": "青虫aoi",
+      "short": "青虫aoi",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_107",
       "name": "陳以恆",
       "short": "陳以恆",
@@ -1158,6 +1166,14 @@
       "name": "王謙",
       "short": "王謙",
       "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_10",
+      "name": "邵大倫",
+      "short": "邵大倫",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 2
     },
@@ -1431,14 +1447,6 @@
       "short": "倚瑄",
       "color": "#ef476f",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "aoi",
-      "name": "青虫aoi",
-      "short": "青虫aoi",
-      "color": "#ffd166",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -2074,6 +2082,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6u8lrj_65",
+      "name": "宅邦戰隊",
+      "short": "宅邦",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_32tclr_10",
       "name": "月眉笛韻樂團",
       "short": "月眉",
@@ -2126,14 +2142,6 @@
       "name": "羅巧倫",
       "short": "羅巧倫",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_10",
-      "name": "邵大倫",
-      "short": "邵大倫",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
     },
@@ -7082,14 +7090,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_65",
-      "name": "宅邦戰隊",
-      "short": "宅邦",
-      "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "jpthewavy",
       "name": "JP THE WAVY",
       "short": "JP",
@@ -7222,6 +7222,54 @@
       "name": "溪洲部落藝文團隊",
       "short": "溪洲",
       "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "jelly",
+      "name": "傑利 Jelly 市民共創曲〈台北長大〉",
+      "short": "傑利",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_213",
+      "name": "陳明章",
+      "short": "陳明",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_lrujfm_1",
+      "name": "曾偉旻 市民共創曲",
+      "short": "曾偉",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_xwzwjz",
+      "name": "鄭宜雰 × 林加安 市民共創曲〈想去投票〉",
+      "short": "鄭宜",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_lrujfm_2",
+      "name": "史茵茵 市民共創曲",
+      "short": "史茵",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_mlbm3c",
+      "name": "台北順起來 主題曲 沈伯洋 × 周自從",
+      "short": "台北",
+      "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
     },
@@ -21062,6 +21110,116 @@
       "note": "［免費］\n活動於 11/14(六) 14:30-20:30 舉辦,包含 Usay Panan、RK 魯凱音樂誌、舒米恩、紀曉君、梁文音、婁峻碩等卡司演出。"
     },
     {
+      "id": "upcoming-row-702",
+      "date": "20261114",
+      "band": "psco",
+      "time": "14:30-14:55",
+      "name": "臺北 洋流祭",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n2026年11月14日於臺北市舉辦的音樂節,陣容包含P!SCO、陳明章、拍謝少年等共12組藝人。"
+    },
+    {
+      "id": "upcoming-row-703",
+      "date": "20261114",
+      "band": "jelly",
+      "time": "14:55-15:10",
+      "name": "臺北 洋流祭",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n2026年11月14日於臺北市舉辦的音樂節,陣容包含P!SCO、陳明章、拍謝少年等共12組藝人。"
+    },
+    {
+      "id": "upcoming-row-704",
+      "date": "20261114",
+      "band": "band_drsiw0_213",
+      "time": "15:35-16:00",
+      "name": "臺北 洋流祭",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n2026年11月14日於臺北市舉辦的音樂節,陣容包含P!SCO、陳明章、拍謝少年等共12組藝人。"
+    },
+    {
+      "id": "upcoming-row-705",
+      "date": "20261114",
+      "band": "band_lrujfm_1",
+      "time": "16:00-16:05",
+      "name": "臺北 洋流祭",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n2026年11月14日於臺北市舉辦的音樂節,陣容包含P!SCO、陳明章、拍謝少年等共12組藝人。"
+    },
+    {
+      "id": "upcoming-row-706",
+      "date": "20261114",
+      "band": "band_xwzwjz",
+      "time": "16:05-16:15",
+      "name": "臺北 洋流祭",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n2026年11月14日於臺北市舉辦的音樂節,陣容包含P!SCO、陳明章、拍謝少年等共12組藝人。"
+    },
+    {
+      "id": "upcoming-row-707",
+      "date": "20261114",
+      "band": "band_6u8lrj_14",
+      "time": "16:40-17:05",
+      "name": "臺北 洋流祭",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n2026年11月14日於臺北市舉辦的音樂節,陣容包含P!SCO、陳明章、拍謝少年等共12組藝人。"
+    },
+    {
+      "id": "upcoming-row-708",
+      "date": "20261114",
+      "band": "band_lrujfm_2",
+      "time": "17:05-17:10",
+      "name": "臺北 洋流祭",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n2026年11月14日於臺北市舉辦的音樂節,陣容包含P!SCO、陳明章、拍謝少年等共12組藝人。"
+    },
+    {
+      "id": "upcoming-row-709",
+      "date": "20261114",
+      "band": "aoi",
+      "time": "17:40-18:05",
+      "name": "臺北 洋流祭",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n2026年11月14日於臺北市舉辦的音樂節,陣容包含P!SCO、陳明章、拍謝少年等共12組藝人。"
+    },
+    {
+      "id": "upcoming-row-710",
+      "date": "20261114",
+      "band": "band_drsiw0_10",
+      "time": "18:05-18:15",
+      "name": "臺北 洋流祭",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n2026年11月14日於臺北市舉辦的音樂節,陣容包含P!SCO、陳明章、拍謝少年等共12組藝人。"
+    },
+    {
+      "id": "upcoming-row-711",
+      "date": "20261114",
+      "band": "band_mlbm3c",
+      "time": "18:15-18:30",
+      "name": "臺北 洋流祭",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n2026年11月14日於臺北市舉辦的音樂節,陣容包含P!SCO、陳明章、拍謝少年等共12組藝人。"
+    },
+    {
+      "id": "upcoming-row-712",
+      "date": "20261114",
+      "band": "band_6u8lrj_65",
+      "time": "18:30-19:00",
+      "name": "臺北 洋流祭",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n2026年11月14日於臺北市舉辦的音樂節,陣容包含P!SCO、陳明章、拍謝少年等共12組藝人。"
+    },
+    {
       "id": "upcoming-row-72",
       "date": "20261115",
       "band": "papunband",
@@ -26317,6 +26475,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "0e11bc33-bae5-44ce-b2e5-b95e12e09bb1",
-  "updatedAt": "2026-11-11T10:42:49.543Z"
+  "revision": "04c88f60-16b3-4a43-b820-62b3484ee4b6",
+  "updatedAt": "2026-11-11T10:44:12.268Z"
 }
