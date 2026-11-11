@@ -466,6 +466,14 @@
       "eventCount": 4
     },
     {
+      "id": "yoyo",
+      "name": "YOYO 家族",
+      "short": "YOYO 家族",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 4
+    },
+    {
       "id": "band_6u8lrj_5",
       "name": "庸俗救星",
       "short": "庸俗救星",
@@ -727,14 +735,6 @@
       "short": "李翊君",
       "color": "#00b4d8",
       "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "yoyo",
-      "name": "YOYO 家族",
-      "short": "YOYO 家族",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 3
     },
     {
@@ -1698,6 +1698,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6gp8um_47",
+      "name": "岳均",
+      "short": "岳均",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_joqn9u",
       "name": "反骨與亞服:瘋克妖女靈性昇華瑜伽 高小糕",
       "short": "反骨與亞服:瘋克妖女靈性昇華瑜伽 高小糕",
@@ -2063,6 +2071,14 @@
       "short": "存在",
       "color": "#118ab2",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_32tclr_10",
+      "name": "月眉笛韻樂團",
+      "short": "月眉",
+      "color": "#8338ec",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -4383,14 +4399,6 @@
       "short": "樂天女孩",
       "color": "#ff006e",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_47",
-      "name": "岳均",
-      "short": "岳均",
-      "color": "#fb5607",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -7182,6 +7190,30 @@
       "name": "蔡雨涵",
       "short": "蔡雨",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_maaxir_16",
+      "name": "月眉千歲太鼓團",
+      "short": "月眉",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_67",
+      "name": "王牌樂團",
+      "short": "王牌",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_212",
+      "name": "陳子銘",
+      "short": "陳子",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
     },
@@ -19865,21 +19897,21 @@
       "id": "upcoming-row-233",
       "date": "20261114",
       "band": "SweetJohn",
-      "time": "未公布",
+      "time": "13:50-13:50",
       "name": "桃園 2026 花彩節・花彩戀曲",
       "location": "桃園市大溪月眉休閒農業區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
-      "note": "［免費］\n活動日期為 11/14、11/21、11/22。卡司包含李翊君、甜約翰、鄭怡、許景淳、芒果醬。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
       "id": "upcoming-row-234",
       "date": "20261114",
       "band": "band_drsiw0_32",
-      "time": "未公布",
+      "time": "15:00-15:00",
       "name": "桃園 2026 花彩節・花彩戀曲",
       "location": "桃園市大溪月眉休閒農業區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
-      "note": "［免費］\n活動日期為 11/14、11/21、11/22。卡司包含李翊君、甜約翰、鄭怡、許景淳、芒果醬。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
       "id": "upcoming-row-243",
@@ -21002,6 +21034,16 @@
       "note": "［免費］\n活動於 11/14(六) 14:30-20:30 舉辦,包含 Usay Panan、RK 魯凱音樂誌、舒米恩、紀曉君、梁文音、婁峻碩等卡司演出。"
     },
     {
+      "id": "upcoming-row-694",
+      "date": "20261114",
+      "band": "band_32tclr_10",
+      "time": "10:00-10:00",
+      "name": "桃園 2026 花彩節・花彩戀曲",
+      "location": "桃園市大溪月眉休閒農業區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+    },
+    {
       "id": "upcoming-row-72",
       "date": "20261115",
       "band": "papunband",
@@ -21340,6 +21382,46 @@
       "location": "雲林縣斗南鎮斗南之森食農教育園區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E7%B8%A3%E6%96%97%E5%8D%97%E9%8E%AE%E6%96%97%E5%8D%97%E4%B9%8B%E6%A3%AE%E9%A3%9F%E8%BE%B2%E6%95%99%E8%82%B2%E5%9C%92%E5%8D%80",
       "note": "［免費］\n活動於11/14(六)至11/15(日)在斗南之森食農教育園區舉辦,免費入場。卡司包含陳忻玥、李李、UEJ、王特面、蔡旻佑 Evan Yo、Andy宥銨、西西CeCi、江泓均、陳亞琦Kiki等藝人。"
+    },
+    {
+      "id": "upcoming-row-695",
+      "date": "20261115",
+      "band": "band_maaxir_16",
+      "time": "10:00-10:30",
+      "name": "桃園 2026 花彩節・花彩戀曲",
+      "location": "桃園市大溪月眉休閒農業區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+    },
+    {
+      "id": "upcoming-row-696",
+      "date": "20261115",
+      "band": "band_32tclr_10",
+      "time": "10:30-10:30",
+      "name": "桃園 2026 花彩節・花彩戀曲",
+      "location": "桃園市大溪月眉休閒農業區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+    },
+    {
+      "id": "upcoming-row-697",
+      "date": "20261115",
+      "band": "yoyo",
+      "time": "14:25-14:25",
+      "name": "桃園 2026 花彩節・花彩戀曲",
+      "location": "桃園市大溪月眉休閒農業區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+    },
+    {
+      "id": "upcoming-row-698",
+      "date": "20261115",
+      "band": "band_6u8lrj_67",
+      "time": "15:00-15:00",
+      "name": "桃園 2026 花彩節・花彩戀曲",
+      "location": "桃園市大溪月眉休閒農業區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
       "id": "upcoming-row-287",
@@ -21715,21 +21797,21 @@
       "id": "upcoming-row-235",
       "date": "20261121",
       "band": "band_drsiw0_149",
-      "time": "未公布",
+      "time": "14:35-14:35",
       "name": "桃園 2026 花彩節・花彩戀曲",
       "location": "桃園市大溪月眉休閒農業區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
-      "note": "［免費］\n活動日期為 11/14、11/21、11/22。卡司包含李翊君、甜約翰、鄭怡、許景淳、芒果醬。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
       "id": "upcoming-row-236",
       "date": "20261121",
       "band": "band_6gp8um_42",
-      "time": "未公布",
+      "time": "14:10-14:10",
       "name": "桃園 2026 花彩節・花彩戀曲",
       "location": "桃園市大溪月眉休閒農業區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
-      "note": "［免費］\n活動日期為 11/14、11/21、11/22。卡司包含李翊君、甜約翰、鄭怡、許景淳、芒果醬。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
       "id": "upcoming-row-282",
@@ -21775,11 +21857,11 @@
       "id": "upcoming-row-290",
       "date": "20261121",
       "band": "thechosens",
-      "time": "未公布",
+      "time": "13:00-13:00",
       "name": "桃園 2026 花彩節・花彩戀曲",
       "location": "桃園市大溪月眉休閒農業區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
-      "note": "［免費］\n活動日期為 11/14、11/21、11/22。卡司包含李翊君、甜約翰、鄭怡、許景淳、芒果醬。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
       "id": "upcoming-row-293",
@@ -22092,6 +22174,16 @@
       "note": "［免費］\n活動於 11/21 在艋舺青山宮前及直興市場舉辦,卡司包含山姆、DJ MR.GIN、芮鯊、LYNZI 0 ༒零、Yosebe1。"
     },
     {
+      "id": "upcoming-row-699",
+      "date": "20261121",
+      "band": "band_6gp8um_47",
+      "time": "11:00-11:00",
+      "name": "桃園 2026 花彩節・花彩戀曲",
+      "location": "桃園市大溪月眉休閒農業區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+    },
+    {
       "id": "upcoming-row-115",
       "date": "20261122",
       "band": "WhoCares",
@@ -22145,11 +22237,11 @@
       "id": "upcoming-row-232",
       "date": "20261122",
       "band": "mango",
-      "time": "未公布",
+      "time": "15:00-15:00",
       "name": "桃園 2026 花彩節・花彩戀曲",
       "location": "桃園市大溪月眉休閒農業區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
-      "note": "［免費］\n活動日期為 11/14、11/21、11/22。卡司包含李翊君、甜約翰、鄭怡、許景淳、芒果醬。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
       "id": "upcoming-row-285",
@@ -22185,11 +22277,11 @@
       "id": "upcoming-row-291",
       "date": "20261122",
       "band": "mvp",
-      "time": "未公布",
+      "time": "14:00-14:00",
       "name": "桃園 2026 花彩節・花彩戀曲",
       "location": "桃園市大溪月眉休閒農業區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
-      "note": "［免費］\n活動日期為 11/14、11/21、11/22。卡司包含李翊君、甜約翰、鄭怡、許景淳、芒果醬。\n活動於11/14、11/21、11/22舉辦,包含花田音樂會表演。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
       "id": "upcoming-row-296",
@@ -22290,6 +22382,16 @@
       "location": "花蓮市東大門廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%B8%82%E6%9D%B1%E5%A4%A7%E9%96%80%E5%BB%A3%E5%A0%B4",
       "note": "［免費］\n2026星潮原聲演唱會,包含李玖哲、品冠、GENBLUE幻藍小熊、YOUNITE、Ozone周子翔、宇宙啦啦隊、FTISLAND、金聖圭 KIM SUNG KYU、黃偉晉、阿布絲、DJR (DOHA JIAHN R1AN) 演出。\n活動於11/21至11/22在花蓮市東大門廣場舉辦,包含李玖哲、品冠、FTISLAND等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-700",
+      "date": "20261122",
+      "band": "band_drsiw0_212",
+      "time": "11:00-11:00",
+      "name": "桃園 2026 花彩節・花彩戀曲",
+      "location": "桃園市大溪月眉休閒農業區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
+      "note": "［免費］\n活動於11/14至11/22舉辦,包含月眉笛韻樂團、甜約翰、李翊君、王牌樂團、天選 THE CHOSENs 等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
       "id": "upcoming-row-133",
@@ -26197,6 +26299,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "9fde2032-2459-4660-ad93-0e5eaa68e044",
-  "updatedAt": "2026-11-11T10:25:57.124Z"
+  "revision": "d1a91506-0f2f-4a4a-94e1-126b2611f86e",
+  "updatedAt": "2026-11-11T10:27:00.457Z"
 }
