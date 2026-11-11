@@ -1186,6 +1186,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_6gp8um_88",
+      "name": "李李",
+      "short": "李李",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_1",
       "name": "王謙",
       "short": "王謙",
@@ -2042,10 +2050,10 @@
       "eventCount": 2
     },
     {
-      "id": "band_6gp8um_88",
-      "name": "李李",
-      "short": "李李",
-      "color": "#ef476f",
+      "id": "band_drsiw0_201",
+      "name": "王特面",
+      "short": "王特面",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 2
     },
@@ -6762,14 +6770,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_201",
-      "name": "王特面",
-      "short": "王特面",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "across",
       "name": "林可倫AcRoss",
       "short": "林可倫AcRoss",
@@ -7462,6 +7462,70 @@
       "name": "正修熱舞社",
       "short": "正修",
       "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_68",
+      "name": "彰中熱音",
+      "short": "彰中",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_69",
+      "name": "彰中行音",
+      "short": "彰中",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_215",
+      "name": "解憂所",
+      "short": "解憂",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_70",
+      "name": "彰商街舞",
+      "short": "彰商",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_216",
+      "name": "ㄆㄙㄎ",
+      "short": "ㄆㄙ",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_217",
+      "name": "塔拉你",
+      "short": "塔拉",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "joetu",
+      "name": "Joe Tu",
+      "short": "Jo",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_71",
+      "name": "ㄋㄒㄎㄣ",
+      "short": "ㄋㄒ",
+      "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
     },
@@ -22552,6 +22616,66 @@
       "note": "［免費］\n桃園花彩節 花彩戀曲音樂活動,日期為 11/14-11/22。包含月眉笛韻樂團、甜約翰、李翊君、月眉千歲太鼓團、YOYO家族 KIWI姐姐、王牌樂團、岳均、天選 THE CHOSENs、鄭怡、許景淳、陳子銘、迷霧森林樂團、芒果醬等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
+      "id": "upcoming-row-735",
+      "date": "20261121",
+      "band": "band_6u8lrj_68",
+      "time": "12:00-12:25",
+      "name": "彰化 青年創業嘉年華",
+      "location": "彰化縣員林市圓林園滯洪池生態公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。"
+    },
+    {
+      "id": "upcoming-row-736",
+      "date": "20261121",
+      "band": "band_6u8lrj_69",
+      "time": "12:25-12:50",
+      "name": "彰化 青年創業嘉年華",
+      "location": "彰化縣員林市圓林園滯洪池生態公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。"
+    },
+    {
+      "id": "upcoming-row-737",
+      "date": "20261121",
+      "band": "band_drsiw0_215",
+      "time": "13:00-14:00",
+      "name": "彰化 青年創業嘉年華",
+      "location": "彰化縣員林市圓林園滯洪池生態公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。"
+    },
+    {
+      "id": "upcoming-row-738",
+      "date": "20261121",
+      "band": "band_6u8lrj_70",
+      "time": "15:00-15:10",
+      "name": "彰化 青年創業嘉年華",
+      "location": "彰化縣員林市圓林園滯洪池生態公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。"
+    },
+    {
+      "id": "upcoming-row-739",
+      "date": "20261121",
+      "band": "band_drsiw0_216",
+      "time": "15:50-16:30",
+      "name": "彰化 青年創業嘉年華",
+      "location": "彰化縣員林市圓林園滯洪池生態公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。"
+    },
+    {
+      "id": "upcoming-row-740",
+      "date": "20261121",
+      "band": "band_drsiw0_217",
+      "time": "16:30-17:30",
+      "name": "彰化 青年創業嘉年華",
+      "location": "彰化縣員林市圓林園滯洪池生態公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。"
+    },
+    {
       "id": "upcoming-row-110",
       "date": "20261122",
       "band": "WhoCares",
@@ -22760,6 +22884,46 @@
       "location": "桃園市大溪區月眉休閒農業區 大溪區月眉里月眉路旁花田",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%A4%A7%E6%BA%AA%E6%9C%88%E7%9C%89%E4%BC%91%E9%96%92%E8%BE%B2%E6%A5%AD%E5%8D%80",
       "note": "［免費］\n桃園花彩節 花彩戀曲音樂活動,日期為 11/14-11/22。包含月眉笛韻樂團、甜約翰、李翊君、月眉千歲太鼓團、YOYO家族 KIWI姐姐、王牌樂團、岳均、天選 THE CHOSENs、鄭怡、許景淳、陳子銘、迷霧森林樂團、芒果醬等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
+    },
+    {
+      "id": "upcoming-row-741",
+      "date": "20261122",
+      "band": "band_drsiw0_201",
+      "time": "11:30-12:30",
+      "name": "彰化 青年創業嘉年華",
+      "location": "彰化縣員林市圓林園滯洪池生態公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。"
+    },
+    {
+      "id": "upcoming-row-742",
+      "date": "20261122",
+      "band": "band_6gp8um_88",
+      "time": "13:30-14:30",
+      "name": "彰化 青年創業嘉年華",
+      "location": "彰化縣員林市圓林園滯洪池生態公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。"
+    },
+    {
+      "id": "upcoming-row-743",
+      "date": "20261122",
+      "band": "joetu",
+      "time": "14:30-15:30",
+      "name": "彰化 青年創業嘉年華",
+      "location": "彰化縣員林市圓林園滯洪池生態公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。"
+    },
+    {
+      "id": "upcoming-row-744",
+      "date": "20261122",
+      "band": "band_6u8lrj_71",
+      "time": "15:50-16:30",
+      "name": "彰化 青年創業嘉年華",
+      "location": "彰化縣員林市圓林園滯洪池生態公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。"
     },
     {
       "id": "upcoming-row-128",
@@ -26987,6 +27151,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "b387ca58-9bac-4712-b9b2-39bb5f210ac5",
-  "updatedAt": "2026-11-11T16:03:06.247Z"
+  "revision": "47307fcf-8ed3-4aa4-acf2-87b1926083f2",
+  "updatedAt": "2026-11-11T18:33:24.847Z"
 }
