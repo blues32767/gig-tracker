@@ -7218,6 +7218,14 @@
       "eventCount": 1
     },
     {
+      "id": "band_uhxcnu_4",
+      "name": "溪洲部落藝文團隊",
+      "short": "溪洲",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -21044,6 +21052,16 @@
       "note": "［免費］\n桃園花彩節 花彩戀曲音樂活動,日期為 11/14-11/22。包含月眉笛韻樂團、甜約翰、李翊君、月眉千歲太鼓團、YOYO家族 KIWI姐姐、王牌樂團、岳均、天選 THE CHOSENs、鄭怡、許景淳、陳子銘、迷霧森林樂團、芒果醬等演出。\n主題為花彩戀曲,結合農村花田與音樂特色,漫步 11 公頃花海欣賞田野風光與音樂演出。\n來源：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6853"
     },
     {
+      "id": "upcoming-row-701",
+      "date": "20261114",
+      "band": "band_uhxcnu_4",
+      "time": "未公布",
+      "name": "新北 溪洲路開唱",
+      "location": "新北市新店溪洲阿美族生活文化園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%96%B0%E5%BA%97%E6%BA%AA%E6%B4%B2%E9%98%BF%E7%BE%8E%E6%97%8F%E7%94%9F%E6%B4%BB%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動於 11/14(六) 14:30-20:30 舉辦,包含 Usay Panan、RK 魯凱音樂誌、舒米恩、紀曉君、梁文音、婁峻碩等卡司演出。"
+    },
+    {
       "id": "upcoming-row-72",
       "date": "20261115",
       "band": "papunband",
@@ -26299,6 +26317,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "4881e609-9c39-415f-b82d-e4e3602c48dd",
-  "updatedAt": "2026-11-11T10:32:51.266Z"
+  "revision": "2610e594-da31-4e21-9f22-0f3827864c8d",
+  "updatedAt": "2026-11-11T10:34:47.283Z"
 }
