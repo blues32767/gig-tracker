@@ -39,7 +39,7 @@
       "short": "艾薇",
       "color": "#fb5607",
       "category": "個人",
-      "eventCount": 13
+      "eventCount": 14
     },
     {
       "id": "band_qqiyec_5",
@@ -47,7 +47,7 @@
       "short": "傻白",
       "color": "#3a86ff",
       "category": "樂團",
-      "eventCount": 13
+      "eventCount": 14
     },
     {
       "id": "pizzali",
@@ -130,6 +130,14 @@
       "eventCount": 8
     },
     {
+      "id": "fei",
+      "name": "吳霏 FEI",
+      "short": "吳霏 FEI",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 8
+    },
+    {
       "id": "captainlu",
       "name": "盧廣仲",
       "short": "盧廣仲",
@@ -178,14 +186,6 @@
       "eventCount": 7
     },
     {
-      "id": "fei",
-      "name": "吳霏 FEI",
-      "short": "吳霏 FEI",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 7
-    },
-    {
       "id": "FireEX",
       "name": "滅火器",
       "short": "滅火器",
@@ -200,6 +200,14 @@
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 7
+    },
+    {
+      "id": "163braces",
+      "name": "163braces",
+      "short": "163braces",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 6
     },
     {
       "id": "unus",
@@ -280,14 +288,6 @@
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 6
-    },
-    {
-      "id": "163braces",
-      "name": "163braces",
-      "short": "163braces",
-      "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 5
     },
     {
       "id": "joyce",
@@ -1778,6 +1778,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6u8lrj_46",
+      "name": "香蕉哥哥",
+      "short": "香蕉哥哥",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "jud",
       "name": "JUD 陳泳希",
       "short": "JUD 陳泳希",
@@ -1997,6 +2005,14 @@
       "id": "wildcry",
       "name": "荒鳴 Wild Cry",
       "short": "荒鳴 Wild Cry",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_199",
+      "name": "蔡承祐",
+      "short": "蔡承祐",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 2
@@ -4834,14 +4850,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_46",
-      "name": "香蕉哥哥",
-      "short": "香蕉哥哥",
-      "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "fumon",
       "name": "福夢 FUMON",
       "short": "福夢 FUMON",
@@ -6714,14 +6722,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_199",
-      "name": "蔡承祐",
-      "short": "蔡承祐",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "kitties",
       "name": "KITTIES",
       "short": "KITTIES",
@@ -7175,6 +7175,14 @@
       "short": "Yo",
       "color": "#06d6a0",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_211",
+      "name": "蔡雨涵",
+      "short": "蔡雨",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -19154,6 +19162,66 @@
       "note": "［免費］\n卡司:TRASH、163 braces、帕崎拉 PACHILA。活動日期為 2026年11月11日。"
     },
     {
+      "id": "upcoming-row-688",
+      "date": "20261112",
+      "band": "band_qqiyec_5",
+      "time": "未公布",
+      "name": "桃園 YZU ONEderland 元智大學新生公益校園演唱會",
+      "location": "桃園市元智大學壘球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%85%83%E6%99%BA%E5%A4%A7%E5%AD%B8%E5%A3%98%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n憑9-10、11-12月發票入場,可校外。主持:Shining 王如茵。"
+    },
+    {
+      "id": "upcoming-row-689",
+      "date": "20261112",
+      "band": "band_drsiw0_199",
+      "time": "未公布",
+      "name": "桃園 YZU ONEderland 元智大學新生公益校園演唱會",
+      "location": "桃園市元智大學壘球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%85%83%E6%99%BA%E5%A4%A7%E5%AD%B8%E5%A3%98%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n憑9-10、11-12月發票入場,可校外。主持:Shining 王如茵。"
+    },
+    {
+      "id": "upcoming-row-690",
+      "date": "20261112",
+      "band": "163braces",
+      "time": "未公布",
+      "name": "桃園 YZU ONEderland 元智大學新生公益校園演唱會",
+      "location": "桃園市元智大學壘球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%85%83%E6%99%BA%E5%A4%A7%E5%AD%B8%E5%A3%98%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n憑9-10、11-12月發票入場,可校外。主持:Shining 王如茵。"
+    },
+    {
+      "id": "upcoming-row-691",
+      "date": "20261112",
+      "band": "fei",
+      "time": "未公布",
+      "name": "桃園 YZU ONEderland 元智大學新生公益校園演唱會",
+      "location": "桃園市元智大學壘球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%85%83%E6%99%BA%E5%A4%A7%E5%AD%B8%E5%A3%98%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n憑9-10、11-12月發票入場,可校外。主持:Shining 王如茵。"
+    },
+    {
+      "id": "upcoming-row-692",
+      "date": "20261112",
+      "band": "band_drsiw0_211",
+      "time": "未公布",
+      "name": "桃園 YZU ONEderland 元智大學新生公益校園演唱會",
+      "location": "桃園市元智大學壘球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%85%83%E6%99%BA%E5%A4%A7%E5%AD%B8%E5%A3%98%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n憑9-10、11-12月發票入場,可校外。主持:Shining 王如茵。"
+    },
+    {
+      "id": "upcoming-row-693",
+      "date": "20261112",
+      "band": "band_6u8lrj_46",
+      "time": "未公布",
+      "name": "桃園 YZU ONEderland 元智大學新生公益校園演唱會",
+      "location": "桃園市元智大學壘球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E5%85%83%E6%99%BA%E5%A4%A7%E5%AD%B8%E5%A3%98%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n憑9-10、11-12月發票入場,可校外。主持:Shining 王如茵。"
+    },
+    {
       "id": "upcoming-row-544",
       "date": "20261113",
       "band": "band_drsiw0_197",
@@ -26129,6 +26197,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e15823d9-d5c8-4a5c-9d07-2a9ab87e719c",
-  "updatedAt": "2026-11-11T00:35:58.058Z"
+  "revision": "9fde2032-2459-4660-ad93-0e5eaa68e044",
+  "updatedAt": "2026-11-11T10:25:57.124Z"
 }
