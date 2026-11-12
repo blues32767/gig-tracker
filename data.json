@@ -658,6 +658,14 @@
       "eventCount": 4
     },
     {
+      "id": "ftsomeshiit",
+      "name": "大象體操 ft. someshiit 山姆",
+      "short": "大象體操 ft. someshiit 山姆",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_6u8lrj_45",
       "name": "海豚刑警",
       "short": "海豚刑警",
@@ -1146,14 +1154,6 @@
       "eventCount": 3
     },
     {
-      "id": "ftsomeshiit",
-      "name": "大象體操 ft. someshiit 山姆",
-      "short": "大象體操 ft. someshiit 山姆",
-      "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "band_6u8lrj_43",
       "name": "傷心欲絕",
       "short": "傷心欲絕",
@@ -1231,6 +1231,14 @@
       "short": "B CRUSH",
       "color": "#06d6a0",
       "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "band_6gp8um_66",
+      "name": "栗子",
+      "short": "栗子",
+      "color": "#2ec4b6",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -1357,6 +1365,14 @@
       "id": "band_6u8lrj_12",
       "name": "安妮塔克",
       "short": "安妮塔克",
+      "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_64",
+      "name": "凹與山",
+      "short": "凹與山",
       "color": "#8338ec",
       "category": "團體",
       "eventCount": 2
@@ -1994,14 +2010,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_6gp8um_66",
-      "name": "栗子",
-      "short": "栗子",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "sunny",
       "name": "教練Sunny",
       "short": "教練Sunny",
@@ -2022,6 +2030,14 @@
       "name": "山姆",
       "short": "山姆",
       "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_180",
+      "name": "克里夫",
+      "short": "克里夫",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 2
     },
@@ -2118,6 +2134,14 @@
       "name": "存在証明",
       "short": "存在証明",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_204",
+      "name": "孩子王",
+      "short": "孩子王",
+      "color": "#8338ec",
       "category": "個人",
       "eventCount": 2
     },
@@ -2823,14 +2847,6 @@
       "short": "Slapkiss [TH]",
       "color": "#118ab2",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_64",
-      "name": "凹與山",
-      "short": "凹與山",
-      "color": "#8338ec",
-      "category": "團體",
       "eventCount": 1
     },
     {
@@ -6002,14 +6018,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_180",
-      "name": "克里夫",
-      "short": "克里夫",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_32tclr_6",
       "name": "才能有限公司",
       "short": "才能有限公司",
@@ -6823,14 +6831,6 @@
       "short": "DJ HanChen",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_204",
-      "name": "孩子王",
-      "short": "孩子王",
-      "color": "#8338ec",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -7662,6 +7662,30 @@
       "name": "卓義峯",
       "short": "卓義",
       "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "whytete",
+      "name": "Whyte ?te壞特",
+      "short": "Wh",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "blumush",
+      "name": "blu mush",
+      "short": "bl",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "elephantgym",
+      "name": "大象體操 Elephant Gym",
+      "short": "大象",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
     },
@@ -25818,6 +25842,26 @@
       "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
     },
     {
+      "id": "upcoming-row-770",
+      "date": "20261212",
+      "band": "ftsomeshiit",
+      "time": "未公布",
+      "name": "台北 寫信馬拉松",
+      "location": "台北市華山 1914 文創園區中 4A 館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E4%B8%AD%204A%20%E9%A4%A8",
+      "note": "［免費］\n卡司包含孩子王 Kid King、Whyte ?te壞特、blu mush、大象體操 Elephant Gym"
+    },
+    {
+      "id": "upcoming-row-771",
+      "date": "20261212",
+      "band": "band_6gp8um_66",
+      "time": "未公布",
+      "name": "台北 寫信馬拉松",
+      "location": "台北市華山 1914 文創園區中 4A 館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E4%B8%AD%204A%20%E9%A4%A8",
+      "note": "［免費］\n卡司包含孩子王 Kid King、Whyte ?te壞特、blu mush、大象體操 Elephant Gym"
+    },
+    {
       "id": "upcoming-row-193",
       "date": "20261213",
       "band": "mango",
@@ -25916,6 +25960,26 @@
       "location": "礁溪五峰旗重劃區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
       "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-772",
+      "date": "20261213",
+      "band": "band_drsiw0_180",
+      "time": "未公布",
+      "name": "台北 寫信馬拉松",
+      "location": "台北市華山 1914 文創園區中 4A 館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E4%B8%AD%204A%20%E9%A4%A8",
+      "note": "［免費］\n卡司包含孩子王 Kid King、Whyte ?te壞特、blu mush、大象體操 Elephant Gym"
+    },
+    {
+      "id": "upcoming-row-773",
+      "date": "20261213",
+      "band": "band_drsiw0_64",
+      "time": "未公布",
+      "name": "台北 寫信馬拉松",
+      "location": "台北市華山 1914 文創園區中 4A 館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E4%B8%AD%204A%20%E9%A4%A8",
+      "note": "［免費］\n卡司包含孩子王 Kid King、Whyte ?te壞特、blu mush、大象體操 Elephant Gym"
     },
     {
       "id": "upcoming-row-723",
@@ -27008,6 +27072,26 @@
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n本祭演出時間尚未公布|*奏手候&羅威堂 [JP]、安妮塔克 AnnieTaco、卜星慧、裝咖人、固定客、SILKYWARMS [KR]、林頤原、吳永吉 Kiat Táng 與礦工兄弟、法比&鳳鳴齋、柯大堡、來者何人 Whoou! 未訂(演出日期未定,暫列活動首日)\n來源：https://www.threads.com/share/EcNf_6l7Y/"
     },
     {
+      "id": "upcoming-row-774",
+      "date": "20261226",
+      "band": "band_drsiw0_204",
+      "time": "未公布",
+      "name": "台北 寫信馬拉松",
+      "location": "台北市華山 1914 文創園區中 4A 館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E4%B8%AD%204A%20%E9%A4%A8",
+      "note": "［免費］\n卡司包含孩子王 Kid King、Whyte ?te壞特、blu mush、大象體操 Elephant Gym"
+    },
+    {
+      "id": "upcoming-row-775",
+      "date": "20261226",
+      "band": "whytete",
+      "time": "未公布",
+      "name": "台北 寫信馬拉松",
+      "location": "台北市華山 1914 文創園區中 4A 館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E4%B8%AD%204A%20%E9%A4%A8",
+      "note": "［免費］\n卡司包含孩子王 Kid King、Whyte ?te壞特、blu mush、大象體操 Elephant Gym"
+    },
+    {
       "id": "upcoming-row-208",
       "date": "20261227",
       "band": "kenshiyonezu",
@@ -27046,6 +27130,26 @@
       "location": "雲林西螺福興宮前",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9B%B2%E6%9E%97%E8%A5%BF%E8%9E%BA%E7%A6%8F%E8%88%88%E5%AE%AE%E5%89%8D",
       "note": "［免費］\n因颱風影響,原定於 10/24、10/25 舉辦的信徒文化季延期至 12/26、12/27 舉行。\n活動時間未公布(表為原訂時間)\n本祭演出時間尚未公布|*奏手候&羅威堂 [JP]、安妮塔克 AnnieTaco、卜星慧、裝咖人、固定客、SILKYWARMS [KR]、林頤原、吳永吉 Kiat Táng 與礦工兄弟、法比&鳳鳴齋、柯大堡、來者何人 Whoou! 未訂(演出日期未定,暫列活動首日)\n來源：https://www.threads.com/share/EcNf_6l7Y/"
+    },
+    {
+      "id": "upcoming-row-776",
+      "date": "20261227",
+      "band": "blumush",
+      "time": "未公布",
+      "name": "台北 寫信馬拉松",
+      "location": "台北市華山 1914 文創園區中 4A 館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E4%B8%AD%204A%20%E9%A4%A8",
+      "note": "［免費］\n卡司包含孩子王 Kid King、Whyte ?te壞特、blu mush、大象體操 Elephant Gym"
+    },
+    {
+      "id": "upcoming-row-777",
+      "date": "20261227",
+      "band": "elephantgym",
+      "time": "未公布",
+      "name": "台北 寫信馬拉松",
+      "location": "台北市華山 1914 文創園區中 4A 館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E4%B8%AD%204A%20%E9%A4%A8",
+      "note": "［免費］\n卡司包含孩子王 Kid King、Whyte ?te壞特、blu mush、大象體操 Elephant Gym"
     },
     {
       "id": "upcoming-row-217",
@@ -27633,6 +27737,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3ed24056-18c3-41a1-bd0d-e799c220ee92",
-  "updatedAt": "2026-11-12T16:02:14.407Z"
+  "revision": "664d420b-cfcc-40a7-a2b1-bb92d64694a0",
+  "updatedAt": "2026-11-12T16:52:59.254Z"
 }
