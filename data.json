@@ -298,6 +298,14 @@
       "eventCount": 5
     },
     {
+      "id": "saturnday",
+      "name": "Saturnday",
+      "short": "Saturnday",
+      "color": "#06d6a0",
+      "category": "團體",
+      "eventCount": 5
+    },
+    {
       "id": "band_qqiyec",
       "name": "無妄合作社",
       "short": "無妄合作社",
@@ -470,14 +478,6 @@
       "name": "FEniX",
       "short": "FEniX",
       "color": "#8338ec",
-      "category": "團體",
-      "eventCount": 4
-    },
-    {
-      "id": "saturnday",
-      "name": "Saturnday",
-      "short": "Saturnday",
-      "color": "#06d6a0",
       "category": "團體",
       "eventCount": 4
     },
@@ -26590,6 +26590,16 @@
       "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
     },
     {
+      "id": "upcoming-row-772",
+      "date": "20261220",
+      "band": "saturnday",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
       "id": "upcoming-row-203",
       "date": "20261224",
       "band": "mango",
@@ -27565,6 +27575,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "cd9c11b6-ea2e-4851-8ee7-82e423693fb1",
-  "updatedAt": "2026-11-12T06:39:28.043Z"
+  "revision": "79a23621-0147-4051-8740-89468bf8fb77",
+  "updatedAt": "2026-11-12T09:39:49.183Z"
 }
