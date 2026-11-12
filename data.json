@@ -58,6 +58,14 @@
       "eventCount": 12
     },
     {
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富凱",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 12
+    },
+    {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
@@ -66,11 +74,11 @@
       "eventCount": 11
     },
     {
-      "id": "band_drsiw0_25",
-      "name": "許富凱",
-      "short": "許富凱",
-      "color": "#ef476f",
-      "category": "個人",
+      "id": "band_drsiw0_27",
+      "name": "玖壹壹",
+      "short": "玖壹壹",
+      "color": "#118ab2",
+      "category": "團體",
       "eventCount": 11
     },
     {
@@ -87,14 +95,6 @@
       "short": "冰球樂團",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 10
-    },
-    {
-      "id": "band_drsiw0_27",
-      "name": "玖壹壹",
-      "short": "玖壹壹",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 10
     },
     {
@@ -370,6 +370,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_drsiw0_63",
+      "name": "震樂堂",
+      "short": "震樂堂",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
       "id": "band_6gp8um_19",
       "name": "薄暮",
       "short": "薄暮",
@@ -546,14 +554,6 @@
       "eventCount": 4
     },
     {
-      "id": "band_drsiw0_63",
-      "name": "震樂堂",
-      "short": "震樂堂",
-      "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
       "id": "band_6u8lrj_15",
       "name": "擊沈女孩",
       "short": "擊沈女孩",
@@ -682,6 +682,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_14",
+      "name": "翁鈺鈞",
+      "short": "翁鈺鈞",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "ffo",
       "name": "F.F.O",
       "short": "F.F.O",
@@ -742,6 +750,14 @@
       "name": "李翊君",
       "short": "李翊君",
       "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_34",
+      "name": "羅文裕",
+      "short": "羅文裕",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 3
     },
@@ -914,6 +930,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_80",
+      "name": "葛西瓦",
+      "short": "葛西瓦",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "traego",
       "name": "粹垢TRAEGO",
       "short": "粹垢TRAEGO",
@@ -1066,6 +1090,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_136",
+      "name": "金智娟",
+      "short": "金智娟",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_137",
       "name": "郭家瑋",
       "short": "郭家瑋",
@@ -1178,6 +1210,14 @@
       "eventCount": 3
     },
     {
+      "id": "bcrush",
+      "name": "B CRUSH",
+      "short": "B CRUSH",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_174",
       "name": "戴愛玲",
       "short": "戴愛玲",
@@ -1210,18 +1250,18 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_13",
-      "name": "黃新皓",
-      "short": "黃新皓",
-      "color": "#ff006e",
+      "id": "band_drsiw0_11",
+      "name": "許志豪",
+      "short": "許志豪",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_14",
-      "name": "翁鈺鈞",
-      "short": "翁鈺鈞",
-      "color": "#fb5607",
+      "id": "band_drsiw0_13",
+      "name": "黃新皓",
+      "short": "黃新皓",
+      "color": "#ff006e",
       "category": "個人",
       "eventCount": 2
     },
@@ -1270,14 +1310,6 @@
       "name": "韋禮安",
       "short": "韋禮安",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_34",
-      "name": "羅文裕",
-      "short": "羅文裕",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -1350,14 +1382,6 @@
       "name": "呂士軒",
       "short": "呂士軒",
       "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_80",
-      "name": "葛西瓦",
-      "short": "葛西瓦",
-      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 2
     },
@@ -1634,14 +1658,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_136",
-      "name": "金智娟",
-      "short": "金智娟",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_6gp8um_42",
       "name": "鄭怡",
       "short": "鄭怡",
@@ -1810,6 +1826,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_149",
+      "name": "許景淳",
+      "short": "許景淳",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "jud",
       "name": "JUD 陳泳希",
       "short": "JUD 陳泳希",
@@ -1895,14 +1919,6 @@
       "short": "劉明湘",
       "color": "#ffd166",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "bcrush",
-      "name": "B CRUSH",
-      "short": "B CRUSH",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -2106,6 +2122,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_qqiyec_35",
+      "name": "小男孩樂團",
+      "short": "小男孩樂團",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "band_32tclr_10",
       "name": "月眉笛韻樂團",
       "short": "月眉笛韻樂團",
@@ -2158,14 +2182,6 @@
       "name": "羅巧倫",
       "short": "羅巧倫",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_11",
-      "name": "許志豪",
-      "short": "許志豪",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
     },
@@ -4858,14 +4874,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_149",
-      "name": "許景淳",
-      "short": "許景淳",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "rainyknight",
       "name": "RainyKnight",
       "short": "RainyKnight",
@@ -7154,14 +7162,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_qqiyec_35",
-      "name": "小男孩樂團",
-      "short": "小男孩樂團",
-      "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "usaypanan",
       "name": "Usay Panan",
       "short": "Usay Panan",
@@ -7527,6 +7527,134 @@
       "short": "ㄋㄒㄎㄣ",
       "color": "#fb5607",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_219",
+      "name": "李明德",
+      "short": "李明",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_220",
+      "name": "范怡文",
+      "short": "范怡",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_221",
+      "name": "殷正洋",
+      "short": "殷正",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_222",
+      "name": "王海玲",
+      "short": "王海",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_223",
+      "name": "吳申梅",
+      "short": "吳申",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_224",
+      "name": "黃文星",
+      "short": "黃文",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_37",
+      "name": "安地斯樂團",
+      "short": "安地",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "hkg",
+      "name": "HKG樂團",
+      "short": "HK",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_92",
+      "name": "呂薔",
+      "short": "呂薔",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "robertozayas",
+      "name": "ROBERTO ZAYAS",
+      "short": "RO",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_l7kh00",
+      "name": "陳昇VS新寶島康樂隊",
+      "short": "陳昇",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "jefferyc",
+      "name": "Jeffery C",
+      "short": "Je",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "kaxa",
+      "name": "KAXA",
+      "short": "KA",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "saturday",
+      "name": "SATURDAY",
+      "short": "SA",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "ell",
+      "name": "ELL&",
+      "short": "EL",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_225",
+      "name": "黃瑾昕",
+      "short": "黃瑾",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -24492,6 +24620,56 @@
       "note": "［免費］\n活動日期:2026/12/11,演出時段:15:00-17:30,主題:全民愛嘻哈。第一波卡司:玖壹壹、潤少、C.HOLLY、DJ Swallow 妖嬌。"
     },
     {
+      "id": "upcoming-row-745",
+      "date": "20261211",
+      "band": "band_drsiw0_219",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-746",
+      "date": "20261211",
+      "band": "band_drsiw0_136",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-747",
+      "date": "20261211",
+      "band": "band_drsiw0_220",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-748",
+      "date": "20261211",
+      "band": "band_drsiw0_221",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-749",
+      "date": "20261211",
+      "band": "band_drsiw0_222",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
       "id": "upcoming-row-173",
       "date": "20261212",
       "band": "mango",
@@ -25522,6 +25700,66 @@
       "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
     },
     {
+      "id": "upcoming-row-750",
+      "date": "20261212",
+      "band": "band_drsiw0_25",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-751",
+      "date": "20261212",
+      "band": "band_drsiw0_149",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-752",
+      "date": "20261212",
+      "band": "band_drsiw0_11",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-753",
+      "date": "20261212",
+      "band": "band_drsiw0_14",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-754",
+      "date": "20261212",
+      "band": "band_drsiw0_223",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-755",
+      "date": "20261212",
+      "band": "band_drsiw0_224",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
       "id": "upcoming-row-195",
       "date": "20261213",
       "band": "mango",
@@ -25560,6 +25798,66 @@
       "location": "台中 Legacy Taichung",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%20Legacy%20Taichung",
       "note": "［售票］\n美秀集團2026年12月巡迴專場-台中二場\n2026/10/29 (四) 中午12:00~晚上23:59美秀集團官網會員優先預購\n2026/10/30 (五) 中午12:00 全面開賣\n各階段售票不預留名額,任一場次於2026/10/29(四)會員優先預購完售即不在2026/10/30 (五)開放購票,預售票完售後不開放現場購票。\n售票平台:https://www.indievox.com/activity/detail/26_iv04280c7\n來源：https://www.instagram.com/p/De-8lCoJxQO/?utm_source=ig_web_copy_link&srtk=NTc4MTIwNjQ2YQ==\n來源：https://www.amazingshowtw.com/news/2026-10-23-enq5"
+    },
+    {
+      "id": "upcoming-row-756",
+      "date": "20261213",
+      "band": "band_qqiyec_37",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-757",
+      "date": "20261213",
+      "band": "hkg",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-758",
+      "date": "20261213",
+      "band": "band_drsiw0_80",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-759",
+      "date": "20261213",
+      "band": "band_drsiw0_34",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-760",
+      "date": "20261213",
+      "band": "band_6gp8um_92",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-761",
+      "date": "20261213",
+      "band": "robertozayas",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
     },
     {
       "id": "upcoming-row-731",
@@ -26172,6 +26470,36 @@
       "note": "［免費］\n第二波卡司公布:TRASH、辛龍、C.Holly、玖壹壹。活動日期 2026/12/19(六)18:00–22:00"
     },
     {
+      "id": "upcoming-row-762",
+      "date": "20261219",
+      "band": "band_drsiw0_63",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-763",
+      "date": "20261219",
+      "band": "band_qqiyec_35",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-764",
+      "date": "20261219",
+      "band": "band_l7kh00",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
       "id": "upcoming-row-225",
       "date": "20261220",
       "band": "AmazingShow",
@@ -26190,6 +26518,76 @@
       "location": "未公布",
       "mapLink": "",
       "note": "［售票］\n白頻率 White Frequency 演出,10/30 起售浪花毛巾周邊。"
+    },
+    {
+      "id": "upcoming-row-765",
+      "date": "20261220",
+      "band": "jefferyc",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-766",
+      "date": "20261220",
+      "band": "kaxa",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-767",
+      "date": "20261220",
+      "band": "bcrush",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-768",
+      "date": "20261220",
+      "band": "saturday",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-769",
+      "date": "20261220",
+      "band": "ell",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-770",
+      "date": "20261220",
+      "band": "band_drsiw0_225",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
+    },
+    {
+      "id": "upcoming-row-771",
+      "date": "20261220",
+      "band": "band_drsiw0_27",
+      "time": "19:00-21:00",
+      "name": "宜蘭 冬戀蘭陽溫泉季多元文化音樂會",
+      "location": "礁溪五峰旗重劃區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
+      "note": "［免費］\n冬戀蘭陽溫泉季期間舉辦的多元文化音樂會,包含民歌、鄉土、文化、創作及流行主題晚會。"
     },
     {
       "id": "upcoming-row-203",
@@ -27167,6 +27565,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "43d630b0-064c-4019-a89a-857e582159fe",
-  "updatedAt": "2026-11-12T03:37:10.288Z"
+  "revision": "cd9c11b6-ea2e-4851-8ee7-82e423693fb1",
+  "updatedAt": "2026-11-12T06:39:28.043Z"
 }
