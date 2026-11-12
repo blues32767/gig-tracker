@@ -2092,7 +2092,7 @@
     {
       "id": "band_6u8lrj_62",
       "name": "存在証明",
-      "short": "存在",
+      "short": "存在証明",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
@@ -2100,7 +2100,7 @@
     {
       "id": "band_6u8lrj_65",
       "name": "宅邦戰隊",
-      "short": "宅邦",
+      "short": "宅邦戰隊",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 2
@@ -2108,7 +2108,7 @@
     {
       "id": "band_32tclr_10",
       "name": "月眉笛韻樂團",
-      "short": "月眉",
+      "short": "月眉笛韻樂團",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 2
@@ -6804,7 +6804,7 @@
     {
       "id": "lanlan",
       "name": "LanLan",
-      "short": "La",
+      "short": "LanLan",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -6812,7 +6812,7 @@
     {
       "id": "djhanchen",
       "name": "DJ HanChen",
-      "short": "DJ",
+      "short": "DJ HanChen",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -6820,7 +6820,7 @@
     {
       "id": "band_drsiw0_204",
       "name": "孩子王",
-      "short": "孩子",
+      "short": "孩子王",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -6828,7 +6828,7 @@
     {
       "id": "djjemp",
       "name": "DJ Jemp",
-      "short": "DJ",
+      "short": "DJ Jemp",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -6836,7 +6836,7 @@
     {
       "id": "band_32tclr_7",
       "name": "女民活動中心",
-      "short": "女民",
+      "short": "女民活動中心",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -6844,7 +6844,7 @@
     {
       "id": "djkenta",
       "name": "DJ Kenta",
-      "short": "DJ",
+      "short": "DJ Kenta",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -6852,7 +6852,7 @@
     {
       "id": "djlai",
       "name": "DJ Lai",
-      "short": "DJ",
+      "short": "DJ Lai",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -6860,7 +6860,7 @@
     {
       "id": "band_6u8lrj_63",
       "name": "射後不理",
-      "short": "射後",
+      "short": "射後不理",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -6868,7 +6868,7 @@
     {
       "id": "band_lfawlv_2",
       "name": "DJ 呱呱樂",
-      "short": "DJ",
+      "short": "DJ 呱呱樂",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -6876,7 +6876,7 @@
     {
       "id": "band_ule9we",
       "name": "宮5事3",
-      "short": "宮5",
+      "short": "宮5事3",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -6884,7 +6884,7 @@
     {
       "id": "djtoiletalie",
       "name": "DJ Toilet Alien",
-      "short": "DJ",
+      "short": "DJ Toilet Alien",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -6892,7 +6892,7 @@
     {
       "id": "dj2ongza0",
       "name": "DJ 2ongza0",
-      "short": "DJ",
+      "short": "DJ 2ongza0",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -6900,7 +6900,7 @@
     {
       "id": "djneil",
       "name": "DJ Neil",
-      "short": "DJ",
+      "short": "DJ Neil",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -6908,7 +6908,7 @@
     {
       "id": "band_drsiw0_205",
       "name": "李玖哲",
-      "short": "李玖",
+      "short": "李玖哲",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -6916,7 +6916,7 @@
     {
       "id": "younite",
       "name": "YOUNITE",
-      "short": "YO",
+      "short": "YOUNITE",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -6924,7 +6924,7 @@
     {
       "id": "ozone_2",
       "name": "Ozone周子翔",
-      "short": "Oz",
+      "short": "Ozone周子翔",
       "color": "#3a86ff",
       "category": "團體",
       "eventCount": 1
@@ -6932,7 +6932,7 @@
     {
       "id": "band_qqiyec_32",
       "name": "宇宙啦啦隊",
-      "short": "宇宙",
+      "short": "宇宙啦啦隊",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -6940,7 +6940,7 @@
     {
       "id": "ftisland",
       "name": "FTISLAND",
-      "short": "FT",
+      "short": "FTISLAND",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -6948,7 +6948,7 @@
     {
       "id": "kimsungkyu",
       "name": "金聖圭 KIM SUNG KYU",
-      "short": "金聖",
+      "short": "金聖圭 KIM SUNG KYU",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -6956,7 +6956,7 @@
     {
       "id": "djrdohajiahn",
       "name": "DJR (DOHA JIAHN R1AN)",
-      "short": "DJ",
+      "short": "DJR (DOHA JIAHN R1AN)",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -6964,7 +6964,7 @@
     {
       "id": "claire",
       "name": "郭靜 Claire",
-      "short": "郭靜",
+      "short": "郭靜 Claire",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -6972,7 +6972,7 @@
     {
       "id": "band_drsiw0_206",
       "name": "莊振凱",
-      "short": "莊振",
+      "short": "莊振凱",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -6980,7 +6980,7 @@
     {
       "id": "buy_1",
       "name": "過癮萬事屋 Bu$Y",
-      "short": "過癮",
+      "short": "過癮萬事屋 Bu$Y",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -6988,7 +6988,7 @@
     {
       "id": "djpanimc",
       "name": "DJ Pani&MC 大維",
-      "short": "DJ",
+      "short": "DJ Pani&MC 大維",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -6996,7 +6996,7 @@
     {
       "id": "djr",
       "name": "DJR",
-      "short": "DJ",
+      "short": "DJR",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -7004,7 +7004,7 @@
     {
       "id": "band_uhxcnu_2",
       "name": "黃韻玲浪漫里樂團",
-      "short": "黃韻",
+      "short": "黃韻玲浪漫里樂團",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -7012,7 +7012,7 @@
     {
       "id": "djkenlin",
       "name": "DJKenLin林軒",
-      "short": "DJ",
+      "short": "DJKenLin林軒",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -7020,7 +7020,7 @@
     {
       "id": "band_qqiyec_33",
       "name": "日本流線形",
-      "short": "日本",
+      "short": "日本流線形",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -7028,7 +7028,7 @@
     {
       "id": "band_32tclr_8",
       "name": "郭子浮花樂隊",
-      "short": "郭子",
+      "short": "郭子浮花樂隊",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -7036,7 +7036,7 @@
     {
       "id": "band_drsiw0_207",
       "name": "劉若英",
-      "short": "劉若",
+      "short": "劉若英",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -7044,7 +7044,7 @@
     {
       "id": "band_drsiw0_208",
       "name": "霜淇淋",
-      "short": "霜淇",
+      "short": "霜淇淋",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -7052,7 +7052,7 @@
     {
       "id": "band_drsiw0_209",
       "name": "伯爵白",
-      "short": "伯爵",
+      "short": "伯爵白",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -7060,7 +7060,7 @@
     {
       "id": "band_32tclr_9",
       "name": "當代電影大師",
-      "short": "當代",
+      "short": "當代電影大師",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -7068,7 +7068,7 @@
     {
       "id": "band_uhxcnu_3",
       "name": "藝舞蓉文化藝術團",
-      "short": "藝舞",
+      "short": "藝舞蓉文化藝術團",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -7076,7 +7076,7 @@
     {
       "id": "band_qqiyec_34",
       "name": "薄荷綠工廠",
-      "short": "薄荷",
+      "short": "薄荷綠工廠",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -7084,7 +7084,7 @@
     {
       "id": "bg8locc",
       "name": "蛋頭 BG8LOCC",
-      "short": "蛋頭",
+      "short": "蛋頭 BG8LOCC",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -7092,7 +7092,7 @@
     {
       "id": "jpthewavy",
       "name": "JP THE WAVY",
-      "short": "JP",
+      "short": "JP THE WAVY",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -7108,7 +7108,7 @@
     {
       "id": "band_mmlpxq",
       "name": "帕拉斯 3",
-      "short": "帕拉",
+      "short": "帕拉斯 3",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -7116,7 +7116,7 @@
     {
       "id": "djmrgin",
       "name": "DJ MR.GIN",
-      "short": "DJ",
+      "short": "DJ MR.GIN",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -7132,7 +7132,7 @@
     {
       "id": "lynzi0",
       "name": "LYNZI 0 ༒零",
-      "short": "LY",
+      "short": "LYNZI 0 ༒零",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -7140,7 +7140,7 @@
     {
       "id": "yosebe",
       "name": "Yosebe",
-      "short": "Yo",
+      "short": "Yosebe",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -7148,7 +7148,7 @@
     {
       "id": "band_6u8lrj_66",
       "name": "後山霓虹",
-      "short": "後山",
+      "short": "後山霓虹",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -7156,7 +7156,7 @@
     {
       "id": "band_qqiyec_35",
       "name": "小男孩樂團",
-      "short": "小男",
+      "short": "小男孩樂團",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -7164,7 +7164,7 @@
     {
       "id": "usaypanan",
       "name": "Usay Panan",
-      "short": "Us",
+      "short": "Usay Panan",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -7172,7 +7172,7 @@
     {
       "id": "band_drsiw0_210",
       "name": "李貞潤",
-      "short": "李貞",
+      "short": "李貞潤",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -7180,7 +7180,7 @@
     {
       "id": "yosebe1",
       "name": "Yosebe1",
-      "short": "Yo",
+      "short": "Yosebe1",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -7188,7 +7188,7 @@
     {
       "id": "band_drsiw0_211",
       "name": "蔡雨涵",
-      "short": "蔡雨",
+      "short": "蔡雨涵",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -7196,7 +7196,7 @@
     {
       "id": "band_maaxir_16",
       "name": "月眉千歲太鼓團",
-      "short": "月眉",
+      "short": "月眉千歲太鼓團",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -7204,7 +7204,7 @@
     {
       "id": "band_6u8lrj_67",
       "name": "王牌樂團",
-      "short": "王牌",
+      "short": "王牌樂團",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -7212,7 +7212,7 @@
     {
       "id": "band_drsiw0_212",
       "name": "陳子銘",
-      "short": "陳子",
+      "short": "陳子銘",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -7220,7 +7220,7 @@
     {
       "id": "band_uhxcnu_4",
       "name": "溪洲部落藝文團隊",
-      "short": "溪洲",
+      "short": "溪洲部落藝文團隊",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -7228,7 +7228,7 @@
     {
       "id": "jelly",
       "name": "傑利 Jelly 市民共創曲〈台北長大〉",
-      "short": "傑利",
+      "short": "傑利 Jelly 市民共創曲〈台北長大〉",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -7236,7 +7236,7 @@
     {
       "id": "band_drsiw0_213",
       "name": "陳明章",
-      "short": "陳明",
+      "short": "陳明章",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -7244,7 +7244,7 @@
     {
       "id": "band_lrujfm_1",
       "name": "曾偉旻 市民共創曲",
-      "short": "曾偉",
+      "short": "曾偉旻 市民共創曲",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -7252,7 +7252,7 @@
     {
       "id": "band_xwzwjz",
       "name": "鄭宜雰 × 林加安 市民共創曲〈想去投票〉",
-      "short": "鄭宜",
+      "short": "鄭宜雰 × 林加安 市民共創曲〈想去投票〉",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -7260,7 +7260,7 @@
     {
       "id": "band_lrujfm_2",
       "name": "史茵茵 市民共創曲",
-      "short": "史茵",
+      "short": "史茵茵 市民共創曲",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -7268,7 +7268,7 @@
     {
       "id": "band_mlbm3c",
       "name": "台北順起來 主題曲 沈伯洋 × 周自從",
-      "short": "台北",
+      "short": "台北順起來 主題曲 沈伯洋 × 周自從",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -7276,7 +7276,7 @@
     {
       "id": "jpthewavyjp",
       "name": "JP THE WAVY [JP]",
-      "short": "JP",
+      "short": "JP THE WAVY [JP]",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -7284,7 +7284,7 @@
     {
       "id": "band_jugh8z",
       "name": "已己巳己-いこみき- [JP]",
-      "short": "已己",
+      "short": "已己巳己-いこみき- [JP]",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -7292,7 +7292,7 @@
     {
       "id": "luckyriri",
       "name": "LUCKY-RIRI",
-      "short": "LU",
+      "short": "LUCKY-RIRI",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -7300,7 +7300,7 @@
     {
       "id": "sulfurcreek",
       "name": "Sulfur Creek",
-      "short": "Su",
+      "short": "Sulfur Creek",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -7308,7 +7308,7 @@
     {
       "id": "thepandanwan",
       "name": "The Pandan Wangi [ID]",
-      "short": "Th",
+      "short": "The Pandan Wangi [ID]",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -7316,7 +7316,7 @@
     {
       "id": "whaleholic",
       "name": "Whaleholic",
-      "short": "Wh",
+      "short": "Whaleholic",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -7324,7 +7324,7 @@
     {
       "id": "nagi",
       "name": "NAGI",
-      "short": "NA",
+      "short": "NAGI",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -7332,7 +7332,7 @@
     {
       "id": "deadchantkr",
       "name": "DEAD CHANT [KR]",
-      "short": "DE",
+      "short": "DEAD CHANT [KR]",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -7340,7 +7340,7 @@
     {
       "id": "labretjp",
       "name": "LABRET [JP]",
-      "short": "LA",
+      "short": "LABRET [JP]",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -7348,7 +7348,7 @@
     {
       "id": "greasyalley",
       "name": "Greasy Alley 油漬艾莉",
-      "short": "Gr",
+      "short": "Greasy Alley 油漬艾莉",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -7356,7 +7356,7 @@
     {
       "id": "shankjp",
       "name": "SHANK [JP]",
-      "short": "SH",
+      "short": "SHANK [JP]",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -7372,7 +7372,7 @@
     {
       "id": "band_drsiw0_214",
       "name": "赤尾青",
-      "short": "赤尾",
+      "short": "赤尾青",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -7380,7 +7380,7 @@
     {
       "id": "noyakr",
       "name": "NOYA [KR]",
-      "short": "NO",
+      "short": "NOYA [KR]",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -7388,7 +7388,7 @@
     {
       "id": "billfoldid",
       "name": "BILLFOLD [ID]",
-      "short": "BI",
+      "short": "BILLFOLD [ID]",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -7396,7 +7396,7 @@
     {
       "id": "dollsjp",
       "name": "首振りDolls [JP]",
-      "short": "首振",
+      "short": "首振りDolls [JP]",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -7404,7 +7404,7 @@
     {
       "id": "mightyrise",
       "name": "Mighty Rise",
-      "short": "Mi",
+      "short": "Mighty Rise",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -7412,7 +7412,7 @@
     {
       "id": "copesjp",
       "name": "COPES [JP]",
-      "short": "CO",
+      "short": "COPES [JP]",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -7420,7 +7420,7 @@
     {
       "id": "yeewater",
       "name": "乙水 YEE WATER",
-      "short": "乙水",
+      "short": "乙水 YEE WATER",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -7428,7 +7428,7 @@
     {
       "id": "johnnypandor",
       "name": "JOHNNY PANDORA [JP]",
-      "short": "JO",
+      "short": "JOHNNY PANDORA [JP]",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -7436,7 +7436,7 @@
     {
       "id": "lolla",
       "name": "蘿拉 LOLLA",
-      "short": "蘿拉",
+      "short": "蘿拉 LOLLA",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -7444,7 +7444,7 @@
     {
       "id": "falseapartph",
       "name": "FALSE APART [PH]",
-      "short": "FA",
+      "short": "FALSE APART [PH]",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -7452,7 +7452,7 @@
     {
       "id": "hutboyth",
       "name": "HUT BOY [TH]",
-      "short": "HU",
+      "short": "HUT BOY [TH]",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -7460,7 +7460,7 @@
     {
       "id": "band_qqiyec_36",
       "name": "正修熱舞社",
-      "short": "正修",
+      "short": "正修熱舞社",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -7468,7 +7468,7 @@
     {
       "id": "band_6u8lrj_68",
       "name": "彰中熱音",
-      "short": "彰中",
+      "short": "彰中熱音",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -7476,7 +7476,7 @@
     {
       "id": "band_6u8lrj_69",
       "name": "彰中行音",
-      "short": "彰中",
+      "short": "彰中行音",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -7484,7 +7484,7 @@
     {
       "id": "band_drsiw0_215",
       "name": "解憂所",
-      "short": "解憂",
+      "short": "解憂所",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -7492,7 +7492,7 @@
     {
       "id": "band_6u8lrj_70",
       "name": "彰商街舞",
-      "short": "彰商",
+      "short": "彰商街舞",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -7500,7 +7500,7 @@
     {
       "id": "band_drsiw0_216",
       "name": "ㄆㄙㄎ",
-      "short": "ㄆㄙ",
+      "short": "ㄆㄙㄎ",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -7508,7 +7508,7 @@
     {
       "id": "band_drsiw0_217",
       "name": "塔拉你",
-      "short": "塔拉",
+      "short": "塔拉你",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -7516,7 +7516,7 @@
     {
       "id": "joetu",
       "name": "Joe Tu",
-      "short": "Jo",
+      "short": "Joe Tu",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -7524,7 +7524,7 @@
     {
       "id": "band_6u8lrj_71",
       "name": "ㄋㄒㄎㄣ",
-      "short": "ㄋㄒ",
+      "short": "ㄋㄒㄎㄣ",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -7644,7 +7644,7 @@
     {
       "id": "band_maaxir_15",
       "name": "我甘願重新愛過",
-      "short": "我甘",
+      "short": "我甘願重新愛過",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 0
@@ -7652,7 +7652,7 @@
     {
       "id": "band_6u8lrj_64",
       "name": "南北貳路",
-      "short": "南北",
+      "short": "南北貳路",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 0
@@ -7660,7 +7660,7 @@
     {
       "id": "luxygirls",
       "name": "Luxy girls",
-      "short": "Lu",
+      "short": "Luxy girls",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 0
@@ -7668,7 +7668,7 @@
     {
       "id": "band_drsiw0_218",
       "name": "林沐晴",
-      "short": "林沐",
+      "short": "林沐晴",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 0
@@ -27168,5 +27168,5 @@
   },
   "schemaVersion": 2,
   "revision": "57a4d9f4-8f65-4768-a341-559257fb2b92",
-  "updatedAt": "2026-11-12T03:26:43.216Z"
+  "updatedAt": "2026-11-12T03:28:47.860Z"
 }
