@@ -20835,7 +20835,7 @@
       "id": "upcoming-row-356",
       "date": "20261114",
       "band": "band_tjzmxt",
-      "time": "17:05-17:35",
+      "time": "15:55-16:25",
       "name": "桃園 FIREBALL Fest. 火球祭",
       "location": "桃園市樂天桃園棒球場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E6%A8%82%E5%A4%A9%E6%A1%83%E5%9C%92%E6%A3%92%E7%90%83%E5%A0%B4",
@@ -27737,6 +27737,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "96b83858-6a40-48dd-9b44-d120d59f925c",
-  "updatedAt": "2026-11-12T16:54:30.648Z"
+  "revision": "72882a36-4113-489d-842c-a813532cae66",
+  "updatedAt": "2026-11-12T17:00:56.385Z"
 }
