@@ -7770,6 +7770,62 @@
       "eventCount": 1
     },
     {
+      "id": "band_0uv7cs",
+      "name": "陳",
+      "short": "陳",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_0uv7cs_1",
+      "name": "許",
+      "short": "許",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_0uv7cs_2",
+      "name": "克",
+      "short": "克",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_0uv7cs_3",
+      "name": "德",
+      "short": "德",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_0uv7cs_4",
+      "name": "普",
+      "short": "普",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_0uv7cs_5",
+      "name": "吳",
+      "short": "吳",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_94",
+      "name": "吳姆",
+      "short": "吳姆",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -23547,9 +23603,9 @@
       "band": "band_drsiw0_228",
       "time": "18:00-21:00",
       "name": "屏東 Re:Live音你而聚",
-      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
-      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
     },
     {
       "id": "upcoming-row-799",
@@ -23557,9 +23613,9 @@
       "band": "band_drsiw0_229",
       "time": "18:00-21:00",
       "name": "屏東 Re:Live音你而聚",
-      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
-      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
     },
     {
       "id": "upcoming-row-800",
@@ -23567,9 +23623,9 @@
       "band": "band_drsiw0_230",
       "time": "18:00-21:00",
       "name": "屏東 Re:Live音你而聚",
-      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
-      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
     },
     {
       "id": "upcoming-row-801",
@@ -23577,9 +23633,9 @@
       "band": "band_drsiw0_231",
       "time": "18:00-21:00",
       "name": "屏東 Re:Live音你而聚",
-      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
-      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
     },
     {
       "id": "upcoming-row-802",
@@ -23587,9 +23643,9 @@
       "band": "band_drsiw0_232",
       "time": "18:00-21:00",
       "name": "屏東 Re:Live音你而聚",
-      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
-      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
     },
     {
       "id": "upcoming-row-803",
@@ -23597,9 +23653,9 @@
       "band": "band_6gp8um_93",
       "time": "18:00-21:00",
       "name": "屏東 Re:Live音你而聚",
-      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
-      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
     },
     {
       "id": "upcoming-row-804",
@@ -23607,9 +23663,79 @@
       "band": "band_6u8lrj_72",
       "time": "18:00-21:00",
       "name": "屏東 Re:Live音你而聚",
-      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
-      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
+    },
+    {
+      "id": "upcoming-row-811",
+      "date": "20261126",
+      "band": "band_0uv7cs",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
+    },
+    {
+      "id": "upcoming-row-812",
+      "date": "20261126",
+      "band": "band_0uv7cs_1",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
+    },
+    {
+      "id": "upcoming-row-813",
+      "date": "20261126",
+      "band": "band_0uv7cs_2",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
+    },
+    {
+      "id": "upcoming-row-814",
+      "date": "20261126",
+      "band": "band_0uv7cs_3",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
+    },
+    {
+      "id": "upcoming-row-815",
+      "date": "20261126",
+      "band": "band_0uv7cs_4",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
+    },
+    {
+      "id": "upcoming-row-816",
+      "date": "20261126",
+      "band": "band_0uv7cs_5",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
+    },
+    {
+      "id": "upcoming-row-817",
+      "date": "20261126",
+      "band": "band_6gp8um_94",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含陳、許、克、德、普、吳、吳姆等藝人及主持。"
     },
     {
       "id": "upcoming-row-132",
@@ -28167,6 +28293,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d7c89f96-0b7a-44e4-abec-c78e7bc61cc6",
-  "updatedAt": "2026-11-13T16:01:45.243Z"
+  "revision": "b09da05f-cb31-4bea-9f86-280b6a2174cb",
+  "updatedAt": "2026-11-13T16:53:30.212Z"
 }
