@@ -7532,7 +7532,7 @@
     {
       "id": "band_drsiw0_219",
       "name": "李明德",
-      "short": "李明",
+      "short": "李明德",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -7540,7 +7540,7 @@
     {
       "id": "band_drsiw0_220",
       "name": "范怡文",
-      "short": "范怡",
+      "short": "范怡文",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -7548,7 +7548,7 @@
     {
       "id": "band_drsiw0_221",
       "name": "殷正洋",
-      "short": "殷正",
+      "short": "殷正洋",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -7556,7 +7556,7 @@
     {
       "id": "band_drsiw0_222",
       "name": "王海玲",
-      "short": "王海",
+      "short": "王海玲",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
@@ -7564,7 +7564,7 @@
     {
       "id": "band_drsiw0_223",
       "name": "吳申梅",
-      "short": "吳申",
+      "short": "吳申梅",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -7572,7 +7572,7 @@
     {
       "id": "band_drsiw0_224",
       "name": "黃文星",
-      "short": "黃文",
+      "short": "黃文星",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -7580,7 +7580,7 @@
     {
       "id": "band_qqiyec_37",
       "name": "安地斯樂團",
-      "short": "安地",
+      "short": "安地斯樂團",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -7588,7 +7588,7 @@
     {
       "id": "hkg",
       "name": "HKG樂團",
-      "short": "HK",
+      "short": "HKG樂團",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -7604,7 +7604,7 @@
     {
       "id": "robertozayas",
       "name": "ROBERTO ZAYAS",
-      "short": "RO",
+      "short": "ROBERTO ZAYAS",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -7612,7 +7612,7 @@
     {
       "id": "band_l7kh00",
       "name": "陳昇VS新寶島康樂隊",
-      "short": "陳昇",
+      "short": "陳昇VS新寶島康樂隊",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -7620,7 +7620,7 @@
     {
       "id": "jefferyc",
       "name": "Jeffery C",
-      "short": "Je",
+      "short": "Jeffery C",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -7628,7 +7628,7 @@
     {
       "id": "kaxa",
       "name": "KAXA",
-      "short": "KA",
+      "short": "KAXA",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -7636,7 +7636,7 @@
     {
       "id": "saturday",
       "name": "SATURDAY",
-      "short": "SA",
+      "short": "SATURDAY",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -7644,7 +7644,7 @@
     {
       "id": "ell",
       "name": "ELL&",
-      "short": "EL",
+      "short": "ELL&",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -7652,7 +7652,7 @@
     {
       "id": "band_drsiw0_225",
       "name": "黃瑾昕",
-      "short": "黃瑾",
+      "short": "黃瑾昕",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -7660,7 +7660,7 @@
     {
       "id": "band_drsiw0_226",
       "name": "卓義峯",
-      "short": "卓義",
+      "short": "卓義峯",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -7668,7 +7668,7 @@
     {
       "id": "whytete",
       "name": "Whyte ?te壞特",
-      "short": "Wh",
+      "short": "Whyte ?te壞特",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -7676,7 +7676,7 @@
     {
       "id": "blumush",
       "name": "blu mush",
-      "short": "bl",
+      "short": "blu mush",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -7684,7 +7684,7 @@
     {
       "id": "elephantgym",
       "name": "大象體操 Elephant Gym",
-      "short": "大象",
+      "short": "大象體操 Elephant Gym",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -7692,7 +7692,7 @@
     {
       "id": "band_drsiw0_227",
       "name": "巴大雄",
-      "short": "巴大",
+      "short": "巴大雄",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -7700,7 +7700,7 @@
     {
       "id": "funkymo",
       "name": "FunkyMo",
-      "short": "Fu",
+      "short": "FunkyMo",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -27974,5 +27974,5 @@
   },
   "schemaVersion": 2,
   "revision": "9fa55993-f4af-42ca-b838-28663769b584",
-  "updatedAt": "2026-11-13T05:00:20.702Z"
+  "updatedAt": "2026-11-13T05:21:49.475Z"
 }
