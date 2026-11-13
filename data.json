@@ -7706,6 +7706,62 @@
       "eventCount": 1
     },
     {
+      "id": "band_drsiw0_228",
+      "name": "ㄔㄕㄢ",
+      "short": "ㄔㄕ",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_229",
+      "name": "ㄏㄒㄨ",
+      "short": "ㄏㄒ",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_230",
+      "name": "ㄘㄎㄩ",
+      "short": "ㄘㄎ",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_231",
+      "name": "ㄘㄉㄅ",
+      "short": "ㄘㄉ",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_232",
+      "name": "ㄆ㙍ㄌ",
+      "short": "ㄆ㙍",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_93",
+      "name": "ㄨㄒ",
+      "short": "ㄨㄒ",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_72",
+      "name": "ㄨㄨㄇㄇ",
+      "short": "ㄨㄨ",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -23478,6 +23534,76 @@
       "note": "［免費］\n活動於2026/11/26舉行,入場時間17:40,演出開始18:00。卡司包含畢書盡、蕭秉治、鼓鼓 呂思緯、徐暐翔、艾薇、吳霏、欣菲、李貞潤、ARKis,主持人為聖恩。"
     },
     {
+      "id": "upcoming-row-800",
+      "date": "20261126",
+      "band": "band_drsiw0_228",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+    },
+    {
+      "id": "upcoming-row-801",
+      "date": "20261126",
+      "band": "band_drsiw0_229",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+    },
+    {
+      "id": "upcoming-row-802",
+      "date": "20261126",
+      "band": "band_drsiw0_230",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+    },
+    {
+      "id": "upcoming-row-803",
+      "date": "20261126",
+      "band": "band_drsiw0_231",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+    },
+    {
+      "id": "upcoming-row-804",
+      "date": "20261126",
+      "band": "band_drsiw0_232",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+    },
+    {
+      "id": "upcoming-row-805",
+      "date": "20261126",
+      "band": "band_6gp8um_93",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+    },
+    {
+      "id": "upcoming-row-806",
+      "date": "20261126",
+      "band": "band_6u8lrj_72",
+      "time": "18:00-21:00",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。"
+    },
+    {
       "id": "upcoming-row-132",
       "date": "20261127",
       "band": "gongguan",
@@ -27973,6 +28099,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3e468d4a-7aca-496c-acbc-8d5afcc48178",
-  "updatedAt": "2026-11-13T08:00:25.655Z"
+  "revision": "c9075baf-b0b1-4001-b7dd-fd016d8a9111",
+  "updatedAt": "2026-11-13T10:53:15.804Z"
 }
