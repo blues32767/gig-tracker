@@ -594,6 +594,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_6u8lrj_13",
+      "name": "異族亡魂",
+      "short": "異族亡魂",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "whoou",
       "name": "來者何人 Whoou!",
       "short": "來者何人 Whoou!",
@@ -863,14 +871,6 @@
       "short": "幽靈水晶",
       "color": "#ffd166",
       "category": "團體",
-      "eventCount": 3
-    },
-    {
-      "id": "band_6u8lrj_13",
-      "name": "異族亡魂",
-      "short": "異族亡魂",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -1687,6 +1687,14 @@
       "short": "秋山",
       "color": "#ef476f",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_31",
+      "name": "伯爵先生",
+      "short": "伯爵先生",
+      "color": "#ffd166",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -3767,14 +3775,6 @@
       "short": "彰東嘻",
       "color": "#2ec4b6",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6u8lrj_31",
-      "name": "伯爵先生",
-      "short": "伯爵先生",
-      "color": "#ffd166",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -7911,6 +7911,70 @@
       "short": "Ni",
       "color": "#fb5607",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "unavecdeux",
+      "name": "UN AVEC DEUX",
+      "short": "UN",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "punkshxt",
+      "name": "龐蟹 Punkshxt!",
+      "short": "龐蟹",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_74",
+      "name": "蝸牛蓋瑞",
+      "short": "蝸牛",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "fatuousrump",
+      "name": "Fatuous Rump",
+      "short": "Fa",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "wolfgriefcz",
+      "name": "WOLFGRIEF [CZ]",
+      "short": "WO",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_95",
+      "name": "街鼠",
+      "short": "街鼠",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "youth404",
+      "name": "Youth404",
+      "short": "Yo",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_75",
+      "name": "混亂之島",
+      "short": "混亂",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -26093,7 +26157,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-506",
@@ -26103,7 +26167,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-507",
@@ -26113,7 +26177,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-508",
@@ -26123,7 +26187,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-509",
@@ -26133,7 +26197,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-510",
@@ -26143,7 +26207,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-511",
@@ -26153,7 +26217,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-512",
@@ -26163,7 +26227,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-513",
@@ -26173,7 +26237,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-514",
@@ -26183,7 +26247,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-515",
@@ -26193,7 +26257,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-516",
@@ -26203,7 +26267,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-517",
@@ -26213,7 +26277,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-518",
@@ -26223,7 +26287,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-519",
@@ -26233,7 +26297,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-520",
@@ -26243,7 +26307,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-521",
@@ -26253,7 +26317,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-522",
@@ -26263,7 +26327,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-523",
@@ -26273,7 +26337,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-524",
@@ -26283,7 +26347,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-525",
@@ -26293,7 +26357,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-526",
@@ -26303,7 +26367,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-527",
@@ -26313,7 +26377,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-528",
@@ -26323,7 +26387,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-529",
@@ -26333,7 +26397,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-530",
@@ -26343,7 +26407,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-531",
@@ -26353,7 +26417,7 @@
       "name": "臺中 龐克折返跑",
       "location": "臺中市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-551",
@@ -26514,6 +26578,106 @@
       "location": "台北市華山 1914 文創園區中 4A 館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E4%B8%AD%204A%20%E9%A4%A8",
       "note": "［免費］\n寫信馬拉松 2026 高雄場,卡司包含孩子王 Kid King、Whyte ?te壞特、blu mush、大象體操 Elephant Gym。"
+    },
+    {
+      "id": "upcoming-row-652",
+      "date": "20261212",
+      "band": "unavecdeux",
+      "time": "未公布",
+      "name": "臺中 龐克折返跑",
+      "location": "臺中市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-653",
+      "date": "20261212",
+      "band": "band_6u8lrj_13",
+      "time": "未公布",
+      "name": "臺中 龐克折返跑",
+      "location": "臺中市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-654",
+      "date": "20261212",
+      "band": "punkshxt",
+      "time": "未公布",
+      "name": "臺中 龐克折返跑",
+      "location": "臺中市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-655",
+      "date": "20261212",
+      "band": "band_6u8lrj_74",
+      "time": "未公布",
+      "name": "臺中 龐克折返跑",
+      "location": "臺中市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-656",
+      "date": "20261212",
+      "band": "fatuousrump",
+      "time": "未公布",
+      "name": "臺中 龐克折返跑",
+      "location": "臺中市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-657",
+      "date": "20261212",
+      "band": "wolfgriefcz",
+      "time": "未公布",
+      "name": "臺中 龐克折返跑",
+      "location": "臺中市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-658",
+      "date": "20261212",
+      "band": "band_6u8lrj_31",
+      "time": "未公布",
+      "name": "臺中 龐克折返跑",
+      "location": "臺中市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-659",
+      "date": "20261212",
+      "band": "band_6gp8um_95",
+      "time": "未公布",
+      "name": "臺中 龐克折返跑",
+      "location": "臺中市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-660",
+      "date": "20261212",
+      "band": "youth404",
+      "time": "未公布",
+      "name": "臺中 龐克折返跑",
+      "location": "臺中市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-661",
+      "date": "20261212",
+      "band": "band_6u8lrj_75",
+      "time": "未公布",
+      "name": "臺中 龐克折返跑",
+      "location": "臺中市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*已己巳己-いこみき- [JP]、LUCKY-RIRI、Sulfur Creek、The Pandan Wangi [ID]、Whaleholic、NAGI、DEAD CHANT [KR]、LABRET [JP]、Greasy Alley 油漬艾莉、SHANK [JP]、轟牙、赤尾青、碎紙花、SHOOT UP、NOYA [KR]、BILLFOLD [ID]、首振りDolls [JP]、Mighty Rise、COPES [JP]、乙水 YEE WATER、JOHNNY PANDORA [JP]、蘿拉 LOLLA、FALSE APART [PH]、HUT BOY [TH]、普通隊長、The Salitus、鯊魚娃娃機、UN AVEC DEUX、Alien Avenge 異族亡魂、龐蟹 Punkshxt!、蝸牛蓋瑞、Fatuous Rump、WOLFGRIEF [CZ]、伯爵先生、街鼠、Youth404、混亂之島 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-131",
@@ -28611,6 +28775,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "fc72e7cc-ab17-4715-a83e-2e4370d2f895",
-  "updatedAt": "2026-11-14T20:01:35.251Z"
+  "revision": "292775de-1569-4fc6-b9ac-eae947418eb3",
+  "updatedAt": "2026-11-14T20:05:16.438Z"
 }
