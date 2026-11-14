@@ -1146,6 +1146,14 @@
       "eventCount": 3
     },
     {
+      "id": "shallowlevef",
+      "name": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
+      "short": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_6u8lrj_40",
       "name": "樂天女孩",
       "short": "樂天女孩",
@@ -1783,14 +1791,6 @@
       "short": "王識賢",
       "color": "#2ec4b6",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "shallowlevef",
-      "name": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
-      "short": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
-      "color": "#118ab2",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -7871,6 +7871,14 @@
       "short": "鐵玫",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "djhanchen_1",
+      "name": "DJ Han Chen 陳涵",
+      "short": "DJ",
+      "color": "#06d6a0",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -22743,67 +22751,67 @@
       "name": "高雄 南面而歌 x 毛噪日",
       "location": "高雄市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布"
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
     },
     {
       "id": "upcoming-row-562",
       "date": "20261121",
       "band": "band_qqiyec_30",
-      "time": "未公布",
+      "time": "16:40-17:20",
       "name": "高雄 南面而歌 x 毛噪日",
       "location": "高雄市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布"
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
     },
     {
       "id": "upcoming-row-563",
       "date": "20261121",
       "band": "whoou",
-      "time": "未公布",
+      "time": "17:20-18:00",
       "name": "高雄 南面而歌 x 毛噪日",
       "location": "高雄市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布"
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
     },
     {
       "id": "upcoming-row-564",
       "date": "20261121",
       "band": "band_6u8lrj_23",
-      "time": "未公布",
+      "time": "15:20-16:00",
       "name": "高雄 南面而歌 x 毛噪日",
       "location": "高雄市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布"
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
     },
     {
       "id": "upcoming-row-565",
       "date": "20261121",
       "band": "band_6u8lrj_62",
-      "time": "未公布",
+      "time": "16:00-16:40",
       "name": "高雄 南面而歌 x 毛噪日",
       "location": "高雄市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布"
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
     },
     {
       "id": "upcoming-row-566",
       "date": "20261121",
       "band": "band_drsiw0_187",
-      "time": "未公布",
+      "time": "14:40-15:20",
       "name": "高雄 南面而歌 x 毛噪日",
       "location": "高雄市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布"
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
     },
     {
       "id": "upcoming-row-567",
       "date": "20261121",
       "band": "band_maaxir_14",
-      "time": "未公布",
+      "time": "18:00-18:40",
       "name": "高雄 南面而歌 x 毛噪日",
       "location": "高雄市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布"
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
     },
     {
       "id": "upcoming-row-568",
@@ -22813,37 +22821,37 @@
       "name": "高雄 南面而歌 x 毛噪日",
       "location": "高雄市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布"
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
     },
     {
       "id": "upcoming-row-569",
       "date": "20261121",
       "band": "band_drsiw0_204",
-      "time": "未公布",
+      "time": "18:40-19:20",
       "name": "高雄 南面而歌 x 毛噪日",
       "location": "高雄市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布"
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
     },
     {
       "id": "upcoming-row-570",
       "date": "20261121",
       "band": "djjemp",
-      "time": "未公布",
+      "time": "16:20-17:20",
       "name": "高雄 南面而歌 x 毛噪日",
       "location": "高雄市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布"
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
     },
     {
       "id": "upcoming-row-571",
       "date": "20261121",
       "band": "ftsomeshiit",
-      "time": "未公布",
+      "time": "14:00-14:40",
       "name": "高雄 南面而歌 x 毛噪日",
       "location": "高雄市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布"
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
     },
     {
       "id": "upcoming-row-581",
@@ -23054,6 +23062,26 @@
       "location": "彰化縣員林市圓林園滯洪池生態公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。\n青年創業嘉年華活動,包含多組樂團與表演團體演出。\n活動日期為 11/21-11/22,卡司包含 P!SCO、南西肯恩、王特面、Joe Tu 等。"
+    },
+    {
+      "id": "upcoming-row-826",
+      "date": "20261121",
+      "band": "shallowlevef",
+      "time": "19:20-20:00",
+      "name": "高雄 南面而歌 x 毛噪日",
+      "location": "高雄市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
+    },
+    {
+      "id": "upcoming-row-827",
+      "date": "20261121",
+      "band": "djhanchen_1",
+      "time": "18:00-19:00",
+      "name": "高雄 南面而歌 x 毛噪日",
+      "location": "高雄市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 舉辦,共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生;副舞台包含存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台包含 DJ Jemp、DJ Han Chen 陳涵。"
     },
     {
       "id": "upcoming-row-108",
@@ -28421,6 +28449,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "4d258df5-c89d-4dfb-b793-48d78ab8bdfd",
-  "updatedAt": "2026-11-14T11:04:42.958Z"
+  "revision": "168d8cac-251a-49fd-9f99-8a915d34deec",
+  "updatedAt": "2026-11-14T11:06:55.713Z"
 }
