@@ -7850,6 +7850,22 @@
       "eventCount": 1
     },
     {
+      "id": "band_drsiw0_234",
+      "name": "ㄘㄎ㩦",
+      "short": "ㄘㄎ",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_235",
+      "name": "ㄆ㙺ㄌ",
+      "short": "ㄆ㙺",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -23792,6 +23808,26 @@
       "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含:ㄔㄕㄢ、ㄏㄒㄨ、ㄘㄎㄩ、ㄘㄉㄅ、ㄆ㙍ㄌ、ㄨㄒ、ㄨㄨㄇㄇ等。"
     },
     {
+      "id": "upcoming-row-823",
+      "date": "20261126",
+      "band": "band_drsiw0_234",
+      "time": "未公布",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含:ㄔㄕㄢ、ㄏㄒㄨ、ㄘㄎㄩ、ㄘㄉㄅ、ㄆ㙍ㄌ、ㄨㄒ、ㄨㄨㄇㄇ等。"
+    },
+    {
+      "id": "upcoming-row-824",
+      "date": "20261126",
+      "band": "band_drsiw0_235",
+      "time": "未公布",
+      "name": "屏東 Re:Live音你而聚",
+      "location": "屏東市國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含:ㄔㄕㄢ、ㄏㄒㄨ、ㄘㄎㄩ、ㄘㄉㄅ、ㄆ㙍ㄌ、ㄨㄒ、ㄨㄨㄇㄇ等。"
+    },
+    {
       "id": "upcoming-row-132",
       "date": "20261127",
       "band": "gongguan",
@@ -28367,6 +28403,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e830ebd8-5e95-4822-a0a2-8ccca369d6b0",
-  "updatedAt": "2026-11-14T02:04:14.286Z"
+  "revision": "6dad61cb-ed75-4dd9-be09-01d5b0a78c30",
+  "updatedAt": "2026-11-14T04:53:34.205Z"
 }
