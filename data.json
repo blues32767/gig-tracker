@@ -818,6 +818,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_33",
+      "name": "韋禮安",
+      "short": "韋禮安",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_34",
       "name": "羅文裕",
       "short": "羅文裕",
@@ -1426,14 +1434,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_33",
-      "name": "韋禮安",
-      "short": "韋禮安",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_43",
       "name": "吳承恩",
       "short": "吳承恩",
@@ -1966,6 +1966,14 @@
       "name": "許景淳",
       "short": "許景淳",
       "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_153",
+      "name": "彭佳慧",
+      "short": "彭佳慧",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 2
     },
@@ -5026,14 +5034,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_153",
-      "name": "彭佳慧",
-      "short": "彭佳慧",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_154",
       "name": "蘇侯宇",
       "short": "蘇侯宇",
@@ -5310,6 +5310,14 @@
       "name": "林逸欣",
       "short": "林逸欣",
       "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_168",
+      "name": "徐佳瑩",
+      "short": "徐佳瑩",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
     },
@@ -8018,6 +8026,14 @@
       "eventCount": 1
     },
     {
+      "id": "band_drsiw0_236",
+      "name": "蔡健雅",
+      "short": "蔡健",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -8078,14 +8094,6 @@
       "name": "暗影天使",
       "short": "暗影天使",
       "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 0
-    },
-    {
-      "id": "band_drsiw0_168",
-      "name": "徐佳瑩",
-      "short": "徐佳瑩",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 0
     },
@@ -28380,6 +28388,46 @@
       "note": "［免費］\n雄嗨趴2027 高雄跨年晚會,卡司包含孫淑媚、許富凱等藝人。"
     },
     {
+      "id": "upcoming-row-674",
+      "date": "20261231",
+      "band": "band_drsiw0_168",
+      "time": "未公布",
+      "name": "臺東 東漂去旅行 臺東跨年晚會",
+      "location": "臺東縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E6%9D%B1%E7%B8%A3",
+      "note": "［免費］\n本祭演出時間尚未公布"
+    },
+    {
+      "id": "upcoming-row-675",
+      "date": "20261231",
+      "band": "band_drsiw0_33",
+      "time": "未公布",
+      "name": "臺東 東漂去旅行 臺東跨年晚會",
+      "location": "臺東縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E6%9D%B1%E7%B8%A3",
+      "note": "［免費］\n本祭演出時間尚未公布"
+    },
+    {
+      "id": "upcoming-row-676",
+      "date": "20261231",
+      "band": "band_drsiw0_153",
+      "time": "未公布",
+      "name": "臺東 東漂去旅行 臺東跨年晚會",
+      "location": "臺東縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E6%9D%B1%E7%B8%A3",
+      "note": "［免費］\n本祭演出時間尚未公布"
+    },
+    {
+      "id": "upcoming-row-677",
+      "date": "20261231",
+      "band": "band_drsiw0_236",
+      "time": "未公布",
+      "name": "臺東 東漂去旅行 臺東跨年晚會",
+      "location": "臺東縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E6%9D%B1%E7%B8%A3",
+      "note": "［免費］\n本祭演出時間尚未公布"
+    },
+    {
       "id": "upcoming-row-162",
       "date": "20270102",
       "band": "awkward",
@@ -28935,6 +28983,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "afe72eba-e34b-493a-b61f-7185f12151f4",
-  "updatedAt": "2026-11-14T20:06:16.788Z"
+  "revision": "bef37dd7-6841-4f10-8174-ab23d5050f24",
+  "updatedAt": "2026-11-14T20:07:57.092Z"
 }
