@@ -130,6 +130,14 @@
       "eventCount": 8
     },
     {
+      "id": "EasyWeeds",
+      "name": "溫室雜草",
+      "short": "溫室雜草",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 8
+    },
+    {
       "id": "fei",
       "name": "吳霏 FEI",
       "short": "吳霏 FEI",
@@ -167,14 +175,6 @@
       "short": "李浩瑋",
       "color": "#ef476f",
       "category": "個人",
-      "eventCount": 7
-    },
-    {
-      "id": "EasyWeeds",
-      "name": "溫室雜草",
-      "short": "溫室雜草",
-      "color": "#8338ec",
-      "category": "樂團",
       "eventCount": 7
     },
     {
@@ -342,6 +342,14 @@
       "name": "JOYCE 就以斯",
       "short": "就以斯",
       "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "band_drsiw0_20",
+      "name": "梁河懸",
+      "short": "梁河懸",
+      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 5
     },
@@ -519,14 +527,6 @@
       "short": "ARKis",
       "color": "#8338ec",
       "category": "團體",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_20",
-      "name": "梁河懸",
-      "short": "梁河懸",
-      "color": "#2ec4b6",
-      "category": "個人",
       "eventCount": 4
     },
     {
@@ -1146,6 +1146,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_qqiyec_17",
+      "name": "打倒三明治",
+      "short": "打倒三明治",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_136",
       "name": "金智娟",
       "short": "金智娟",
@@ -1314,6 +1322,14 @@
       "eventCount": 3
     },
     {
+      "id": "emoment",
+      "name": "emoment",
+      "short": "emoment",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "wildcry",
       "name": "荒鳴 Wild Cry",
       "short": "荒鳴 Wild Cry",
@@ -1471,6 +1487,14 @@
       "short": "凹與山",
       "color": "#8338ec",
       "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "borome",
+      "name": "波羅密 ボロメ Borome",
+      "short": "波羅密",
+      "color": "#ffd166",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -1775,14 +1799,6 @@
       "short": "曾昱嘉",
       "color": "#fb5607",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_qqiyec_17",
-      "name": "打倒三明治",
-      "short": "打倒三明治",
-      "color": "#3a86ff",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -2146,14 +2162,6 @@
       "eventCount": 2
     },
     {
-      "id": "emoment",
-      "name": "emoment",
-      "short": "emoment",
-      "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_199",
       "name": "蔡承祐",
       "short": "蔡承祐",
@@ -2231,6 +2239,22 @@
       "short": "月眉笛韻樂團",
       "color": "#8338ec",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "blumush",
+      "name": "blu mush",
+      "short": "blu mush",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "punkshxt",
+      "name": "龐蟹 Punkshxt!",
+      "short": "龐蟹",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -2910,14 +2934,6 @@
       "name": "Marswalk",
       "short": "Marswalk",
       "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "borome",
-      "name": "波羅密 ボロメ Borome",
-      "short": "波羅密",
-      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
     },
@@ -7674,14 +7690,6 @@
       "eventCount": 1
     },
     {
-      "id": "blumush",
-      "name": "blu mush",
-      "short": "blu mush",
-      "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "elephantgym",
       "name": "大象體操 Elephant Gym",
       "short": "大象體操 Elephant Gym",
@@ -7922,14 +7930,6 @@
       "eventCount": 1
     },
     {
-      "id": "punkshxt",
-      "name": "龐蟹 Punkshxt!",
-      "short": "龐蟹",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_6u8lrj_74",
       "name": "蝸牛蓋瑞",
       "short": "蝸牛",
@@ -7974,6 +7974,46 @@
       "name": "混亂之島",
       "short": "混亂",
       "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_96",
+      "name": "みみ",
+      "short": "みみ",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_76",
+      "name": "輻射魚市",
+      "short": "輻射",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_77",
+      "name": "九月高校",
+      "short": "九月",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_97",
+      "name": "酸腦",
+      "short": "酸腦",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_78",
+      "name": "深深一擊",
+      "short": "深深",
+      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
     },
@@ -26857,7 +26897,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-320",
@@ -26867,7 +26907,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-321",
@@ -26877,7 +26917,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-322",
@@ -26887,7 +26927,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-323",
@@ -26897,7 +26937,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-324",
@@ -26907,7 +26947,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-325",
@@ -26917,7 +26957,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-326",
@@ -26927,7 +26967,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-327",
@@ -26937,7 +26977,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-328",
@@ -26947,7 +26987,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-329",
@@ -26957,7 +26997,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-330",
@@ -26967,7 +27007,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-331",
@@ -26977,7 +27017,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-332",
@@ -26987,7 +27027,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-333",
@@ -26997,7 +27037,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-334",
@@ -27007,7 +27047,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-335",
@@ -27017,7 +27057,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-336",
@@ -27027,7 +27067,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-337",
@@ -27037,7 +27077,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-338",
@@ -27047,7 +27087,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-339",
@@ -27057,7 +27097,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-340",
@@ -27067,7 +27107,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-341",
@@ -27077,7 +27117,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-342",
@@ -27087,7 +27127,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-343",
@@ -27097,7 +27137,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-344",
@@ -27107,7 +27147,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-345",
@@ -27117,7 +27157,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-346",
@@ -27127,7 +27167,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-347",
@@ -27137,7 +27177,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-348",
@@ -27147,7 +27187,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-349",
@@ -27157,7 +27197,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-350",
@@ -27167,7 +27207,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-351",
@@ -27177,7 +27217,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-352",
@@ -27187,7 +27227,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-353",
@@ -27197,7 +27237,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-354",
@@ -27207,7 +27247,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-355",
@@ -27217,7 +27257,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-356",
@@ -27227,7 +27267,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-357",
@@ -27237,7 +27277,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-358",
@@ -27247,7 +27287,7 @@
       "name": "新北 爛泥發芽",
       "location": "新北市",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
-      "note": "［免費］\n本祭演出時間尚未公布|*罷黜者、傷心欲絕、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、MOTIF HIVE、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、無先生、少年A、無妄合作社、BB彈、貳伍吸菸所、普通隊長、頂加集會、BUTTER RIOT、The Salitus、SHOOTUP、梅西的房間、應聲倒地、荒山茉莉、上山、徐行、眠氣、SADOG、貓拳、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫、老貓偵探社、DEFEAT THE GIANT 未訂(演出日期未定,暫列活動首日)"
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-361",
@@ -27418,6 +27458,126 @@
       "location": "礁溪五峰旗重劃區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
       "note": "［免費］\n活動期間 12/4-12/20,包含民歌、鄉土、文化、創作、流行主題晚會及蘭陽食旅特展。"
+    },
+    {
+      "id": "upcoming-row-662",
+      "date": "20261219",
+      "band": "band_6gp8um_96",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-663",
+      "date": "20261219",
+      "band": "blumush",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-664",
+      "date": "20261219",
+      "band": "band_qqiyec_17",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-665",
+      "date": "20261219",
+      "band": "band_drsiw0_20",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-666",
+      "date": "20261219",
+      "band": "EasyWeeds",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-667",
+      "date": "20261219",
+      "band": "band_6u8lrj_76",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-668",
+      "date": "20261219",
+      "band": "band_6u8lrj_77",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-669",
+      "date": "20261219",
+      "band": "band_6gp8um_97",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-670",
+      "date": "20261219",
+      "band": "punkshxt",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-671",
+      "date": "20261219",
+      "band": "emoment",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-672",
+      "date": "20261219",
+      "band": "borome",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-673",
+      "date": "20261219",
+      "band": "band_6u8lrj_78",
+      "time": "未公布",
+      "name": "新北 爛泥發芽",
+      "location": "新北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82",
+      "note": "［免費］\n本祭演出時間尚未公布|*傷心欲絕、MOTIF HIVE、無先生、少年A、みみ、blu mush、打倒三明治、梁河懸、溫室雜草、輻射魚市、九月高校、酸腦、無妄合作社、BB彈、普通隊長、頂加集會、BUTTER RIOT、SHOOTUP、梅西的房間、荒山茉莉、上山、徐行、SADOG、貓拳、老貓偵探社、DEFEAT THE GIANT、罷黜者、胖虎 punkhoo、貓膽汁、旅人、固定客 feat. 謝和弦、碎紙花、一點生、粹垢 TRAEGO、隨性、薩圖提嘎、八十八顆芭樂籽、白頻率、腦體馬戲團、OBSESS、龐蟹 Punkshxt!、emoment、波羅密 ボロメ、深深一擊、貳伍吸菸所、The Salitus、應聲倒地、眠氣、鯊魚娃娃機、廢埕、銀杏中年、倒車入庫 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-161",
@@ -28775,6 +28935,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "292775de-1569-4fc6-b9ac-eae947418eb3",
-  "updatedAt": "2026-11-14T20:05:16.438Z"
+  "revision": "afe72eba-e34b-493a-b61f-7185f12151f4",
+  "updatedAt": "2026-11-14T20:06:16.788Z"
 }
