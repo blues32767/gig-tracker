@@ -578,6 +578,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_maaxir_1",
+      "name": "康士坦的變化球",
+      "short": "康士坦",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_qqiyec_8",
       "name": "血肉果汁機",
       "short": "血肉果汁機",
@@ -650,6 +658,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_6gp8um_28",
+      "name": "紙鳶",
+      "short": "紙鳶",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_88",
       "name": "畢書盡",
       "short": "畢書盡",
@@ -702,6 +718,14 @@
       "name": "淺堤 ft. Kim Sawol",
       "short": "淺堤 ft. Kim Sawol",
       "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "soulsorry",
+      "name": "Soul Sorry",
+      "short": "Soul Sorry",
+      "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 4
     },
@@ -829,14 +853,6 @@
       "id": "PACHILA",
       "name": "帕崎拉",
       "short": "帕崎拉",
-      "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "band_maaxir_1",
-      "name": "康士坦的變化球",
-      "short": "康士坦",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 3
@@ -994,14 +1010,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_6gp8um_28",
-      "name": "紙鳶",
-      "short": "紙鳶",
-      "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "band_6gp8um_29",
       "name": "小魏",
       "short": "小魏",
@@ -1106,6 +1114,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_118",
+      "name": "步行者",
+      "short": "步行者",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_38",
       "name": "旅人",
       "short": "旅人",
@@ -1202,14 +1218,6 @@
       "eventCount": 3
     },
     {
-      "id": "soulsorry",
-      "name": "Soul Sorry",
-      "short": "Soul Sorry",
-      "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "awkward",
       "name": "阿克沃 Awkward",
       "short": "阿克沃 Awkward",
@@ -1294,6 +1302,22 @@
       "name": "山姆",
       "short": "山姆",
       "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_maaxir_14",
+      "name": "八十八顆芭樂籽",
+      "short": "八十八顆芭樂籽",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "wildcry",
+      "name": "荒鳴 Wild Cry",
+      "short": "荒鳴 Wild Cry",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 3
     },
@@ -1655,14 +1679,6 @@
       "short": "謝金燕",
       "color": "#06d6a0",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_118",
-      "name": "步行者",
-      "short": "步行者",
-      "color": "#00b4d8",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -2106,14 +2122,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_maaxir_14",
-      "name": "八十八顆芭樂籽",
-      "short": "八十八顆芭樂籽",
-      "color": "#8338ec",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "band_qqiyec_29",
       "name": "鯊魚娃娃機",
       "short": "鯊魚娃娃機",
@@ -2135,14 +2143,6 @@
       "short": "emoment",
       "color": "#ffd166",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "wildcry",
-      "name": "荒鳴 Wild Cry",
-      "short": "荒鳴 Wild Cry",
-      "color": "#3a86ff",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -7895,6 +7895,22 @@
       "short": "伍悅",
       "color": "#8338ec",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "hernia",
+      "name": "Hernia",
+      "short": "He",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "nikitheunico",
+      "name": "Niki the Unicorn",
+      "short": "Ni",
+      "color": "#fb5607",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -24717,7 +24733,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-147",
@@ -24727,7 +24743,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-148",
@@ -24737,7 +24753,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-149",
@@ -24747,7 +24763,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-150",
@@ -24757,7 +24773,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-151",
@@ -24767,7 +24783,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-152",
@@ -24777,7 +24793,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-153",
@@ -24787,7 +24803,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-154",
@@ -24797,7 +24813,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-155",
@@ -24807,7 +24823,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-156",
@@ -24817,7 +24833,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-157",
@@ -24827,7 +24843,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-158",
@@ -24837,7 +24853,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-159",
@@ -24847,7 +24863,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-160",
@@ -24857,7 +24873,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-161",
@@ -24867,7 +24883,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-162",
@@ -24877,7 +24893,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-163",
@@ -24887,7 +24903,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-164",
@@ -24897,7 +24913,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-165",
@@ -24907,7 +24923,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-166",
@@ -24917,7 +24933,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-167",
@@ -24927,7 +24943,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-168",
@@ -24937,7 +24953,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-169",
@@ -24947,7 +24963,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-170",
@@ -24957,7 +24973,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-195",
@@ -24997,7 +25013,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-256",
@@ -25007,7 +25023,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-257",
@@ -25017,7 +25033,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-258",
@@ -25027,7 +25043,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-259",
@@ -25037,7 +25053,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-260",
@@ -25047,7 +25063,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-261",
@@ -25057,7 +25073,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-262",
@@ -25067,7 +25083,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-263",
@@ -25077,7 +25093,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-264",
@@ -25087,7 +25103,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-265",
@@ -25097,7 +25113,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-266",
@@ -25107,7 +25123,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-267",
@@ -25117,7 +25133,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-406",
@@ -25127,7 +25143,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-407",
@@ -25137,7 +25153,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-408",
@@ -25147,7 +25163,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-409",
@@ -25157,7 +25173,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-410",
@@ -25167,7 +25183,7 @@
       "name": "台中 漂遊者森林音樂祭",
       "location": "台中市麗寶樂園渡假區東區落羽松森林",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
-      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR] 未訂(演出日期未定,暫列活動首日)"
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-446",
@@ -25228,6 +25244,86 @@
       "location": "礁溪五峰旗重劃區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E7%A4%81%E6%BA%AA%E4%BA%94%E5%B3%B0%E6%97%97%E9%87%8D%E5%8A%83%E5%8D%80",
       "note": "［免費］\n活動期間 12/4-12/20,包含民歌、鄉土、文化、創作、流行主題晚會及蘭陽食旅特展。"
+    },
+    {
+      "id": "upcoming-row-833",
+      "date": "20261211",
+      "band": "soulsorry",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-834",
+      "date": "20261211",
+      "band": "band_maaxir_1",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-835",
+      "date": "20261211",
+      "band": "wildcry",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-836",
+      "date": "20261211",
+      "band": "band_drsiw0_118",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-837",
+      "date": "20261211",
+      "band": "band_maaxir_14",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-838",
+      "date": "20261211",
+      "band": "hernia",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-839",
+      "date": "20261211",
+      "band": "nikitheunico",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-840",
+      "date": "20261211",
+      "band": "band_6gp8um_28",
+      "time": "未公布",
+      "name": "台中 漂遊者森林音樂祭",
+      "location": "台中市麗寶樂園渡假區東區落羽松森林",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E6%B8%A1%E5%81%87%E5%8D%80%E6%9D%B1%E5%8D%80%E8%90%BD%E7%BE%BD%E6%9D%BE%E6%A3%AE%E6%9E%97",
+      "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
       "id": "upcoming-row-171",
@@ -28515,6 +28611,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "f112cb3d-5000-4c33-be2c-b8e34bd78afa",
-  "updatedAt": "2026-11-14T11:08:25.632Z"
+  "revision": "9a101ede-9058-4a2d-8a41-da26b1fe45f7",
+  "updatedAt": "2026-11-14T11:09:42.357Z"
 }
