@@ -15,7 +15,7 @@
       "short": "公館青少年",
       "color": "#2a9d8f",
       "category": "樂團",
-      "eventCount": 18
+      "eventCount": 19
     },
     {
       "id": "AmazingShow",
@@ -98,6 +98,22 @@
       "eventCount": 10
     },
     {
+      "id": "sabrina",
+      "name": "Sabrina 胡恂舞",
+      "short": "Sabrina 胡恂舞",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 10
+    },
+    {
+      "id": "WhoCares",
+      "name": "胡凱兒",
+      "short": "胡凱兒",
+      "color": "#385c6e",
+      "category": "樂團",
+      "eventCount": 9
+    },
+    {
       "id": "band_drsiw0_61",
       "name": "白頻率",
       "short": "白頻率",
@@ -114,19 +130,11 @@
       "eventCount": 9
     },
     {
-      "id": "sabrina",
-      "name": "Sabrina 胡恂舞",
-      "short": "Sabrina 胡恂舞",
-      "color": "#8338ec",
+      "id": "band_drsiw0_1",
+      "name": "李浩瑋",
+      "short": "李浩瑋",
+      "color": "#ef476f",
       "category": "個人",
-      "eventCount": 9
-    },
-    {
-      "id": "WhoCares",
-      "name": "胡凱兒",
-      "short": "胡凱兒",
-      "color": "#385c6e",
-      "category": "樂團",
       "eventCount": 8
     },
     {
@@ -174,14 +182,6 @@
       "name": "呂允",
       "short": "呂允",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 7
-    },
-    {
-      "id": "band_drsiw0_1",
-      "name": "李浩瑋",
-      "short": "李浩瑋",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 7
     },
@@ -498,6 +498,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_6gp8um_1",
+      "name": "王謙",
+      "short": "王謙",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "PatrickBrasca",
       "name": "派偉俊",
       "short": "派偉俊",
@@ -642,6 +650,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_72",
+      "name": "謝語恩",
+      "short": "謝語恩",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_73",
       "name": "高爾宣",
       "short": "高爾宣",
@@ -655,6 +671,14 @@
       "short": "西屯純愛組",
       "color": "#ffd166",
       "category": "團體",
+      "eventCount": 4
+    },
+    {
+      "id": "band_6gp8um_25",
+      "name": "陳華",
+      "short": "陳華",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 4
     },
     {
@@ -714,6 +738,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_137",
+      "name": "郭家瑋",
+      "short": "郭家瑋",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_138",
       "name": "蕭秉治",
       "short": "蕭秉治",
@@ -752,14 +784,6 @@
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 4
-    },
-    {
-      "id": "band_6gp8um_1",
-      "name": "王謙",
-      "short": "王謙",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 3
     },
     {
       "id": "band_drsiw0_7",
@@ -938,14 +962,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_72",
-      "name": "謝語恩",
-      "short": "謝語恩",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "multiverse",
       "name": "Multiverse",
       "short": "Multiverse",
@@ -966,14 +982,6 @@
       "name": "聖恩",
       "short": "聖恩",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_6gp8um_25",
-      "name": "陳華",
-      "short": "陳華",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 3
     },
@@ -1174,14 +1182,6 @@
       "name": "金智娟",
       "short": "金智娟",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_137",
-      "name": "郭家瑋",
-      "short": "郭家瑋",
-      "color": "#8338ec",
       "category": "個人",
       "eventCount": 3
     },
@@ -2167,6 +2167,14 @@
       "short": "老貓偵探社",
       "color": "#ff006e",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_197",
+      "name": "徐皓程",
+      "short": "徐皓程",
+      "color": "#ef476f",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -6727,14 +6735,6 @@
       "short": "chirrp.",
       "color": "#2ec4b6",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_197",
-      "name": "徐皓程",
-      "short": "徐皓程",
-      "color": "#ef476f",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -24234,6 +24234,96 @@
       "note": "［免費］\n[免費]不對外開放\n校內限定"
     },
     {
+      "id": "upcoming-row-693",
+      "date": "20261202",
+      "band": "band_drsiw0_1",
+      "time": "未公布",
+      "name": "新北 致幻時空・理夜思緒校園演唱會",
+      "location": "新北市板橋區致理科技大學誠信館5F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%87%B4%E7%90%86%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%AA%A0%E4%BF%A1%E9%A4%A85F",
+      "note": "［售票］\n校外票450元/人,入場時間17:00,演出開始18:00。卡司包含李浩瑋、陳華、Who Cares 胡凱兒、徐皓程、王謙、公館青少年、郭家瑋、謝語恩、Sabrina 胡恂舞,主持寶賤。"
+    },
+    {
+      "id": "upcoming-row-694",
+      "date": "20261202",
+      "band": "band_6gp8um_25",
+      "time": "未公布",
+      "name": "新北 致幻時空・理夜思緒校園演唱會",
+      "location": "新北市板橋區致理科技大學誠信館5F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%87%B4%E7%90%86%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%AA%A0%E4%BF%A1%E9%A4%A85F",
+      "note": "［售票］\n校外票450元/人,入場時間17:00,演出開始18:00。卡司包含李浩瑋、陳華、Who Cares 胡凱兒、徐皓程、王謙、公館青少年、郭家瑋、謝語恩、Sabrina 胡恂舞,主持寶賤。"
+    },
+    {
+      "id": "upcoming-row-695",
+      "date": "20261202",
+      "band": "WhoCares",
+      "time": "未公布",
+      "name": "新北 致幻時空・理夜思緒校園演唱會",
+      "location": "新北市板橋區致理科技大學誠信館5F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%87%B4%E7%90%86%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%AA%A0%E4%BF%A1%E9%A4%A85F",
+      "note": "［售票］\n校外票450元/人,入場時間17:00,演出開始18:00。卡司包含李浩瑋、陳華、Who Cares 胡凱兒、徐皓程、王謙、公館青少年、郭家瑋、謝語恩、Sabrina 胡恂舞,主持寶賤。"
+    },
+    {
+      "id": "upcoming-row-696",
+      "date": "20261202",
+      "band": "band_drsiw0_197",
+      "time": "未公布",
+      "name": "新北 致幻時空・理夜思緒校園演唱會",
+      "location": "新北市板橋區致理科技大學誠信館5F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%87%B4%E7%90%86%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%AA%A0%E4%BF%A1%E9%A4%A85F",
+      "note": "［售票］\n校外票450元/人,入場時間17:00,演出開始18:00。卡司包含李浩瑋、陳華、Who Cares 胡凱兒、徐皓程、王謙、公館青少年、郭家瑋、謝語恩、Sabrina 胡恂舞,主持寶賤。"
+    },
+    {
+      "id": "upcoming-row-697",
+      "date": "20261202",
+      "band": "band_6gp8um_1",
+      "time": "未公布",
+      "name": "新北 致幻時空・理夜思緒校園演唱會",
+      "location": "新北市板橋區致理科技大學誠信館5F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%87%B4%E7%90%86%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%AA%A0%E4%BF%A1%E9%A4%A85F",
+      "note": "［售票］\n校外票450元/人,入場時間17:00,演出開始18:00。卡司包含李浩瑋、陳華、Who Cares 胡凱兒、徐皓程、王謙、公館青少年、郭家瑋、謝語恩、Sabrina 胡恂舞,主持寶賤。"
+    },
+    {
+      "id": "upcoming-row-698",
+      "date": "20261202",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "新北 致幻時空・理夜思緒校園演唱會",
+      "location": "新北市板橋區致理科技大學誠信館5F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%87%B4%E7%90%86%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%AA%A0%E4%BF%A1%E9%A4%A85F",
+      "note": "［售票］\n校外票450元/人,入場時間17:00,演出開始18:00。卡司包含李浩瑋、陳華、Who Cares 胡凱兒、徐皓程、王謙、公館青少年、郭家瑋、謝語恩、Sabrina 胡恂舞,主持寶賤。"
+    },
+    {
+      "id": "upcoming-row-699",
+      "date": "20261202",
+      "band": "band_drsiw0_137",
+      "time": "未公布",
+      "name": "新北 致幻時空・理夜思緒校園演唱會",
+      "location": "新北市板橋區致理科技大學誠信館5F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%87%B4%E7%90%86%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%AA%A0%E4%BF%A1%E9%A4%A85F",
+      "note": "［售票］\n校外票450元/人,入場時間17:00,演出開始18:00。卡司包含李浩瑋、陳華、Who Cares 胡凱兒、徐皓程、王謙、公館青少年、郭家瑋、謝語恩、Sabrina 胡恂舞,主持寶賤。"
+    },
+    {
+      "id": "upcoming-row-700",
+      "date": "20261202",
+      "band": "band_drsiw0_72",
+      "time": "未公布",
+      "name": "新北 致幻時空・理夜思緒校園演唱會",
+      "location": "新北市板橋區致理科技大學誠信館5F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%87%B4%E7%90%86%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%AA%A0%E4%BF%A1%E9%A4%A85F",
+      "note": "［售票］\n校外票450元/人,入場時間17:00,演出開始18:00。卡司包含李浩瑋、陳華、Who Cares 胡凱兒、徐皓程、王謙、公館青少年、郭家瑋、謝語恩、Sabrina 胡恂舞,主持寶賤。"
+    },
+    {
+      "id": "upcoming-row-701",
+      "date": "20261202",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "新北 致幻時空・理夜思緒校園演唱會",
+      "location": "新北市板橋區致理科技大學誠信館5F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%87%B4%E7%90%86%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E8%AA%A0%E4%BF%A1%E9%A4%A85F",
+      "note": "［售票］\n校外票450元/人,入場時間17:00,演出開始18:00。卡司包含李浩瑋、陳華、Who Cares 胡凱兒、徐皓程、王謙、公館青少年、郭家瑋、謝語恩、Sabrina 胡恂舞,主持寶賤。"
+    },
+    {
       "id": "upcoming-row-253",
       "date": "20261204",
       "band": "band_6gp8um_75",
@@ -29189,6 +29279,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "5d067018-a9f3-4432-9048-7890af9288f0",
-  "updatedAt": "2026-11-15T08:03:23.078Z"
+  "revision": "d29d66dc-91b4-41ed-8850-d59a90102662",
+  "updatedAt": "2026-11-15T10:53:23.454Z"
 }
