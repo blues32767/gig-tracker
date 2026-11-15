@@ -39,7 +39,7 @@
       "short": "艾薇",
       "color": "#fb5607",
       "category": "個人",
-      "eventCount": 14
+      "eventCount": 15
     },
     {
       "id": "band_qqiyec_5",
@@ -47,7 +47,7 @@
       "short": "傻白",
       "color": "#3a86ff",
       "category": "樂團",
-      "eventCount": 14
+      "eventCount": 15
     },
     {
       "id": "band_nmq1yt",
@@ -106,6 +106,14 @@
       "eventCount": 9
     },
     {
+      "id": "fei",
+      "name": "吳霏 FEI",
+      "short": "吳霏 FEI",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 9
+    },
+    {
       "id": "WhoCares",
       "name": "胡凱兒",
       "short": "胡凱兒",
@@ -138,10 +146,10 @@
       "eventCount": 8
     },
     {
-      "id": "fei",
-      "name": "吳霏 FEI",
-      "short": "吳霏 FEI",
-      "color": "#3a86ff",
+      "id": "sabrina",
+      "name": "Sabrina 胡恂舞",
+      "short": "Sabrina 胡恂舞",
+      "color": "#8338ec",
       "category": "個人",
       "eventCount": 8
     },
@@ -186,10 +194,10 @@
       "eventCount": 7
     },
     {
-      "id": "sabrina",
-      "name": "Sabrina 胡恂舞",
-      "short": "Sabrina 胡恂舞",
-      "color": "#8338ec",
+      "id": "band_drsiw0_71",
+      "name": "曾愷妤",
+      "short": "曾愷妤",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 7
     },
@@ -295,14 +303,6 @@
       "short": "P!SCO",
       "color": "#fb5607",
       "category": "樂團",
-      "eventCount": 6
-    },
-    {
-      "id": "band_drsiw0_71",
-      "name": "曾愷妤",
-      "short": "曾愷妤",
-      "color": "#00b4d8",
-      "category": "個人",
       "eventCount": 6
     },
     {
@@ -642,6 +642,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_73",
+      "name": "高爾宣",
+      "short": "高爾宣",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_qqiyec_10",
       "name": "西屯純愛組",
       "short": "西屯純愛組",
@@ -744,6 +752,14 @@
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 4
+    },
+    {
+      "id": "band_6gp8um_1",
+      "name": "王謙",
+      "short": "王謙",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 3
     },
     {
       "id": "band_drsiw0_7",
@@ -926,14 +942,6 @@
       "name": "謝語恩",
       "short": "謝語恩",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_73",
-      "name": "高爾宣",
-      "short": "高爾宣",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 3
     },
@@ -1298,6 +1306,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_qqiyec_25",
+      "name": "多情牛奶糖",
+      "short": "多情牛奶糖",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_66",
       "name": "栗子",
       "short": "栗子",
@@ -1360,14 +1376,6 @@
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 3
-    },
-    {
-      "id": "band_6gp8um_1",
-      "name": "王謙",
-      "short": "王謙",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 2
     },
     {
       "id": "band_drsiw0_10",
@@ -2063,14 +2071,6 @@
       "short": "王彙筑",
       "color": "#ffd166",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_qqiyec_25",
-      "name": "多情牛奶糖",
-      "short": "多情牛奶糖",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -8070,6 +8070,22 @@
       "name": "陳涵 DJ Han Chen",
       "short": "陳涵",
       "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_79",
+      "name": "黃祝賢儒",
+      "short": "黃祝",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "jmjeremy",
+      "name": "J.MJeremy傑洛米",
+      "short": "J.",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
     },
@@ -23858,6 +23874,96 @@
       "note": "［免費］\n活動進行中,包含霓光巷道、極道狂飆等主題演出。\n織浪音樂祭活動,包含多個演出時段與樂團陣容。\n活動期間 2026/05/27 – 11/25,共 7 場次。陣容包含霓光巷道、Lane 140.、夏璐璐 Shiyaruru、虎小島、極道狂飆、emoment、老大不小、Illusion、街頭漫遊、Mango Street Papa 芒果街老爸、越野快餐車 Wild Fast Food、辣鄰居 Hot Hot Neighbros、曠野徐行、後站人 Made In Back Station、萬事樂隊 The Bansu、鯊魚煙囪 Shark Chimney、夜路微光、荒鳴 Wild Cry、RECall、Wimpy、都市夢遊、chirrp.、OHAN、Soul sorry、鐵玫瑰熱音賞特別篇 - 玫4快來、Spaceoutcomet、秋波愛麗、LanLan。"
     },
     {
+      "id": "upcoming-row-683",
+      "date": "20261125",
+      "band": "band_qqiyec_5",
+      "time": "未公布",
+      "name": "台北市 青春不落幕校園演唱會",
+      "location": "國立臺北商業大學學生活動中心2F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E5%95%86%E6%A5%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832F",
+      "note": "［售票］\n活動於11/25舉辦,卡司包含艾薇、吳霏、高爾宣、王謙、Sabrina胡恂舞、多情牛奶糖、BIDO曾愷妤、黃祝賢儒、J.MJeremy傑洛米,主持席子淇。校外票550元。"
+    },
+    {
+      "id": "upcoming-row-684",
+      "date": "20261125",
+      "band": "fei",
+      "time": "未公布",
+      "name": "台北市 青春不落幕校園演唱會",
+      "location": "國立臺北商業大學學生活動中心2F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E5%95%86%E6%A5%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832F",
+      "note": "［售票］\n活動於11/25舉辦,卡司包含艾薇、吳霏、高爾宣、王謙、Sabrina胡恂舞、多情牛奶糖、BIDO曾愷妤、黃祝賢儒、J.MJeremy傑洛米,主持席子淇。校外票550元。"
+    },
+    {
+      "id": "upcoming-row-685",
+      "date": "20261125",
+      "band": "band_drsiw0_73",
+      "time": "未公布",
+      "name": "台北市 青春不落幕校園演唱會",
+      "location": "國立臺北商業大學學生活動中心2F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E5%95%86%E6%A5%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832F",
+      "note": "［售票］\n活動於11/25舉辦,卡司包含艾薇、吳霏、高爾宣、王謙、Sabrina胡恂舞、多情牛奶糖、BIDO曾愷妤、黃祝賢儒、J.MJeremy傑洛米,主持席子淇。校外票550元。"
+    },
+    {
+      "id": "upcoming-row-686",
+      "date": "20261125",
+      "band": "band_6gp8um_1",
+      "time": "未公布",
+      "name": "台北市 青春不落幕校園演唱會",
+      "location": "國立臺北商業大學學生活動中心2F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E5%95%86%E6%A5%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832F",
+      "note": "［售票］\n活動於11/25舉辦,卡司包含艾薇、吳霏、高爾宣、王謙、Sabrina胡恂舞、多情牛奶糖、BIDO曾愷妤、黃祝賢儒、J.MJeremy傑洛米,主持席子淇。校外票550元。"
+    },
+    {
+      "id": "upcoming-row-687",
+      "date": "20261125",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "台北市 青春不落幕校園演唱會",
+      "location": "國立臺北商業大學學生活動中心2F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E5%95%86%E6%A5%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832F",
+      "note": "［售票］\n活動於11/25舉辦,卡司包含艾薇、吳霏、高爾宣、王謙、Sabrina胡恂舞、多情牛奶糖、BIDO曾愷妤、黃祝賢儒、J.MJeremy傑洛米,主持席子淇。校外票550元。"
+    },
+    {
+      "id": "upcoming-row-688",
+      "date": "20261125",
+      "band": "band_qqiyec_25",
+      "time": "未公布",
+      "name": "台北市 青春不落幕校園演唱會",
+      "location": "國立臺北商業大學學生活動中心2F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E5%95%86%E6%A5%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832F",
+      "note": "［售票］\n活動於11/25舉辦,卡司包含艾薇、吳霏、高爾宣、王謙、Sabrina胡恂舞、多情牛奶糖、BIDO曾愷妤、黃祝賢儒、J.MJeremy傑洛米,主持席子淇。校外票550元。"
+    },
+    {
+      "id": "upcoming-row-689",
+      "date": "20261125",
+      "band": "band_drsiw0_71",
+      "time": "未公布",
+      "name": "台北市 青春不落幕校園演唱會",
+      "location": "國立臺北商業大學學生活動中心2F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E5%95%86%E6%A5%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832F",
+      "note": "［售票］\n活動於11/25舉辦,卡司包含艾薇、吳霏、高爾宣、王謙、Sabrina胡恂舞、多情牛奶糖、BIDO曾愷妤、黃祝賢儒、J.MJeremy傑洛米,主持席子淇。校外票550元。"
+    },
+    {
+      "id": "upcoming-row-690",
+      "date": "20261125",
+      "band": "band_6u8lrj_79",
+      "time": "未公布",
+      "name": "台北市 青春不落幕校園演唱會",
+      "location": "國立臺北商業大學學生活動中心2F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E5%95%86%E6%A5%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832F",
+      "note": "［售票］\n活動於11/25舉辦,卡司包含艾薇、吳霏、高爾宣、王謙、Sabrina胡恂舞、多情牛奶糖、BIDO曾愷妤、黃祝賢儒、J.MJeremy傑洛米,主持席子淇。校外票550元。"
+    },
+    {
+      "id": "upcoming-row-691",
+      "date": "20261125",
+      "band": "jmjeremy",
+      "time": "未公布",
+      "name": "台北市 青春不落幕校園演唱會",
+      "location": "國立臺北商業大學學生活動中心2F",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E5%95%86%E6%A5%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832F",
+      "note": "［售票］\n活動於11/25舉辦,卡司包含艾薇、吳霏、高爾宣、王謙、Sabrina胡恂舞、多情牛奶糖、BIDO曾愷妤、黃祝賢儒、J.MJeremy傑洛米,主持席子淇。校外票550元。"
+    },
+    {
       "id": "upcoming-row-488",
       "date": "20261126",
       "band": "band_drsiw0_88",
@@ -29073,6 +29179,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "cee61490-11b2-4ef0-bf1b-d056ddd7d30f",
-  "updatedAt": "2026-11-15T04:58:36.480Z"
+  "revision": "6561db14-8bb4-4f78-96fd-aa9619023a6f",
+  "updatedAt": "2026-11-15T07:53:31.980Z"
 }
