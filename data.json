@@ -8258,6 +8258,38 @@
       "eventCount": 1
     },
     {
+      "id": "martinhurken",
+      "name": "Martin Hurkens",
+      "short": "Ma",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_240",
+      "name": "徐凱希",
+      "short": "徐凱",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_98",
+      "name": "籃籃",
+      "short": "籃籃",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_241",
+      "name": "李多慧",
+      "short": "李多",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -28066,60 +28098,60 @@
       "date": "20261219",
       "band": "band_drsiw0_82",
       "time": "17:30-21:30",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-517",
       "date": "20261219",
       "band": "band_drsiw0_25",
       "time": "17:30-21:30",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-518",
       "date": "20261219",
       "band": "papunband",
       "time": "17:30-21:30",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-519",
       "date": "20261219",
       "band": "keiko",
       "time": "未公布",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-520",
       "date": "20261219",
       "band": "band_drsiw0_190",
       "time": "未公布",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-521",
       "date": "20261219",
       "band": "band_drsiw0_191",
       "time": "未公布",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-522",
@@ -28506,80 +28538,120 @@
       "date": "20261224",
       "band": "band_drsiw0_84",
       "time": "未公布",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-683",
       "date": "20261224",
       "band": "band_drsiw0_58",
       "time": "未公布",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-684",
       "date": "20261224",
       "band": "gongguan",
       "time": "未公布",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-685",
       "date": "20261224",
       "band": "band_drsiw0_153",
       "time": "未公布",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-686",
       "date": "20261224",
       "band": "band_drsiw0_237",
       "time": "未公布",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-687",
       "date": "20261224",
       "band": "sabrina",
       "time": "未公布",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-688",
       "date": "20261224",
       "band": "band_drsiw0_238",
       "time": "未公布",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-689",
       "date": "20261224",
       "band": "thebeatgarde",
       "time": "未公布",
-      "name": "台南 好young・搖滾耶誕演唱會",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
-      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
+    },
+    {
+      "id": "upcoming-row-714",
+      "date": "20261224",
+      "band": "martinhurken",
+      "time": "未公布",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
+    },
+    {
+      "id": "upcoming-row-715",
+      "date": "20261224",
+      "band": "band_drsiw0_240",
+      "time": "未公布",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
+    },
+    {
+      "id": "upcoming-row-716",
+      "date": "20261224",
+      "band": "band_6gp8um_98",
+      "time": "未公布",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
+    },
+    {
+      "id": "upcoming-row-717",
+      "date": "20261224",
+      "band": "band_drsiw0_241",
+      "time": "未公布",
+      "name": "台南 2027 台南好 YOUNG:搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
     },
     {
       "id": "upcoming-row-560",
@@ -30047,6 +30119,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ef7b82e2-13de-4153-a1e1-2ca5370b8d2e",
-  "updatedAt": "2026-11-16T13:59:08.631Z"
+  "revision": "ae9f2583-1bc0-4b97-82f2-b312d9dff9bf",
+  "updatedAt": "2026-11-16T14:00:47.480Z"
 }
