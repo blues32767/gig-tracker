@@ -15,7 +15,7 @@
       "short": "公館青少年",
       "color": "#2a9d8f",
       "category": "樂團",
-      "eventCount": 21
+      "eventCount": 22
     },
     {
       "id": "AmazingShow",
@@ -90,19 +90,19 @@
       "eventCount": 11
     },
     {
-      "id": "icyball",
-      "name": "冰球樂團",
-      "short": "冰球樂團",
-      "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 10
-    },
-    {
       "id": "sabrina",
       "name": "Sabrina 胡恂舞",
       "short": "Sabrina 胡恂舞",
       "color": "#8338ec",
       "category": "個人",
+      "eventCount": 11
+    },
+    {
+      "id": "icyball",
+      "name": "冰球樂團",
+      "short": "冰球樂團",
+      "color": "#00b4d8",
+      "category": "樂團",
       "eventCount": 10
     },
     {
@@ -210,6 +210,14 @@
       "eventCount": 7
     },
     {
+      "id": "band_drsiw0_58",
+      "name": "麋先生",
+      "short": "麋先生",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
       "id": "band_drsiw0_59",
       "name": "固定客",
       "short": "固定客",
@@ -295,14 +303,6 @@
       "short": "黃宇寒",
       "color": "#ffd166",
       "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "band_drsiw0_58",
-      "name": "麋先生",
-      "short": "麋先生",
-      "color": "#2ec4b6",
-      "category": "樂團",
       "eventCount": 6
     },
     {
@@ -479,6 +479,14 @@
       "short": "宇宙人",
       "color": "#06d6a0",
       "category": "樂團",
+      "eventCount": 5
+    },
+    {
+      "id": "band_drsiw0_84",
+      "name": "周湯豪",
+      "short": "周湯豪",
+      "color": "#8338ec",
+      "category": "個人",
       "eventCount": 5
     },
     {
@@ -695,14 +703,6 @@
       "short": "宋德鶴",
       "color": "#118ab2",
       "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_84",
-      "name": "周湯豪",
-      "short": "周湯豪",
-      "color": "#8338ec",
-      "category": "個人",
       "eventCount": 4
     },
     {
@@ -1294,6 +1294,14 @@
       "name": "曾沛慈",
       "short": "曾沛慈",
       "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_153",
+      "name": "彭佳慧",
+      "short": "彭佳慧",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 3
     },
@@ -1982,14 +1990,6 @@
       "name": "許景淳",
       "short": "許景淳",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_153",
-      "name": "彭佳慧",
-      "short": "彭佳慧",
-      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 2
     },
@@ -8191,6 +8191,30 @@
       "short": "壞特",
       "color": "#ef476f",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_237",
+      "name": "張羽靚",
+      "short": "張羽",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_238",
+      "name": "玉澤演",
+      "short": "玉澤",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "thebeatgarde",
+      "name": "THE BEAT GARDEN",
+      "short": "TH",
+      "color": "#118ab2",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -27802,8 +27826,8 @@
       "date": "20261219",
       "band": "band_drsiw0_82",
       "time": "17:30-21:30",
-      "name": "台南 好young2027",
-      "location": "台南市新營南瀛綠都心公園",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
     },
@@ -27812,8 +27836,8 @@
       "date": "20261219",
       "band": "band_drsiw0_25",
       "time": "17:30-21:30",
-      "name": "台南 好young2027",
-      "location": "台南市新營南瀛綠都心公園",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
     },
@@ -27822,8 +27846,8 @@
       "date": "20261219",
       "band": "papunband",
       "time": "17:30-21:30",
-      "name": "台南 好young2027",
-      "location": "台南市新營南瀛綠都心公園",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
     },
@@ -27832,8 +27856,8 @@
       "date": "20261219",
       "band": "keiko",
       "time": "未公布",
-      "name": "台南 好young2027",
-      "location": "台南市新營南瀛綠都心公園",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
     },
@@ -27842,8 +27866,8 @@
       "date": "20261219",
       "band": "band_drsiw0_190",
       "time": "未公布",
-      "name": "台南 好young2027",
-      "location": "台南市新營南瀛綠都心公園",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
     },
@@ -27852,8 +27876,8 @@
       "date": "20261219",
       "band": "band_drsiw0_191",
       "time": "未公布",
-      "name": "台南 好young2027",
-      "location": "台南市新營南瀛綠都心公園",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
     },
@@ -28236,6 +28260,86 @@
       "location": "漢神洲際購物廣場 6F 琉光花園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%BC%A2%E7%A5%9E%E6%B4%B2%E9%9A%9B%E8%B3%BC%E7%89%A9%E5%BB%A3%E5%A0%B46F%E7%90%89%E5%85%89%E8%8A%B1%E5%9C%92",
       "note": "［免費］\n卡司包含婁峻碩、PIZZALI、林可綸、白日夢廚房。活動同步推出互動體驗:「夜。潮限定|簽名海報」憑當日單筆消費滿 1,500 元發票紙本兌換,限量 65 組;「夜。潮限定|心動同框」憑當日單筆消費滿 1,000 元發票紙本兌換,限量 30 組。"
+    },
+    {
+      "id": "upcoming-row-682",
+      "date": "20261224",
+      "band": "band_drsiw0_84",
+      "time": "未公布",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+    },
+    {
+      "id": "upcoming-row-683",
+      "date": "20261224",
+      "band": "band_drsiw0_58",
+      "time": "未公布",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+    },
+    {
+      "id": "upcoming-row-684",
+      "date": "20261224",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+    },
+    {
+      "id": "upcoming-row-685",
+      "date": "20261224",
+      "band": "band_drsiw0_153",
+      "time": "未公布",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+    },
+    {
+      "id": "upcoming-row-686",
+      "date": "20261224",
+      "band": "band_drsiw0_237",
+      "time": "未公布",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+    },
+    {
+      "id": "upcoming-row-687",
+      "date": "20261224",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+    },
+    {
+      "id": "upcoming-row-688",
+      "date": "20261224",
+      "band": "band_drsiw0_238",
+      "time": "未公布",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
+    },
+    {
+      "id": "upcoming-row-689",
+      "date": "20261224",
+      "band": "thebeatgarde",
+      "time": "未公布",
+      "name": "台南 好young・搖滾耶誕演唱會",
+      "location": "台南市政府永華市政中心西側廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為新營南瀛綠都心公園。卡司包含八三夭、許富凱、怕胖團、KEIKO、山元聰、黄瑋昕等藝人,主持人為吳建恆。"
     },
     {
       "id": "upcoming-row-560",
@@ -29663,6 +29767,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "8c38f183-37fd-4a1e-bbe7-30b6eb4a7c7b",
-  "updatedAt": "2026-11-16T05:17:57.994Z"
+  "revision": "e9e7da35-d76d-4b8c-80b0-e091188be137",
+  "updatedAt": "2026-11-16T07:53:49.139Z"
 }
