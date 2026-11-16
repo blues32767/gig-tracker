@@ -27030,9 +27030,9 @@
       "note": "［免費］\n活動期間 12/4-12/20,包含民歌、鄉土、文化、創作、流行主題晚會及蘭陽食旅特展。"
     },
     {
-      "id": "upcoming-row-577",
+      "id": "upcoming-row-578",
       "date": "20261212",
-      "band": "lineup",
+      "band": "band_6gp8um_75",
       "time": "未公布",
       "name": "台北 寫信馬拉松",
       "location": "台北市華山 1914 文創園區中 4A 館",
@@ -27294,16 +27294,6 @@
       "date": "20261213",
       "band": "band_6gp8um_66",
       "time": "13:00-14:00",
-      "name": "台北 寫信馬拉松",
-      "location": "台北市華山 1914 文創園區中 4A 館",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E4%B8%AD%204A%20%E9%A4%A8",
-      "note": "［免費］\n活動於 12/26 至 27 舉辦,卡司包含孩子王 Kid King、Whyte ?te壞特、blu mush、大象體操 Elephant Gym。"
-    },
-    {
-      "id": "upcoming-row-578",
-      "date": "20261213",
-      "band": "band_6gp8um_75",
-      "time": "未公布",
       "name": "台北 寫信馬拉松",
       "location": "台北市華山 1914 文創園區中 4A 館",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E4%B8%AD%204A%20%E9%A4%A8",
@@ -28690,6 +28680,16 @@
       "note": "［免費］\n活動於 12/26 至 27 舉辦,卡司包含孩子王 Kid King、Whyte ?te壞特、blu mush、大象體操 Elephant Gym。"
     },
     {
+      "id": "upcoming-row-577",
+      "date": "20261226",
+      "band": "lineup",
+      "time": "未公布",
+      "name": "台北 寫信馬拉松",
+      "location": "台北市華山 1914 文創園區中 4A 館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%8F%AF%E5%B1%B1%201914%20%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E4%B8%AD%204A%20%E9%A4%A8",
+      "note": "［免費］\n活動於 12/26 至 27 舉辦,卡司包含孩子王 Kid King、Whyte ?te壞特、blu mush、大象體操 Elephant Gym。"
+    },
+    {
       "id": "upcoming-row-128",
       "date": "20261227",
       "band": "kenshiyonezu",
@@ -29655,6 +29655,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "44b1483f-aff7-44eb-93e6-b0965ef823ba",
-  "updatedAt": "2026-11-16T05:07:26.994Z"
+  "revision": "ee99b1d9-08d1-407f-b1ca-4dd92dbd10de",
+  "updatedAt": "2026-11-16T05:08:01.037Z"
 }
