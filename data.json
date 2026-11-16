@@ -370,6 +370,14 @@
       "eventCount": 5
     },
     {
+      "id": "fenix",
+      "name": "FEniX",
+      "short": "FEniX",
+      "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 5
+    },
+    {
       "id": "band_qqiyec",
       "name": "無妄合作社",
       "short": "無妄合作社",
@@ -554,14 +562,6 @@
       "eventCount": 4
     },
     {
-      "id": "fenix",
-      "name": "FEniX",
-      "short": "FEniX",
-      "color": "#8338ec",
-      "category": "團體",
-      "eventCount": 4
-    },
-    {
       "id": "arkis",
       "name": "ARKis",
       "short": "ARKis",
@@ -623,6 +623,14 @@
       "short": "康士坦",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "band_6u8lrj_10",
+      "name": "幽靈水晶",
+      "short": "幽靈水晶",
+      "color": "#ffd166",
+      "category": "團體",
       "eventCount": 4
     },
     {
@@ -938,14 +946,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_6u8lrj_10",
-      "name": "幽靈水晶",
-      "short": "幽靈水晶",
-      "color": "#ffd166",
-      "category": "團體",
-      "eventCount": 3
-    },
-    {
       "id": "band_6gp8um_18",
       "name": "癢癢",
       "short": "癢癢",
@@ -990,6 +990,14 @@
       "name": "Multiverse",
       "short": "Multiverse",
       "color": "#06d6a0",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
+      "id": "band_maaxir_3",
+      "name": "即將成真火舞團",
+      "short": "即將成真火舞團",
+      "color": "#fb5607",
       "category": "團體",
       "eventCount": 3
     },
@@ -1527,14 +1535,6 @@
       "short": "林頤原",
       "color": "#fb5607",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_maaxir_3",
-      "name": "即將成真火舞團",
-      "short": "即將成真火舞團",
-      "color": "#fb5607",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -25292,6 +25292,36 @@
       "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
     },
     {
+      "id": "upcoming-row-695",
+      "date": "20261205",
+      "band": "band_6u8lrj_10",
+      "time": "未公布",
+      "name": "苗栗 Fun客時光・璀璨苗栗",
+      "location": "苗栗巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n活動名稱:Fun客時光・璀璨苗栗,地點為苗栗巨蛋體育館。卡司包含幽靈水晶、FEniX、即將成真火舞團。"
+    },
+    {
+      "id": "upcoming-row-696",
+      "date": "20261205",
+      "band": "fenix",
+      "time": "未公布",
+      "name": "苗栗 Fun客時光・璀璨苗栗",
+      "location": "苗栗巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n活動名稱:Fun客時光・璀璨苗栗,地點為苗栗巨蛋體育館。卡司包含幽靈水晶、FEniX、即將成真火舞團。"
+    },
+    {
+      "id": "upcoming-row-697",
+      "date": "20261205",
+      "band": "band_maaxir_3",
+      "time": "未公布",
+      "name": "苗栗 Fun客時光・璀璨苗栗",
+      "location": "苗栗巨蛋體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E5%B7%A8%E8%9B%8B%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［免費］\n活動名稱:Fun客時光・璀璨苗栗,地點為苗栗巨蛋體育館。卡司包含幽靈水晶、FEniX、即將成真火舞團。"
+    },
+    {
       "id": "upcoming-row-265",
       "date": "20261206",
       "band": "mango",
@@ -29817,6 +29847,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "60207fa5-cc6d-48c1-91e2-e952e3938bc2",
-  "updatedAt": "2026-11-16T10:55:01.808Z"
+  "revision": "68d29630-453d-4b37-a55c-05991c7340c3",
+  "updatedAt": "2026-11-16T10:56:14.708Z"
 }
