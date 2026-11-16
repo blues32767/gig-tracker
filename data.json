@@ -2250,6 +2250,14 @@
       "eventCount": 2
     },
     {
+      "id": "djkenlin",
+      "name": "DJKenLin林軒",
+      "short": "DJKenLin林軒",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_6u8lrj_65",
       "name": "宅邦戰隊",
       "short": "宅邦戰隊",
@@ -7039,14 +7047,6 @@
       "short": "黃韻玲浪漫里樂團",
       "color": "#2ec4b6",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "djkenlin",
-      "name": "DJKenLin林軒",
-      "short": "DJKenLin林軒",
-      "color": "#ef476f",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -25119,7 +25119,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),新竹縣。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
     },
     {
       "id": "upcoming-row-249",
@@ -25129,7 +25129,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),新竹縣。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
     },
     {
       "id": "upcoming-row-250",
@@ -25269,7 +25269,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),新竹縣。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
     },
     {
       "id": "upcoming-row-264",
@@ -25279,7 +25279,17 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),新竹縣。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+    },
+    {
+      "id": "upcoming-row-690",
+      "date": "20261205",
+      "band": "djkenlin",
+      "time": "16:30-17:30",
+      "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
+      "location": "新竹縣竹北市文興路 (東興圳公園)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
     },
     {
       "id": "upcoming-row-265",
@@ -25339,7 +25349,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),新竹縣。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
     },
     {
       "id": "upcoming-row-271",
@@ -25349,7 +25359,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),新竹縣。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
     },
     {
       "id": "upcoming-row-272",
@@ -25359,7 +25369,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),新竹縣。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
     },
     {
       "id": "upcoming-row-273",
@@ -29767,6 +29777,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e9e7da35-d76d-4b8c-80b0-e091188be137",
-  "updatedAt": "2026-11-16T07:53:49.139Z"
+  "revision": "7ccf8011-4eb3-42fb-a87a-00ad0c073157",
+  "updatedAt": "2026-11-16T08:10:30.980Z"
 }
