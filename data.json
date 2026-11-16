@@ -31,7 +31,7 @@
       "short": "怕胖團",
       "color": "#1d3557",
       "category": "樂團",
-      "eventCount": 17
+      "eventCount": 18
     },
     {
       "id": "band_qqiyec_5",
@@ -39,7 +39,7 @@
       "short": "艾薇",
       "color": "#fb5607",
       "category": "個人",
-      "eventCount": 15
+      "eventCount": 16
     },
     {
       "id": "band_qqiyec_5",
@@ -47,7 +47,7 @@
       "short": "傻白",
       "color": "#3a86ff",
       "category": "樂團",
-      "eventCount": 15
+      "eventCount": 16
     },
     {
       "id": "band_drsiw0_25",
@@ -106,6 +106,14 @@
       "eventCount": 10
     },
     {
+      "id": "fei",
+      "name": "吳霏 FEI",
+      "short": "吳霏 FEI",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 10
+    },
+    {
       "id": "WhoCares",
       "name": "胡凱兒",
       "short": "胡凱兒",
@@ -130,12 +138,12 @@
       "eventCount": 9
     },
     {
-      "id": "fei",
-      "name": "吳霏 FEI",
-      "short": "吳霏 FEI",
-      "color": "#3a86ff",
+      "id": "band_drsiw0_1",
+      "name": "李浩瑋",
+      "short": "李浩瑋",
+      "color": "#ef476f",
       "category": "個人",
-      "eventCount": 9
+      "eventCount": 8
     },
     {
       "id": "SweetJohn",
@@ -151,6 +159,14 @@
       "short": "溫室雜草",
       "color": "#8338ec",
       "category": "樂團",
+      "eventCount": 8
+    },
+    {
+      "id": "band_drsiw0_71",
+      "name": "曾愷妤",
+      "short": "曾愷妤",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 8
     },
     {
@@ -186,19 +202,19 @@
       "eventCount": 7
     },
     {
-      "id": "band_drsiw0_1",
-      "name": "李浩瑋",
-      "short": "李浩瑋",
-      "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 7
-    },
-    {
       "id": "band_6gp8um_3",
       "name": "白安",
       "short": "白安",
       "color": "#00b4d8",
       "category": "個人",
+      "eventCount": 7
+    },
+    {
+      "id": "band",
+      "name": "粗大Band",
+      "short": "粗大Band",
+      "color": "#ef476f",
+      "category": "樂團",
       "eventCount": 7
     },
     {
@@ -226,14 +242,6 @@
       "eventCount": 7
     },
     {
-      "id": "band_drsiw0_71",
-      "name": "曾愷妤",
-      "short": "曾愷妤",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 7
-    },
-    {
       "id": "FireEX",
       "name": "滅火器",
       "short": "滅火器",
@@ -258,6 +266,14 @@
       "eventCount": 7
     },
     {
+      "id": "band_drsiw0_139",
+      "name": "徐暐翔",
+      "short": "徐暐翔",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
       "id": "163braces",
       "name": "163braces",
       "short": "163braces",
@@ -271,14 +287,6 @@
       "short": "U:NUS",
       "color": "#2ec4b6",
       "category": "團體",
-      "eventCount": 6
-    },
-    {
-      "id": "band",
-      "name": "粗大Band",
-      "short": "粗大Band",
-      "color": "#ef476f",
-      "category": "樂團",
       "eventCount": 6
     },
     {
@@ -330,6 +338,14 @@
       "eventCount": 6
     },
     {
+      "id": "sinby",
+      "name": "欣菲 Sinby",
+      "short": "欣菲",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "band_drsiw0_85",
       "name": "蕭景鴻",
       "short": "蕭景鴻",
@@ -351,14 +367,6 @@
       "short": "上山",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 6
-    },
-    {
-      "id": "band_drsiw0_139",
-      "name": "徐暐翔",
-      "short": "徐暐翔",
-      "color": "#ef476f",
-      "category": "個人",
       "eventCount": 6
     },
     {
@@ -470,14 +478,6 @@
       "name": "陳勢安",
       "short": "陳勢安",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "sinby",
-      "name": "欣菲 Sinby",
-      "short": "欣菲",
-      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 5
     },
@@ -8222,6 +8222,14 @@
       "name": "Ya Mon Social Club 壓滿俱樂部",
       "short": "Ya",
       "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "choily",
+      "name": "C.HoIly",
+      "short": "C.",
+      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
     },
@@ -27410,6 +27418,96 @@
       "note": "［免費］\n活動期間 12/4-12/20,包含民歌、鄉土、文化、創作、流行主題晚會及蘭陽食旅特展。"
     },
     {
+      "id": "upcoming-row-699",
+      "date": "20261215",
+      "band": "papunband",
+      "time": "18:30-21:30",
+      "name": "台中 逢甲大學育樂館聖誕演唱會",
+      "location": "台中市逢甲大學育樂館1F大禮堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A81F%E5%A4%A7%E7%A6%AE%E5%A0%82",
+      "note": "［售票］\n逢甲大學舉辦的校園聖誕演唱會,卡司包含怕胖團、李浩瑋、吳霏、艾薇、徐暐翔、欣菲、粗大Band、C.HoIly、BIDO 曾愷妤等。"
+    },
+    {
+      "id": "upcoming-row-700",
+      "date": "20261215",
+      "band": "band_drsiw0_1",
+      "time": "18:30-21:30",
+      "name": "台中 逢甲大學育樂館聖誕演唱會",
+      "location": "台中市逢甲大學育樂館1F大禮堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A81F%E5%A4%A7%E7%A6%AE%E5%A0%82",
+      "note": "［售票］\n逢甲大學舉辦的校園聖誕演唱會,卡司包含怕胖團、李浩瑋、吳霏、艾薇、徐暐翔、欣菲、粗大Band、C.HoIly、BIDO 曾愷妤等。"
+    },
+    {
+      "id": "upcoming-row-701",
+      "date": "20261215",
+      "band": "fei",
+      "time": "18:30-21:30",
+      "name": "台中 逢甲大學育樂館聖誕演唱會",
+      "location": "台中市逢甲大學育樂館1F大禮堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A81F%E5%A4%A7%E7%A6%AE%E5%A0%82",
+      "note": "［售票］\n逢甲大學舉辦的校園聖誕演唱會,卡司包含怕胖團、李浩瑋、吳霏、艾薇、徐暐翔、欣菲、粗大Band、C.HoIly、BIDO 曾愷妤等。"
+    },
+    {
+      "id": "upcoming-row-702",
+      "date": "20261215",
+      "band": "band_qqiyec_5",
+      "time": "18:30-21:30",
+      "name": "台中 逢甲大學育樂館聖誕演唱會",
+      "location": "台中市逢甲大學育樂館1F大禮堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A81F%E5%A4%A7%E7%A6%AE%E5%A0%82",
+      "note": "［售票］\n逢甲大學舉辦的校園聖誕演唱會,卡司包含怕胖團、李浩瑋、吳霏、艾薇、徐暐翔、欣菲、粗大Band、C.HoIly、BIDO 曾愷妤等。"
+    },
+    {
+      "id": "upcoming-row-703",
+      "date": "20261215",
+      "band": "band_drsiw0_139",
+      "time": "18:30-21:30",
+      "name": "台中 逢甲大學育樂館聖誕演唱會",
+      "location": "台中市逢甲大學育樂館1F大禮堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A81F%E5%A4%A7%E7%A6%AE%E5%A0%82",
+      "note": "［售票］\n逢甲大學舉辦的校園聖誕演唱會,卡司包含怕胖團、李浩瑋、吳霏、艾薇、徐暐翔、欣菲、粗大Band、C.HoIly、BIDO 曾愷妤等。"
+    },
+    {
+      "id": "upcoming-row-704",
+      "date": "20261215",
+      "band": "sinby",
+      "time": "18:30-21:30",
+      "name": "台中 逢甲大學育樂館聖誕演唱會",
+      "location": "台中市逢甲大學育樂館1F大禮堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A81F%E5%A4%A7%E7%A6%AE%E5%A0%82",
+      "note": "［售票］\n逢甲大學舉辦的校園聖誕演唱會,卡司包含怕胖團、李浩瑋、吳霏、艾薇、徐暐翔、欣菲、粗大Band、C.HoIly、BIDO 曾愷妤等。"
+    },
+    {
+      "id": "upcoming-row-705",
+      "date": "20261215",
+      "band": "band",
+      "time": "18:30-21:30",
+      "name": "台中 逢甲大學育樂館聖誕演唱會",
+      "location": "台中市逢甲大學育樂館1F大禮堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A81F%E5%A4%A7%E7%A6%AE%E5%A0%82",
+      "note": "［售票］\n逢甲大學舉辦的校園聖誕演唱會,卡司包含怕胖團、李浩瑋、吳霏、艾薇、徐暐翔、欣菲、粗大Band、C.HoIly、BIDO 曾愷妤等。"
+    },
+    {
+      "id": "upcoming-row-706",
+      "date": "20261215",
+      "band": "choily",
+      "time": "18:30-21:30",
+      "name": "台中 逢甲大學育樂館聖誕演唱會",
+      "location": "台中市逢甲大學育樂館1F大禮堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A81F%E5%A4%A7%E7%A6%AE%E5%A0%82",
+      "note": "［售票］\n逢甲大學舉辦的校園聖誕演唱會,卡司包含怕胖團、李浩瑋、吳霏、艾薇、徐暐翔、欣菲、粗大Band、C.HoIly、BIDO 曾愷妤等。"
+    },
+    {
+      "id": "upcoming-row-707",
+      "date": "20261215",
+      "band": "band_drsiw0_71",
+      "time": "18:30-21:30",
+      "name": "台中 逢甲大學育樂館聖誕演唱會",
+      "location": "台中市逢甲大學育樂館1F大禮堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E9%80%A2%E7%94%B2%E5%A4%A7%E5%AD%B8%E8%82%B2%E6%A8%82%E9%A4%A81F%E5%A4%A7%E7%A6%AE%E5%A0%82",
+      "note": "［售票］\n逢甲大學舉辦的校園聖誕演唱會,卡司包含怕胖團、李浩瑋、吳霏、艾薇、徐暐翔、欣菲、粗大Band、C.HoIly、BIDO 曾愷妤等。"
+    },
+    {
       "id": "upcoming-row-469",
       "date": "20261217",
       "band": "band_drsiw0_54",
@@ -29865,6 +29963,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "04c87689-6a90-42ef-9771-ff3bdcc2feb8",
-  "updatedAt": "2026-11-16T10:59:25.880Z"
+  "revision": "92c06475-0369-4475-aa64-a3080b0a1716",
+  "updatedAt": "2026-11-16T13:53:41.314Z"
 }
