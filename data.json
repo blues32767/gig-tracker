@@ -74,6 +74,14 @@
       "eventCount": 12
     },
     {
+      "id": "sabrina",
+      "name": "Sabrina 胡恂舞",
+      "short": "Sabrina 胡恂舞",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 12
+    },
+    {
       "id": "band_drsiw0_27",
       "name": "玖壹壹",
       "short": "玖壹壹",
@@ -87,14 +95,6 @@
       "short": "TRASH",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 11
-    },
-    {
-      "id": "sabrina",
-      "name": "Sabrina 胡恂舞",
-      "short": "Sabrina 胡恂舞",
-      "color": "#8338ec",
-      "category": "個人",
       "eventCount": 11
     },
     {
@@ -23491,7 +23491,7 @@
       "id": "upcoming-row-84",
       "date": "20261121",
       "band": "psco",
-      "time": "未公布",
+      "time": "15:50-16:30",
       "name": "彰化 青年創業嘉年華",
       "location": "彰化縣員林市圓林園滯洪池生態公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
@@ -23586,6 +23586,16 @@
       "location": "高雄市小港區紅毛港文化園區",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82",
       "note": "［免費］\n本祭演出時間尚未公布\n活動於 2026/11/21 (六) 在高雄市舉辦,陣容共 11 組演出。主舞台包含 someshiit 山姆、普通隊長 Captain Ordinary、老貓偵探社、八十八顆芭樂籽 88balaz、淺堤 Shallow Levée、一點生等;副舞台有存在証明 NO FACE NO REaLiTY、來者何人 Whoou!、孩子王 Kid King;DJ 舞台則有 DJ Jemp、DJ Han Chen 陳涵。\n入園門票99元/張,提供免費接駁服務。\nSouthmusic x Frizz Day 音樂節,於高雄市紅毛港文化園區舉辦。全票99元,含優待、優惠及免費入場資格。演出時間表涵蓋主舞台、副舞台與DJ舞台。\n活動於11月21日在高雄市紅毛港文化園區舉辦,包含全票99元、優待票79元等票價資訊。演出時間表涵蓋主舞台、副舞台及DJ舞台共計14:00至20:00的演出安排。"
+    },
+    {
+      "id": "upcoming-row-708",
+      "date": "20261121",
+      "band": "sabrina",
+      "time": "14:40-15:00",
+      "name": "彰化 青年創業嘉年華",
+      "location": "彰化縣員林市圓林園滯洪池生態公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E5%9C%93%E6%9E%97%E5%9C%92%E6%BB%AF%E6%B4%AA%E6%B1%A0%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。\n青年創業嘉年華活動,包含多組樂團與表演團體演出。\n活動於11/21-11/22在圓林園滯洪池生態公園舉辦。卡司包含P!SCO、彰中熱音、彰中行音、解憂所、彰商韓舞、南西肯恩、王特面、Joe Tu、李李。"
     },
     {
       "id": "upcoming-row-94",
@@ -29963,6 +29973,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "92c06475-0369-4475-aa64-a3080b0a1716",
-  "updatedAt": "2026-11-16T13:53:41.314Z"
+  "revision": "cb633095-1531-4bd7-b4a7-864e2e321a39",
+  "updatedAt": "2026-11-16T13:55:26.199Z"
 }
