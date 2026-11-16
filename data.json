@@ -50,6 +50,14 @@
       "eventCount": 15
     },
     {
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富凱",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 13
+    },
+    {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
@@ -62,14 +70,6 @@
       "name": "PIZZALI",
       "short": "PIZZALI",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 12
-    },
-    {
-      "id": "band_drsiw0_25",
-      "name": "許富凱",
-      "short": "許富凱",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 12
     },
@@ -298,6 +298,14 @@
       "eventCount": 6
     },
     {
+      "id": "ozone",
+      "name": "Ozone",
+      "short": "Ozone",
+      "color": "#ffd166",
+      "category": "團體",
+      "eventCount": 6
+    },
+    {
       "id": "band_drsiw0_50",
       "name": "黃宇寒",
       "short": "黃宇寒",
@@ -367,14 +375,6 @@
       "short": "無妄合作社",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 5
-    },
-    {
-      "id": "ozone",
-      "name": "Ozone",
-      "short": "Ozone",
-      "color": "#ffd166",
-      "category": "團體",
       "eventCount": 5
     },
     {
@@ -783,6 +783,14 @@
       "short": "淺堤 ft. Kim Sawol",
       "color": "#3a86ff",
       "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "band_drsiw0_145",
+      "name": "孫淑媚",
+      "short": "孫淑媚",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 4
     },
     {
@@ -1238,14 +1246,6 @@
       "name": "國蛋 GorDoN",
       "short": "國蛋 GorDoN",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_145",
-      "name": "孫淑媚",
-      "short": "孫淑媚",
-      "color": "#fb5607",
       "category": "個人",
       "eventCount": 3
     },
@@ -1991,6 +1991,14 @@
       "short": "許景淳",
       "color": "#2ec4b6",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "hur",
+      "name": "HUR+",
+      "short": "HUR+",
+      "color": "#ffd166",
+      "category": "團體",
       "eventCount": 2
     },
     {
@@ -5015,14 +5023,6 @@
       "short": "舞思愛",
       "color": "#ef476f",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "hur",
-      "name": "HUR+",
-      "short": "HUR+",
-      "color": "#ffd166",
-      "category": "團體",
       "eventCount": 1
     },
     {
@@ -29082,6 +29082,46 @@
       "note": "［售票］\n第一波卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO,主持阿強。"
     },
     {
+      "id": "upcoming-row-691",
+      "date": "20261231",
+      "band": "band_drsiw0_145",
+      "time": "未公布",
+      "name": "高雄 2027 雄嗨趴跨年演唱會",
+      "location": "高雄市夢時代廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%A4%A2%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026/12/31 舉辦,卡司包含孫淑媚、許富凱、Ozone、HUR+and more...,主持黃偉晉、木木林葦妮"
+    },
+    {
+      "id": "upcoming-row-692",
+      "date": "20261231",
+      "band": "band_drsiw0_25",
+      "time": "未公布",
+      "name": "高雄 2027 雄嗨趴跨年演唱會",
+      "location": "高雄市夢時代廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%A4%A2%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026/12/31 舉辦,卡司包含孫淑媚、許富凱、Ozone、HUR+and more...,主持黃偉晉、木木林葦妮"
+    },
+    {
+      "id": "upcoming-row-693",
+      "date": "20261231",
+      "band": "ozone",
+      "time": "未公布",
+      "name": "高雄 2027 雄嗨趴跨年演唱會",
+      "location": "高雄市夢時代廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%A4%A2%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026/12/31 舉辦,卡司包含孫淑媚、許富凱、Ozone、HUR+and more...,主持黃偉晉、木木林葦妮"
+    },
+    {
+      "id": "upcoming-row-694",
+      "date": "20261231",
+      "band": "hur",
+      "time": "未公布",
+      "name": "高雄 2027 雄嗨趴跨年演唱會",
+      "location": "高雄市夢時代廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%A4%A2%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026/12/31 舉辦,卡司包含孫淑媚、許富凱、Ozone、HUR+and more...,主持黃偉晉、木木林葦妮"
+    },
+    {
       "id": "upcoming-row-635",
       "date": "20270102",
       "band": "awkward",
@@ -29777,6 +29817,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7ccf8011-4eb3-42fb-a87a-00ad0c073157",
-  "updatedAt": "2026-11-16T08:10:30.980Z"
+  "revision": "60207fa5-cc6d-48c1-91e2-e952e3938bc2",
+  "updatedAt": "2026-11-16T10:55:01.808Z"
 }
