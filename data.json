@@ -514,6 +514,14 @@
       "eventCount": 5
     },
     {
+      "id": "shallowlevef",
+      "name": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
+      "short": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
       "id": "dsps",
       "name": "DSPS",
       "short": "DSPS",
@@ -638,6 +646,14 @@
       "name": "異族亡魂",
       "short": "異族亡魂",
       "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "band_drsiw0_60",
+      "name": "羊米人",
+      "short": "羊米人",
+      "color": "#fb5607",
       "category": "樂團",
       "eventCount": 4
     },
@@ -775,14 +791,6 @@
       "short": "蕭秉治",
       "color": "#fb5607",
       "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "shallowlevef",
-      "name": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
-      "short": "淺堤 Shallow Levée ft. 鄭宜農 Enno Cheng",
-      "color": "#118ab2",
-      "category": "樂團",
       "eventCount": 4
     },
     {
@@ -959,14 +967,6 @@
       "short": "RIKI",
       "color": "#8338ec",
       "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_60",
-      "name": "羊米人",
-      "short": "羊米人",
-      "color": "#fb5607",
-      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -8231,6 +8231,30 @@
       "short": "C.",
       "color": "#ff006e",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_239",
+      "name": "蔡忠穎",
+      "short": "蔡忠",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ali",
+      "name": "方立維 ALI",
+      "short": "方立",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_80",
+      "name": "水管阿民",
+      "short": "水管",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -23598,6 +23622,56 @@
       "note": "［免費］\n活動於 11/21 與 11/22 舉辦,包含多組樂團演出。\n青年創業嘉年華活動,包含多組樂團與表演團體演出。\n活動於11/21-11/22在圓林園滯洪池生態公園舉辦。卡司包含P!SCO、彰中熱音、彰中行音、解憂所、彰商韓舞、南西肯恩、王特面、Joe Tu、李李。"
     },
     {
+      "id": "upcoming-row-709",
+      "date": "20261121",
+      "band": "shallowlevef",
+      "time": "14:15-14:45",
+      "name": "岡山 甘味祭",
+      "location": "岡山縣岡山鎮典寶溪劉厝滯洪池",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%B8%A3%E5%B2%A1%E5%B1%B1%E9%8E%AE%E5%85%B8%E5%AF%B6%E6%BA%AA%E5%8A%89%E5%8E%9D%E6%BB%AF%E6%B4%AA%E6%B1%A0",
+      "note": "［免費］\n活動於 11/21 舉辦,包含淺堤、蔡忠穎、方立維 ALI、水管阿民、羊米人等演出。"
+    },
+    {
+      "id": "upcoming-row-710",
+      "date": "20261121",
+      "band": "band_drsiw0_239",
+      "time": "15:15-16:00",
+      "name": "岡山 甘味祭",
+      "location": "岡山縣岡山鎮典寶溪劉厝滯洪池",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%B8%A3%E5%B2%A1%E5%B1%B1%E9%8E%AE%E5%85%B8%E5%AF%B6%E6%BA%AA%E5%8A%89%E5%8E%9D%E6%BB%AF%E6%B4%AA%E6%B1%A0",
+      "note": "［免費］\n活動於 11/21 舉辦,包含淺堤、蔡忠穎、方立維 ALI、水管阿民、羊米人等演出。"
+    },
+    {
+      "id": "upcoming-row-711",
+      "date": "20261121",
+      "band": "ali",
+      "time": "16:30-17:00",
+      "name": "岡山 甘味祭",
+      "location": "岡山縣岡山鎮典寶溪劉厝滯洪池",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%B8%A3%E5%B2%A1%E5%B1%B1%E9%8E%AE%E5%85%B8%E5%AF%B6%E6%BA%AA%E5%8A%89%E5%8E%9D%E6%BB%AF%E6%B4%AA%E6%B1%A0",
+      "note": "［免費］\n活動於 11/21 舉辦,包含淺堤、蔡忠穎、方立維 ALI、水管阿民、羊米人等演出。"
+    },
+    {
+      "id": "upcoming-row-712",
+      "date": "20261121",
+      "band": "band_6u8lrj_80",
+      "time": "17:15-18:00",
+      "name": "岡山 甘味祭",
+      "location": "岡山縣岡山鎮典寶溪劉厝滯洪池",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%B8%A3%E5%B2%A1%E5%B1%B1%E9%8E%AE%E5%85%B8%E5%AF%B6%E6%BA%AA%E5%8A%89%E5%8E%9D%E6%BB%AF%E6%B4%AA%E6%B1%A0",
+      "note": "［免費］\n活動於 11/21 舉辦,包含淺堤、蔡忠穎、方立維 ALI、水管阿民、羊米人等演出。"
+    },
+    {
+      "id": "upcoming-row-713",
+      "date": "20261121",
+      "band": "band_drsiw0_60",
+      "time": "18:30-19:10",
+      "name": "岡山 甘味祭",
+      "location": "岡山縣岡山鎮典寶溪劉厝滯洪池",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%B8%A3%E5%B2%A1%E5%B1%B1%E9%8E%AE%E5%85%B8%E5%AF%B6%E6%BA%AA%E5%8A%89%E5%8E%9D%E6%BB%AF%E6%B4%AA%E6%B1%A0",
+      "note": "［免費］\n活動於 11/21 舉辦,包含淺堤、蔡忠穎、方立維 ALI、水管阿民、羊米人等演出。"
+    },
+    {
       "id": "upcoming-row-94",
       "date": "20261122",
       "band": "WhoCares",
@@ -29973,6 +30047,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "cb633095-1531-4bd7-b4a7-864e2e321a39",
-  "updatedAt": "2026-11-16T13:55:26.199Z"
+  "revision": "ef7b82e2-13de-4153-a1e1-2ca5370b8d2e",
+  "updatedAt": "2026-11-16T13:59:08.631Z"
 }
