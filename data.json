@@ -8218,6 +8218,14 @@
       "eventCount": 1
     },
     {
+      "id": "yamonsocialc_2",
+      "name": "Ya Mon Social Club 壓滿俱樂部",
+      "short": "Ya",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -25322,6 +25330,16 @@
       "note": "［免費］\n活動名稱:Fun客時光・璀璨苗栗,地點為苗栗巨蛋體育館。卡司包含幽靈水晶、FEniX、即將成真火舞團。"
     },
     {
+      "id": "upcoming-row-698",
+      "date": "20261205",
+      "band": "yamonsocialc_2",
+      "time": "14:30-15:00",
+      "name": "嘉義 花海生活節",
+      "location": "嘉義縣水上鄉活動會場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
+      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。"
+    },
+    {
       "id": "upcoming-row-265",
       "date": "20261206",
       "band": "mango",
@@ -29847,6 +29865,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "68d29630-453d-4b37-a55c-05991c7340c3",
-  "updatedAt": "2026-11-16T10:56:14.708Z"
+  "revision": "04c87689-6a90-42ef-9771-ff3bdcc2feb8",
+  "updatedAt": "2026-11-16T10:59:25.880Z"
 }
