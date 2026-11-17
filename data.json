@@ -138,6 +138,14 @@
       "eventCount": 9
     },
     {
+      "id": "SHOU",
+      "name": "婁峻碩",
+      "short": "婁峻碩",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 8
+    },
+    {
       "id": "band_drsiw0_1",
       "name": "李浩瑋",
       "short": "李浩瑋",
@@ -182,14 +190,6 @@
       "name": "盧廣仲",
       "short": "盧廣仲",
       "color": "#36cc00",
-      "category": "個人",
-      "eventCount": 7
-    },
-    {
-      "id": "SHOU",
-      "name": "婁峻碩",
-      "short": "婁峻碩",
-      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 7
     },
@@ -354,6 +354,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_84",
+      "name": "周湯豪",
+      "short": "周湯豪",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "band_drsiw0_85",
       "name": "蕭景鴻",
       "short": "蕭景鴻",
@@ -495,14 +503,6 @@
       "short": "宇宙人",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 5
-    },
-    {
-      "id": "band_drsiw0_84",
-      "name": "周湯豪",
-      "short": "周湯豪",
-      "color": "#8338ec",
-      "category": "個人",
       "eventCount": 5
     },
     {
@@ -22956,6 +22956,26 @@
       "note": "［免費］\n活動於11/20 18:00 舉辦,台北場由周湯豪演出,高雄夢時代場由婁峻碩演出。"
     },
     {
+      "id": "upcoming-row-736",
+      "date": "20261120",
+      "band": "band_drsiw0_84",
+      "time": "未公布",
+      "name": "台北 愛・Sharing 點燈演唱會",
+      "location": "高雄市前鎮區統一時代百貨高雄店 1F 時代廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E7%B5%B1%E4%B8%80%E6%99%82%E4%BB%A3%E7%99%BE%E8%B2%A8%E5%8F%B0%E5%8C%97%E5%BA%97%202F%20%E5%A4%A2%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司:周湯豪\n卡司:婁峻碩"
+    },
+    {
+      "id": "upcoming-row-737",
+      "date": "20261120",
+      "band": "SHOU",
+      "time": "未公布",
+      "name": "台北 愛・Sharing 點燈演唱會",
+      "location": "高雄市前鎮區統一時代百貨高雄店 1F 時代廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E7%B5%B1%E4%B8%80%E6%99%82%E4%BB%A3%E7%99%BE%E8%B2%A8%E5%8F%B0%E5%8C%97%E5%BA%97%202F%20%E5%A4%A2%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司:周湯豪\n卡司:婁峻碩"
+    },
+    {
       "id": "upcoming-row-22",
       "date": "20261121",
       "band": "band_drsiw0_77",
@@ -30331,6 +30351,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "573c3f44-0ef7-49e9-814d-f7a89b9f2fe5",
-  "updatedAt": "2026-11-17T04:55:10.497Z"
+  "revision": "89f40841-5f7a-4dac-8602-51643e70f32a",
+  "updatedAt": "2026-11-17T04:56:52.734Z"
 }
