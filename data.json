@@ -29848,7 +29848,7 @@
       "date": "20270123",
       "band": "band_drsiw0_199",
       "time": "未公布",
-      "name": "桃園 中原大學 CR 校園新聲造星計畫",
+      "name": "桃園 中原大學 CR 校園新聲造星計畫中原賽區",
       "location": "桃園市中原大學活動中心前廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%A4%A7%E5%AD%B8%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E5%89%8D%E5%BB%A3%E5%A0%B4",
       "note": "［免費］\nCR 校園新聲造星計畫中原賽區,卡司包含蔡承祐、icyball 冰球樂團。"
@@ -29858,7 +29858,7 @@
       "date": "20270123",
       "band": "icyball",
       "time": "未公布",
-      "name": "桃園 中原大學 CR 校園新聲造星計畫",
+      "name": "桃園 中原大學 CR 校園新聲造星計畫中原賽區",
       "location": "桃園市中原大學活動中心前廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%9C%92%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%A4%A7%E5%AD%B8%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E5%89%8D%E5%BB%A3%E5%A0%B4",
       "note": "［免費］\nCR 校園新聲造星計畫中原賽區,卡司包含蔡承祐、icyball 冰球樂團。"
@@ -30409,6 +30409,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "9207bfa7-3c91-4161-a82d-b37dc2ce2b88",
-  "updatedAt": "2026-11-17T13:54:27.087Z"
+  "revision": "ff9e4457-3d4e-46c7-9c64-3eed0f8442b8",
+  "updatedAt": "2026-11-17T13:55:29.085Z"
 }
