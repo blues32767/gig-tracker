@@ -8338,6 +8338,14 @@
       "eventCount": 1
     },
     {
+      "id": "bbomi",
+      "name": "BBOMI",
+      "short": "BB",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -25644,6 +25652,16 @@
       "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
     },
     {
+      "id": "upcoming-row-761",
+      "date": "20261205",
+      "band": "bbomi",
+      "time": "17:00-18:00",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
       "id": "upcoming-row-265",
       "date": "20261206",
       "band": "mango",
@@ -30589,6 +30607,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "fa24ac2a-69b9-44c1-82a8-4bae59ec684e",
-  "updatedAt": "2026-11-17T19:58:46.859Z"
+  "revision": "5b65c4ca-cec1-44ec-9fcb-209a3f177cb2",
+  "updatedAt": "2026-11-17T22:54:40.454Z"
 }
