@@ -29845,7 +29845,7 @@
     },
     {
       "id": "upcoming-row-738",
-      "date": "20270121",
+      "date": "20270123",
       "band": "band_drsiw0_199",
       "time": "未公布",
       "name": "桃園 中原大學 CR 校園新聲造星計畫",
@@ -29855,7 +29855,7 @@
     },
     {
       "id": "upcoming-row-739",
-      "date": "20270121",
+      "date": "20270123",
       "band": "icyball",
       "time": "未公布",
       "name": "桃園 中原大學 CR 校園新聲造星計畫",
@@ -30409,6 +30409,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "1f127d7b-002f-4943-8cfc-50066f6056a5",
-  "updatedAt": "2026-11-17T10:54:18.600Z"
+  "revision": "0cb12c1f-206a-42d1-8fcd-7c39f1f83ae9",
+  "updatedAt": "2026-11-17T10:55:32.027Z"
 }
