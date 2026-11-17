@@ -7,7 +7,7 @@
       "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
-      "eventCount": 65
+      "eventCount": 66
     },
     {
       "id": "gongguan",
@@ -266,6 +266,14 @@
       "eventCount": 7
     },
     {
+      "id": "pallas_1",
+      "name": "PALLAS 帕拉斯",
+      "short": "PALLAS 帕拉斯",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
       "id": "band_6gp8um_11",
       "name": "鼓鼓",
       "short": "鼓鼓",
@@ -390,14 +398,6 @@
       "name": "上山",
       "short": "上山",
       "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 6
-    },
-    {
-      "id": "pallas_1",
-      "name": "PALLAS 帕拉斯",
-      "short": "PALLAS 帕拉斯",
-      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 6
     },
@@ -550,6 +550,14 @@
       "name": "孫淑媚",
       "short": "孫淑媚",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "band_drsiw0_174",
+      "name": "戴愛玲",
+      "short": "戴愛玲",
+      "color": "#ffd166",
       "category": "個人",
       "eventCount": 5
     },
@@ -826,6 +834,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_47",
+      "name": "王識賢",
+      "short": "王識賢",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "ftkimsawol",
       "name": "淺堤 ft. Kim Sawol",
       "short": "淺堤 ft. Kim Sawol",
@@ -855,14 +871,6 @@
       "short": "HUR+",
       "color": "#ffd166",
       "category": "團體",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_174",
-      "name": "戴愛玲",
-      "short": "戴愛玲",
-      "color": "#ffd166",
-      "category": "個人",
       "eventCount": 4
     },
     {
@@ -1098,6 +1106,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_86",
+      "name": "告五人",
+      "short": "告五人",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_29",
       "name": "小魏",
       "short": "小魏",
@@ -1106,10 +1122,26 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_89",
+      "name": "楊淨宇",
+      "short": "楊淨宇",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_90",
       "name": "郭書瑤",
       "short": "郭書瑤",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_94",
+      "name": "沈文程",
+      "short": "沈文程",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 3
     },
@@ -1238,14 +1270,6 @@
       "name": "金智娟",
       "short": "金智娟",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_47",
-      "name": "王識賢",
-      "short": "王識賢",
-      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 3
     },
@@ -1642,27 +1666,11 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_86",
-      "name": "告五人",
-      "short": "告五人",
-      "color": "#fb5607",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "arootfeat",
       "name": "A_Root 同根生 feat. 蔡家蓁",
       "short": "A_Root 同根生 feat. 蔡家蓁",
       "color": "#ffd166",
       "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_89",
-      "name": "楊淨宇",
-      "short": "楊淨宇",
-      "color": "#ff006e",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -1678,14 +1686,6 @@
       "name": "陳孟賢",
       "short": "陳孟賢",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_94",
-      "name": "沈文程",
-      "short": "沈文程",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -2370,6 +2370,14 @@
       "eventCount": 2
     },
     {
+      "id": "luxygirls",
+      "name": "Luxy girls",
+      "short": "Luxy girls",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "saturday",
       "name": "SATURDAY",
       "short": "SATURDAY",
@@ -2398,6 +2406,14 @@
       "name": "張羽靚",
       "short": "張羽",
       "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_242",
+      "name": "林沐希",
+      "short": "林沐",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -7570,14 +7586,6 @@
       "eventCount": 1
     },
     {
-      "id": "luxygirls",
-      "name": "Luxy girls",
-      "short": "Luxy girls",
-      "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_219",
       "name": "李明德",
       "short": "李明德",
@@ -8294,14 +8302,6 @@
       "name": "李多慧",
       "short": "李多",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_242",
-      "name": "林沐希",
-      "short": "林沐",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
     },
@@ -28702,6 +28702,96 @@
       "note": "［免費］\n公益演唱會,卡司包含張羽靚、原子邦妮、Sabrina 胡恂舞。"
     },
     {
+      "id": "upcoming-row-762",
+      "date": "20261219",
+      "band": "luxygirls",
+      "time": "17:30-18:00",
+      "name": "彰化 彰化歲末演唱會",
+      "location": "鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［售票］\n活動於12/19(六)在鹿港體育場舉辦,時間為18:00-22:00。開場嘉賓Luxy girls,演出嘉賓包含戴愛玲、楊淨宇、王識賢、沈文程、PALLAS帕拉斯、告五人、林沐希、芒果醬Mango Jump等。另有480秒璀璨煙火秀及美食市集活動。"
+    },
+    {
+      "id": "upcoming-row-763",
+      "date": "20261219",
+      "band": "band_drsiw0_174",
+      "time": "未公布",
+      "name": "彰化 彰化歲末演唱會",
+      "location": "鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［售票］\n活動於12/19(六)在鹿港體育場舉辦,時間為18:00-22:00。開場嘉賓Luxy girls,演出嘉賓包含戴愛玲、楊淨宇、王識賢、沈文程、PALLAS帕拉斯、告五人、林沐希、芒果醬Mango Jump等。另有480秒璀璨煙火秀及美食市集活動。"
+    },
+    {
+      "id": "upcoming-row-764",
+      "date": "20261219",
+      "band": "band_drsiw0_89",
+      "time": "未公布",
+      "name": "彰化 彰化歲末演唱會",
+      "location": "鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［售票］\n活動於12/19(六)在鹿港體育場舉辦,時間為18:00-22:00。開場嘉賓Luxy girls,演出嘉賓包含戴愛玲、楊淨宇、王識賢、沈文程、PALLAS帕拉斯、告五人、林沐希、芒果醬Mango Jump等。另有480秒璀璨煙火秀及美食市集活動。"
+    },
+    {
+      "id": "upcoming-row-765",
+      "date": "20261219",
+      "band": "band_drsiw0_47",
+      "time": "未公布",
+      "name": "彰化 彰化歲末演唱會",
+      "location": "鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［售票］\n活動於12/19(六)在鹿港體育場舉辦,時間為18:00-22:00。開場嘉賓Luxy girls,演出嘉賓包含戴愛玲、楊淨宇、王識賢、沈文程、PALLAS帕拉斯、告五人、林沐希、芒果醬Mango Jump等。另有480秒璀璨煙火秀及美食市集活動。"
+    },
+    {
+      "id": "upcoming-row-766",
+      "date": "20261219",
+      "band": "band_drsiw0_94",
+      "time": "未公布",
+      "name": "彰化 彰化歲末演唱會",
+      "location": "鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［售票］\n活動於12/19(六)在鹿港體育場舉辦,時間為18:00-22:00。開場嘉賓Luxy girls,演出嘉賓包含戴愛玲、楊淨宇、王識賢、沈文程、PALLAS帕拉斯、告五人、林沐希、芒果醬Mango Jump等。另有480秒璀璨煙火秀及美食市集活動。"
+    },
+    {
+      "id": "upcoming-row-767",
+      "date": "20261219",
+      "band": "pallas_1",
+      "time": "未公布",
+      "name": "彰化 彰化歲末演唱會",
+      "location": "鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［售票］\n活動於12/19(六)在鹿港體育場舉辦,時間為18:00-22:00。開場嘉賓Luxy girls,演出嘉賓包含戴愛玲、楊淨宇、王識賢、沈文程、PALLAS帕拉斯、告五人、林沐希、芒果醬Mango Jump等。另有480秒璀璨煙火秀及美食市集活動。"
+    },
+    {
+      "id": "upcoming-row-768",
+      "date": "20261219",
+      "band": "band_drsiw0_86",
+      "time": "未公布",
+      "name": "彰化 彰化歲末演唱會",
+      "location": "鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［售票］\n活動於12/19(六)在鹿港體育場舉辦,時間為18:00-22:00。開場嘉賓Luxy girls,演出嘉賓包含戴愛玲、楊淨宇、王識賢、沈文程、PALLAS帕拉斯、告五人、林沐希、芒果醬Mango Jump等。另有480秒璀璨煙火秀及美食市集活動。"
+    },
+    {
+      "id": "upcoming-row-769",
+      "date": "20261219",
+      "band": "band_drsiw0_242",
+      "time": "未公布",
+      "name": "彰化 彰化歲末演唱會",
+      "location": "鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［售票］\n活動於12/19(六)在鹿港體育場舉辦,時間為18:00-22:00。開場嘉賓Luxy girls,演出嘉賓包含戴愛玲、楊淨宇、王識賢、沈文程、PALLAS帕拉斯、告五人、林沐希、芒果醬Mango Jump等。另有480秒璀璨煙火秀及美食市集活動。"
+    },
+    {
+      "id": "upcoming-row-770",
+      "date": "20261219",
+      "band": "mango",
+      "time": "未公布",
+      "name": "彰化 彰化歲末演唱會",
+      "location": "鹿港體育場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E6%B8%AF%E9%AB%94%E8%82%B2%E5%A0%B4",
+      "note": "［售票］\n活動於12/19(六)在鹿港體育場舉辦,時間為18:00-22:00。開場嘉賓Luxy girls,演出嘉賓包含戴愛玲、楊淨宇、王識賢、沈文程、PALLAS帕拉斯、告五人、林沐希、芒果醬Mango Jump等。另有480秒璀璨煙火秀及美食市集活動。"
+    },
+    {
       "id": "upcoming-row-545",
       "date": "20261220",
       "band": "AmazingShow",
@@ -30607,6 +30697,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "30eaaa78-d142-46d7-b0e2-9394c42e6e26",
-  "updatedAt": "2026-11-17T22:56:26.562Z"
+  "revision": "7a1cdb68-e58a-4bc5-9b04-06f98b1d4a80",
+  "updatedAt": "2026-11-17T23:00:53.306Z"
 }
