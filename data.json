@@ -28657,7 +28657,7 @@
       "id": "upcoming-row-740",
       "date": "20261219",
       "band": "band_drsiw0_237",
-      "time": "未公布",
+      "time": "14:00-20:00",
       "name": "高雄 LOVE GO 樂音岡山公益演唱會",
       "location": "高雄市岡山區樂購廣場1F戶外廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B2%A1%E5%B1%B1%E5%8D%80%E6%A8%82%E8%B3%BC%E5%BB%A3%E5%A0%B41F%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
@@ -28667,7 +28667,7 @@
       "id": "upcoming-row-741",
       "date": "20261219",
       "band": "band_6u8lrj_81",
-      "time": "未公布",
+      "time": "14:00-20:00",
       "name": "高雄 LOVE GO 樂音岡山公益演唱會",
       "location": "高雄市岡山區樂購廣場1F戶外廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B2%A1%E5%B1%B1%E5%8D%80%E6%A8%82%E8%B3%BC%E5%BB%A3%E5%A0%B41F%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
@@ -28677,7 +28677,7 @@
       "id": "upcoming-row-742",
       "date": "20261219",
       "band": "sabrina",
-      "time": "未公布",
+      "time": "14:00-20:00",
       "name": "高雄 LOVE GO 樂音岡山公益演唱會",
       "location": "高雄市岡山區樂購廣場1F戶外廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B2%A1%E5%B1%B1%E5%8D%80%E6%A8%82%E8%B3%BC%E5%BB%A3%E5%A0%B41F%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
@@ -30549,6 +30549,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "2d48d82c-f25a-418d-b095-525ae9de5baa",
-  "updatedAt": "2026-11-17T19:54:24.259Z"
+  "revision": "e1dd45d1-4329-4bfa-b005-9ac703feb63e",
+  "updatedAt": "2026-11-17T19:55:56.098Z"
 }
