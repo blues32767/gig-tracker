@@ -290,6 +290,14 @@
       "eventCount": 6
     },
     {
+      "id": "fenix",
+      "name": "FEniX",
+      "short": "FEniX",
+      "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 6
+    },
+    {
       "id": "saturnday",
       "name": "Saturnday",
       "short": "Saturnday",
@@ -383,14 +391,6 @@
       "short": "就以斯",
       "color": "#ff006e",
       "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "fenix",
-      "name": "FEniX",
-      "short": "FEniX",
-      "color": "#8338ec",
-      "category": "團體",
       "eventCount": 5
     },
     {
@@ -782,6 +782,14 @@
       "name": "郭家瑋",
       "short": "郭家瑋",
       "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
+      "id": "willy",
+      "name": "Willy 簡嘉彣",
+      "short": "Willy 簡嘉彣",
+      "color": "#ff006e",
       "category": "個人",
       "eventCount": 4
     },
@@ -1218,14 +1226,6 @@
       "eventCount": 3
     },
     {
-      "id": "willy",
-      "name": "Willy 簡嘉彣",
-      "short": "Willy 簡嘉彣",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "band_drsiw0_47",
       "name": "王識賢",
       "short": "王識賢",
@@ -1466,10 +1466,26 @@
       "eventCount": 2
     },
     {
+      "id": "lcy",
+      "name": "LCY 呂植宇",
+      "short": "呂植宇",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_6gp8um_7",
       "name": "寶賤",
       "short": "寶賤",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_31",
+      "name": "施文彬",
+      "short": "施文彬",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 2
     },
@@ -1831,6 +1847,14 @@
       "short": "卡尼特",
       "color": "#118ab2",
       "category": "團體",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_127",
+      "name": "朱海君",
+      "short": "朱海君",
+      "color": "#ff006e",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -2282,6 +2306,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_206",
+      "name": "莊振凱",
+      "short": "莊振凱",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "djkenlin",
       "name": "DJKenLin林軒",
       "short": "DJKenLin林軒",
@@ -2426,14 +2458,6 @@
       "eventCount": 1
     },
     {
-      "id": "lcy",
-      "name": "LCY 呂植宇",
-      "short": "呂植宇",
-      "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "kimi",
       "name": "禾羽 Kimi",
       "short": "禾羽",
@@ -2526,14 +2550,6 @@
       "name": "翁立友",
       "short": "翁立友",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_31",
-      "name": "施文彬",
-      "short": "施文彬",
-      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
     },
@@ -3991,14 +4007,6 @@
       "short": "泰雅原舞工坊",
       "color": "#8338ec",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_127",
-      "name": "朱海君",
-      "short": "朱海君",
-      "color": "#ff006e",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -7010,14 +7018,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_206",
-      "name": "莊振凱",
-      "short": "莊振凱",
-      "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "buy_1",
       "name": "過癮萬事屋 Bu$Y",
       "short": "過癮萬事屋 Bu$Y",
@@ -8302,6 +8302,30 @@
       "name": "林沐希",
       "short": "林沐",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_nmq1yt_2",
+      "name": "小宇 宋念宇",
+      "short": "小宇",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_243",
+      "name": "吳俊宏",
+      "short": "吳俊",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_244",
+      "name": "馮偉傑",
+      "short": "馮偉",
+      "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
     },
@@ -29522,6 +29546,96 @@
       "note": "［免費］\n2026/12/31 舉辦,卡司包含孫淑媚、許富凱、Ozone、HUR+and more...,主持黃偉晉、木木林葦妮。"
     },
     {
+      "id": "upcoming-row-727",
+      "date": "20261231",
+      "band": "band_drsiw0_31",
+      "time": "未公布",
+      "name": "屏東 璀璨阿里港里港跨年演晚會",
+      "location": "屏東縣里港過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026/12/31 20:00-20:30 舉辦,卡司包含施文彬、朱海君、小宇宋念宇、莊振凱、吳俊宏、LCY呂植宇、馮偉傑、Willy簡嘉彣、FEniX,主持為美珊與珈安。"
+    },
+    {
+      "id": "upcoming-row-728",
+      "date": "20261231",
+      "band": "band_drsiw0_127",
+      "time": "未公布",
+      "name": "屏東 璀璨阿里港里港跨年演晚會",
+      "location": "屏東縣里港過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026/12/31 20:00-20:30 舉辦,卡司包含施文彬、朱海君、小宇宋念宇、莊振凱、吳俊宏、LCY呂植宇、馮偉傑、Willy簡嘉彣、FEniX,主持為美珊與珈安。"
+    },
+    {
+      "id": "upcoming-row-729",
+      "date": "20261231",
+      "band": "band_nmq1yt_2",
+      "time": "未公布",
+      "name": "屏東 璀璨阿里港里港跨年演晚會",
+      "location": "屏東縣里港過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026/12/31 20:00-20:30 舉辦,卡司包含施文彬、朱海君、小宇宋念宇、莊振凱、吳俊宏、LCY呂植宇、馮偉傑、Willy簡嘉彣、FEniX,主持為美珊與珈安。"
+    },
+    {
+      "id": "upcoming-row-730",
+      "date": "20261231",
+      "band": "band_drsiw0_206",
+      "time": "未公布",
+      "name": "屏東 璀璨阿里港里港跨年演晚會",
+      "location": "屏東縣里港過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026/12/31 20:00-20:30 舉辦,卡司包含施文彬、朱海君、小宇宋念宇、莊振凱、吳俊宏、LCY呂植宇、馮偉傑、Willy簡嘉彣、FEniX,主持為美珊與珈安。"
+    },
+    {
+      "id": "upcoming-row-731",
+      "date": "20261231",
+      "band": "band_drsiw0_243",
+      "time": "未公布",
+      "name": "屏東 璀璨阿里港里港跨年演晚會",
+      "location": "屏東縣里港過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026/12/31 20:00-20:30 舉辦,卡司包含施文彬、朱海君、小宇宋念宇、莊振凱、吳俊宏、LCY呂植宇、馮偉傑、Willy簡嘉彣、FEniX,主持為美珊與珈安。"
+    },
+    {
+      "id": "upcoming-row-732",
+      "date": "20261231",
+      "band": "lcy",
+      "time": "未公布",
+      "name": "屏東 璀璨阿里港里港跨年演晚會",
+      "location": "屏東縣里港過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026/12/31 20:00-20:30 舉辦,卡司包含施文彬、朱海君、小宇宋念宇、莊振凱、吳俊宏、LCY呂植宇、馮偉傑、Willy簡嘉彣、FEniX,主持為美珊與珈安。"
+    },
+    {
+      "id": "upcoming-row-733",
+      "date": "20261231",
+      "band": "band_drsiw0_244",
+      "time": "未公布",
+      "name": "屏東 璀璨阿里港里港跨年演晚會",
+      "location": "屏東縣里港過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026/12/31 20:00-20:30 舉辦,卡司包含施文彬、朱海君、小宇宋念宇、莊振凱、吳俊宏、LCY呂植宇、馮偉傑、Willy簡嘉彣、FEniX,主持為美珊與珈安。"
+    },
+    {
+      "id": "upcoming-row-734",
+      "date": "20261231",
+      "band": "willy",
+      "time": "未公布",
+      "name": "屏東 璀璨阿里港里港跨年演晚會",
+      "location": "屏東縣里港過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026/12/31 20:00-20:30 舉辦,卡司包含施文彬、朱海君、小宇宋念宇、莊振凱、吳俊宏、LCY呂植宇、馮偉傑、Willy簡嘉彣、FEniX,主持為美珊與珈安。"
+    },
+    {
+      "id": "upcoming-row-735",
+      "date": "20261231",
+      "band": "fenix",
+      "time": "未公布",
+      "name": "屏東 璀璨阿里港里港跨年演晚會",
+      "location": "屏東縣里港過江河堤公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2026/12/31 20:00-20:30 舉辦,卡司包含施文彬、朱海君、小宇宋念宇、莊振凱、吳俊宏、LCY呂植宇、馮偉傑、Willy簡嘉彣、FEniX,主持為美珊與珈安。"
+    },
+    {
       "id": "upcoming-row-635",
       "date": "20270102",
       "band": "awkward",
@@ -30217,6 +30331,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "361d7739-ecbd-4efd-875b-3462f4ab6435",
-  "updatedAt": "2026-11-17T04:53:27.616Z"
+  "revision": "573c3f44-0ef7-49e9-814d-f7a89b9f2fe5",
+  "updatedAt": "2026-11-17T04:55:10.497Z"
 }
