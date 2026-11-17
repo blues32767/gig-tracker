@@ -31,7 +31,7 @@
       "short": "怕胖團",
       "color": "#1d3557",
       "category": "樂團",
-      "eventCount": 18
+      "eventCount": 19
     },
     {
       "id": "band_qqiyec_5",
@@ -218,6 +218,14 @@
       "eventCount": 7
     },
     {
+      "id": "band_drsiw0_20",
+      "name": "梁河懸",
+      "short": "梁河懸",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
       "id": "ozone",
       "name": "Ozone",
       "short": "Ozone",
@@ -314,11 +322,11 @@
       "eventCount": 6
     },
     {
-      "id": "band_drsiw0_20",
-      "name": "梁河懸",
-      "short": "梁河懸",
-      "color": "#2ec4b6",
-      "category": "個人",
+      "id": "band_qqiyec",
+      "name": "無妄合作社",
+      "short": "無妄合作社",
+      "color": "#ef476f",
+      "category": "樂團",
       "eventCount": 6
     },
     {
@@ -402,11 +410,11 @@
       "eventCount": 5
     },
     {
-      "id": "band_qqiyec",
-      "name": "無妄合作社",
-      "short": "無妄合作社",
-      "color": "#ef476f",
-      "category": "樂團",
+      "id": "arkis",
+      "name": "ARKis",
+      "short": "ARKis",
+      "color": "#8338ec",
+      "category": "團體",
       "eventCount": 5
     },
     {
@@ -562,6 +570,14 @@
       "eventCount": 4
     },
     {
+      "id": "ffo",
+      "name": "F.F.O",
+      "short": "F.F.O",
+      "color": "#00b4d8",
+      "category": "團體",
+      "eventCount": 4
+    },
+    {
       "id": "NeciKen",
       "name": "南西肯恩",
       "short": "南西肯恩",
@@ -570,10 +586,10 @@
       "eventCount": 4
     },
     {
-      "id": "arkis",
-      "name": "ARKis",
-      "short": "ARKis",
-      "color": "#8338ec",
+      "id": "ktv",
+      "name": "慶記KTV 羅曼迪克",
+      "short": "慶記",
+      "color": "#ffd166",
       "category": "團體",
       "eventCount": 4
     },
@@ -858,14 +874,6 @@
       "eventCount": 3
     },
     {
-      "id": "ffo",
-      "name": "F.F.O",
-      "short": "F.F.O",
-      "color": "#00b4d8",
-      "category": "團體",
-      "eventCount": 3
-    },
-    {
       "id": "band_6gp8um_4",
       "name": "品冠",
       "short": "品冠",
@@ -890,11 +898,11 @@
       "eventCount": 3
     },
     {
-      "id": "ktv",
-      "name": "慶記KTV 羅曼迪克",
-      "short": "慶記",
-      "color": "#ffd166",
-      "category": "團體",
+      "id": "lcy",
+      "name": "LCY 呂植宇",
+      "short": "呂植宇",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 3
     },
     {
@@ -1482,10 +1490,34 @@
       "eventCount": 2
     },
     {
-      "id": "lcy",
-      "name": "LCY 呂植宇",
-      "short": "呂植宇",
-      "color": "#118ab2",
+      "id": "kimi",
+      "name": "禾羽 Kimi",
+      "short": "禾羽",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "howz",
+      "name": "How Z",
+      "short": "How Z",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "djbbomi",
+      "name": "DJ BBOMI",
+      "short": "DJ BBOMI",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "amow",
+      "name": "AMOW",
+      "short": "AMOW",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 2
     },
@@ -2338,6 +2370,14 @@
       "eventCount": 2
     },
     {
+      "id": "saturday",
+      "name": "SATURDAY",
+      "short": "SATURDAY",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "blumush",
       "name": "blu mush",
       "short": "blu mush",
@@ -2462,38 +2502,6 @@
       "name": "安吉",
       "short": "安吉",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "kimi",
-      "name": "禾羽 Kimi",
-      "short": "禾羽",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "howz",
-      "name": "How Z",
-      "short": "How Z",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "djbbomi",
-      "name": "DJ BBOMI",
-      "short": "DJ BBOMI",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "amow",
-      "name": "AMOW",
-      "short": "AMOW",
-      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
     },
@@ -7670,14 +7678,6 @@
       "name": "KAXA",
       "short": "KAXA",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "saturday",
-      "name": "SATURDAY",
-      "short": "SATURDAY",
-      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
     },
@@ -25524,6 +25524,126 @@
       "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。"
     },
     {
+      "id": "upcoming-row-745",
+      "date": "20261205",
+      "band": "saturday",
+      "time": "14:00-14:25",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
+      "id": "upcoming-row-746",
+      "date": "20261205",
+      "band": "lcy",
+      "time": "14:30-14:55",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
+      "id": "upcoming-row-747",
+      "date": "20261205",
+      "band": "arkis",
+      "time": "15:00-15:25",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
+      "id": "upcoming-row-748",
+      "date": "20261205",
+      "band": "ffo",
+      "time": "15:30-15:55",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
+      "id": "upcoming-row-749",
+      "date": "20261205",
+      "band": "kimi",
+      "time": "16:00-16:25",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
+      "id": "upcoming-row-750",
+      "date": "20261205",
+      "band": "howz",
+      "time": "16:30-16:55",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
+      "id": "upcoming-row-751",
+      "date": "20261205",
+      "band": "djbbomi",
+      "time": "17:00-18:00",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
+      "id": "upcoming-row-752",
+      "date": "20261205",
+      "band": "amow",
+      "time": "18:00-18:30",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
+      "id": "upcoming-row-753",
+      "date": "20261205",
+      "band": "band_drsiw0_20",
+      "time": "19:20-20:00",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
+      "id": "upcoming-row-754",
+      "date": "20261205",
+      "band": "band_qqiyec",
+      "time": "20:20-21:00",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
+      "id": "upcoming-row-755",
+      "date": "20261205",
+      "band": "papunband",
+      "time": "21:20-22:00",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
+      "id": "upcoming-row-756",
+      "date": "20261205",
+      "band": "ktv",
+      "time": "22:00-23:00",
+      "name": "台北 ATT4FUN FUN肆音樂節",
+      "location": "ATT4FUN(松壽路16巷)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=ATT4FUN(%E6%9D%BE%E5%A3%BD%E8%B7%AF16%E5%B7%B7)",
+      "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。"
+    },
+    {
       "id": "upcoming-row-265",
       "date": "20261206",
       "band": "mango",
@@ -30429,6 +30549,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "1bc8f0ed-379d-4a0c-a4a2-f7dd57f49da6",
-  "updatedAt": "2026-11-17T16:58:43.271Z"
+  "revision": "2d48d82c-f25a-418d-b095-525ae9de5baa",
+  "updatedAt": "2026-11-17T19:54:24.259Z"
 }
