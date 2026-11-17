@@ -58,6 +58,14 @@
       "eventCount": 13
     },
     {
+      "id": "sabrina",
+      "name": "Sabrina 胡恂舞",
+      "short": "Sabrina 胡恂舞",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 13
+    },
+    {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
@@ -70,14 +78,6 @@
       "name": "PIZZALI",
       "short": "PIZZALI",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 12
-    },
-    {
-      "id": "sabrina",
-      "name": "Sabrina 胡恂舞",
-      "short": "Sabrina 胡恂舞",
-      "color": "#8338ec",
       "category": "個人",
       "eventCount": 12
     },
@@ -2350,6 +2350,14 @@
       "name": "龐蟹 Punkshxt!",
       "short": "龐蟹 Punkshxt!",
       "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_237",
+      "name": "張羽靚",
+      "short": "張羽",
+      "color": "#ffd166",
       "category": "個人",
       "eventCount": 2
     },
@@ -8202,14 +8210,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_237",
-      "name": "張羽靚",
-      "short": "張羽",
-      "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_drsiw0_238",
       "name": "玉澤演",
       "short": "玉澤",
@@ -8326,6 +8326,14 @@
       "name": "馮偉傑",
       "short": "馮偉",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_81",
+      "name": "原子邦妮",
+      "short": "原子",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
     },
@@ -28526,6 +28534,36 @@
       "note": "［免費］\n活動於 2026 年 12 月 19 日在鹿港體育場舉辦,節目時間未公布。卡司包含 Luxy girls、告五人、芒果醬、帕拉斯、戴愛玲、楊淨宇、王識賢、沈文程、林沐晴。\n來源：https://news.st-media.com.tw/news/54692"
     },
     {
+      "id": "upcoming-row-740",
+      "date": "20261219",
+      "band": "band_drsiw0_237",
+      "time": "未公布",
+      "name": "高雄 LOVE GO 樂音岡山公益演唱會",
+      "location": "高雄市岡山區樂購廣場1F戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B2%A1%E5%B1%B1%E5%8D%80%E6%A8%82%E8%B3%BC%E5%BB%A3%E5%A0%B41F%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含張羽靚、原子邦妮、Sabrina 胡恂舞。"
+    },
+    {
+      "id": "upcoming-row-741",
+      "date": "20261219",
+      "band": "band_6u8lrj_81",
+      "time": "未公布",
+      "name": "高雄 LOVE GO 樂音岡山公益演唱會",
+      "location": "高雄市岡山區樂購廣場1F戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B2%A1%E5%B1%B1%E5%8D%80%E6%A8%82%E8%B3%BC%E5%BB%A3%E5%A0%B41F%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含張羽靚、原子邦妮、Sabrina 胡恂舞。"
+    },
+    {
+      "id": "upcoming-row-742",
+      "date": "20261219",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "高雄 LOVE GO 樂音岡山公益演唱會",
+      "location": "高雄市岡山區樂購廣場1F戶外廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B2%A1%E5%B1%B1%E5%8D%80%E6%A8%82%E8%B3%BC%E5%BB%A3%E5%A0%B41F%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n卡司包含張羽靚、原子邦妮、Sabrina 胡恂舞。"
+    },
+    {
       "id": "upcoming-row-545",
       "date": "20261220",
       "band": "AmazingShow",
@@ -30371,6 +30409,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3ab8852f-b8a7-4016-b5bd-c13455da8798",
-  "updatedAt": "2026-11-17T07:55:47.063Z"
+  "revision": "1f127d7b-002f-4943-8cfc-50066f6056a5",
+  "updatedAt": "2026-11-17T10:54:18.600Z"
 }
