@@ -28541,7 +28541,7 @@
       "name": "高雄 LOVE GO 樂音岡山公益演唱會",
       "location": "高雄市岡山區樂購廣場1F戶外廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B2%A1%E5%B1%B1%E5%8D%80%E6%A8%82%E8%B3%BC%E5%BB%A3%E5%A0%B41F%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n卡司包含張羽靚、原子邦妮、Sabrina 胡恂舞。"
+      "note": "［免費］\n公益演唱會,卡司包含張羽靚、原子邦妮、Sabrina 胡恂舞。"
     },
     {
       "id": "upcoming-row-741",
@@ -28551,7 +28551,7 @@
       "name": "高雄 LOVE GO 樂音岡山公益演唱會",
       "location": "高雄市岡山區樂購廣場1F戶外廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B2%A1%E5%B1%B1%E5%8D%80%E6%A8%82%E8%B3%BC%E5%BB%A3%E5%A0%B41F%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n卡司包含張羽靚、原子邦妮、Sabrina 胡恂舞。"
+      "note": "［免費］\n公益演唱會,卡司包含張羽靚、原子邦妮、Sabrina 胡恂舞。"
     },
     {
       "id": "upcoming-row-742",
@@ -28561,7 +28561,7 @@
       "name": "高雄 LOVE GO 樂音岡山公益演唱會",
       "location": "高雄市岡山區樂購廣場1F戶外廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%B2%A1%E5%B1%B1%E5%8D%80%E6%A8%82%E8%B3%BC%E5%BB%A3%E5%A0%B41F%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n卡司包含張羽靚、原子邦妮、Sabrina 胡恂舞。"
+      "note": "［免費］\n公益演唱會,卡司包含張羽靚、原子邦妮、Sabrina 胡恂舞。"
     },
     {
       "id": "upcoming-row-545",
@@ -30409,6 +30409,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "0cb12c1f-206a-42d1-8fcd-7c39f1f83ae9",
-  "updatedAt": "2026-11-17T10:55:32.027Z"
+  "revision": "9207bfa7-3c91-4161-a82d-b37dc2ce2b88",
+  "updatedAt": "2026-11-17T13:54:27.087Z"
 }
