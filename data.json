@@ -28585,7 +28585,7 @@
       "id": "upcoming-row-718",
       "date": "20261219",
       "band": "band_drsiw0_86",
-      "time": "未公布",
+      "time": "18:00-22:00",
       "name": "苗栗 冬聚戀歌歲末演唱會 2026",
       "location": "苗栗縣頭份運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
@@ -28595,7 +28595,7 @@
       "id": "upcoming-row-719",
       "date": "20261219",
       "band": "mango",
-      "time": "未公布",
+      "time": "18:00-22:00",
       "name": "苗栗 冬聚戀歌歲末演唱會 2026",
       "location": "苗栗縣頭份運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
@@ -28605,7 +28605,7 @@
       "id": "upcoming-row-720",
       "date": "20261219",
       "band": "band_drsiw0_174",
-      "time": "未公布",
+      "time": "18:00-22:00",
       "name": "苗栗 冬聚戀歌歲末演唱會 2026",
       "location": "苗栗縣頭份運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
@@ -30607,6 +30607,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "5b65c4ca-cec1-44ec-9fcb-209a3f177cb2",
-  "updatedAt": "2026-11-17T22:54:40.454Z"
+  "revision": "30eaaa78-d142-46d7-b0e2-9394c42e6e26",
+  "updatedAt": "2026-11-17T22:56:26.562Z"
 }
