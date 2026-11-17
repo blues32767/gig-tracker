@@ -218,6 +218,14 @@
       "eventCount": 7
     },
     {
+      "id": "ozone",
+      "name": "Ozone",
+      "short": "Ozone",
+      "color": "#ffd166",
+      "category": "團體",
+      "eventCount": 7
+    },
+    {
       "id": "cholly",
       "name": "C.HOLLY",
       "short": "C.HOLLY",
@@ -311,14 +319,6 @@
       "short": "梁河懸",
       "color": "#2ec4b6",
       "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "ozone",
-      "name": "Ozone",
-      "short": "Ozone",
-      "color": "#ffd166",
-      "category": "團體",
       "eventCount": 6
     },
     {
@@ -1298,6 +1298,14 @@
       "eventCount": 3
     },
     {
+      "id": "hur",
+      "name": "HUR+",
+      "short": "HUR+",
+      "color": "#ffd166",
+      "category": "團體",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_52",
       "name": "郁欣",
       "short": "郁欣",
@@ -2047,14 +2055,6 @@
       "short": "許景淳",
       "color": "#2ec4b6",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "hur",
-      "name": "HUR+",
-      "short": "HUR+",
-      "color": "#ffd166",
-      "category": "團體",
       "eventCount": 2
     },
     {
@@ -29468,20 +29468,20 @@
       "date": "20261231",
       "band": "band_drsiw0_145",
       "time": "未公布",
-      "name": "高雄 雄嗨趴2027 高雄跨年晚會",
+      "name": "高雄 雄嗨趴2027 雄嗨趴高雄跨年晚會",
       "location": "高雄市前鎮區夢時代購物中心",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80%E5%A4%A2%E6%99%82%E4%BB%A3%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83",
-      "note": "［免費］\n雄嗨趴2027 高雄跨年晚會,卡司包含孫淑媚、許富凱等藝人。"
+      "note": "［免費］\n卡司包含孫淑媚、許富凱、Ozone、HUR+ 等,主持為林葦妮、黃偉晉。"
     },
     {
       "id": "upcoming-row-626",
       "date": "20261231",
       "band": "band_drsiw0_25",
       "time": "未公布",
-      "name": "高雄 雄嗨趴2027 高雄跨年晚會",
+      "name": "高雄 雄嗨趴2027 雄嗨趴高雄跨年晚會",
       "location": "高雄市前鎮區夢時代購物中心",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80%E5%A4%A2%E6%99%82%E4%BB%A3%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83",
-      "note": "［免費］\n雄嗨趴2027 高雄跨年晚會,卡司包含孫淑媚、許富凱等藝人。"
+      "note": "［免費］\n卡司包含孫淑媚、許富凱、Ozone、HUR+ 等,主持為林葦妮、黃偉晉。"
     },
     {
       "id": "upcoming-row-627",
@@ -29692,6 +29692,26 @@
       "location": "屏東縣里港鄉過江河堤公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%B1%8F%E6%9D%B1%E7%B8%A3%E9%87%8C%E6%B8%AF%E9%81%8E%E6%B1%9F%E6%B2%B3%E5%A0%A4%E5%85%AC%E5%9C%92",
       "note": "［免費］\n2026/12/31 20:00-20:30 舉辦,卡司包含施文彬、朱海君、小宇宋念宇、莊振凱、吳俊宏、LCY呂植宇、馮偉傑、Willy簡嘉彣、FEniX,主持為美珊與珈安。"
+    },
+    {
+      "id": "upcoming-row-743",
+      "date": "20261231",
+      "band": "ozone",
+      "time": "未公布",
+      "name": "高雄 雄嗨趴2027 雄嗨趴高雄跨年晚會",
+      "location": "高雄市前鎮區夢時代購物中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80%E5%A4%A2%E6%99%82%E4%BB%A3%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83",
+      "note": "［免費］\n卡司包含孫淑媚、許富凱、Ozone、HUR+ 等,主持為林葦妮、黃偉晉。"
+    },
+    {
+      "id": "upcoming-row-744",
+      "date": "20261231",
+      "band": "hur",
+      "time": "未公布",
+      "name": "高雄 雄嗨趴2027 雄嗨趴高雄跨年晚會",
+      "location": "高雄市前鎮區夢時代購物中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80%E5%A4%A2%E6%99%82%E4%BB%A3%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83",
+      "note": "［免費］\n卡司包含孫淑媚、許富凱、Ozone、HUR+ 等,主持為林葦妮、黃偉晉。"
     },
     {
       "id": "upcoming-row-635",
@@ -30409,6 +30429,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "73fd3b66-7da7-4eca-ac8e-1ab4e30157fb",
-  "updatedAt": "2026-11-17T16:55:23.268Z"
+  "revision": "1bc8f0ed-379d-4a0c-a4a2-f7dd57f49da6",
+  "updatedAt": "2026-11-17T16:58:43.271Z"
 }
