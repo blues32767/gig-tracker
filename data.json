@@ -15,7 +15,7 @@
       "short": "公館青少年",
       "color": "#2a9d8f",
       "category": "樂團",
-      "eventCount": 22
+      "eventCount": 23
     },
     {
       "id": "AmazingShow",
@@ -122,6 +122,14 @@
       "eventCount": 9
     },
     {
+      "id": "SHOU",
+      "name": "婁峻碩",
+      "short": "婁峻碩",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 9
+    },
+    {
       "id": "WendyWander",
       "name": "溫蒂漫步",
       "short": "溫蒂漫步",
@@ -136,14 +144,6 @@
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 9
-    },
-    {
-      "id": "SHOU",
-      "name": "婁峻碩",
-      "short": "婁峻碩",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 8
     },
     {
       "id": "band_drsiw0_1",
@@ -402,6 +402,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_6gp8um_1",
+      "name": "王謙",
+      "short": "王謙",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "joyce",
       "name": "JOYCE 就以斯",
       "short": "就以斯",
@@ -498,6 +506,14 @@
       "eventCount": 5
     },
     {
+      "id": "Bestards",
+      "name": "理想混蛋",
+      "short": "理想混蛋",
+      "color": "#FF7F00",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
       "id": "band_drsiw0_69",
       "name": "陳勢安",
       "short": "陳勢安",
@@ -566,14 +582,6 @@
       "name": "Juice Boy",
       "short": "Juice Boy",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "band_6gp8um_1",
-      "name": "王謙",
-      "short": "王謙",
-      "color": "#ffd166",
       "category": "個人",
       "eventCount": 4
     },
@@ -718,14 +726,6 @@
       "name": "芒果街老爸",
       "short": "芒果街老爸",
       "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "Bestards",
-      "name": "理想混蛋",
-      "short": "理想混蛋",
-      "color": "#FF7F00",
       "category": "樂團",
       "eventCount": 4
     },
@@ -890,6 +890,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_6gp8um_52",
+      "name": "郁欣",
+      "short": "郁欣",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_153",
       "name": "彭佳慧",
       "short": "彭佳慧",
@@ -942,6 +950,14 @@
       "name": "LCY 呂植宇",
       "short": "呂植宇",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_6gp8um_7",
+      "name": "寶賤",
+      "short": "寶賤",
+      "color": "#fb5607",
       "category": "個人",
       "eventCount": 3
     },
@@ -1346,14 +1362,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_6gp8um_52",
-      "name": "郁欣",
-      "short": "郁欣",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "jud",
       "name": "JUD 陳泳希",
       "short": "JUD 陳泳希",
@@ -1542,14 +1550,6 @@
       "name": "AMOW",
       "short": "AMOW",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6gp8um_7",
-      "name": "寶賤",
-      "short": "寶賤",
-      "color": "#fb5607",
       "category": "個人",
       "eventCount": 2
     },
@@ -28892,6 +28892,66 @@
       "note": "［免費］\n活動期間 12/4-12/20,包含民歌、鄉土、文化、創作、流行主題晚會及蘭陽食旅特展。"
     },
     {
+      "id": "upcoming-row-776",
+      "date": "20261220",
+      "band": "Bestards",
+      "time": "未公布",
+      "name": "台北 北一女中123週年校慶舞會",
+      "location": "台北市北一女中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［售票］\nAnemoia主題,可校外參加。"
+    },
+    {
+      "id": "upcoming-row-777",
+      "date": "20261220",
+      "band": "SHOU",
+      "time": "未公布",
+      "name": "台北 北一女中123週年校慶舞會",
+      "location": "台北市北一女中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［售票］\nAnemoia主題,可校外參加。"
+    },
+    {
+      "id": "upcoming-row-778",
+      "date": "20261220",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "台北 北一女中123週年校慶舞會",
+      "location": "台北市北一女中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［售票］\nAnemoia主題,可校外參加。"
+    },
+    {
+      "id": "upcoming-row-779",
+      "date": "20261220",
+      "band": "band_6gp8um_1",
+      "time": "未公布",
+      "name": "台北 北一女中123週年校慶舞會",
+      "location": "台北市北一女中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［售票］\nAnemoia主題,可校外參加。"
+    },
+    {
+      "id": "upcoming-row-780",
+      "date": "20261220",
+      "band": "band_6gp8um_52",
+      "time": "未公布",
+      "name": "台北 北一女中123週年校慶舞會",
+      "location": "台北市北一女中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［售票］\nAnemoia主題,可校外參加。"
+    },
+    {
+      "id": "upcoming-row-781",
+      "date": "20261220",
+      "band": "band_6gp8um_7",
+      "time": "未公布",
+      "name": "台北 北一女中123週年校慶舞會",
+      "location": "台北市北一女中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［售票］\nAnemoia主題,可校外參加。"
+    },
+    {
       "id": "upcoming-row-555",
       "date": "20261224",
       "band": "mango",
@@ -30747,6 +30807,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3cb84c1a-84e6-4443-b99c-adf4d6cadc25",
-  "updatedAt": "2026-11-18T04:56:44.222Z"
+  "revision": "718f48f1-e703-48fc-bbd4-43ef525eb08a",
+  "updatedAt": "2026-11-18T07:53:51.708Z"
 }
