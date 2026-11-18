@@ -58,6 +58,14 @@
       "eventCount": 14
     },
     {
+      "id": "pizzali",
+      "name": "PIZZALI",
+      "short": "PIZZALI",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 13
+    },
+    {
       "id": "sabrina",
       "name": "Sabrina 胡恂舞",
       "short": "Sabrina 胡恂舞",
@@ -70,14 +78,6 @@
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 12
-    },
-    {
-      "id": "pizzali",
-      "name": "PIZZALI",
-      "short": "PIZZALI",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 12
     },
@@ -154,6 +154,14 @@
       "eventCount": 9
     },
     {
+      "id": "LuYun",
+      "name": "呂允",
+      "short": "呂允",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 8
+    },
+    {
       "id": "SweetJohn",
       "name": "甜約翰",
       "short": "甜約翰",
@@ -202,19 +210,19 @@
       "eventCount": 7
     },
     {
-      "id": "LuYun",
-      "name": "呂允",
-      "short": "呂允",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 7
-    },
-    {
       "id": "band_6gp8um_3",
       "name": "白安",
       "short": "白安",
       "color": "#00b4d8",
       "category": "個人",
+      "eventCount": 7
+    },
+    {
+      "id": "unus",
+      "name": "U:NUS",
+      "short": "U:NUS",
+      "color": "#2ec4b6",
+      "category": "團體",
       "eventCount": 7
     },
     {
@@ -303,14 +311,6 @@
       "short": "163braces",
       "color": "#118ab2",
       "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "unus",
-      "name": "U:NUS",
-      "short": "U:NUS",
-      "color": "#2ec4b6",
-      "category": "團體",
       "eventCount": 6
     },
     {
@@ -431,6 +431,14 @@
       "short": "ARKis",
       "color": "#8338ec",
       "category": "團體",
+      "eventCount": 5
+    },
+    {
+      "id": "band_drsiw0_21",
+      "name": "林可綸",
+      "short": "林可綸",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 5
     },
     {
@@ -615,14 +623,6 @@
       "short": "慶記",
       "color": "#ffd166",
       "category": "團體",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_21",
-      "name": "林可綸",
-      "short": "林可綸",
-      "color": "#118ab2",
-      "category": "個人",
       "eventCount": 4
     },
     {
@@ -8462,6 +8462,38 @@
       "name": "爺奶萬萬說",
       "short": "爺奶",
       "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "lowkeycc",
+      "name": "Lowkeycc",
+      "short": "Lo",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "pplin",
+      "name": "PPlin",
+      "short": "PP",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "dory",
+      "name": "Dory",
+      "short": "Do",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "justin",
+      "name": "Justin",
+      "short": "Ju",
+      "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
     },
@@ -29262,6 +29294,86 @@
       "note": "［售票］\nAnemoia主題,可校外參加。"
     },
     {
+      "id": "upcoming-row-801",
+      "date": "20261223",
+      "band": "LuYun",
+      "time": "未公布",
+      "name": "台中 聖誕宿夜不打烊・Xmas After Dark",
+      "location": "國立臺中科技大學三民校區體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E6%B0%91%E6%A0%A1%E5%8D%80%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［售票］\n活動於12/23 18:00-21:30 舉辦,17:30-18:00 入場。卡司包含呂允、林可綸、U:NUS、PIZZALI、Lowkeycc、PPlin、Dory、Justin。"
+    },
+    {
+      "id": "upcoming-row-802",
+      "date": "20261223",
+      "band": "band_drsiw0_21",
+      "time": "未公布",
+      "name": "台中 聖誕宿夜不打烊・Xmas After Dark",
+      "location": "國立臺中科技大學三民校區體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E6%B0%91%E6%A0%A1%E5%8D%80%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［售票］\n活動於12/23 18:00-21:30 舉辦,17:30-18:00 入場。卡司包含呂允、林可綸、U:NUS、PIZZALI、Lowkeycc、PPlin、Dory、Justin。"
+    },
+    {
+      "id": "upcoming-row-803",
+      "date": "20261223",
+      "band": "unus",
+      "time": "未公布",
+      "name": "台中 聖誕宿夜不打烊・Xmas After Dark",
+      "location": "國立臺中科技大學三民校區體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E6%B0%91%E6%A0%A1%E5%8D%80%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［售票］\n活動於12/23 18:00-21:30 舉辦,17:30-18:00 入場。卡司包含呂允、林可綸、U:NUS、PIZZALI、Lowkeycc、PPlin、Dory、Justin。"
+    },
+    {
+      "id": "upcoming-row-804",
+      "date": "20261223",
+      "band": "pizzali",
+      "time": "未公布",
+      "name": "台中 聖誕宿夜不打烊・Xmas After Dark",
+      "location": "國立臺中科技大學三民校區體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E6%B0%91%E6%A0%A1%E5%8D%80%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［售票］\n活動於12/23 18:00-21:30 舉辦,17:30-18:00 入場。卡司包含呂允、林可綸、U:NUS、PIZZALI、Lowkeycc、PPlin、Dory、Justin。"
+    },
+    {
+      "id": "upcoming-row-805",
+      "date": "20261223",
+      "band": "lowkeycc",
+      "time": "未公布",
+      "name": "台中 聖誕宿夜不打烊・Xmas After Dark",
+      "location": "國立臺中科技大學三民校區體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E6%B0%91%E6%A0%A1%E5%8D%80%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［售票］\n活動於12/23 18:00-21:30 舉辦,17:30-18:00 入場。卡司包含呂允、林可綸、U:NUS、PIZZALI、Lowkeycc、PPlin、Dory、Justin。"
+    },
+    {
+      "id": "upcoming-row-806",
+      "date": "20261223",
+      "band": "pplin",
+      "time": "未公布",
+      "name": "台中 聖誕宿夜不打烊・Xmas After Dark",
+      "location": "國立臺中科技大學三民校區體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E6%B0%91%E6%A0%A1%E5%8D%80%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［售票］\n活動於12/23 18:00-21:30 舉辦,17:30-18:00 入場。卡司包含呂允、林可綸、U:NUS、PIZZALI、Lowkeycc、PPlin、Dory、Justin。"
+    },
+    {
+      "id": "upcoming-row-807",
+      "date": "20261223",
+      "band": "dory",
+      "time": "未公布",
+      "name": "台中 聖誕宿夜不打烊・Xmas After Dark",
+      "location": "國立臺中科技大學三民校區體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E6%B0%91%E6%A0%A1%E5%8D%80%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［售票］\n活動於12/23 18:00-21:30 舉辦,17:30-18:00 入場。卡司包含呂允、林可綸、U:NUS、PIZZALI、Lowkeycc、PPlin、Dory、Justin。"
+    },
+    {
+      "id": "upcoming-row-808",
+      "date": "20261223",
+      "band": "justin",
+      "time": "未公布",
+      "name": "台中 聖誕宿夜不打烊・Xmas After Dark",
+      "location": "國立臺中科技大學三民校區體育館",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E8%87%BA%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E4%B8%89%E6%B0%91%E6%A0%A1%E5%8D%80%E9%AB%94%E8%82%B2%E9%A4%A8",
+      "note": "［售票］\n活動於12/23 18:00-21:30 舉辦,17:30-18:00 入場。卡司包含呂允、林可綸、U:NUS、PIZZALI、Lowkeycc、PPlin、Dory、Justin。"
+    },
+    {
       "id": "upcoming-row-555",
       "date": "20261224",
       "band": "mango",
@@ -31117,6 +31229,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "00e160a3-21d8-446a-a3ec-db3838c16b08",
-  "updatedAt": "2026-11-18T11:07:48.383Z"
+  "revision": "ec8f0e1c-afcd-44f0-9159-f2d1a59c22ec",
+  "updatedAt": "2026-11-18T13:53:54.394Z"
 }
