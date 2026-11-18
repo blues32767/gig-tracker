@@ -618,6 +618,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_33",
+      "name": "韋禮安",
+      "short": "韋禮安",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "yoyo",
       "name": "YOYO 家族",
       "short": "YOYO 家族",
@@ -762,6 +770,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_86",
+      "name": "告五人",
+      "short": "告五人",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_6gp8um_28",
       "name": "紙鳶",
       "short": "紙鳶",
@@ -874,6 +890,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_153",
+      "name": "彭佳慧",
+      "short": "彭佳慧",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_7",
       "name": "蔡旻佑",
       "short": "蔡旻佑",
@@ -934,14 +958,6 @@
       "name": "李翊君",
       "short": "李翊君",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_33",
-      "name": "韋禮安",
-      "short": "韋禮安",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 3
     },
@@ -1103,14 +1119,6 @@
       "short": "潤少",
       "color": "#118ab2",
       "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_86",
-      "name": "告五人",
-      "short": "告五人",
-      "color": "#fb5607",
-      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -1358,14 +1366,6 @@
       "name": "曾沛慈",
       "short": "曾沛慈",
       "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_153",
-      "name": "彭佳慧",
-      "short": "彭佳慧",
-      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 3
     },
@@ -2194,6 +2194,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_168",
+      "name": "徐佳瑩",
+      "short": "徐佳瑩",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_6gp8um_61",
       "name": "團名",
       "short": "團名",
@@ -2398,6 +2406,14 @@
       "name": "龐蟹 Punkshxt!",
       "short": "龐蟹 Punkshxt!",
       "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_236",
+      "name": "蔡健雅",
+      "short": "蔡健雅",
+      "color": "#ef476f",
       "category": "個人",
       "eventCount": 2
     },
@@ -5370,14 +5386,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_drsiw0_168",
-      "name": "徐佳瑩",
-      "short": "徐佳瑩",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "band_6u8lrj_49",
       "name": "幻藍小熊",
       "short": "幻藍小熊",
@@ -8046,14 +8054,6 @@
       "name": "深深一擊",
       "short": "深深一擊",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_236",
-      "name": "蔡健雅",
-      "short": "蔡健雅",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
     },
@@ -29982,6 +29982,56 @@
       "note": "［免費］\n卡司包含孫淑媚、許富凱、Ozone、HUR+ 等,主持為林葦妮、黃偉晉。"
     },
     {
+      "id": "upcoming-row-771",
+      "date": "20261231",
+      "band": "band_drsiw0_86",
+      "time": "未公布",
+      "name": "台東 東漂去旅行跨年晚會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n第二波卡司:告五人;已公佈卡司:徐佳瑩、蔡健雅、彭佳慧、韋禮安。地點為台東市國際地標。"
+    },
+    {
+      "id": "upcoming-row-772",
+      "date": "20261231",
+      "band": "band_drsiw0_168",
+      "time": "未公布",
+      "name": "台東 東漂去旅行跨年晚會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n第二波卡司:告五人;已公佈卡司:徐佳瑩、蔡健雅、彭佳慧、韋禮安。地點為台東市國際地標。"
+    },
+    {
+      "id": "upcoming-row-773",
+      "date": "20261231",
+      "band": "band_drsiw0_236",
+      "time": "未公布",
+      "name": "台東 東漂去旅行跨年晚會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n第二波卡司:告五人;已公佈卡司:徐佳瑩、蔡健雅、彭佳慧、韋禮安。地點為台東市國際地標。"
+    },
+    {
+      "id": "upcoming-row-774",
+      "date": "20261231",
+      "band": "band_drsiw0_153",
+      "time": "未公布",
+      "name": "台東 東漂去旅行跨年晚會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n第二波卡司:告五人;已公佈卡司:徐佳瑩、蔡健雅、彭佳慧、韋禮安。地點為台東市國際地標。"
+    },
+    {
+      "id": "upcoming-row-775",
+      "date": "20261231",
+      "band": "band_drsiw0_33",
+      "time": "未公布",
+      "name": "台東 東漂去旅行跨年晚會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n第二波卡司:告五人;已公佈卡司:徐佳瑩、蔡健雅、彭佳慧、韋禮安。地點為台東市國際地標。"
+    },
+    {
       "id": "upcoming-row-635",
       "date": "20270102",
       "band": "awkward",
@@ -30697,6 +30747,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "914e244f-9b15-4d5a-a165-bb88e3c3b1a1",
-  "updatedAt": "2026-11-18T01:58:39.948Z"
+  "revision": "a615bc4d-e9b6-4de8-99ce-93d309279431",
+  "updatedAt": "2026-11-18T04:53:32.446Z"
 }
