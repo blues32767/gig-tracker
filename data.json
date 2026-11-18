@@ -7,7 +7,7 @@
       "short": "芒果醬",
       "color": "#ff6600",
       "category": "樂團",
-      "eventCount": 62
+      "eventCount": 63
     },
     {
       "id": "gongguan",
@@ -274,6 +274,14 @@
       "eventCount": 7
     },
     {
+      "id": "pallas_1",
+      "name": "PALLAS 帕拉斯",
+      "short": "PALLAS 帕拉斯",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
       "id": "band_6gp8um_11",
       "name": "鼓鼓",
       "short": "鼓鼓",
@@ -390,14 +398,6 @@
       "name": "上山",
       "short": "上山",
       "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 6
-    },
-    {
-      "id": "pallas_1",
-      "name": "PALLAS 帕拉斯",
-      "short": "PALLAS 帕拉斯",
-      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 6
     },
@@ -586,6 +586,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_drsiw0_174",
+      "name": "戴愛玲",
+      "short": "戴愛玲",
+      "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "juiceboy",
       "name": "Juice Boy",
       "short": "Juice Boy",
@@ -762,6 +770,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_86",
+      "name": "告五人",
+      "short": "告五人",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_6gp8um_28",
       "name": "紙鳶",
       "short": "紙鳶",
@@ -834,6 +850,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_47",
+      "name": "王識賢",
+      "short": "王識賢",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "ftkimsawol",
       "name": "淺堤 ft. Kim Sawol",
       "short": "淺堤 ft. Kim Sawol",
@@ -878,14 +902,6 @@
       "name": "彭佳慧",
       "short": "彭佳慧",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_174",
-      "name": "戴愛玲",
-      "short": "戴愛玲",
-      "color": "#ffd166",
       "category": "個人",
       "eventCount": 4
     },
@@ -1122,14 +1138,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_86",
-      "name": "告五人",
-      "short": "告五人",
-      "color": "#fb5607",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
       "id": "band_6gp8um_29",
       "name": "小魏",
       "short": "小魏",
@@ -1138,10 +1146,26 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_89",
+      "name": "楊淨宇",
+      "short": "楊淨宇",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "band_drsiw0_90",
       "name": "郭書瑤",
       "short": "郭書瑤",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_94",
+      "name": "沈文程",
+      "short": "沈文程",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 3
     },
@@ -1270,14 +1294,6 @@
       "name": "金智娟",
       "short": "金智娟",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_47",
-      "name": "王識賢",
-      "short": "王識賢",
-      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 3
     },
@@ -1658,14 +1674,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_89",
-      "name": "楊淨宇",
-      "short": "楊淨宇",
-      "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_91",
       "name": "賴銘偉",
       "short": "賴銘偉",
@@ -1678,14 +1686,6 @@
       "name": "陳孟賢",
       "short": "陳孟賢",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_94",
-      "name": "沈文程",
-      "short": "沈文程",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -2422,6 +2422,14 @@
       "name": "張羽靚",
       "short": "張羽",
       "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_242",
+      "name": "林沐希",
+      "short": "林沐",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -8294,14 +8302,6 @@
       "name": "李多慧",
       "short": "李多",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_242",
-      "name": "林沐希",
-      "short": "林沐",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
     },
@@ -29014,6 +29014,86 @@
       "note": "［售票］\n2026年12月19日(六)於鹿港體育場舉辦,演出時間 18:00-22:00。開場嘉賓 Luxy girls,480秒璀璨煙火秀。卡司包含林沐希、戴愛玲、楊淨宇、PALLAS帕拉斯、王識賢、沈文程、告五人、芒果醬Mango Jump。另含美食市集與摸彩活動。"
     },
     {
+      "id": "upcoming-row-797",
+      "date": "20261219",
+      "band": "band_drsiw0_86",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會 2026",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為彰化縣鹿港體育場。卡司包含告五人、芒果醬、戴愛玲、王識賢、沈文程、林沐希、楊淨宇、帕拉斯、Luxy girls。演出時間為18:00-22:00。\n來源：https://news.st-media.com.tw/news/54692"
+    },
+    {
+      "id": "upcoming-row-798",
+      "date": "20261219",
+      "band": "band_drsiw0_47",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會 2026",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為彰化縣鹿港體育場。卡司包含告五人、芒果醬、戴愛玲、王識賢、沈文程、林沐希、楊淨宇、帕拉斯、Luxy girls。演出時間為18:00-22:00。\n來源：https://news.st-media.com.tw/news/54692"
+    },
+    {
+      "id": "upcoming-row-799",
+      "date": "20261219",
+      "band": "band_drsiw0_94",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會 2026",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為彰化縣鹿港體育場。卡司包含告五人、芒果醬、戴愛玲、王識賢、沈文程、林沐希、楊淨宇、帕拉斯、Luxy girls。演出時間為18:00-22:00。\n來源：https://news.st-media.com.tw/news/54692"
+    },
+    {
+      "id": "upcoming-row-800",
+      "date": "20261219",
+      "band": "mango",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會 2026",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為彰化縣鹿港體育場。卡司包含告五人、芒果醬、戴愛玲、王識賢、沈文程、林沐希、楊淨宇、帕拉斯、Luxy girls。演出時間為18:00-22:00。\n來源：https://news.st-media.com.tw/news/54692"
+    },
+    {
+      "id": "upcoming-row-801",
+      "date": "20261219",
+      "band": "band_drsiw0_174",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會 2026",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為彰化縣鹿港體育場。卡司包含告五人、芒果醬、戴愛玲、王識賢、沈文程、林沐希、楊淨宇、帕拉斯、Luxy girls。演出時間為18:00-22:00。\n來源：https://news.st-media.com.tw/news/54692"
+    },
+    {
+      "id": "upcoming-row-802",
+      "date": "20261219",
+      "band": "pallas_1",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會 2026",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為彰化縣鹿港體育場。卡司包含告五人、芒果醬、戴愛玲、王識賢、沈文程、林沐希、楊淨宇、帕拉斯、Luxy girls。演出時間為18:00-22:00。\n來源：https://news.st-media.com.tw/news/54692"
+    },
+    {
+      "id": "upcoming-row-803",
+      "date": "20261219",
+      "band": "band_drsiw0_89",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會 2026",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為彰化縣鹿港體育場。卡司包含告五人、芒果醬、戴愛玲、王識賢、沈文程、林沐希、楊淨宇、帕拉斯、Luxy girls。演出時間為18:00-22:00。\n來源：https://news.st-media.com.tw/news/54692"
+    },
+    {
+      "id": "upcoming-row-804",
+      "date": "20261219",
+      "band": "band_drsiw0_242",
+      "time": "未公布",
+      "name": "苗栗 冬聚戀歌歲末演唱會 2026",
+      "location": "苗栗縣頭份運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%A0%AD%E4%BB%BD%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n活動於2026年12月19日舉辦,地點為彰化縣鹿港體育場。卡司包含告五人、芒果醬、戴愛玲、王識賢、沈文程、林沐希、楊淨宇、帕拉斯、Luxy girls。演出時間為18:00-22:00。\n來源：https://news.st-media.com.tw/news/54692"
+    },
+    {
       "id": "upcoming-row-542",
       "date": "20261220",
       "band": "AmazingShow",
@@ -31109,6 +31189,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "08ace983-b09d-479a-bcc4-97df74e47ef7",
-  "updatedAt": "2026-11-18T16:54:43.816Z"
+  "revision": "9039a9ba-3e4c-474a-8bf7-216b7f0f634a",
+  "updatedAt": "2026-11-18T17:02:10.096Z"
 }
