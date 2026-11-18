@@ -8346,6 +8346,78 @@
       "eventCount": 1
     },
     {
+      "id": "haniboi",
+      "name": "李翰 / Haniboi",
+      "short": "李翰",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_245",
+      "name": "襲泊川",
+      "short": "襲泊",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "benn",
+      "name": "B E N N",
+      "short": "BE",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "munkee",
+      "name": "MUNKEE",
+      "short": "MU",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "jamesho",
+      "name": "James Ho",
+      "short": "Ja",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "tawei",
+      "name": "TAWEI",
+      "short": "TA",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "xixi",
+      "name": "XIXI",
+      "short": "XI",
+      "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_246",
+      "name": "大腸哥",
+      "short": "大腸",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "woodo",
+      "name": "WOODO",
+      "short": "WO",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -25052,6 +25124,96 @@
       "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)"
     },
     {
+      "id": "upcoming-row-786",
+      "date": "20261204",
+      "band": "haniboi",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-787",
+      "date": "20261204",
+      "band": "band_drsiw0_245",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-788",
+      "date": "20261204",
+      "band": "benn",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-789",
+      "date": "20261204",
+      "band": "munkee",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-790",
+      "date": "20261204",
+      "band": "jamesho",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-791",
+      "date": "20261204",
+      "band": "tawei",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-792",
+      "date": "20261204",
+      "band": "xixi",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-793",
+      "date": "20261204",
+      "band": "band_drsiw0_246",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
+      "id": "upcoming-row-794",
+      "date": "20261204",
+      "band": "woodo",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)"
+    },
+    {
       "id": "upcoming-row-222",
       "date": "20261205",
       "band": "band_drsiw0_87",
@@ -30847,6 +31009,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "a572dab6-ec06-4ff7-b12a-a8ca04b673dd",
-  "updatedAt": "2026-11-18T10:57:58.957Z"
+  "revision": "726a410f-f891-4db9-8a5d-16494e675fb3",
+  "updatedAt": "2026-11-18T11:06:43.039Z"
 }
