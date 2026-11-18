@@ -1554,6 +1554,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_6gp8um_6",
+      "name": "楊琳",
+      "short": "楊琳",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_31",
       "name": "施文彬",
       "short": "施文彬",
@@ -1935,6 +1943,14 @@
       "short": "鄭怡",
       "color": "#06d6a0",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_36",
+      "name": "草屯囝仔",
+      "short": "草屯囝仔",
+      "color": "#118ab2",
+      "category": "團體",
       "eventCount": 2
     },
     {
@@ -2534,14 +2550,6 @@
       "name": "安吉",
       "short": "安吉",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_6",
-      "name": "楊琳",
-      "short": "楊琳",
-      "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
     },
@@ -4135,14 +4143,6 @@
       "short": "施孝榮",
       "color": "#ef476f",
       "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6u8lrj_36",
-      "name": "草屯囝仔",
-      "short": "草屯囝仔",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 1
     },
     {
@@ -8495,6 +8495,30 @@
       "short": "Ju",
       "color": "#3a86ff",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_247",
+      "name": "馬靚辳",
+      "short": "馬靚",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_99",
+      "name": "又熙",
+      "short": "又熙",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_248",
+      "name": "李芷婷",
+      "short": "李芷",
+      "color": "#ef476f",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -23924,6 +23948,56 @@
       "note": "［免費］\n活動於 11/21 舉辦,包含淺堤、蔡忠穎、方立維 ALI、水管阿民、羊米人等演出。"
     },
     {
+      "id": "upcoming-row-805",
+      "date": "20261121",
+      "band": "band_drsiw0_247",
+      "time": "12:00-12:15",
+      "name": "彰化 建國科技大學校慶嘉年華",
+      "location": "彰化市建國科大圖文大樓前籃球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E5%B8%82%E5%BB%BA%E5%9C%8B%E7%A7%91%E5%A4%A7%E5%9C%96%E6%96%87%E5%A4%A7%E6%A8%93%E5%89%8D%E7%B1%83%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n建國科大校慶嘉年華,開放校外人士參加。"
+    },
+    {
+      "id": "upcoming-row-806",
+      "date": "20261121",
+      "band": "band_6gp8um_99",
+      "time": "12:15-12:30",
+      "name": "彰化 建國科技大學校慶嘉年華",
+      "location": "彰化市建國科大圖文大樓前籃球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E5%B8%82%E5%BB%BA%E5%9C%8B%E7%A7%91%E5%A4%A7%E5%9C%96%E6%96%87%E5%A4%A7%E6%A8%93%E5%89%8D%E7%B1%83%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n建國科大校慶嘉年華,開放校外人士參加。"
+    },
+    {
+      "id": "upcoming-row-807",
+      "date": "20261121",
+      "band": "band_6gp8um_6",
+      "time": "12:30-12:45",
+      "name": "彰化 建國科技大學校慶嘉年華",
+      "location": "彰化市建國科大圖文大樓前籃球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E5%B8%82%E5%BB%BA%E5%9C%8B%E7%A7%91%E5%A4%A7%E5%9C%96%E6%96%87%E5%A4%A7%E6%A8%93%E5%89%8D%E7%B1%83%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n建國科大校慶嘉年華,開放校外人士參加。"
+    },
+    {
+      "id": "upcoming-row-808",
+      "date": "20261121",
+      "band": "band_6u8lrj_36",
+      "time": "12:45-13:00",
+      "name": "彰化 建國科技大學校慶嘉年華",
+      "location": "彰化市建國科大圖文大樓前籃球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E5%B8%82%E5%BB%BA%E5%9C%8B%E7%A7%91%E5%A4%A7%E5%9C%96%E6%96%87%E5%A4%A7%E6%A8%93%E5%89%8D%E7%B1%83%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n建國科大校慶嘉年華,開放校外人士參加。"
+    },
+    {
+      "id": "upcoming-row-809",
+      "date": "20261121",
+      "band": "band_drsiw0_248",
+      "time": "13:00-13:15",
+      "name": "彰化 建國科技大學校慶嘉年華",
+      "location": "彰化市建國科大圖文大樓前籃球場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%BD%B0%E5%8C%96%E5%B8%82%E5%BB%BA%E5%9C%8B%E7%A7%91%E5%A4%A7%E5%9C%96%E6%96%87%E5%A4%A7%E6%A8%93%E5%89%8D%E7%B1%83%E7%90%83%E5%A0%B4",
+      "note": "［免費］\n建國科大校慶嘉年華,開放校外人士參加。"
+    },
+    {
       "id": "upcoming-row-94",
       "date": "20261122",
       "band": "WhoCares",
@@ -31189,6 +31263,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "9039a9ba-3e4c-474a-8bf7-216b7f0f634a",
-  "updatedAt": "2026-11-18T17:02:10.096Z"
+  "revision": "792f3407-6693-41e2-9c38-1ce230f374c6",
+  "updatedAt": "2026-11-18T19:53:01.452Z"
 }
