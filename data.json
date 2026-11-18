@@ -15,7 +15,7 @@
       "short": "公館青少年",
       "color": "#2a9d8f",
       "category": "樂團",
-      "eventCount": 23
+      "eventCount": 24
     },
     {
       "id": "AmazingShow",
@@ -130,6 +130,14 @@
       "eventCount": 9
     },
     {
+      "id": "band_drsiw0_1",
+      "name": "李浩瑋",
+      "short": "李浩瑋",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 9
+    },
+    {
       "id": "WendyWander",
       "name": "溫蒂漫步",
       "short": "溫蒂漫步",
@@ -144,14 +152,6 @@
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 9
-    },
-    {
-      "id": "band_drsiw0_1",
-      "name": "李浩瑋",
-      "short": "李浩瑋",
-      "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 8
     },
     {
       "id": "SweetJohn",
@@ -410,6 +410,14 @@
       "eventCount": 5
     },
     {
+      "id": "NeciKen",
+      "name": "南西肯恩",
+      "short": "南西肯恩",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 5
+    },
+    {
       "id": "joyce",
       "name": "JOYCE 就以斯",
       "short": "就以斯",
@@ -598,14 +606,6 @@
       "name": "F.F.O",
       "short": "F.F.O",
       "color": "#00b4d8",
-      "category": "團體",
-      "eventCount": 4
-    },
-    {
-      "id": "NeciKen",
-      "name": "南西肯恩",
-      "short": "南西肯恩",
-      "color": "#118ab2",
       "category": "團體",
       "eventCount": 4
     },
@@ -2086,6 +2086,14 @@
       "name": "許景淳",
       "short": "許景淳",
       "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_151",
+      "name": "聖結石",
+      "short": "聖結石",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -5087,14 +5095,6 @@
       "short": "小芙尼家族",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_151",
-      "name": "聖結石",
-      "short": "聖結石",
-      "color": "#118ab2",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -25742,6 +25742,46 @@
       "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
     },
     {
+      "id": "upcoming-row-782",
+      "date": "20261206",
+      "band": "band_drsiw0_151",
+      "time": "未公布",
+      "name": "台南 成大校慶演唱會",
+      "location": "台南市成功大學大光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n卡司包含聖結石、南西肯恩、李浩瑋、公館青少年等,由雨婷主持。"
+    },
+    {
+      "id": "upcoming-row-783",
+      "date": "20261206",
+      "band": "NeciKen",
+      "time": "未公布",
+      "name": "台南 成大校慶演唱會",
+      "location": "台南市成功大學大光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n卡司包含聖結石、南西肯恩、李浩瑋、公館青少年等,由雨婷主持。"
+    },
+    {
+      "id": "upcoming-row-784",
+      "date": "20261206",
+      "band": "band_drsiw0_1",
+      "time": "未公布",
+      "name": "台南 成大校慶演唱會",
+      "location": "台南市成功大學大光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n卡司包含聖結石、南西肯恩、李浩瑋、公館青少年等,由雨婷主持。"
+    },
+    {
+      "id": "upcoming-row-785",
+      "date": "20261206",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "台南 成大校慶演唱會",
+      "location": "台南市成功大學大光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n卡司包含聖結石、南西肯恩、李浩瑋、公館青少年等,由雨婷主持。"
+    },
+    {
       "id": "upcoming-row-273",
       "date": "20261211",
       "band": "band_drsiw0_58",
@@ -30807,6 +30847,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e02bed39-5fd6-4044-b46c-e18321df9d57",
-  "updatedAt": "2026-11-18T08:03:18.372Z"
+  "revision": "a572dab6-ec06-4ff7-b12a-a8ca04b673dd",
+  "updatedAt": "2026-11-18T10:57:58.957Z"
 }
