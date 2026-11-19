@@ -58,18 +58,18 @@
       "eventCount": 14
     },
     {
-      "id": "pizzali",
-      "name": "PIZZALI",
-      "short": "PIZZALI",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 13
-    },
-    {
       "id": "sabrina",
       "name": "Sabrina 胡恂舞",
       "short": "Sabrina 胡恂舞",
       "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 14
+    },
+    {
+      "id": "pizzali",
+      "name": "PIZZALI",
+      "short": "PIZZALI",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 13
     },
@@ -26082,40 +26082,50 @@
       "date": "20261206",
       "band": "band_drsiw0_151",
       "time": "未公布",
-      "name": "台南 成功大學校慶演唱會",
+      "name": "台南 成功大學校慶演唱會《成星》",
       "location": "台南市成功大學大光復校區榕園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
-      "note": "［免費］\n卡司包含聖結石、南西肯恩、李浩瑋、公館青少年等,由雨婷主持。可校外參加。"
+      "note": "［免費］\n校慶演唱會,可校外人士參加。卡司包含Sabrina 胡恂舞、聖結石、南西肯恩、李浩瑋、公館青少年,主持人為雨婷。"
     },
     {
       "id": "upcoming-row-771",
       "date": "20261206",
       "band": "NeciKen",
       "time": "未公布",
-      "name": "台南 成功大學校慶演唱會",
+      "name": "台南 成功大學校慶演唱會《成星》",
       "location": "台南市成功大學大光復校區榕園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
-      "note": "［免費］\n卡司包含聖結石、南西肯恩、李浩瑋、公館青少年等,由雨婷主持。可校外參加。"
+      "note": "［免費］\n校慶演唱會,可校外人士參加。卡司包含Sabrina 胡恂舞、聖結石、南西肯恩、李浩瑋、公館青少年,主持人為雨婷。"
     },
     {
       "id": "upcoming-row-772",
       "date": "20261206",
       "band": "band_drsiw0_1",
       "time": "未公布",
-      "name": "台南 成功大學校慶演唱會",
+      "name": "台南 成功大學校慶演唱會《成星》",
       "location": "台南市成功大學大光復校區榕園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
-      "note": "［免費］\n卡司包含聖結石、南西肯恩、李浩瑋、公館青少年等,由雨婷主持。可校外參加。"
+      "note": "［免費］\n校慶演唱會,可校外人士參加。卡司包含Sabrina 胡恂舞、聖結石、南西肯恩、李浩瑋、公館青少年,主持人為雨婷。"
     },
     {
       "id": "upcoming-row-773",
       "date": "20261206",
       "band": "gongguan",
       "time": "未公布",
-      "name": "台南 成功大學校慶演唱會",
+      "name": "台南 成功大學校慶演唱會《成星》",
       "location": "台南市成功大學大光復校區榕園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
-      "note": "［免費］\n卡司包含聖結石、南西肯恩、李浩瑋、公館青少年等,由雨婷主持。可校外參加。"
+      "note": "［免費］\n校慶演唱會,可校外人士參加。卡司包含Sabrina 胡恂舞、聖結石、南西肯恩、李浩瑋、公館青少年,主持人為雨婷。"
+    },
+    {
+      "id": "upcoming-row-817",
+      "date": "20261206",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "台南 成功大學校慶演唱會《成星》",
+      "location": "台南市成功大學大光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n校慶演唱會,可校外人士參加。卡司包含Sabrina 胡恂舞、聖結石、南西肯恩、李浩瑋、公館青少年,主持人為雨婷。"
     },
     {
       "id": "upcoming-row-272",
@@ -31333,6 +31343,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e92338c9-ffc8-42bf-b4b0-946105fb3187",
-  "updatedAt": "2026-11-19T09:44:27.541Z"
+  "revision": "956148a2-8e7e-49d9-b051-264fa087bec2",
+  "updatedAt": "2026-11-19T12:35:06.393Z"
 }
