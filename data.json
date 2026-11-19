@@ -39,7 +39,7 @@
       "short": "艾薇",
       "color": "#fb5607",
       "category": "個人",
-      "eventCount": 17
+      "eventCount": 18
     },
     {
       "id": "band_qqiyec_5",
@@ -47,7 +47,7 @@
       "short": "傻白",
       "color": "#3a86ff",
       "category": "樂團",
-      "eventCount": 17
+      "eventCount": 18
     },
     {
       "id": "band_drsiw0_25",
@@ -82,6 +82,14 @@
       "eventCount": 12
     },
     {
+      "id": "fei",
+      "name": "吳霏 FEI",
+      "short": "吳霏 FEI",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 12
+    },
+    {
       "id": "icyball",
       "name": "冰球樂團",
       "short": "冰球樂團",
@@ -103,14 +111,6 @@
       "short": "TRASH",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 11
-    },
-    {
-      "id": "fei",
-      "name": "吳霏 FEI",
-      "short": "吳霏 FEI",
-      "color": "#3a86ff",
-      "category": "個人",
       "eventCount": 11
     },
     {
@@ -1066,6 +1066,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_70",
+      "name": "邱鋒澤",
+      "short": "邱鋒澤",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "multiverse",
       "name": "Multiverse",
       "short": "Multiverse",
@@ -1638,14 +1646,6 @@
       "name": "林頤原",
       "short": "林頤原",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_70",
-      "name": "邱鋒澤",
-      "short": "邱鋒澤",
-      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 2
     },
@@ -25008,6 +25008,36 @@
       "note": "［免費］\n卡司包含邱鋒澤、艾薇、吳霏"
     },
     {
+      "id": "upcoming-row-818",
+      "date": "20261203",
+      "band": "band_drsiw0_70",
+      "time": "未公布",
+      "name": "CR 造星計畫:高餐場",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n卡司包含邱鋒澤、吳霏、艾薇"
+    },
+    {
+      "id": "upcoming-row-819",
+      "date": "20261203",
+      "band": "fei",
+      "time": "未公布",
+      "name": "CR 造星計畫:高餐場",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n卡司包含邱鋒澤、吳霏、艾薇"
+    },
+    {
+      "id": "upcoming-row-820",
+      "date": "20261203",
+      "band": "band_qqiyec_5",
+      "time": "未公布",
+      "name": "CR 造星計畫:高餐場",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n卡司包含邱鋒澤、吳霏、艾薇"
+    },
+    {
       "id": "upcoming-row-192",
       "date": "20261204",
       "band": "band_6gp8um_75",
@@ -31343,6 +31373,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ebe29b9f-252e-4a0c-8ce3-142d60845a5a",
-  "updatedAt": "2026-11-19T13:26:54.865Z"
+  "revision": "b7212bc2-538f-46d2-899b-bd1eb0d6f0f5",
+  "updatedAt": "2026-11-19T15:39:50.346Z"
 }
