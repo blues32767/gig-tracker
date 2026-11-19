@@ -15,7 +15,7 @@
       "short": "公館青少年",
       "color": "#2a9d8f",
       "category": "樂團",
-      "eventCount": 24
+      "eventCount": 25
     },
     {
       "id": "AmazingShow",
@@ -50,18 +50,18 @@
       "eventCount": 18
     },
     {
-      "id": "band_drsiw0_25",
-      "name": "許富凱",
-      "short": "許富凱",
-      "color": "#ef476f",
-      "category": "個人",
-      "eventCount": 14
-    },
-    {
       "id": "sabrina",
       "name": "Sabrina 胡恂舞",
       "short": "Sabrina 胡恂舞",
       "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 15
+    },
+    {
+      "id": "band_drsiw0_25",
+      "name": "許富凱",
+      "short": "許富凱",
+      "color": "#ef476f",
       "category": "個人",
       "eventCount": 14
     },
@@ -122,18 +122,18 @@
       "eventCount": 10
     },
     {
-      "id": "SHOU",
-      "name": "婁峻碩",
-      "short": "婁峻碩",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 9
-    },
-    {
       "id": "band_drsiw0_1",
       "name": "李浩瑋",
       "short": "李浩瑋",
       "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 10
+    },
+    {
+      "id": "SHOU",
+      "name": "婁峻碩",
+      "short": "婁峻碩",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 9
     },
@@ -314,6 +314,14 @@
       "eventCount": 6
     },
     {
+      "id": "NeciKen",
+      "name": "南西肯恩",
+      "short": "南西肯恩",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 6
+    },
+    {
       "id": "fenix",
       "name": "FEniX",
       "short": "FEniX",
@@ -407,14 +415,6 @@
       "short": "王謙",
       "color": "#ffd166",
       "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "NeciKen",
-      "name": "南西肯恩",
-      "short": "南西肯恩",
-      "color": "#118ab2",
-      "category": "團體",
       "eventCount": 5
     },
     {
@@ -1370,6 +1370,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_drsiw0_151",
+      "name": "聖結石",
+      "short": "聖結石",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "jud",
       "name": "JUD 陳泳希",
       "short": "JUD 陳泳希",
@@ -2110,14 +2118,6 @@
       "name": "許景淳",
       "short": "許景淳",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_151",
-      "name": "聖結石",
-      "short": "聖結石",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -26158,6 +26158,56 @@
       "note": "［免費］\n校慶演唱會,可校外人士參加。卡司包含Sabrina 胡恂舞、聖結石、南西肯恩、李浩瑋、公館青少年,主持人為雨婷。"
     },
     {
+      "id": "upcoming-row-821",
+      "date": "20261206",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "台南 國立成功大學95週年校慶ᆞ成星",
+      "location": "國立成功大學光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n包含胡恂舞、公館青少年、聖結石、南西肯恩、李浩瑋,主持人為雨婷"
+    },
+    {
+      "id": "upcoming-row-822",
+      "date": "20261206",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "台南 國立成功大學95週年校慶ᆞ成星",
+      "location": "國立成功大學光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n包含胡恂舞、公館青少年、聖結石、南西肯恩、李浩瑋,主持人為雨婷"
+    },
+    {
+      "id": "upcoming-row-823",
+      "date": "20261206",
+      "band": "band_drsiw0_151",
+      "time": "未公布",
+      "name": "台南 國立成功大學95週年校慶ᆞ成星",
+      "location": "國立成功大學光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n包含胡恂舞、公館青少年、聖結石、南西肯恩、李浩瑋,主持人為雨婷"
+    },
+    {
+      "id": "upcoming-row-824",
+      "date": "20261206",
+      "band": "NeciKen",
+      "time": "未公布",
+      "name": "台南 國立成功大學95週年校慶ᆞ成星",
+      "location": "國立成功大學光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n包含胡恂舞、公館青少年、聖結石、南西肯恩、李浩瑋,主持人為雨婷"
+    },
+    {
+      "id": "upcoming-row-825",
+      "date": "20261206",
+      "band": "band_drsiw0_1",
+      "time": "未公布",
+      "name": "台南 國立成功大學95週年校慶ᆞ成星",
+      "location": "國立成功大學光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n包含胡恂舞、公館青少年、聖結石、南西肯恩、李浩瑋,主持人為雨婷"
+    },
+    {
       "id": "upcoming-row-272",
       "date": "20261211",
       "band": "band_drsiw0_58",
@@ -31373,6 +31423,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "b7212bc2-538f-46d2-899b-bd1eb0d6f0f5",
-  "updatedAt": "2026-11-19T15:39:50.346Z"
+  "revision": "befee5ca-cb89-4e06-9003-e775dcc2c664",
+  "updatedAt": "2026-11-19T15:41:51.844Z"
 }
