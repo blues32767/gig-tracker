@@ -119,7 +119,7 @@
       "short": "胡凱兒",
       "color": "#385c6e",
       "category": "樂團",
-      "eventCount": 9
+      "eventCount": 10
     },
     {
       "id": "SHOU",
@@ -183,6 +183,14 @@
       "short": "Ozone",
       "color": "#ffd166",
       "category": "團體",
+      "eventCount": 8
+    },
+    {
+      "id": "band_drsiw0_59",
+      "name": "固定客",
+      "short": "固定客",
+      "color": "#ffd166",
+      "category": "樂團",
       "eventCount": 8
     },
     {
@@ -254,14 +262,6 @@
       "name": "麋先生",
       "short": "麋先生",
       "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 7
-    },
-    {
-      "id": "band_drsiw0_59",
-      "name": "固定客",
-      "short": "固定客",
-      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 7
     },
@@ -546,6 +546,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_6gp8um_28",
+      "name": "紙鳶",
+      "short": "紙鳶",
+      "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
       "id": "band_drsiw0_112",
       "name": "陳忻玥",
       "short": "陳忻玥",
@@ -778,14 +786,6 @@
       "eventCount": 4
     },
     {
-      "id": "band_6gp8um_28",
-      "name": "紙鳶",
-      "short": "紙鳶",
-      "color": "#2ec4b6",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
       "id": "band_drsiw0_88",
       "name": "畢書盡",
       "short": "畢書盡",
@@ -807,6 +807,14 @@
       "short": "海洋家族",
       "color": "#118ab2",
       "category": "團體",
+      "eventCount": 4
+    },
+    {
+      "id": "band_6gp8um_38",
+      "name": "旅人",
+      "short": "旅人",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 4
     },
     {
@@ -1255,14 +1263,6 @@
       "short": "步行者",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "band_6gp8um_38",
-      "name": "旅人",
-      "short": "旅人",
-      "color": "#00b4d8",
-      "category": "個人",
       "eventCount": 3
     },
     {
@@ -30305,7 +30305,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n第一波卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO,主持阿強。"
+      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。"
     },
     {
       "id": "upcoming-row-629",
@@ -30315,7 +30315,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n第一波卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO,主持阿強。"
+      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。"
     },
     {
       "id": "upcoming-row-630",
@@ -30325,7 +30325,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n第一波卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO,主持阿強。"
+      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。"
     },
     {
       "id": "upcoming-row-631",
@@ -30335,7 +30335,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n第一波卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO,主持阿強。"
+      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。"
     },
     {
       "id": "upcoming-row-688",
@@ -30576,6 +30576,46 @@
       "location": "未公布",
       "mapLink": "",
       "note": "［免費］\n第二波卡司:告五人;已公佈卡司:徐佳瑩、蔡健雅、彭佳慧、韋禮安。地點為台東市國際地標。"
+    },
+    {
+      "id": "upcoming-row-813",
+      "date": "20261231",
+      "band": "WhoCares",
+      "time": "未公布",
+      "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
+      "location": "台中文心森林公園圓滿戶外劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
+      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。"
+    },
+    {
+      "id": "upcoming-row-814",
+      "date": "20261231",
+      "band": "band_6gp8um_38",
+      "time": "未公布",
+      "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
+      "location": "台中文心森林公園圓滿戶外劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
+      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。"
+    },
+    {
+      "id": "upcoming-row-815",
+      "date": "20261231",
+      "band": "band_drsiw0_59",
+      "time": "未公布",
+      "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
+      "location": "台中文心森林公園圓滿戶外劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
+      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。"
+    },
+    {
+      "id": "upcoming-row-816",
+      "date": "20261231",
+      "band": "band_6gp8um_28",
+      "time": "未公布",
+      "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
+      "location": "台中文心森林公園圓滿戶外劇場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
+      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。"
     },
     {
       "id": "upcoming-row-632",
@@ -31293,6 +31333,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "141034ec-fda8-4cab-85e7-5e4c974da5f6",
-  "updatedAt": "2026-11-19T09:29:54.798Z"
+  "revision": "293bb26d-0c44-47b7-a043-e22ec59bd6b6",
+  "updatedAt": "2026-11-19T09:31:16.728Z"
 }
