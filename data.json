@@ -794,6 +794,14 @@
       "eventCount": 4
     },
     {
+      "id": "aoi",
+      "name": "青虫aoi",
+      "short": "青虫aoi",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_107",
       "name": "陳以恆",
       "short": "陳以恆",
@@ -1207,14 +1215,6 @@
       "short": "洪紹欽 Gary",
       "color": "#00b4d8",
       "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "aoi",
-      "name": "青虫aoi",
-      "short": "青虫aoi",
-      "color": "#ffd166",
-      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -2454,6 +2454,14 @@
       "name": "林沐希",
       "short": "林沐希",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6u8lrj_81",
+      "name": "原子邦妮",
+      "short": "原子邦妮",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 2
     },
@@ -8330,14 +8338,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_6u8lrj_81",
-      "name": "原子邦妮",
-      "short": "原子邦妮",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
       "id": "bbomi",
       "name": "BBOMI",
       "short": "BBOMI",
@@ -8519,6 +8519,14 @@
       "short": "李芷婷",
       "color": "#ef476f",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "marz23",
+      "name": "Marz23",
+      "short": "Ma",
+      "color": "#ffd166",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -26038,6 +26046,36 @@
       "note": "［免費］\n2026年FUN肆音樂節,於12月5日舉辦。活動包含白天舞台與晚間舞台,演出時間表詳見海報。\n活動於 2026 年 12 月 5 日舉辦,地點在 ATT4FUN 1F 東側戶外。演出時間為 14:00-23:00,分為白天舞台與晚間舞台兩場次。"
     },
     {
+      "id": "upcoming-row-823",
+      "date": "20261205",
+      "band": "marz23",
+      "time": "15:00-17:30",
+      "name": "嘉義 青春有愛・年輕樂起來世界愛滋日演唱會",
+      "location": "嘉義市北香湖公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E5%8C%97%E9%A6%99%E6%B9%96%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n世界愛滋日主題演唱會,卡司包含Marz23、原子邦妮、青虫aoi,主持人為羅世棠。"
+    },
+    {
+      "id": "upcoming-row-824",
+      "date": "20261205",
+      "band": "band_6u8lrj_81",
+      "time": "15:00-17:30",
+      "name": "嘉義 青春有愛・年輕樂起來世界愛滋日演唱會",
+      "location": "嘉義市北香湖公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E5%8C%97%E9%A6%99%E6%B9%96%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n世界愛滋日主題演唱會,卡司包含Marz23、原子邦妮、青虫aoi,主持人為羅世棠。"
+    },
+    {
+      "id": "upcoming-row-825",
+      "date": "20261205",
+      "band": "aoi",
+      "time": "15:00-17:30",
+      "name": "嘉義 青春有愛・年輕樂起來世界愛滋日演唱會",
+      "location": "嘉義市北香湖公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E5%8C%97%E9%A6%99%E6%B9%96%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n世界愛滋日主題演唱會,卡司包含Marz23、原子邦妮、青虫aoi,主持人為羅世棠。"
+    },
+    {
       "id": "upcoming-row-262",
       "date": "20261206",
       "band": "AmazingShow",
@@ -31423,6 +31461,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "30daa3cd-f4d6-48ce-bad1-c259a35b82ae",
-  "updatedAt": "2026-11-19T16:04:06.142Z"
+  "revision": "2375da55-f130-442e-8776-cd7fc97135f2",
+  "updatedAt": "2026-11-19T18:34:14.906Z"
 }
