@@ -1,5 +1,15 @@
 # 聽團網 TING TUAN — 下一場，在現場見。
 
+---
+
+## ☕ 贊助開發者
+
+完全免費、無廣告，純粹是個人興趣開發。  
+如果覺得好用，歡迎請開發者喝杯咖啡，感謝你的支持！❤️
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-贊助-FFDD57?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/blues32767)
+
+---
 <p align="center">
   <img src="https://img.shields.io/badge/%E8%81%BD%E5%9C%98%E7%B6%B2-Live%20Gig%20Tracker-d4f55a?style=for-the-badge&logoColor=111111&labelColor=111111" alt="聽團網 TING TUAN">
   <br>
