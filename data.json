@@ -24982,7 +24982,7 @@
       "date": "20261203",
       "band": "band_drsiw0_70",
       "time": "未公布",
-      "name": "高雄 CR校園新聲造星計畫",
+      "name": "高雄 CR校園新聲造星計畫高餐賽區",
       "location": "高雄餐旅大學大草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E9%A4%90%E6%97%85%E5%A4%A7%E5%AD%B8%E5%A4%A7%E8%8D%89%E5%9D%AA",
       "note": "［免費］\n卡司包含邱鋒澤、艾薇、吳霏"
@@ -24992,7 +24992,7 @@
       "date": "20261203",
       "band": "band_qqiyec_5",
       "time": "未公布",
-      "name": "高雄 CR校園新聲造星計畫",
+      "name": "高雄 CR校園新聲造星計畫高餐賽區",
       "location": "高雄餐旅大學大草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E9%A4%90%E6%97%85%E5%A4%A7%E5%AD%B8%E5%A4%A7%E8%8D%89%E5%9D%AA",
       "note": "［免費］\n卡司包含邱鋒澤、艾薇、吳霏"
@@ -25002,7 +25002,7 @@
       "date": "20261203",
       "band": "fei",
       "time": "未公布",
-      "name": "高雄 CR校園新聲造星計畫",
+      "name": "高雄 CR校園新聲造星計畫高餐賽區",
       "location": "高雄餐旅大學大草坪",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E9%A4%90%E6%97%85%E5%A4%A7%E5%AD%B8%E5%A4%A7%E8%8D%89%E5%9D%AA",
       "note": "［免費］\n卡司包含邱鋒澤、艾薇、吳霏"
@@ -31333,6 +31333,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "293bb26d-0c44-47b7-a043-e22ec59bd6b6",
-  "updatedAt": "2026-11-19T09:31:16.728Z"
+  "revision": "77278de5-06e7-48c8-90df-92e1e9c73e34",
+  "updatedAt": "2026-11-19T09:32:50.552Z"
 }
