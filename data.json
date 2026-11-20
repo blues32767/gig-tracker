@@ -25933,7 +25933,7 @@
       "id": "upcoming-row-229",
       "date": "20261205",
       "band": "mify",
-      "time": "17:40-18:40",
+      "time": "17:40-18:00",
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
@@ -26083,7 +26083,7 @@
       "id": "upcoming-row-244",
       "date": "20261205",
       "band": "band_drsiw0_73",
-      "time": "19:20-19:50",
+      "time": "19:20-19:40",
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
@@ -31795,6 +31795,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "0451b224-36b1-472a-8d57-cfaf7cb0fde2",
-  "updatedAt": "2026-11-20T18:45:46.815Z"
+  "revision": "b4afbf06-7f4c-427d-816b-6892c7f478d0",
+  "updatedAt": "2026-11-20T18:48:18.091Z"
 }
