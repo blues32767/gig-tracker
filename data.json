@@ -1578,6 +1578,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_drsiw0_23",
+      "name": "李愛綺",
+      "short": "李愛綺",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
       "id": "band_drsiw0_31",
       "name": "施文彬",
       "short": "施文彬",
@@ -2575,14 +2583,6 @@
       "short": "金琳",
       "color": "#ff006e",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_23",
-      "name": "李愛綺",
-      "short": "李愛綺",
-      "color": "#00b4d8",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -8575,6 +8575,62 @@
       "short": "艾蜜",
       "color": "#3a86ff",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_251",
+      "name": "王中平",
+      "short": "王中",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_252",
+      "name": "田家達",
+      "short": "田家",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_253",
+      "name": "魏如昀",
+      "short": "魏如",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ntx",
+      "name": "NTX",
+      "short": "NT",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_uowupz",
+      "name": "崔誠允(Y)",
+      "short": "崔誠",
+      "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_84",
+      "name": "缺席舞團",
+      "short": "缺席",
+      "color": "#118ab2",
+      "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "kdc",
+      "name": "KDC金門流行舞團",
+      "short": "KD",
+      "color": "#8338ec",
+      "category": "團體",
       "eventCount": 1
     },
     {
@@ -30944,6 +31000,86 @@
       "note": "［免費］\n第一波卡司包含周湯豪、理想混蛋"
     },
     {
+      "id": "upcoming-row-841",
+      "date": "20261231",
+      "band": "band_drsiw0_251",
+      "time": "未公布",
+      "name": "金門 2027 金門跨年晚會",
+      "location": "金城鎮莒光共融公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E5%9F%8E%E9%8E%AE%E8%8E%92%E5%85%89%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司包含王中平、田家達、魏如昀、李愛綺、NTX、崔誠允(Y)、缺席舞團、KDC金門流行舞團"
+    },
+    {
+      "id": "upcoming-row-842",
+      "date": "20261231",
+      "band": "band_drsiw0_252",
+      "time": "未公布",
+      "name": "金門 2027 金門跨年晚會",
+      "location": "金城鎮莒光共融公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E5%9F%8E%E9%8E%AE%E8%8E%92%E5%85%89%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司包含王中平、田家達、魏如昀、李愛綺、NTX、崔誠允(Y)、缺席舞團、KDC金門流行舞團"
+    },
+    {
+      "id": "upcoming-row-843",
+      "date": "20261231",
+      "band": "band_drsiw0_253",
+      "time": "未公布",
+      "name": "金門 2027 金門跨年晚會",
+      "location": "金城鎮莒光共融公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E5%9F%8E%E9%8E%AE%E8%8E%92%E5%85%89%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司包含王中平、田家達、魏如昀、李愛綺、NTX、崔誠允(Y)、缺席舞團、KDC金門流行舞團"
+    },
+    {
+      "id": "upcoming-row-844",
+      "date": "20261231",
+      "band": "band_drsiw0_23",
+      "time": "未公布",
+      "name": "金門 2027 金門跨年晚會",
+      "location": "金城鎮莒光共融公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E5%9F%8E%E9%8E%AE%E8%8E%92%E5%85%89%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司包含王中平、田家達、魏如昀、李愛綺、NTX、崔誠允(Y)、缺席舞團、KDC金門流行舞團"
+    },
+    {
+      "id": "upcoming-row-845",
+      "date": "20261231",
+      "band": "ntx",
+      "time": "未公布",
+      "name": "金門 2027 金門跨年晚會",
+      "location": "金城鎮莒光共融公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E5%9F%8E%E9%8E%AE%E8%8E%92%E5%85%89%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司包含王中平、田家達、魏如昀、李愛綺、NTX、崔誠允(Y)、缺席舞團、KDC金門流行舞團"
+    },
+    {
+      "id": "upcoming-row-846",
+      "date": "20261231",
+      "band": "band_uowupz",
+      "time": "未公布",
+      "name": "金門 2027 金門跨年晚會",
+      "location": "金城鎮莒光共融公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E5%9F%8E%E9%8E%AE%E8%8E%92%E5%85%89%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司包含王中平、田家達、魏如昀、李愛綺、NTX、崔誠允(Y)、缺席舞團、KDC金門流行舞團"
+    },
+    {
+      "id": "upcoming-row-847",
+      "date": "20261231",
+      "band": "band_6u8lrj_84",
+      "time": "未公布",
+      "name": "金門 2027 金門跨年晚會",
+      "location": "金城鎮莒光共融公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E5%9F%8E%E9%8E%AE%E8%8E%92%E5%85%89%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司包含王中平、田家達、魏如昀、李愛綺、NTX、崔誠允(Y)、缺席舞團、KDC金門流行舞團"
+    },
+    {
+      "id": "upcoming-row-848",
+      "date": "20261231",
+      "band": "kdc",
+      "time": "未公布",
+      "name": "金門 2027 金門跨年晚會",
+      "location": "金城鎮莒光共融公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E5%9F%8E%E9%8E%AE%E8%8E%92%E5%85%89%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司包含王中平、田家達、魏如昀、李愛綺、NTX、崔誠允(Y)、缺席舞團、KDC金門流行舞團"
+    },
+    {
       "id": "upcoming-row-629",
       "date": "20270102",
       "band": "awkward",
@@ -31659,6 +31795,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3cb8e792-2a99-4bab-9dd7-10a985ac2894",
-  "updatedAt": "2026-11-20T15:38:25.895Z"
+  "revision": "32018b36-801e-4b9e-b004-b607f0d43475",
+  "updatedAt": "2026-11-20T15:42:53.354Z"
 }
