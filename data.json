@@ -266,6 +266,14 @@
       "eventCount": 7
     },
     {
+      "id": "band_drsiw0_84",
+      "name": "周湯豪",
+      "short": "周湯豪",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
       "id": "FireEX",
       "name": "滅火器",
       "short": "滅火器",
@@ -370,18 +378,18 @@
       "eventCount": 6
     },
     {
+      "id": "Bestards",
+      "name": "理想混蛋",
+      "short": "理想混蛋",
+      "color": "#FF7F00",
+      "category": "樂團",
+      "eventCount": 6
+    },
+    {
       "id": "sinby",
       "name": "欣菲 Sinby",
       "short": "欣菲",
       "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "band_drsiw0_84",
-      "name": "周湯豪",
-      "short": "周湯豪",
-      "color": "#8338ec",
       "category": "個人",
       "eventCount": 6
     },
@@ -519,14 +527,6 @@
       "short": "烈鷹",
       "color": "#118ab2",
       "category": "團體",
-      "eventCount": 5
-    },
-    {
-      "id": "Bestards",
-      "name": "理想混蛋",
-      "short": "理想混蛋",
-      "color": "#FF7F00",
-      "category": "樂團",
       "eventCount": 5
     },
     {
@@ -30764,6 +30764,26 @@
       "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。"
     },
     {
+      "id": "upcoming-row-827",
+      "date": "20261231",
+      "band": "Bestards",
+      "time": "未公布",
+      "name": "台中 最強跨年夜",
+      "location": "台中水湳中央公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司包含理想混蛋、周湯豪"
+    },
+    {
+      "id": "upcoming-row-828",
+      "date": "20261231",
+      "band": "band_drsiw0_84",
+      "time": "未公布",
+      "name": "台中 最強跨年夜",
+      "location": "台中水湳中央公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n卡司包含理想混蛋、周湯豪"
+    },
+    {
       "id": "upcoming-row-629",
       "date": "20270102",
       "band": "awkward",
@@ -31479,6 +31499,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "6c269aec-d876-4e35-b390-7acfb2e03d57",
-  "updatedAt": "2026-11-19T21:44:41.748Z"
+  "revision": "94f7f640-7db2-47ce-ac6a-f1ad7ff8799e",
+  "updatedAt": "2026-11-20T06:40:14.614Z"
 }
