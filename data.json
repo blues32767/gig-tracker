@@ -442,6 +442,14 @@
       "eventCount": 5
     },
     {
+      "id": "ktv",
+      "name": "慶記KTV 羅曼迪克",
+      "short": "慶記",
+      "color": "#ffd166",
+      "category": "團體",
+      "eventCount": 5
+    },
+    {
       "id": "band_drsiw0_21",
       "name": "林可綸",
       "short": "林可綸",
@@ -622,14 +630,6 @@
       "name": "F.F.O",
       "short": "F.F.O",
       "color": "#00b4d8",
-      "category": "團體",
-      "eventCount": 4
-    },
-    {
-      "id": "ktv",
-      "name": "慶記KTV 羅曼迪克",
-      "short": "慶記",
-      "color": "#ffd166",
       "category": "團體",
       "eventCount": 4
     },
@@ -25877,7 +25877,7 @@
       "id": "upcoming-row-246",
       "date": "20261205",
       "band": "mify",
-      "time": "17:40-18:00",
+      "time": "17:40-18:40",
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
@@ -26027,7 +26027,7 @@
       "id": "upcoming-row-261",
       "date": "20261205",
       "band": "band_drsiw0_73",
-      "time": "19:20-19:40",
+      "time": "19:20-19:50",
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
@@ -26297,7 +26297,7 @@
       "id": "upcoming-row-267",
       "date": "20261206",
       "band": "band_drsiw0_226",
-      "time": "未公布",
+      "time": "18:30-18:50",
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
@@ -26307,7 +26307,7 @@
       "id": "upcoming-row-268",
       "date": "20261206",
       "band": "multiverse",
-      "time": "未公布",
+      "time": "18:00-18:30",
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
@@ -26412,6 +26412,16 @@
       "location": "國立成功大學光復校區榕園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
       "note": "［免費］\n包含胡恂舞、公館青少年、聖結石、南西肯恩、李浩瑋,主持人為雨婷"
+    },
+    {
+      "id": "upcoming-row-840",
+      "date": "20261206",
+      "band": "ktv",
+      "time": "17:00-18:00",
+      "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
+      "location": "新竹縣竹北市文興路 (東興圳公園)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
     },
     {
       "id": "upcoming-row-269",
@@ -31649,6 +31659,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3a6db0b4-8ea4-47f0-bb5f-e708196e441a",
-  "updatedAt": "2026-11-20T15:36:10.694Z"
+  "revision": "3cb8e792-2a99-4bab-9dd7-10a985ac2894",
+  "updatedAt": "2026-11-20T15:38:25.895Z"
 }
