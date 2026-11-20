@@ -39,7 +39,7 @@
       "short": "艾薇",
       "color": "#fb5607",
       "category": "個人",
-      "eventCount": 18
+      "eventCount": 19
     },
     {
       "id": "band_qqiyec_5",
@@ -47,7 +47,7 @@
       "short": "傻白",
       "color": "#3a86ff",
       "category": "樂團",
-      "eventCount": 18
+      "eventCount": 19
     },
     {
       "id": "sabrina",
@@ -55,7 +55,7 @@
       "short": "Sabrina 胡恂舞",
       "color": "#8338ec",
       "category": "個人",
-      "eventCount": 15
+      "eventCount": 16
     },
     {
       "id": "band_drsiw0_25",
@@ -74,18 +74,18 @@
       "eventCount": 13
     },
     {
-      "id": "band_nmq1yt",
-      "name": "鼓鼓 呂思緯",
-      "short": "鼓鼓 呂思緯",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 12
-    },
-    {
       "id": "fei",
       "name": "吳霏 FEI",
       "short": "吳霏 FEI",
       "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 13
+    },
+    {
+      "id": "band_nmq1yt",
+      "name": "鼓鼓 呂思緯",
+      "short": "鼓鼓 呂思緯",
+      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 12
     },
@@ -154,6 +154,14 @@
       "eventCount": 9
     },
     {
+      "id": "band_drsiw0_71",
+      "name": "曾愷妤",
+      "short": "曾愷妤",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 9
+    },
+    {
       "id": "LuYun",
       "name": "呂允",
       "short": "呂允",
@@ -199,14 +207,6 @@
       "short": "固定客",
       "color": "#ffd166",
       "category": "樂團",
-      "eventCount": 8
-    },
-    {
-      "id": "band_drsiw0_71",
-      "name": "曾愷妤",
-      "short": "曾愷妤",
-      "color": "#00b4d8",
-      "category": "個人",
       "eventCount": 8
     },
     {
@@ -738,6 +738,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_70",
+      "name": "邱鋒澤",
+      "short": "邱鋒澤",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_72",
       "name": "謝語恩",
       "short": "謝語恩",
@@ -1069,14 +1077,6 @@
       "id": "ohan",
       "name": "OHAN",
       "short": "OHAN",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_70",
-      "name": "邱鋒澤",
-      "short": "邱鋒澤",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 3
@@ -8566,6 +8566,14 @@
       "name": "畫家三其",
       "short": "畫家",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_250",
+      "name": "艾蜜莉",
+      "short": "艾蜜",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
     },
@@ -25536,6 +25544,66 @@
       "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)\n2026 黑熊部落,陣容共 48 組。"
     },
     {
+      "id": "upcoming-row-834",
+      "date": "20261204",
+      "band": "band_drsiw0_70",
+      "time": "未公布",
+      "name": "嘉義 嘉義高中聖誕晚會",
+      "location": "嘉義高中樹人堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E9%AB%98%E4%B8%AD%E6%A8%B9%E4%BA%BA%E5%A0%82",
+      "note": "［售票］\n嘉義高中聖誕晚會,可校外人士購票進場。"
+    },
+    {
+      "id": "upcoming-row-835",
+      "date": "20261204",
+      "band": "band_drsiw0_250",
+      "time": "未公布",
+      "name": "嘉義 嘉義高中聖誕晚會",
+      "location": "嘉義高中樹人堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E9%AB%98%E4%B8%AD%E6%A8%B9%E4%BA%BA%E5%A0%82",
+      "note": "［售票］\n嘉義高中聖誕晚會,可校外人士購票進場。"
+    },
+    {
+      "id": "upcoming-row-836",
+      "date": "20261204",
+      "band": "band_drsiw0_71",
+      "time": "未公布",
+      "name": "嘉義 嘉義高中聖誕晚會",
+      "location": "嘉義高中樹人堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E9%AB%98%E4%B8%AD%E6%A8%B9%E4%BA%BA%E5%A0%82",
+      "note": "［售票］\n嘉義高中聖誕晚會,可校外人士購票進場。"
+    },
+    {
+      "id": "upcoming-row-837",
+      "date": "20261204",
+      "band": "fei",
+      "time": "未公布",
+      "name": "嘉義 嘉義高中聖誕晚會",
+      "location": "嘉義高中樹人堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E9%AB%98%E4%B8%AD%E6%A8%B9%E4%BA%BA%E5%A0%82",
+      "note": "［售票］\n嘉義高中聖誕晚會,可校外人士購票進場。"
+    },
+    {
+      "id": "upcoming-row-838",
+      "date": "20261204",
+      "band": "band_qqiyec_5",
+      "time": "未公布",
+      "name": "嘉義 嘉義高中聖誕晚會",
+      "location": "嘉義高中樹人堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E9%AB%98%E4%B8%AD%E6%A8%B9%E4%BA%BA%E5%A0%82",
+      "note": "［售票］\n嘉義高中聖誕晚會,可校外人士購票進場。"
+    },
+    {
+      "id": "upcoming-row-839",
+      "date": "20261204",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "嘉義 嘉義高中聖誕晚會",
+      "location": "嘉義高中樹人堂",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E9%AB%98%E4%B8%AD%E6%A8%B9%E4%BA%BA%E5%A0%82",
+      "note": "［售票］\n嘉義高中聖誕晚會,可校外人士購票進場。"
+    },
+    {
       "id": "upcoming-row-219",
       "date": "20261205",
       "band": "band_drsiw0_87",
@@ -31581,6 +31649,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ebde5557-5fb8-4b7d-ae39-06cacb7ac4b0",
-  "updatedAt": "2026-11-20T15:34:54.000Z"
+  "revision": "3a6db0b4-8ea4-47f0-bb5f-e708196e441a",
+  "updatedAt": "2026-11-20T15:36:10.694Z"
 }
