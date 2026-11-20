@@ -1402,6 +1402,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_hm2kvc",
+      "name": "DJ李翰",
+      "short": "DJ李翰",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
       "id": "bcrush",
       "name": "B CRUSH",
       "short": "B CRUSH",
@@ -2174,14 +2182,6 @@
       "name": "黃號",
       "short": "黃號",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_hm2kvc",
-      "name": "DJ李翰",
-      "short": "DJ李翰",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 2
     },
@@ -8631,6 +8631,14 @@
       "short": "KD",
       "color": "#8338ec",
       "category": "團體",
+      "eventCount": 1
+    },
+    {
+      "id": "gaiaville",
+      "name": "蓋亞村 GaiaVille",
+      "short": "蓋亞",
+      "color": "#ff006e",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -25513,7 +25521,7 @@
       "id": "upcoming-row-752",
       "date": "20261204",
       "band": "haniboi",
-      "time": "未公布",
+      "time": "18:00-19:00",
       "name": "南投 黑熊部落",
       "location": "南投縣 顏氏牧場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
@@ -25523,7 +25531,7 @@
       "id": "upcoming-row-753",
       "date": "20261204",
       "band": "band_drsiw0_245",
-      "time": "未公布",
+      "time": "23:00-26:00",
       "name": "南投 黑熊部落",
       "location": "南投縣 顏氏牧場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
@@ -25533,7 +25541,7 @@
       "id": "upcoming-row-754",
       "date": "20261204",
       "band": "benn",
-      "time": "未公布",
+      "time": "26:00-27:00",
       "name": "南投 黑熊部落",
       "location": "南投縣 顏氏牧場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
@@ -25543,7 +25551,7 @@
       "id": "upcoming-row-755",
       "date": "20261204",
       "band": "munkee",
-      "time": "未公布",
+      "time": "23:00-26:00",
       "name": "南投 黑熊部落",
       "location": "南投縣 顏氏牧場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
@@ -25553,7 +25561,7 @@
       "id": "upcoming-row-756",
       "date": "20261204",
       "band": "jamesho",
-      "time": "未公布",
+      "time": "21:00-22:00",
       "name": "南投 黑熊部落",
       "location": "南投縣 顏氏牧場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
@@ -25563,7 +25571,7 @@
       "id": "upcoming-row-757",
       "date": "20261204",
       "band": "tawei",
-      "time": "未公布",
+      "time": "23:00-26:00",
       "name": "南投 黑熊部落",
       "location": "南投縣 顏氏牧場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
@@ -25573,7 +25581,7 @@
       "id": "upcoming-row-758",
       "date": "20261204",
       "band": "xixi",
-      "time": "未公布",
+      "time": "22:00-23:00",
       "name": "南投 黑熊部落",
       "location": "南投縣 顏氏牧場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
@@ -25583,7 +25591,7 @@
       "id": "upcoming-row-759",
       "date": "20261204",
       "band": "band_drsiw0_246",
-      "time": "未公布",
+      "time": "20:00-21:00",
       "name": "南投 黑熊部落",
       "location": "南投縣 顏氏牧場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
@@ -25593,7 +25601,7 @@
       "id": "upcoming-row-760",
       "date": "20261204",
       "band": "woodo",
-      "time": "未公布",
+      "time": "19:00-20:00",
       "name": "南投 黑熊部落",
       "location": "南投縣 顏氏牧場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
@@ -25658,6 +25666,26 @@
       "location": "嘉義高中樹人堂",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E9%AB%98%E4%B8%AD%E6%A8%B9%E4%BA%BA%E5%A0%82",
       "note": "［售票］\n嘉義高中聖誕晚會,可校外人士購票進場。"
+    },
+    {
+      "id": "upcoming-row-830",
+      "date": "20261204",
+      "band": "band_hm2kvc",
+      "time": "18:00-19:00",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)\n2026 黑熊部落,陣容共 48 組。"
+    },
+    {
+      "id": "upcoming-row-831",
+      "date": "20261204",
+      "band": "gaiaville",
+      "time": "23:00-26:00",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)\n2026 黑熊部落,陣容共 48 組。"
     },
     {
       "id": "upcoming-row-202",
@@ -31795,6 +31823,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "b4afbf06-7f4c-427d-816b-6892c7f478d0",
-  "updatedAt": "2026-11-20T18:48:18.091Z"
+  "revision": "d028ff1e-8980-4c1c-8d71-502752f4ddeb",
+  "updatedAt": "2026-11-20T18:49:24.614Z"
 }
