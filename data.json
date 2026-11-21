@@ -24139,8 +24139,8 @@
       "id": "upcoming-row-810",
       "date": "20261121",
       "band": "band_drsiw0_249",
-      "time": "未公布",
-      "name": "台中 璀璨啟航・點燈之夜",
+      "time": "14:00-16:00",
+      "name": "台中 2026 璀璨啟航 點燈之夜",
       "location": "新光三越台中中港店",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%85%89%E4%B8%89%E8%B6%8A%E5%8F%B0%E4%B8%AD%E4%B8%AD%E6%B8%AF%E5%BA%97",
       "note": "［免費］\n點燈之夜活動,卡司包含陳相合、蘿絲小姐、舞客星舞團、U:NUS、畫家三其"
@@ -24149,8 +24149,8 @@
       "id": "upcoming-row-811",
       "date": "20261121",
       "band": "band_6u8lrj_82",
-      "time": "未公布",
-      "name": "台中 璀璨啟航・點燈之夜",
+      "time": "14:00-16:00",
+      "name": "台中 2026 璀璨啟航 點燈之夜",
       "location": "新光三越台中中港店",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%85%89%E4%B8%89%E8%B6%8A%E5%8F%B0%E4%B8%AD%E4%B8%AD%E6%B8%AF%E5%BA%97",
       "note": "［免費］\n點燈之夜活動,卡司包含陳相合、蘿絲小姐、舞客星舞團、U:NUS、畫家三其"
@@ -24159,8 +24159,8 @@
       "id": "upcoming-row-812",
       "date": "20261121",
       "band": "band_qqiyec_39",
-      "time": "未公布",
-      "name": "台中 璀璨啟航・點燈之夜",
+      "time": "17:00-18:00",
+      "name": "台中 2026 璀璨啟航 點燈之夜",
       "location": "新光三越台中中港店",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%85%89%E4%B8%89%E8%B6%8A%E5%8F%B0%E4%B8%AD%E4%B8%AD%E6%B8%AF%E5%BA%97",
       "note": "［免費］\n點燈之夜活動,卡司包含陳相合、蘿絲小姐、舞客星舞團、U:NUS、畫家三其"
@@ -24170,7 +24170,7 @@
       "date": "20261121",
       "band": "unus",
       "time": "未公布",
-      "name": "台中 璀璨啟航・點燈之夜",
+      "name": "台中 2026 璀璨啟航 點燈之夜",
       "location": "新光三越台中中港店",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%85%89%E4%B8%89%E8%B6%8A%E5%8F%B0%E4%B8%AD%E4%B8%AD%E6%B8%AF%E5%BA%97",
       "note": "［免費］\n點燈之夜活動,卡司包含陳相合、蘿絲小姐、舞客星舞團、U:NUS、畫家三其"
@@ -24180,7 +24180,7 @@
       "date": "20261121",
       "band": "band_6u8lrj_83",
       "time": "17:00-18:00",
-      "name": "台中 璀璨啟航・點燈之夜",
+      "name": "台中 2026 璀璨啟航 點燈之夜",
       "location": "新光三越台中中港店",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%85%89%E4%B8%89%E8%B6%8A%E5%8F%B0%E4%B8%AD%E4%B8%AD%E6%B8%AF%E5%BA%97",
       "note": "［免費］\n點燈之夜活動,卡司包含陳相合、蘿絲小姐、舞客星舞團、U:NUS、畫家三其"
@@ -24190,7 +24190,7 @@
       "date": "20261121",
       "band": "band_6u8lrj_85",
       "time": "17:00-18:00",
-      "name": "台中 璀璨啟航・點燈之夜",
+      "name": "台中 2026 璀璨啟航 點燈之夜",
       "location": "新光三越台中中港店",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%85%89%E4%B8%89%E8%B6%8A%E5%8F%B0%E4%B8%AD%E4%B8%AD%E6%B8%AF%E5%BA%97",
       "note": "［免費］\n點燈之夜活動,卡司包含陳相合、蘿絲小姐、舞客星舞團、U:NUS、畫家三其"
@@ -31861,6 +31861,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "9289ae2b-761b-4817-8bce-6b427b1a5bad",
-  "updatedAt": "2026-11-21T06:38:46.657Z"
+  "revision": "038189f8-c79d-466c-ad60-001e4eed331e",
+  "updatedAt": "2026-11-21T06:39:30.808Z"
 }
