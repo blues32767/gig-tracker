@@ -82,20 +82,20 @@
       "eventCount": 13
     },
     {
+      "id": "icyball",
+      "name": "冰球樂團",
+      "short": "冰球樂團",
+      "color": "#00b4d8",
+      "category": "樂團",
+      "eventCount": 12
+    },
+    {
       "id": "band_nmq1yt",
       "name": "鼓鼓 呂思緯",
       "short": "鼓鼓 呂思緯",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 12
-    },
-    {
-      "id": "icyball",
-      "name": "冰球樂團",
-      "short": "冰球樂團",
-      "color": "#00b4d8",
-      "category": "樂團",
-      "eventCount": 11
     },
     {
       "id": "band_drsiw0_27",
@@ -266,6 +266,14 @@
       "eventCount": 7
     },
     {
+      "id": "Bestards",
+      "name": "理想混蛋",
+      "short": "理想混蛋",
+      "color": "#FF7F00",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
       "id": "band_drsiw0_84",
       "name": "周湯豪",
       "short": "周湯豪",
@@ -374,14 +382,6 @@
       "name": "薄暮",
       "short": "薄暮",
       "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 6
-    },
-    {
-      "id": "Bestards",
-      "name": "理想混蛋",
-      "short": "理想混蛋",
-      "color": "#FF7F00",
       "category": "樂團",
       "eventCount": 6
     },
@@ -31126,6 +31126,26 @@
       "note": "［免費］\n卡司包含王中平、田家達、魏如昀、李愛綺、NTX、崔誠允(Y)、缺席舞團、KDC金門流行舞團"
     },
     {
+      "id": "upcoming-row-833",
+      "date": "20261231",
+      "band": "Bestards",
+      "time": "未公布",
+      "name": "台中 麗寶跨年晚會2027",
+      "location": "臺中麗寶樂園度假區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E5%BA%A6%E5%81%87%E5%8D%80",
+      "note": "［免費］\n卡司包含理想混蛋、冰球樂團等。"
+    },
+    {
+      "id": "upcoming-row-834",
+      "date": "20261231",
+      "band": "icyball",
+      "time": "未公布",
+      "name": "台中 麗寶跨年晚會2027",
+      "location": "臺中麗寶樂園度假區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%AD%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E5%BA%A6%E5%81%87%E5%8D%80",
+      "note": "［免費］\n卡司包含理想混蛋、冰球樂團等。"
+    },
+    {
       "id": "upcoming-row-612",
       "date": "20270102",
       "band": "awkward",
@@ -31841,6 +31861,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "8f842d80-3f61-4a71-9b71-c58d7da2c4ec",
-  "updatedAt": "2026-11-21T03:37:53.937Z"
+  "revision": "9289ae2b-761b-4817-8bce-6b427b1a5bad",
+  "updatedAt": "2026-11-21T06:38:46.657Z"
 }
