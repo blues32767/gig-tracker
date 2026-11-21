@@ -98,19 +98,19 @@
       "eventCount": 12
     },
     {
-      "id": "band_drsiw0_27",
-      "name": "玖壹壹",
-      "short": "玖壹壹",
-      "color": "#118ab2",
-      "category": "團體",
-      "eventCount": 11
-    },
-    {
       "id": "trash",
       "name": "TRASH",
       "short": "TRASH",
       "color": "#06d6a0",
       "category": "樂團",
+      "eventCount": 12
+    },
+    {
+      "id": "band_drsiw0_27",
+      "name": "玖壹壹",
+      "short": "玖壹壹",
+      "color": "#118ab2",
+      "category": "團體",
       "eventCount": 11
     },
     {
@@ -426,6 +426,14 @@
       "eventCount": 5
     },
     {
+      "id": "PatrickBrasca",
+      "name": "派偉俊",
+      "short": "派偉俊",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "joyce",
       "name": "JOYCE 就以斯",
       "short": "就以斯",
@@ -614,14 +622,6 @@
       "name": "Juice Boy",
       "short": "Juice Boy",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "PatrickBrasca",
-      "name": "派偉俊",
-      "short": "派偉俊",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 4
     },
@@ -26558,6 +26558,26 @@
       "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
     },
     {
+      "id": "upcoming-row-751",
+      "date": "20261206",
+      "band": "trash",
+      "time": "未公布",
+      "name": "台南 成功大學校慶演唱會《成星》",
+      "location": "台南市成功大學大光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n校慶演唱會,可校外人士參加。卡司包含Sabrina 胡恂舞、聖結石、南西肯恩、李浩瑋、公館青少年,主持人為雨婷。"
+    },
+    {
+      "id": "upcoming-row-752",
+      "date": "20261206",
+      "band": "PatrickBrasca",
+      "time": "未公布",
+      "name": "台南 成功大學校慶演唱會《成星》",
+      "location": "台南市成功大學大光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n校慶演唱會,可校外人士參加。卡司包含Sabrina 胡恂舞、聖結石、南西肯恩、李浩瑋、公館青少年,主持人為雨婷。"
+    },
+    {
       "id": "upcoming-row-191",
       "date": "20261211",
       "band": "theeon",
@@ -31953,6 +31973,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3f0c5440-6caf-4720-a495-106397099648",
-  "updatedAt": "2026-11-21T16:02:16.462Z"
+  "revision": "72873949-85c6-4f0e-b701-51302ed30740",
+  "updatedAt": "2026-11-21T18:37:30.789Z"
 }
