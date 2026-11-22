@@ -55,7 +55,7 @@
       "short": "Sabrina 胡恂舞",
       "color": "#8338ec",
       "category": "個人",
-      "eventCount": 16
+      "eventCount": 17
     },
     {
       "id": "band_nmq1yt",
@@ -138,6 +138,14 @@
       "eventCount": 9
     },
     {
+      "id": "SweetJohn",
+      "name": "甜約翰",
+      "short": "甜約翰",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 9
+    },
+    {
       "id": "WendyWander",
       "name": "溫蒂漫步",
       "short": "溫蒂漫步",
@@ -167,14 +175,6 @@
       "short": "呂允",
       "color": "#00b4d8",
       "category": "個人",
-      "eventCount": 8
-    },
-    {
-      "id": "SweetJohn",
-      "name": "甜約翰",
-      "short": "甜約翰",
-      "color": "#ffd166",
-      "category": "樂團",
       "eventCount": 8
     },
     {
@@ -262,6 +262,14 @@
       "name": "麋先生",
       "short": "麋先生",
       "color": "#2ec4b6",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
+      "id": "psco",
+      "name": "P!SCO",
+      "short": "P!SCO",
+      "color": "#fb5607",
       "category": "樂團",
       "eventCount": 7
     },
@@ -386,14 +394,6 @@
       "eventCount": 6
     },
     {
-      "id": "psco",
-      "name": "P!SCO",
-      "short": "P!SCO",
-      "color": "#fb5607",
-      "category": "樂團",
-      "eventCount": 6
-    },
-    {
       "id": "band_6gp8um_19",
       "name": "薄暮",
       "short": "薄暮",
@@ -486,6 +486,14 @@
       "name": "血肉果汁機",
       "short": "血肉果汁機",
       "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
+      "id": "band_6u8lrj_13",
+      "name": "異族亡魂",
+      "short": "異族亡魂",
+      "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 5
     },
@@ -719,14 +727,6 @@
       "short": "幽靈水晶",
       "color": "#ffd166",
       "category": "團體",
-      "eventCount": 4
-    },
-    {
-      "id": "band_6u8lrj_13",
-      "name": "異族亡魂",
-      "short": "異族亡魂",
-      "color": "#06d6a0",
-      "category": "樂團",
       "eventCount": 4
     },
     {
@@ -1159,6 +1159,14 @@
       "short": "潤少",
       "color": "#118ab2",
       "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "arootfeat",
+      "name": "A_Root 同根生 feat. 蔡家蓁",
+      "short": "A_Root 同根生 feat. 蔡家蓁",
+      "color": "#ffd166",
+      "category": "樂團",
       "eventCount": 3
     },
     {
@@ -1702,14 +1710,6 @@
       "name": "八三夭",
       "short": "八三夭",
       "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
-      "id": "arootfeat",
-      "name": "A_Root 同根生 feat. 蔡家蓁",
-      "short": "A_Root 同根生 feat. 蔡家蓁",
-      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 2
     },
@@ -8702,6 +8702,22 @@
       "name": "IRIS MONDO [JP]",
       "short": "IR",
       "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "pompadollsjp",
+      "name": "PompadollS [JP]",
+      "short": "Po",
+      "color": "#8338ec",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "bluemashjp",
+      "name": "Blue Mash [JP]",
+      "short": "Bl",
+      "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
     },
@@ -31589,7 +31605,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-530",
@@ -31599,7 +31615,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-531",
@@ -31609,7 +31625,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-532",
@@ -31619,7 +31635,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-533",
@@ -31629,7 +31645,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-534",
@@ -31639,7 +31655,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-535",
@@ -31649,7 +31665,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-536",
@@ -31659,7 +31675,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-537",
@@ -31669,7 +31685,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-538",
@@ -31679,7 +31695,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-539",
@@ -31689,7 +31705,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-540",
@@ -31699,7 +31715,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-541",
@@ -31709,7 +31725,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-542",
@@ -31719,7 +31735,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-543",
@@ -31729,7 +31745,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-544",
@@ -31739,7 +31755,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-545",
@@ -31749,7 +31765,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-546",
@@ -31759,7 +31775,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-547",
@@ -31769,7 +31785,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-548",
@@ -31779,7 +31795,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-549",
@@ -31789,7 +31805,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-550",
@@ -31799,7 +31815,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-551",
@@ -31809,7 +31825,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-552",
@@ -31819,7 +31835,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-553",
@@ -31829,7 +31845,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-554",
@@ -31839,7 +31855,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-555",
@@ -31849,7 +31865,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-556",
@@ -31859,7 +31875,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-557",
@@ -31869,7 +31885,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-558",
@@ -31879,7 +31895,7 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     },
     {
       "id": "upcoming-row-559",
@@ -31889,7 +31905,77 @@
       "name": "台中 浮現祭",
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
-      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+    },
+    {
+      "id": "upcoming-row-740",
+      "date": "20270220",
+      "band": "band_6u8lrj_13",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+    },
+    {
+      "id": "upcoming-row-741",
+      "date": "20270220",
+      "band": "pompadollsjp",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+    },
+    {
+      "id": "upcoming-row-742",
+      "date": "20270220",
+      "band": "psco",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+    },
+    {
+      "id": "upcoming-row-743",
+      "date": "20270220",
+      "band": "arootfeat",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+    },
+    {
+      "id": "upcoming-row-744",
+      "date": "20270220",
+      "band": "sabrina",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+    },
+    {
+      "id": "upcoming-row-745",
+      "date": "20270220",
+      "band": "bluemashjp",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+    },
+    {
+      "id": "upcoming-row-746",
+      "date": "20270220",
+      "band": "SweetJohn",
+      "time": "未公布",
+      "name": "台中 浮現祭",
+      "location": "台中市清水鰲峰山運動公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+      "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
     }
   ],
   "songsMap": {
@@ -32127,6 +32213,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "4fcc9898-306a-47eb-ba76-601fb92d5e85",
-  "updatedAt": "2026-11-22T18:44:58.678Z"
+  "revision": "c61327e8-cd15-48c0-a1ea-2ddc986b976b",
+  "updatedAt": "2026-11-22T18:50:02.755Z"
 }
