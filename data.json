@@ -570,6 +570,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_drsiw0_86",
+      "name": "告五人",
+      "short": "告五人",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
       "id": "band_6gp8um_28",
       "name": "紙鳶",
       "short": "紙鳶",
@@ -790,14 +798,6 @@
       "name": "宋德鶴",
       "short": "宋德鶴",
       "color": "#118ab2",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_86",
-      "name": "告五人",
-      "short": "告五人",
-      "color": "#fb5607",
       "category": "樂團",
       "eventCount": 4
     },
@@ -31402,6 +31402,16 @@
       "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布"
     },
     {
+      "id": "upcoming-row-765",
+      "date": "20261231",
+      "band": "band_drsiw0_86",
+      "time": "未公布",
+      "name": "臺東 東漂去旅行 臺東跨年晚會",
+      "location": "臺東縣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E6%9D%B1%E7%B8%A3",
+      "note": "［免費］\n本祭演出時間尚未公布"
+    },
+    {
       "id": "upcoming-row-540",
       "date": "20270102",
       "band": "awkward",
@@ -32117,6 +32127,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "c8ced2ec-165a-40a4-a583-6dc6a826fbe0",
-  "updatedAt": "2026-11-22T12:40:17.552Z"
+  "revision": "18591edb-f9b9-4ae7-b71f-4c19c6a4d993",
+  "updatedAt": "2026-11-22T12:46:36.782Z"
 }
