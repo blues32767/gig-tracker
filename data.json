@@ -58,20 +58,20 @@
       "eventCount": 16
     },
     {
+      "id": "band_nmq1yt",
+      "name": "鼓鼓 呂思緯",
+      "short": "鼓鼓 呂思緯",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 14
+    },
+    {
       "id": "band_drsiw0_25",
       "name": "許富凱",
       "short": "許富凱",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 14
-    },
-    {
-      "id": "band_nmq1yt",
-      "name": "鼓鼓 呂思緯",
-      "short": "鼓鼓 呂思緯",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 13
     },
     {
       "id": "pizzali",
@@ -282,6 +282,14 @@
       "eventCount": 7
     },
     {
+      "id": "band_drsiw0_87",
+      "name": "魏嘉瑩",
+      "short": "魏嘉瑩",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
       "id": "FireEX",
       "name": "滅火器",
       "short": "滅火器",
@@ -406,14 +414,6 @@
       "name": "蕭景鴻",
       "short": "蕭景鴻",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "band_drsiw0_87",
-      "name": "魏嘉瑩",
-      "short": "魏嘉瑩",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 6
     },
@@ -8687,6 +8687,22 @@
       "short": "IR",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "winni",
+      "name": "溫妮 WINNI",
+      "short": "溫妮",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "ray",
+      "name": "Ray 黃霆睿",
+      "short": "Ra",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -25126,6 +25142,46 @@
       "note": "［免費］\n[免費]不對外開放\n校內限定"
     },
     {
+      "id": "upcoming-row-758",
+      "date": "20261128",
+      "band": "winni",
+      "time": "15:00-15:45",
+      "name": "台北 2026 WINTER LIVE",
+      "location": "臺北大巨蛋園區 松菸大道東段",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80%20%E6%9D%BE%E8%8F%B8%E5%A4%A7%E9%81%93%E6%9D%B1%E6%AE%B5",
+      "note": "［免費］\n包含溫妮、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩演出。"
+    },
+    {
+      "id": "upcoming-row-759",
+      "date": "20261128",
+      "band": "band_nmq1yt",
+      "time": "15:45-16:30",
+      "name": "台北 2026 WINTER LIVE",
+      "location": "臺北大巨蛋園區 松菸大道東段",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80%20%E6%9D%BE%E8%8F%B8%E5%A4%A7%E9%81%93%E6%9D%B1%E6%AE%B5",
+      "note": "［免費］\n包含溫妮、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩演出。"
+    },
+    {
+      "id": "upcoming-row-760",
+      "date": "20261128",
+      "band": "ray",
+      "time": "16:30-17:15",
+      "name": "台北 2026 WINTER LIVE",
+      "location": "臺北大巨蛋園區 松菸大道東段",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80%20%E6%9D%BE%E8%8F%B8%E5%A4%A7%E9%81%93%E6%9D%B1%E6%AE%B5",
+      "note": "［免費］\n包含溫妮、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩演出。"
+    },
+    {
+      "id": "upcoming-row-761",
+      "date": "20261128",
+      "band": "band_drsiw0_87",
+      "time": "未公布",
+      "name": "台北 2026 WINTER LIVE",
+      "location": "臺北大巨蛋園區 松菸大道東段",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80%20%E6%9D%BE%E8%8F%B8%E5%A4%A7%E9%81%93%E6%9D%B1%E6%AE%B5",
+      "note": "［免費］\n包含溫妮、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩演出。"
+    },
+    {
       "id": "upcoming-row-91",
       "date": "20261202",
       "band": "band_drsiw0_1",
@@ -32031,6 +32087,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "eeba73d4-81ac-4211-938d-2243734d1a58",
-  "updatedAt": "2026-11-22T06:34:00.739Z"
+  "revision": "cf4dd60d-5431-44a4-9672-2c3628419fe6",
+  "updatedAt": "2026-11-22T09:40:02.847Z"
 }
