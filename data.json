@@ -66,6 +66,14 @@
       "eventCount": 14
     },
     {
+      "id": "band_nmq1yt",
+      "name": "鼓鼓 呂思緯",
+      "short": "鼓鼓 呂思緯",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 13
+    },
+    {
       "id": "pizzali",
       "name": "PIZZALI",
       "short": "PIZZALI",
@@ -87,14 +95,6 @@
       "short": "冰球樂團",
       "color": "#00b4d8",
       "category": "樂團",
-      "eventCount": 12
-    },
-    {
-      "id": "band_nmq1yt",
-      "name": "鼓鼓 呂思緯",
-      "short": "鼓鼓 呂思緯",
-      "color": "#2ec4b6",
-      "category": "個人",
       "eventCount": 12
     },
     {
@@ -322,6 +322,14 @@
       "eventCount": 7
     },
     {
+      "id": "PatrickBrasca",
+      "name": "派偉俊",
+      "short": "派偉俊",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "163braces",
       "name": "163braces",
       "short": "163braces",
@@ -422,14 +430,6 @@
       "name": "王謙",
       "short": "王謙",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "PatrickBrasca",
-      "name": "派偉俊",
-      "short": "派偉俊",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 5
     },
@@ -554,6 +554,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_6gp8um_25",
+      "name": "陳華",
+      "short": "陳華",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "band_drsiw0_77",
       "name": "宇宙人",
       "short": "宇宙人",
@@ -574,6 +582,14 @@
       "name": "陳忻玥",
       "short": "陳忻玥",
       "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "band_drsiw0_138",
+      "name": "蕭秉治",
+      "short": "蕭秉治",
+      "color": "#fb5607",
       "category": "個人",
       "eventCount": 5
     },
@@ -770,14 +786,6 @@
       "eventCount": 4
     },
     {
-      "id": "band_6gp8um_25",
-      "name": "陳華",
-      "short": "陳華",
-      "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
       "id": "band_drsiw0_83",
       "name": "宋德鶴",
       "short": "宋德鶴",
@@ -862,14 +870,6 @@
       "name": "Willy 簡嘉彣",
       "short": "Willy 簡嘉彣",
       "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_138",
-      "name": "蕭秉治",
-      "short": "蕭秉治",
-      "color": "#fb5607",
       "category": "個人",
       "eventCount": 4
     },
@@ -26386,6 +26386,46 @@
       "note": "［免費］\n世界愛滋日主題演唱會,卡司包含Marz23、原子邦妮、青虫aoi,主持人為羅世棠。"
     },
     {
+      "id": "upcoming-row-754",
+      "date": "20261205",
+      "band": "band_drsiw0_138",
+      "time": "18:00-21:00",
+      "name": "桃園 健行科大 60 週年校慶演唱會",
+      "location": "健行科技大學操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n校慶演唱會,15:00開放入場"
+    },
+    {
+      "id": "upcoming-row-755",
+      "date": "20261205",
+      "band": "band_nmq1yt",
+      "time": "18:00-21:00",
+      "name": "桃園 健行科大 60 週年校慶演唱會",
+      "location": "健行科技大學操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n校慶演唱會,15:00開放入場"
+    },
+    {
+      "id": "upcoming-row-756",
+      "date": "20261205",
+      "band": "PatrickBrasca",
+      "time": "18:00-21:00",
+      "name": "桃園 健行科大 60 週年校慶演唱會",
+      "location": "健行科技大學操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n校慶演唱會,15:00開放入場"
+    },
+    {
+      "id": "upcoming-row-757",
+      "date": "20261205",
+      "band": "band_6gp8um_25",
+      "time": "18:00-21:00",
+      "name": "桃園 健行科大 60 週年校慶演唱會",
+      "location": "健行科技大學操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n校慶演唱會,15:00開放入場"
+    },
+    {
       "id": "upcoming-row-173",
       "date": "20261206",
       "band": "AmazingShow",
@@ -31991,6 +32031,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "3b38f909-f4a2-40d5-b8bf-9a7243ea64bf",
-  "updatedAt": "2026-11-22T00:35:34.681Z"
+  "revision": "25a042b1-06cd-4851-8def-0d87318bd12b",
+  "updatedAt": "2026-11-22T03:34:17.206Z"
 }
