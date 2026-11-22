@@ -63,7 +63,7 @@
       "short": "鼓鼓 呂思緯",
       "color": "#2ec4b6",
       "category": "個人",
-      "eventCount": 14
+      "eventCount": 15
     },
     {
       "id": "band_drsiw0_25",
@@ -2487,6 +2487,22 @@
       "short": "DJ",
       "color": "#3a86ff",
       "category": "樂團",
+      "eventCount": 2
+    },
+    {
+      "id": "winni",
+      "name": "溫妮 WINNI",
+      "short": "溫妮",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "ray",
+      "name": "Ray 黃霆睿",
+      "short": "Ra",
+      "color": "#118ab2",
+      "category": "個人",
       "eventCount": 2
     },
     {
@@ -8687,22 +8703,6 @@
       "short": "IR",
       "color": "#ffd166",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "winni",
-      "name": "溫妮 WINNI",
-      "short": "溫妮",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "ray",
-      "name": "Ray 黃霆睿",
-      "short": "Ra",
-      "color": "#118ab2",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -25149,7 +25149,7 @@
       "name": "台北 2026 WINTER LIVE",
       "location": "臺北大巨蛋園區 松菸大道東段",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80%20%E6%9D%BE%E8%8F%B8%E5%A4%A7%E9%81%93%E6%9D%B1%E6%AE%B5",
-      "note": "［免費］\n包含溫妮、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩演出。"
+      "note": "［免費］\n2026 WINTER LIVE 演出卡司包含溫妮 WINNI、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩"
     },
     {
       "id": "upcoming-row-759",
@@ -25159,7 +25159,7 @@
       "name": "台北 2026 WINTER LIVE",
       "location": "臺北大巨蛋園區 松菸大道東段",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80%20%E6%9D%BE%E8%8F%B8%E5%A4%A7%E9%81%93%E6%9D%B1%E6%AE%B5",
-      "note": "［免費］\n包含溫妮、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩演出。"
+      "note": "［免費］\n2026 WINTER LIVE 演出卡司包含溫妮 WINNI、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩"
     },
     {
       "id": "upcoming-row-760",
@@ -25169,17 +25169,47 @@
       "name": "台北 2026 WINTER LIVE",
       "location": "臺北大巨蛋園區 松菸大道東段",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80%20%E6%9D%BE%E8%8F%B8%E5%A4%A7%E9%81%93%E6%9D%B1%E6%AE%B5",
-      "note": "［免費］\n包含溫妮、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩演出。"
+      "note": "［免費］\n2026 WINTER LIVE 演出卡司包含溫妮 WINNI、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩"
     },
     {
       "id": "upcoming-row-761",
-      "date": "20261128",
+      "date": "20261129",
       "band": "band_drsiw0_87",
       "time": "未公布",
       "name": "台北 2026 WINTER LIVE",
       "location": "臺北大巨蛋園區 松菸大道東段",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80%20%E6%9D%BE%E8%8F%B8%E5%A4%A7%E9%81%93%E6%9D%B1%E6%AE%B5",
-      "note": "［免費］\n包含溫妮、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩演出。"
+      "note": "［免費］\n2026 WINTER LIVE 演出卡司包含溫妮 WINNI、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩"
+    },
+    {
+      "id": "upcoming-row-762",
+      "date": "20261129",
+      "band": "winni",
+      "time": "未公布",
+      "name": "台北 2026 WINTER LIVE",
+      "location": "臺北大巨蛋園區 松菸大道東段",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80%20%E6%9D%BE%E8%8F%B8%E5%A4%A7%E9%81%93%E6%9D%B1%E6%AE%B5",
+      "note": "［免費］\n2026 WINTER LIVE 演出卡司包含溫妮 WINNI、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩"
+    },
+    {
+      "id": "upcoming-row-763",
+      "date": "20261129",
+      "band": "band_nmq1yt",
+      "time": "未公布",
+      "name": "台北 2026 WINTER LIVE",
+      "location": "臺北大巨蛋園區 松菸大道東段",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80%20%E6%9D%BE%E8%8F%B8%E5%A4%A7%E9%81%93%E6%9D%B1%E6%AE%B5",
+      "note": "［免費］\n2026 WINTER LIVE 演出卡司包含溫妮 WINNI、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩"
+    },
+    {
+      "id": "upcoming-row-764",
+      "date": "20261129",
+      "band": "ray",
+      "time": "未公布",
+      "name": "台北 2026 WINTER LIVE",
+      "location": "臺北大巨蛋園區 松菸大道東段",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80%20%E6%9D%BE%E8%8F%B8%E5%A4%A7%E9%81%93%E6%9D%B1%E6%AE%B5",
+      "note": "［免費］\n2026 WINTER LIVE 演出卡司包含溫妮 WINNI、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩"
     },
     {
       "id": "upcoming-row-91",
@@ -32087,6 +32117,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "cf4dd60d-5431-44a4-9672-2c3628419fe6",
-  "updatedAt": "2026-11-22T09:40:02.847Z"
+  "revision": "c8ced2ec-165a-40a4-a583-6dc6a826fbe0",
+  "updatedAt": "2026-11-22T12:40:17.552Z"
 }
