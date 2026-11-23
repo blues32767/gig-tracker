@@ -698,6 +698,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_18",
+      "name": "黃偉晉",
+      "short": "黃偉晉",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_33",
       "name": "韋禮安",
       "short": "韋禮安",
@@ -950,14 +958,6 @@
       "name": "品冠",
       "short": "品冠",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
-      "id": "band_drsiw0_18",
-      "name": "黃偉晉",
-      "short": "黃偉晉",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 3
     },
@@ -31686,6 +31686,16 @@
       "note": "［免費］\n卡司包含孫淑媚、許富凱、Ozone、HUR+彭佳慧、畢書盡、閻奕格,主持人為林葦妮、黃偉晉"
     },
     {
+      "id": "upcoming-row-768",
+      "date": "20261231",
+      "band": "band_drsiw0_18",
+      "time": "未公布",
+      "name": "高雄 雄嗨趴2027 雄嗨趴高雄跨年晚會",
+      "location": "高雄市前鎮區夢時代購物中心",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80%E5%A4%A2%E6%99%82%E4%BB%A3%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83",
+      "note": "［免費］\n卡司包含孫淑媚、許富凱、Ozone、HUR+彭佳慧、畢書盡、閻奕格,主持人為林葦妮、黃偉晉"
+    },
+    {
       "id": "upcoming-row-514",
       "date": "20270102",
       "band": "awkward",
@@ -32471,6 +32481,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "591ac1ff-d322-4037-a5f0-209a173b160c",
-  "updatedAt": "2026-11-23T15:39:37.798Z"
+  "revision": "da655ea9-fa6c-4fbd-afdd-ff8febe1777f",
+  "updatedAt": "2026-11-23T15:42:29.101Z"
 }
