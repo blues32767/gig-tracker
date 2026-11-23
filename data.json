@@ -594,6 +594,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_drsiw0_88",
+      "name": "畢書盡",
+      "short": "畢書盡",
+      "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "band_drsiw0_112",
       "name": "陳忻玥",
       "short": "陳忻玥",
@@ -638,6 +646,14 @@
       "name": "孫淑媚",
       "short": "孫淑媚",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "band_drsiw0_153",
+      "name": "彭佳慧",
+      "short": "彭佳慧",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 5
     },
@@ -802,14 +818,6 @@
       "eventCount": 4
     },
     {
-      "id": "band_drsiw0_88",
-      "name": "畢書盡",
-      "short": "畢書盡",
-      "color": "#8338ec",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
       "id": "aoi",
       "name": "青虫aoi",
       "short": "青虫aoi",
@@ -918,14 +926,6 @@
       "name": "郁欣",
       "short": "郁欣",
       "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_153",
-      "name": "彭佳慧",
-      "short": "彭佳慧",
-      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 4
     },
@@ -2190,6 +2190,14 @@
       "name": "劉明湘",
       "short": "劉明湘",
       "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_160",
+      "name": "閻奕格",
+      "short": "閻奕格",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -5247,14 +5255,6 @@
       "short": "MCDJ",
       "color": "#ff006e",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_160",
-      "name": "閻奕格",
-      "short": "閻奕格",
-      "color": "#118ab2",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -31428,6 +31428,36 @@
       "note": "［免費］\n本祭演出時間尚未公布"
     },
     {
+      "id": "upcoming-row-747",
+      "date": "20261231",
+      "band": "band_drsiw0_153",
+      "time": "未公布",
+      "name": "高雄 2027 雄嗨趴跨年演唱會",
+      "location": "高雄市夢時代廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%A4%A2%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026/12/31 舉辦,卡司包含孫淑媚、許富凱、Ozone、HUR+and more...,主持黃偉晉、木木林葦妮。"
+    },
+    {
+      "id": "upcoming-row-748",
+      "date": "20261231",
+      "band": "band_drsiw0_160",
+      "time": "未公布",
+      "name": "高雄 2027 雄嗨趴跨年演唱會",
+      "location": "高雄市夢時代廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%A4%A2%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026/12/31 舉辦,卡司包含孫淑媚、許富凱、Ozone、HUR+and more...,主持黃偉晉、木木林葦妮。"
+    },
+    {
+      "id": "upcoming-row-749",
+      "date": "20261231",
+      "band": "band_drsiw0_88",
+      "time": "未公布",
+      "name": "高雄 2027 雄嗨趴跨年演唱會",
+      "location": "高雄市夢時代廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%A4%A2%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026/12/31 舉辦,卡司包含孫淑媚、許富凱、Ozone、HUR+and more...,主持黃偉晉、木木林葦妮。"
+    },
+    {
       "id": "upcoming-row-514",
       "date": "20270102",
       "band": "awkward",
@@ -32213,6 +32243,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "43adccae-e5bf-4d36-abd6-f12573d400c0",
-  "updatedAt": "2026-11-23T00:42:38.616Z"
+  "revision": "369aac7b-f9fb-4a56-b3e7-94d46f27b1f7",
+  "updatedAt": "2026-11-23T03:35:26.062Z"
 }
