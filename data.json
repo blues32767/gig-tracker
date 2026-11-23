@@ -25903,7 +25903,7 @@
       "name": "新北市 江翠國中50週年校慶晚",
       "location": "江翠國中活動中心2樓",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E7%BF%A0%E5%9C%8B%E4%B8%AD%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832%E6%A8%93",
-      "note": "［免費］\n校慶晚會活動,可校外人士參加。"
+      "note": "［免費］\n校慶晚會活動,可校外人士參加。\n校慶晚會活動,包含陳華演出。"
     },
     {
       "id": "upcoming-row-758",
@@ -32441,6 +32441,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "64ba1ab3-95d8-4731-a967-ab7849ed967e",
-  "updatedAt": "2026-11-23T12:35:59.850Z"
+  "revision": "b847a2bd-716d-4d29-8ded-981a6fc41294",
+  "updatedAt": "2026-11-23T12:38:06.527Z"
 }
