@@ -434,6 +434,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_138",
+      "name": "蕭秉治",
+      "short": "蕭秉治",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "band_6gp8um_1",
       "name": "王謙",
       "short": "王謙",
@@ -606,14 +614,6 @@
       "name": "陳忻玥",
       "short": "陳忻玥",
       "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_drsiw0_138",
-      "name": "蕭秉治",
-      "short": "蕭秉治",
-      "color": "#fb5607",
       "category": "個人",
       "eventCount": 5
     },
@@ -31468,6 +31468,16 @@
       "note": "［免費］\n2026/12/31 舉辦,卡司包含孫淑媚、許富凱、Ozone、HUR+and more...,主持黃偉晉、木木林葦妮。"
     },
     {
+      "id": "upcoming-row-751",
+      "date": "20261231",
+      "band": "band_drsiw0_138",
+      "time": "未公布",
+      "name": "雲林 HolyHigh・音浪全開跨年夜",
+      "location": "斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2027跨年活動,第一波卡司包含蕭秉治"
+    },
+    {
       "id": "upcoming-row-514",
       "date": "20270102",
       "band": "awkward",
@@ -32253,6 +32263,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7c3158e2-a1f9-403d-b996-9316ba4087fa",
-  "updatedAt": "2026-11-23T06:34:14.780Z"
+  "revision": "e6d538d8-e081-40e5-a422-e612933be3da",
+  "updatedAt": "2026-11-23T06:36:09.481Z"
 }
