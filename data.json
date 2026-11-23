@@ -410,6 +410,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_6gp8um_25",
+      "name": "陳華",
+      "short": "陳華",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "band_drsiw0_85",
       "name": "蕭景鴻",
       "short": "蕭景鴻",
@@ -558,14 +566,6 @@
       "name": "陳勢安",
       "short": "陳勢安",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_6gp8um_25",
-      "name": "陳華",
-      "short": "陳華",
-      "color": "#118ab2",
       "category": "個人",
       "eventCount": 5
     },
@@ -25848,6 +25848,16 @@
       "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)\n2026 黑熊部落,陣容共 48 組。"
     },
     {
+      "id": "upcoming-row-750",
+      "date": "20261204",
+      "band": "band_6gp8um_25",
+      "time": "20:10-20:30",
+      "name": "新北市 江翠國中50週年校慶晚",
+      "location": "江翠國中活動中心2樓",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%B1%9F%E7%BF%A0%E5%9C%8B%E4%B8%AD%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%832%E6%A8%93",
+      "note": "［免費］\n校慶晚會活動,卡司包含陳華。"
+    },
+    {
       "id": "upcoming-row-104",
       "date": "20261205",
       "band": "band_drsiw0_87",
@@ -32243,6 +32253,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "369aac7b-f9fb-4a56-b3e7-94d46f27b1f7",
-  "updatedAt": "2026-11-23T03:35:26.062Z"
+  "revision": "7c3158e2-a1f9-403d-b996-9316ba4087fa",
+  "updatedAt": "2026-11-23T06:34:14.780Z"
 }
