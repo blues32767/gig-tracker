@@ -130,19 +130,19 @@
       "eventCount": 10
     },
     {
-      "id": "SHOU",
-      "name": "婁峻碩",
-      "short": "婁峻碩",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 9
-    },
-    {
       "id": "SweetJohn",
       "name": "甜約翰",
       "short": "甜約翰",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 10
+    },
+    {
+      "id": "SHOU",
+      "name": "婁峻碩",
+      "short": "婁峻碩",
+      "color": "#3a86ff",
+      "category": "個人",
       "eventCount": 9
     },
     {
@@ -306,6 +306,14 @@
       "eventCount": 7
     },
     {
+      "id": "band_6gp8um_35",
+      "name": "上山",
+      "short": "上山",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
       "id": "pallas_1",
       "name": "PALLAS 帕拉斯",
       "short": "PALLAS 帕拉斯",
@@ -426,14 +434,6 @@
       "eventCount": 6
     },
     {
-      "id": "band_6gp8um_35",
-      "name": "上山",
-      "short": "上山",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 6
-    },
-    {
       "id": "band_drsiw0_138",
       "name": "蕭秉治",
       "short": "蕭秉治",
@@ -495,6 +495,14 @@
       "short": "持修",
       "color": "#ffd166",
       "category": "個人",
+      "eventCount": 5
+    },
+    {
+      "id": "band_maaxir_1",
+      "name": "康士坦的變化球",
+      "short": "康士坦",
+      "color": "#00b4d8",
+      "category": "樂團",
       "eventCount": 5
     },
     {
@@ -727,14 +735,6 @@
       "short": "洪佩瑜",
       "color": "#8338ec",
       "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "band_maaxir_1",
-      "name": "康士坦的變化球",
-      "short": "康士坦",
-      "color": "#00b4d8",
-      "category": "樂團",
       "eventCount": 4
     },
     {
@@ -8718,6 +8718,30 @@
       "name": "Blue Mash [JP]",
       "short": "Bl",
       "color": "#ff006e",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "djjamieq",
+      "name": "DJ Jamie Q",
+      "short": "DJ",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "djryan",
+      "name": "DJ Ryan",
+      "short": "DJ",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "djjolin",
+      "name": "DJ JOLIN",
+      "short": "DJ",
+      "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
     },
@@ -27038,6 +27062,16 @@
       "note": "［售票］\n本祭演出時間尚未公布|*傻子與白痴、老大不小、麋先生、Lane 140.、無妄合作社、芒果街老爸、THE EON永夜、怕胖團、上山、Brandy Senki [JP]、KARDI [KR]、LAWA、後站人、brkfstblend [JP]、柯泯薰 ft. 黃玠瑋、吐司貓、7thVega [JP]、白安、PIZZALI、粗大Band、REJAY [JP]、OBSESS、溫蒂漫步、鐵皮貓、yutori [JP]、Leerix 李瑞、逐火、腦體馬戲團、icyball冰球樂團、cephalo [JP]、芒果醬、烈鷹、THE FIX [KR]、Soul Sorry、康士坦的變化球 KST、荒鳴 Wild Cry、步行者 Pacers、八十八顆芭樂籽 88balaz ft. Top Girls、Hernia、Niki the Unicorn、紙鳶 Seizer 未訂(演出日期未定,暫列活動首日)"
     },
     {
+      "id": "upcoming-row-752",
+      "date": "20261211",
+      "band": "djjamieq",
+      "time": "18:50-19:30",
+      "name": "台北 臺北大巨蛋拾光祭",
+      "location": "臺北大巨蛋園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含DJ Jamie Q、上山、DJ Ryan、甜約翰、康士坦的變化球 KST、DJ JOLIN。"
+    },
+    {
       "id": "upcoming-row-155",
       "date": "20261212",
       "band": "band_qqiyec",
@@ -28518,6 +28552,36 @@
       "note": "［售票］\n本祭演出時間尚未公布|*Yuragi [JP]、Hello Nico、持修 Chih Siou、海豚刑警 Iruka Porisu、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、拍謝少年 Sorry Youth、陳珊妮 Sandee Chan、盧廣仲 Crowd Lu、DJ SMASH、DJ MATT、溫蒂漫步 Wendy Wander、傻子與白痴 Fool and Idiot、硝子羊 Verrisca、ALI [JP]、傷心欲絕 Wayne's So Sad、XIEXIE [JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
     },
     {
+      "id": "upcoming-row-753",
+      "date": "20261212",
+      "band": "band_6gp8um_35",
+      "time": "14:30-15:10",
+      "name": "台北 臺北大巨蛋拾光祭",
+      "location": "臺北大巨蛋園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含DJ Jamie Q、上山、DJ Ryan、甜約翰、康士坦的變化球 KST、DJ JOLIN。"
+    },
+    {
+      "id": "upcoming-row-754",
+      "date": "20261212",
+      "band": "djryan",
+      "time": "16:10-17:10",
+      "name": "台北 臺北大巨蛋拾光祭",
+      "location": "臺北大巨蛋園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含DJ Jamie Q、上山、DJ Ryan、甜約翰、康士坦的變化球 KST、DJ JOLIN。"
+    },
+    {
+      "id": "upcoming-row-755",
+      "date": "20261212",
+      "band": "SweetJohn",
+      "time": "18:40-19:20",
+      "name": "台北 臺北大巨蛋拾光祭",
+      "location": "臺北大巨蛋園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含DJ Jamie Q、上山、DJ Ryan、甜約翰、康士坦的變化球 KST、DJ JOLIN。"
+    },
+    {
       "id": "upcoming-row-154",
       "date": "20261213",
       "band": "band_drsiw0_58",
@@ -28836,6 +28900,26 @@
       "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
       "note": "［售票］\n本祭演出時間尚未公布|*Yuragi [JP]、Hello Nico、持修 Chih Siou、海豚刑警 Iruka Porisu、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、拍謝少年 Sorry Youth、陳珊妮 Sandee Chan、盧廣仲 Crowd Lu、DJ SMASH、DJ MATT、溫蒂漫步 Wendy Wander、傻子與白痴 Fool and Idiot、硝子羊 Verrisca、ALI [JP]、傷心欲絕 Wayne's So Sad、XIEXIE [JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
+      "id": "upcoming-row-756",
+      "date": "20261213",
+      "band": "band_maaxir_1",
+      "time": "14:00-14:40",
+      "name": "台北 臺北大巨蛋拾光祭",
+      "location": "臺北大巨蛋園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含DJ Jamie Q、上山、DJ Ryan、甜約翰、康士坦的變化球 KST、DJ JOLIN。"
+    },
+    {
+      "id": "upcoming-row-757",
+      "date": "20261213",
+      "band": "djjolin",
+      "time": "16:30-17:10",
+      "name": "台北 臺北大巨蛋拾光祭",
+      "location": "臺北大巨蛋園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n活動包含DJ Jamie Q、上山、DJ Ryan、甜約翰、康士坦的變化球 KST、DJ JOLIN。"
     },
     {
       "id": "upcoming-row-578",
@@ -32263,6 +32347,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "824ce1b4-84b0-42e6-908c-27c96819994d",
-  "updatedAt": "2026-11-23T09:36:11.341Z"
+  "revision": "f551c7f3-ad98-462b-9db2-4c7453a20a6f",
+  "updatedAt": "2026-11-23T12:34:10.522Z"
 }
