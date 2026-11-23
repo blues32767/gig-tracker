@@ -25189,7 +25189,7 @@
     },
     {
       "id": "upcoming-row-735",
-      "date": "20261129",
+      "date": "20261128",
       "band": "band_drsiw0_87",
       "time": "未公布",
       "name": "台北 2026 WINTER LIVE",
@@ -32213,6 +32213,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "c2f40076-bc37-4abd-baf8-b1d8acc795f5",
-  "updatedAt": "2026-11-23T00:39:58.980Z"
+  "revision": "43adccae-e5bf-4d36-abd6-f12573d400c0",
+  "updatedAt": "2026-11-23T00:42:38.616Z"
 }
