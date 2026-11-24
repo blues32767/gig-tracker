@@ -8802,6 +8802,38 @@
       "eventCount": 1
     },
     {
+      "id": "band_uhxcnu_5",
+      "name": "糖果星球對派姊妹",
+      "short": "糖果",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_86",
+      "name": "雙人樂團",
+      "short": "雙人",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_255",
+      "name": "廖文強",
+      "short": "廖文",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_256",
+      "name": "卓文萱",
+      "short": "卓文",
+      "color": "#2ec4b6",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -30248,6 +30280,46 @@
       "note": "［免費］\n活動於2026年12月19日舉辦,地點為彰化縣鹿港體育場。卡司包含告五人、芒果醬、戴愛玲、王識賢、沈文程、林沐希、楊淨宇、帕拉斯、Luxy girls。演出時間為18:00-22:00。\n來源：https://news.st-media.com.tw/news/54692"
     },
     {
+      "id": "upcoming-row-788",
+      "date": "20261219",
+      "band": "band_uhxcnu_5",
+      "time": "17:00-17:30",
+      "name": "大鵬灣暖冬派對2026",
+      "location": "青洲灣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%B4%B2%E7%81%A3",
+      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派姊妹等演出。"
+    },
+    {
+      "id": "upcoming-row-789",
+      "date": "20261219",
+      "band": "band_6u8lrj_86",
+      "time": "18:00-18:40",
+      "name": "大鵬灣暖冬派對2026",
+      "location": "青洲灣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%B4%B2%E7%81%A3",
+      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派姊妹等演出。"
+    },
+    {
+      "id": "upcoming-row-790",
+      "date": "20261219",
+      "band": "band_drsiw0_255",
+      "time": "18:40-19:05",
+      "name": "大鵬灣暖冬派對2026",
+      "location": "青洲灣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%B4%B2%E7%81%A3",
+      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派姊妹等演出。"
+    },
+    {
+      "id": "upcoming-row-791",
+      "date": "20261219",
+      "band": "band_drsiw0_256",
+      "time": "19:05-19:30",
+      "name": "大鵬灣暖冬派對2026",
+      "location": "青洲灣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%B4%B2%E7%81%A3",
+      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派姊妹等演出。"
+    },
+    {
       "id": "upcoming-row-424",
       "date": "20261220",
       "band": "AmazingShow",
@@ -32703,6 +32775,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "c1d5c251-da52-4974-8b3b-ae34aebfb094",
-  "updatedAt": "2026-11-24T12:37:57.368Z"
+  "revision": "5ca8e023-caa3-47bb-95b7-f9878842485a",
+  "updatedAt": "2026-11-24T12:39:40.246Z"
 }
