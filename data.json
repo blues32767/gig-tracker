@@ -15,7 +15,7 @@
       "short": "公館青少年",
       "color": "#2a9d8f",
       "category": "樂團",
-      "eventCount": 25
+      "eventCount": 32
     },
     {
       "id": "band_qqiyec_5",
@@ -25220,14 +25220,14 @@
       "note": "［免費］\n屏東大學校慶演唱會,校外人士晚半小時開放進場。卡司包含:ㄔㄕㄢ、ㄏㄒㄨ、ㄘㄎㄩ、ㄘㄉㄅ、ㄆ㙍ㄌ、ㄨㄒ、ㄨㄨㄇㄇ等。"
     },
     {
-      "id": "upcoming-row-64",
+      "id": "upcoming-row-780",
       "date": "20261127",
       "band": "gongguan",
-      "time": "未定",
-      "name": "高雄 中山高中-青春校園誌",
-      "location": "高雄市楠梓區中山高中",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E4%B8%AD%E5%B1%B1%E9%AB%98%E4%B8%AD",
-      "note": "［免費］\n[免費]不對外開放\n校內限定"
+      "time": "未公布",
+      "name": "台北市 中國科技大校慶演唱會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n校內限定"
     },
     {
       "id": "upcoming-row-732",
@@ -25298,6 +25298,16 @@
       "location": "臺北大巨蛋園區 松菸大道東段",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E5%9C%92%E5%8D%80%20%E6%9D%BE%E8%8F%B8%E5%A4%A7%E9%81%93%E6%9D%B1%E6%AE%B5",
       "note": "［免費］\n2026 WINTER LIVE 演出卡司包含溫妮 WINNI、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩。"
+    },
+    {
+      "id": "upcoming-row-64",
+      "date": "20261202",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "高雄 中山高中-青春校園誌",
+      "location": "高雄市楠梓區中山高中",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E4%B8%AD%E5%B1%B1%E9%AB%98%E4%B8%AD",
+      "note": "［免費］\n[免費]不對外開放\n校內限定\n可校外"
     },
     {
       "id": "upcoming-row-65",
@@ -26434,30 +26444,30 @@
       "date": "20261205",
       "band": "yamonsocialc",
       "time": "14:30-15:00",
-      "name": "嘉義 花海生活節",
+      "name": "嘉義市 嘉義花海生活節",
       "location": "嘉義縣水上鄉活動會場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
-      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。"
+      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。\n可校外"
     },
     {
       "id": "upcoming-row-142",
       "date": "20261205",
       "band": "band_6u8lrj_66",
       "time": "16:00-16:30",
-      "name": "嘉義 花海生活節",
+      "name": "嘉義市 嘉義花海生活節",
       "location": "嘉義縣水上鄉活動會場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
-      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。"
+      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。\n可校外"
     },
     {
       "id": "upcoming-row-143",
       "date": "20261205",
       "band": "band_drsiw0_83",
       "time": "17:30-18:00",
-      "name": "嘉義 花海生活節",
+      "name": "嘉義市 嘉義花海生活節",
       "location": "嘉義縣水上鄉活動會場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
-      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。"
+      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。\n可校外"
     },
     {
       "id": "upcoming-row-144",
@@ -26534,10 +26544,10 @@
       "date": "20261205",
       "band": "yamonsocialc_2",
       "time": "14:30-15:00",
-      "name": "嘉義 花海生活節",
+      "name": "嘉義市 嘉義花海生活節",
       "location": "嘉義縣水上鄉活動會場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
-      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。"
+      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。\n可校外"
     },
     {
       "id": "upcoming-row-607",
@@ -26790,6 +26800,16 @@
       "note": "［免費］\n校慶演唱會,包含王識賢、陳勢安、陳華、蕭秉治、鼓鼓 呂思緯、派偉俊、KIRE 凱爾、F.F.O、木木"
     },
     {
+      "id": "upcoming-row-781",
+      "date": "20261205",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "新北市 致理科大校園演唱會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］\n待公佈"
+    },
+    {
       "id": "upcoming-row-147",
       "date": "20261206",
       "band": "AmazingShow",
@@ -26804,30 +26824,30 @@
       "date": "20261206",
       "band": "gongguan",
       "time": "14:30-15:00",
-      "name": "嘉義 花海生活節",
+      "name": "嘉義市 嘉義花海生活節",
       "location": "嘉義縣水上鄉活動會場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
-      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。"
+      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。\n可校外"
     },
     {
       "id": "upcoming-row-149",
       "date": "20261206",
       "band": "NeciKen",
       "time": "16:00-16:30",
-      "name": "嘉義 花海生活節",
+      "name": "嘉義市 嘉義花海生活節",
       "location": "嘉義縣水上鄉活動會場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
-      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。"
+      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。\n可校外"
     },
     {
       "id": "upcoming-row-150",
       "date": "20261206",
       "band": "band_qqiyec_35",
       "time": "17:30-18:00",
-      "name": "嘉義 花海生活節",
+      "name": "嘉義市 嘉義花海生活節",
       "location": "嘉義縣水上鄉活動會場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
-      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。"
+      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。\n可校外"
     },
     {
       "id": "upcoming-row-151",
@@ -26867,7 +26887,7 @@
       "name": "台南 成功大學校慶演唱會《成星》",
       "location": "台南市成功大學大光復校區榕園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
-      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。"
+      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。\n待公佈"
     },
     {
       "id": "upcoming-row-645",
@@ -26877,7 +26897,7 @@
       "name": "台南 成功大學校慶演唱會《成星》",
       "location": "台南市成功大學大光復校區榕園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
-      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。"
+      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。\n待公佈"
     },
     {
       "id": "upcoming-row-646",
@@ -26887,17 +26907,7 @@
       "name": "台南 成功大學校慶演唱會《成星》",
       "location": "台南市成功大學大光復校區榕園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
-      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。"
-    },
-    {
-      "id": "upcoming-row-647",
-      "date": "20261206",
-      "band": "gongguan",
-      "time": "未公布",
-      "name": "台南 成功大學校慶演唱會《成星》",
-      "location": "台南市成功大學大光復校區榕園",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
-      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。"
+      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。\n待公佈"
     },
     {
       "id": "upcoming-row-686",
@@ -26907,7 +26917,7 @@
       "name": "台南 成功大學校慶演唱會《成星》",
       "location": "台南市成功大學大光復校區榕園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
-      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。"
+      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。\n待公佈"
     },
     {
       "id": "upcoming-row-690",
@@ -26977,7 +26987,7 @@
       "name": "台南 成功大學校慶演唱會《成星》",
       "location": "台南市成功大學大光復校區榕園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
-      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。"
+      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。\n待公佈"
     },
     {
       "id": "upcoming-row-726",
@@ -26987,7 +26997,27 @@
       "name": "台南 成功大學校慶演唱會《成星》",
       "location": "台南市成功大學大光復校區榕園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
-      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。"
+      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。\n待公佈"
+    },
+    {
+      "id": "upcoming-row-782",
+      "date": "20261206",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "台北市",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［免費］"
+    },
+    {
+      "id": "upcoming-row-647",
+      "date": "20261209",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "台南 成功大學校慶演唱會《成星》",
+      "location": "台南市成功大學大光復校區榕園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%85%89%E5%BE%A9%E6%A0%A1%E5%8D%80%E6%A6%95%E5%9C%92",
+      "note": "［免費］\n成大校慶演唱會,包含聖結石、TRASH、南西肯恩、李浩瑋、公館青少年、派偉俊、Sabrina 胡恂舞,主持人為雨婷。\n校慶演唱會,可校外人士參加。\n待公佈"
     },
     {
       "id": "upcoming-row-165",
@@ -27467,7 +27497,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\""
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-216",
@@ -27520,16 +27550,6 @@
       "note": "［售票］\n結束時間未定\n滅火器樂團於高雄巨蛋舉辦兩場演唱會,分別為12月12日(六)及12月13日(日)。"
     },
     {
-      "id": "upcoming-row-221",
-      "date": "20261212",
-      "band": "gongguan",
-      "time": "未公布",
-      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
-      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
-    },
-    {
       "id": "upcoming-row-222",
       "date": "20261212",
       "band": "psco",
@@ -27537,7 +27557,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-223",
@@ -27547,7 +27567,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-224",
@@ -27557,7 +27577,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-225",
@@ -27567,7 +27587,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-226",
@@ -27577,7 +27597,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-227",
@@ -27587,7 +27607,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-228",
@@ -27597,7 +27617,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-229",
@@ -27607,7 +27627,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-230",
@@ -27617,7 +27637,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-231",
@@ -27627,7 +27647,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-232",
@@ -27637,7 +27657,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-233",
@@ -27647,7 +27667,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-234",
@@ -27657,7 +27677,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-235",
@@ -27667,7 +27687,7 @@
       "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
       "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
-      "note": "［售票］\n收費 苗栗 CRAB PLAY 2026 蟹逅小聚場2026/12/12-12/13\n*芒果醬活動日期未定\n活動貼文:https://www.instagram.com/p/DdDWlcKiMnU/\n活動日期:2026年12月12日。卡司包含新公佈的公館青少年、洪紹欽 Gary、雷仔、倚瑄,以及已公佈的芒果醬 ft. 哈哈台 蓋瑞、青虫aoi、陳以恆、海洋家族、P!SCO ft. 小白鯨姊姊.企鵝哥哥.珊瑚姐姐、A_Root 同根生 (演出嘉賓:UG)、CJ Mit、Arase阿拉斯 ft. 那屋瓦KD、阿超 achau、柔米 Zoomie、李拾壹等。"
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
     },
     {
       "id": "upcoming-row-236",
@@ -29150,6 +29170,16 @@
       "note": "［免費］\n臺北大巨蛋拾光祭2026,包含DJ Jamie Q、上山、甜約翰、DJ Ryan、康士坦的變化球、DJ JOLIN等演出。"
     },
     {
+      "id": "upcoming-row-783",
+      "date": "20261213",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "台中市",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［售票］"
+    },
+    {
       "id": "upcoming-row-578",
       "date": "20261215",
       "band": "papunband",
@@ -29240,6 +29270,16 @@
       "note": "［售票］\n逢甲大學舉辦的校園聖誕演唱會,卡司包含怕胖團、李浩瑋、吳霏、艾薇、徐暐翔、欣菲、粗大Band、C.HoIly、BIDO 曾愷妤,主持人為聖恩。"
     },
     {
+      "id": "upcoming-row-221",
+      "date": "20261217",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "苗栗 CRAB PLAY 2026 蟹逅小聚場12/12-12/13",
+      "location": "苗栗縣通霄鎮苗栗藍鵲渡假莊園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%8B%97%E6%A0%97%E7%B8%A3%E9%80%9A%E9%9C%84%E9%8E%AE%E8%8B%97%E6%A0%97%E8%97%8D%E9%B5%B2%E6%B8%A1%E5%81%87%E8%8E%8A%E5%9C%92",
+      "note": "［售票］\n雙日卡司:https://www.instagram.com/p/DfyhXkmARnZ/\n購票網址:https://link.oen.tw/crabplay2026\"\n可校外"
+    },
+    {
       "id": "upcoming-row-349",
       "date": "20261217",
       "band": "band_drsiw0_54",
@@ -29288,6 +29328,16 @@
       "location": "未公布",
       "mapLink": "未公布",
       "note": "未公布"
+    },
+    {
+      "id": "upcoming-row-784",
+      "date": "20261218",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "台中市 東海大學耶誕演唱會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［售票］\n可校外"
     },
     {
       "id": "upcoming-row-354",
@@ -30294,60 +30344,60 @@
       "date": "20261220",
       "band": "Bestards",
       "time": "未公布",
-      "name": "台北 北一女中123週年校慶舞會",
+      "name": "台北市 北一女中123週年校慶舞會",
       "location": "台北市北一女中操場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
-      "note": "［售票］\n北一女中123週年校慶,活動時間14:25進場、15:00開始。卡司包含理想混蛋、婁峻碩、公館青少年(王謙、郁欣),主持為寶賤。"
+      "note": "［免費］\n北一女中123週年校慶,活動時間14:25進場、15:00開始。卡司包含理想混蛋、婁峻碩、公館青少年(王謙、郁欣),主持為寶賤。"
     },
     {
       "id": "upcoming-row-639",
       "date": "20261220",
       "band": "SHOU",
       "time": "未公布",
-      "name": "台北 北一女中123週年校慶舞會",
+      "name": "台北市 北一女中123週年校慶舞會",
       "location": "台北市北一女中操場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
-      "note": "［售票］\n北一女中123週年校慶,活動時間14:25進場、15:00開始。卡司包含理想混蛋、婁峻碩、公館青少年(王謙、郁欣),主持為寶賤。"
-    },
-    {
-      "id": "upcoming-row-640",
-      "date": "20261220",
-      "band": "gongguan",
-      "time": "未公布",
-      "name": "台北 北一女中123週年校慶舞會",
-      "location": "台北市北一女中操場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
-      "note": "［售票］\n北一女中123週年校慶,活動時間14:25進場、15:00開始。卡司包含理想混蛋、婁峻碩、公館青少年(王謙、郁欣),主持為寶賤。"
+      "note": "［免費］\n北一女中123週年校慶,活動時間14:25進場、15:00開始。卡司包含理想混蛋、婁峻碩、公館青少年(王謙、郁欣),主持為寶賤。"
     },
     {
       "id": "upcoming-row-641",
       "date": "20261220",
       "band": "band_6gp8um_1",
       "time": "未公布",
-      "name": "台北 北一女中123週年校慶舞會",
+      "name": "台北市 北一女中123週年校慶舞會",
       "location": "台北市北一女中操場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
-      "note": "［售票］\n北一女中123週年校慶,活動時間14:25進場、15:00開始。卡司包含理想混蛋、婁峻碩、公館青少年(王謙、郁欣),主持為寶賤。"
+      "note": "［免費］\n北一女中123週年校慶,活動時間14:25進場、15:00開始。卡司包含理想混蛋、婁峻碩、公館青少年(王謙、郁欣),主持為寶賤。"
     },
     {
       "id": "upcoming-row-642",
       "date": "20261220",
       "band": "band_6gp8um_52",
       "time": "未公布",
-      "name": "台北 北一女中123週年校慶舞會",
+      "name": "台北市 北一女中123週年校慶舞會",
       "location": "台北市北一女中操場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
-      "note": "［售票］\n北一女中123週年校慶,活動時間14:25進場、15:00開始。卡司包含理想混蛋、婁峻碩、公館青少年(王謙、郁欣),主持為寶賤。"
+      "note": "［免費］\n北一女中123週年校慶,活動時間14:25進場、15:00開始。卡司包含理想混蛋、婁峻碩、公館青少年(王謙、郁欣),主持為寶賤。"
     },
     {
       "id": "upcoming-row-643",
       "date": "20261220",
       "band": "band_6gp8um_7",
       "time": "未公布",
-      "name": "台北 北一女中123週年校慶舞會",
+      "name": "台北市 北一女中123週年校慶舞會",
       "location": "台北市北一女中操場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
-      "note": "［售票］\n北一女中123週年校慶,活動時間14:25進場、15:00開始。卡司包含理想混蛋、婁峻碩、公館青少年(王謙、郁欣),主持為寶賤。"
+      "note": "［免費］\n北一女中123週年校慶,活動時間14:25進場、15:00開始。卡司包含理想混蛋、婁峻碩、公館青少年(王謙、郁欣),主持為寶賤。"
+    },
+    {
+      "id": "upcoming-row-785",
+      "date": "20261220",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "桃園市 中大壢中歲末晚會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［售票］\n可校外"
     },
     {
       "id": "upcoming-row-663",
@@ -30598,6 +30648,16 @@
       "location": "台南市政府永華市政中心西側廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8D%97%E5%B8%82%E6%96%B0%E7%87%9F%E5%8D%97%E7%80%9B%E7%B6%A0%E9%83%BD%E5%BF%83%E5%85%AC%E5%9C%92",
       "note": "［免費］\n活動於 2026/12/24 在台南市政府永華市政中心西側廣場舉辦,卡司包含玉澤演、周湯豪、彭佳慧、麋先生、THE BEAT GARDEN、胡恂舞、公館青少年、Martin Hurkens、張羽靚,主持人為徐凱希、籃籃、李多慧。"
+    },
+    {
+      "id": "upcoming-row-640",
+      "date": "20261224",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "台北市 北一女中123週年校慶舞會",
+      "location": "台北市北一女中操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E4%B8%80%E5%A5%B3%E4%B8%AD%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n北一女中123週年校慶,活動時間14:25進場、15:00開始。卡司包含理想混蛋、婁峻碩、公館青少年(王謙、郁欣),主持為寶賤。"
     },
     {
       "id": "upcoming-row-439",
@@ -31297,7 +31357,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布"
+      "note": "［免費］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布\n待公佈"
     },
     {
       "id": "upcoming-row-511",
@@ -31307,7 +31367,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布"
+      "note": "［免費］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布\n待公佈"
     },
     {
       "id": "upcoming-row-512",
@@ -31317,7 +31377,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布"
+      "note": "［免費］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布\n待公佈"
     },
     {
       "id": "upcoming-row-513",
@@ -31327,7 +31387,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布"
+      "note": "［免費］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布\n待公佈"
     },
     {
       "id": "upcoming-row-570",
@@ -31577,7 +31637,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布"
+      "note": "［免費］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布\n待公佈"
     },
     {
       "id": "upcoming-row-683",
@@ -31587,7 +31647,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布"
+      "note": "［免費］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布\n待公佈"
     },
     {
       "id": "upcoming-row-684",
@@ -31597,7 +31657,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布"
+      "note": "［免費］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布\n待公佈"
     },
     {
       "id": "upcoming-row-685",
@@ -31607,7 +31667,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布"
+      "note": "［免費］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布\n待公佈"
     },
     {
       "id": "upcoming-row-698",
@@ -31737,7 +31797,7 @@
       "name": "台中 文心森林公園《FOREVER YOUNG》跨年演唱會",
       "location": "台中文心森林公園圓滿戶外劇場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%96%87%E5%BF%83%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%9C%93%E6%BB%BF%E6%88%B6%E5%A4%96%E5%8A%87%E5%A0%B4",
-      "note": "［售票］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布"
+      "note": "［免費］\n跨年演唱會,第二波卡司包含胡凱兒、Traveller 旅人、固定客、紙鳶;已公佈卡司包含美秀集團、溫蒂漫步、公館青少年、IRIS MONDO。\n本祭演出時間尚未公布\n待公佈"
     },
     {
       "id": "upcoming-row-739",
@@ -31828,6 +31888,16 @@
       "location": "高雄市前鎮區夢時代購物中心",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80%E5%A4%A2%E6%99%82%E4%BB%A3%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83",
       "note": "［免費］\n卡司包含孫淑媚、許富凱、Ozone、HUR+彭佳慧、畢書盡、閻奕格,主持人為林葦妮、黃偉晉"
+    },
+    {
+      "id": "upcoming-row-786",
+      "date": "20261231",
+      "band": "gongguan",
+      "time": "未公布",
+      "name": "台南市 台南好ʏᴏᴜɴɢ・搖滾耶誕演唱會",
+      "location": "未公布",
+      "mapLink": "",
+      "note": "［售票］"
     },
     {
       "id": "upcoming-row-514",
@@ -32615,6 +32685,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "fc97cbd7-4305-409c-b07f-24f4993ee089",
-  "updatedAt": "2026-11-24T09:34:12.102Z"
+  "revision": "2bdaa116-4f8b-4050-968c-ccadf0c1644d",
+  "updatedAt": "2026-11-24T09:39:27.307Z"
 }
