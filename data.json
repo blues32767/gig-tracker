@@ -8778,6 +8778,14 @@
       "eventCount": 1
     },
     {
+      "id": "kire",
+      "name": "KIRE 凱爾",
+      "short": "KI",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -26691,7 +26699,7 @@
       "name": "桃園 健行科大 60 週年校慶演唱會",
       "location": "健行科技大學操場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
-      "note": "［免費］\n校慶演唱會,15:00開放入場,卡司包含蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等。"
+      "note": "［免費］\n校慶演唱會,包含 KIRE 凱爾、F.F.O、陳勢安、蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等藝人。"
     },
     {
       "id": "upcoming-row-729",
@@ -26701,7 +26709,7 @@
       "name": "桃園 健行科大 60 週年校慶演唱會",
       "location": "健行科技大學操場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
-      "note": "［免費］\n校慶演唱會,15:00開放入場,卡司包含蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等。"
+      "note": "［免費］\n校慶演唱會,包含 KIRE 凱爾、F.F.O、陳勢安、蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等藝人。"
     },
     {
       "id": "upcoming-row-730",
@@ -26711,7 +26719,7 @@
       "name": "桃園 健行科大 60 週年校慶演唱會",
       "location": "健行科技大學操場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
-      "note": "［免費］\n校慶演唱會,15:00開放入場,卡司包含蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等。"
+      "note": "［免費］\n校慶演唱會,包含 KIRE 凱爾、F.F.O、陳勢安、蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等藝人。"
     },
     {
       "id": "upcoming-row-731",
@@ -26721,7 +26729,7 @@
       "name": "桃園 健行科大 60 週年校慶演唱會",
       "location": "健行科技大學操場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
-      "note": "［免費］\n校慶演唱會,15:00開放入場,卡司包含蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等。"
+      "note": "［免費］\n校慶演唱會,包含 KIRE 凱爾、F.F.O、陳勢安、蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等藝人。"
     },
     {
       "id": "upcoming-row-769",
@@ -26731,7 +26739,7 @@
       "name": "桃園 健行科大 60 週年校慶演唱會",
       "location": "健行科技大學操場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
-      "note": "［免費］\n校慶演唱會,15:00開放入場,卡司包含蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等。"
+      "note": "［免費］\n校慶演唱會,包含 KIRE 凱爾、F.F.O、陳勢安、蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等藝人。"
     },
     {
       "id": "upcoming-row-770",
@@ -26741,7 +26749,17 @@
       "name": "桃園 健行科大 60 週年校慶演唱會",
       "location": "健行科技大學操場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
-      "note": "［免費］\n校慶演唱會,15:00開放入場,卡司包含蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等。"
+      "note": "［免費］\n校慶演唱會,包含 KIRE 凱爾、F.F.O、陳勢安、蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等藝人。"
+    },
+    {
+      "id": "upcoming-row-777",
+      "date": "20261205",
+      "band": "kire",
+      "time": "18:00-21:00",
+      "name": "桃園 健行科大 60 週年校慶演唱會",
+      "location": "健行科技大學操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n校慶演唱會,包含 KIRE 凱爾、F.F.O、陳勢安、蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等藝人。"
     },
     {
       "id": "upcoming-row-147",
@@ -32569,6 +32587,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "b8e87189-53a5-4cfd-ad73-cb7b4992ca4a",
-  "updatedAt": "2026-11-24T06:34:41.382Z"
+  "revision": "c1f1443c-18ea-4589-96b4-647107782d81",
+  "updatedAt": "2026-11-24T06:35:44.309Z"
 }
