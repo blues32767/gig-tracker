@@ -8834,6 +8834,14 @@
       "eventCount": 1
     },
     {
+      "id": "band_xebf3p_2",
+      "name": "糖果星球對派對姊姊",
+      "short": "糖果",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
       "id": "laniyaro",
       "name": "馬太鞍部落青年 Laniyaro’",
       "short": "馬太鞍部落青年 Laniyaro’",
@@ -30287,7 +30295,7 @@
       "name": "大鵬灣暖冬派對2026",
       "location": "青洲灣",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%B4%B2%E7%81%A3",
-      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派姊妹等演出。"
+      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派對姊姊等演出。"
     },
     {
       "id": "upcoming-row-789",
@@ -30297,7 +30305,7 @@
       "name": "大鵬灣暖冬派對2026",
       "location": "青洲灣",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%B4%B2%E7%81%A3",
-      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派姊妹等演出。"
+      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派對姊姊等演出。"
     },
     {
       "id": "upcoming-row-790",
@@ -30307,7 +30315,7 @@
       "name": "大鵬灣暖冬派對2026",
       "location": "青洲灣",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%B4%B2%E7%81%A3",
-      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派姊妹等演出。"
+      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派對姊姊等演出。"
     },
     {
       "id": "upcoming-row-791",
@@ -30317,7 +30325,17 @@
       "name": "大鵬灣暖冬派對2026",
       "location": "青洲灣",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%B4%B2%E7%81%A3",
-      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派姊妹等演出。"
+      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派對姊姊等演出。"
+    },
+    {
+      "id": "upcoming-row-792",
+      "date": "20261219",
+      "band": "band_xebf3p_2",
+      "time": "17:00-17:30",
+      "name": "大鵬灣暖冬派對2026",
+      "location": "青洲灣",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%B4%B2%E7%81%A3",
+      "note": "［免費］\n包含廖文強、卓文萱、雙人樂團、糖果星球對派對姊姊等演出。"
     },
     {
       "id": "upcoming-row-424",
@@ -32775,6 +32793,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "5ca8e023-caa3-47bb-95b7-f9878842485a",
-  "updatedAt": "2026-11-24T12:39:40.246Z"
+  "revision": "fa8a42de-47a5-484f-8c36-eebbf2bb5aeb",
+  "updatedAt": "2026-11-24T15:39:23.387Z"
 }
