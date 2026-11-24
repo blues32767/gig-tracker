@@ -426,6 +426,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_69",
+      "name": "陳勢安",
+      "short": "陳勢安",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "band_6gp8um_25",
       "name": "陳華",
       "short": "陳華",
@@ -464,6 +472,14 @@
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 6
+    },
+    {
+      "id": "ffo",
+      "name": "F.F.O",
+      "short": "F.F.O",
+      "color": "#00b4d8",
+      "category": "團體",
+      "eventCount": 5
     },
     {
       "id": "joyce",
@@ -594,14 +610,6 @@
       "eventCount": 5
     },
     {
-      "id": "band_drsiw0_69",
-      "name": "陳勢安",
-      "short": "陳勢安",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
       "id": "band_drsiw0_72",
       "name": "謝語恩",
       "short": "謝語恩",
@@ -687,14 +695,6 @@
       "short": "Juice Boy",
       "color": "#2ec4b6",
       "category": "個人",
-      "eventCount": 4
-    },
-    {
-      "id": "ffo",
-      "name": "F.F.O",
-      "short": "F.F.O",
-      "color": "#00b4d8",
-      "category": "團體",
       "eventCount": 4
     },
     {
@@ -26656,6 +26656,26 @@
       "note": "［免費］\n校慶演唱會,15:00開放入場,卡司包含蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等。"
     },
     {
+      "id": "upcoming-row-769",
+      "date": "20261205",
+      "band": "ffo",
+      "time": "18:00-21:00",
+      "name": "桃園 健行科大 60 週年校慶演唱會",
+      "location": "健行科技大學操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n校慶演唱會,15:00開放入場,卡司包含蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等。"
+    },
+    {
+      "id": "upcoming-row-770",
+      "date": "20261205",
+      "band": "band_drsiw0_69",
+      "time": "18:00-21:00",
+      "name": "桃園 健行科大 60 週年校慶演唱會",
+      "location": "健行科技大學操場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%81%A5%E8%A1%8C%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E6%93%8D%E5%A0%B4",
+      "note": "［免費］\n校慶演唱會,15:00開放入場,卡司包含蕭秉治、鼓鼓 呂思緯、派偉俊、陳華等。"
+    },
+    {
       "id": "upcoming-row-147",
       "date": "20261206",
       "band": "AmazingShow",
@@ -32481,6 +32501,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d5fee0f6-6fae-46b2-87d7-45d8630591ff",
-  "updatedAt": "2026-11-23T18:41:42.531Z"
+  "revision": "f119c0df-7dce-461d-bce9-dd088dffb059",
+  "updatedAt": "2026-11-24T03:34:21.873Z"
 }
