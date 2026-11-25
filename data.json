@@ -2450,6 +2450,14 @@
       "eventCount": 2
     },
     {
+      "id": "band_32tclr_9",
+      "name": "當代電影大師",
+      "short": "當代電影大師",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 2
+    },
+    {
       "id": "band_6u8lrj_65",
       "name": "宅邦戰隊",
       "short": "宅邦戰隊",
@@ -7146,14 +7154,6 @@
       "eventCount": 1
     },
     {
-      "id": "band_32tclr_9",
-      "name": "當代電影大師",
-      "short": "當代電影大師",
-      "color": "#fb5607",
-      "category": "樂團",
-      "eventCount": 1
-    },
-    {
       "id": "band_uhxcnu_3",
       "name": "藝舞蓉文化藝術團",
       "short": "藝舞蓉文化藝術團",
@@ -8918,6 +8918,14 @@
       "name": "陳忻穎",
       "short": "陳忻",
       "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "mindbodysoul",
+      "name": "心頭肉 MindBodySoul",
+      "short": "心頭",
+      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
     },
@@ -33070,6 +33078,26 @@
       "location": "台中市清水鰲峰山運動公園",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E9%B0%B2%E5%B3%B0%E5%B1%B1%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
       "note": "［售票］\n本祭演出時間尚未公布|*Tele [JP]、康士坦的變化球 KST、다다다 DADADA [KR]、ねぎ塩豚丼 [JP]、luv [JP]、TRASH、イルカポリス 海豚刑警、溫蒂漫步 Wendy Wander、Crispy脆樂團、NEK! [JP]、Who Cares 胡凱兒、FCO. [JP]、淺堤 Shallow Levée、我是機車少女 I'mdifficult、上山、美秀集團、梁河懸、回聲樂團 Echo of Your Soul、薄暮 EVENFALL、血肉果汁機 Flesh Juicer、까치산 KACHISAN [KR]、ひとひら [JP]、SONG NING [MY]、ハンブレッダーズ [JP]、Alien Avenge 異族亡魂、PompadollS [JP]、P!SCO、A_Root 同根生、Sabrina 胡恂舞、Blue Mash [JP]、甜約翰 Sweet John、木苺FRUCTOSE、AKIRA KURØ [TH]、Pure makeR、Quubi with 九尾Band [JP]、HIBANA [JP]、衛星とカラテア [JP]、Primulav、Ruka Banana、幻獣、Immerse、Happy Holiday!!、yosugala (Band Set) [JP]、天国地獄、月宵◇クレシェンテ、THEΔRAREz、Maru Z [HK] 未訂(演出日期未定,暫列活動首日)\n活動日期:2027 年 2 月 20 日(五)至 2 月 21 日(六)"
+    },
+    {
+      "id": "upcoming-row-785",
+      "date": "20270306",
+      "band": "mindbodysoul",
+      "time": "未公布",
+      "name": "臺北 雨山祭",
+      "location": "臺北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82",
+      "note": "［售票］\n本祭演出時間尚未公布"
+    },
+    {
+      "id": "upcoming-row-786",
+      "date": "20270306",
+      "band": "band_32tclr_9",
+      "time": "未公布",
+      "name": "臺北 雨山祭",
+      "location": "臺北市",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82",
+      "note": "［售票］\n本祭演出時間尚未公布"
     }
   ],
   "songsMap": {
@@ -33307,6 +33335,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "32618252-d9ab-4019-87b7-e4805f2a35b4",
-  "updatedAt": "2026-11-25T18:43:52.282Z"
+  "revision": "30537420-105b-40bd-bac8-005131d9792e",
+  "updatedAt": "2026-11-25T18:49:49.654Z"
 }
