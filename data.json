@@ -25363,7 +25363,7 @@
       "name": "台北 Garmin Run 馬拉松系列賽-賽後演唱會",
       "location": "台北市大佳河濱公園廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\nGarmin Run 馬拉松系列賽臺北站賽後演唱會"
+      "note": "［免費］\nGarmin Run 馬拉松系列賽臺北站賽後演唱會,卡司包含高爾宣 OSN、PIZZALI。"
     },
     {
       "id": "upcoming-row-765",
@@ -25373,7 +25373,7 @@
       "name": "台北 Garmin Run 馬拉松系列賽-賽後演唱會",
       "location": "台北市大佳河濱公園廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\nGarmin Run 馬拉松系列賽臺北站賽後演唱會"
+      "note": "［免費］\nGarmin Run 馬拉松系列賽臺北站賽後演唱會,卡司包含高爾宣 OSN、PIZZALI。"
     },
     {
       "id": "upcoming-row-48",
@@ -33041,6 +33041,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ea3f8984-c49e-4680-8cdd-d68951c698ac",
-  "updatedAt": "2026-11-25T06:37:06.564Z"
+  "revision": "2fb6b319-747d-4372-8b25-54ed184d4a5c",
+  "updatedAt": "2026-11-25T06:38:32.959Z"
 }
