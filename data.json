@@ -26941,7 +26941,7 @@
       "name": "台北 JINS GO",
       "location": "台北市西門捷運廣場(捷運西門站6號出口)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E6%8D%B7%E9%81%8B%E5%BB%A3%E5%A0%B4(%E6%8D%B7%E9%81%8B%E8%A5%BF%E9%96%80%E7%AB%996%E8%99%9F%E5%87%BA%E5%8F%A3)",
-      "note": "［免費］\n卡司包含公館青少年、宇宙啦啦隊"
+      "note": "［免費］\n包含特別嘉賓宇宙啦啦隊、公館青少年"
     },
     {
       "id": "upcoming-row-806",
@@ -26951,7 +26951,7 @@
       "name": "台北 JINS GO",
       "location": "台北市西門捷運廣場(捷運西門站6號出口)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E6%8D%B7%E9%81%8B%E5%BB%A3%E5%A0%B4(%E6%8D%B7%E9%81%8B%E8%A5%BF%E9%96%80%E7%AB%996%E8%99%9F%E5%87%BA%E5%8F%A3)",
-      "note": "［免費］\n卡司包含公館青少年、宇宙啦啦隊"
+      "note": "［免費］\n包含特別嘉賓宇宙啦啦隊、公館青少年"
     },
     {
       "id": "upcoming-row-131",
@@ -33249,6 +33249,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "0ccf0aa4-93c3-4aaf-bb74-2b65771e43ff",
-  "updatedAt": "2026-11-25T12:41:30.375Z"
+  "revision": "7a3dfc0a-304a-4ea0-8394-f2c178514560",
+  "updatedAt": "2026-11-25T15:40:12.088Z"
 }
