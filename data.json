@@ -66,6 +66,14 @@
       "eventCount": 15
     },
     {
+      "id": "pizzali",
+      "name": "PIZZALI",
+      "short": "PIZZALI",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 14
+    },
+    {
       "id": "band_drsiw0_25",
       "name": "許富凱",
       "short": "許富凱",
@@ -80,14 +88,6 @@
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 14
-    },
-    {
-      "id": "pizzali",
-      "name": "PIZZALI",
-      "short": "PIZZALI",
-      "color": "#06d6a0",
-      "category": "個人",
-      "eventCount": 13
     },
     {
       "id": "icyball",
@@ -626,6 +626,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_drsiw0_73",
+      "name": "高爾宣",
+      "short": "高爾宣",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 5
+    },
+    {
       "id": "band_drsiw0_77",
       "name": "宇宙人",
       "short": "宇宙人",
@@ -807,14 +815,6 @@
       "short": "芒果街老爸",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "band_drsiw0_73",
-      "name": "高爾宣",
-      "short": "高爾宣",
-      "color": "#ef476f",
-      "category": "個人",
       "eventCount": 4
     },
     {
@@ -25348,6 +25348,26 @@
       "note": "［免費］\n2026 WINTER LIVE 演出卡司包含溫妮 WINNI、鼓鼓 呂思緯、Ray 黃霆睿、魏嘉瑩。"
     },
     {
+      "id": "upcoming-row-793",
+      "date": "20261129",
+      "band": "band_drsiw0_73",
+      "time": "未公布",
+      "name": "台北 Garmin Run 馬拉松系列賽-賽後演唱會",
+      "location": "台北市大佳河濱公園廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\nGarmin Run 馬拉松系列賽臺北站賽後演唱會"
+    },
+    {
+      "id": "upcoming-row-794",
+      "date": "20261129",
+      "band": "pizzali",
+      "time": "未公布",
+      "name": "台北 Garmin Run 馬拉松系列賽-賽後演唱會",
+      "location": "台北市大佳河濱公園廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E4%BD%B3%E6%B2%B3%E6%BF%B1%E5%85%AC%E5%9C%92%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\nGarmin Run 馬拉松系列賽臺北站賽後演唱會"
+    },
+    {
       "id": "upcoming-row-64",
       "date": "20261202",
       "band": "gongguan",
@@ -32793,6 +32813,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "fa8a42de-47a5-484f-8c36-eebbf2bb5aeb",
-  "updatedAt": "2026-11-24T15:39:23.387Z"
+  "revision": "c4ce12ef-a598-4cf6-870d-5bf357097572",
+  "updatedAt": "2026-11-25T03:35:12.511Z"
 }
