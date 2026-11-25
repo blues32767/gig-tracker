@@ -2508,7 +2508,7 @@
     {
       "id": "djmattdjsmas",
       "name": "DJ MATT & DJ SMASH",
-      "short": "DJ",
+      "short": "DJ MATT & DJ SMASH",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 2
@@ -2516,7 +2516,7 @@
     {
       "id": "winni",
       "name": "溫妮 WINNI",
-      "short": "溫妮",
+      "short": "溫妮 WINNI",
       "color": "#06d6a0",
       "category": "個人",
       "eventCount": 2
@@ -2524,7 +2524,7 @@
     {
       "id": "ray",
       "name": "Ray 黃霆睿",
-      "short": "Ra",
+      "short": "Ray 黃霆睿",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
@@ -8548,7 +8548,7 @@
     {
       "id": "marz23",
       "name": "Marz23",
-      "short": "Ma",
+      "short": "Marz23",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -8556,7 +8556,7 @@
     {
       "id": "someshiit",
       "name": "someshiit",
-      "short": "so",
+      "short": "someshiit",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -8564,7 +8564,7 @@
     {
       "id": "band_drsiw0_249",
       "name": "陳相合",
-      "short": "陳相",
+      "short": "陳相合",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -8572,7 +8572,7 @@
     {
       "id": "band_6u8lrj_82",
       "name": "蘿絲小姐",
-      "short": "蘿絲",
+      "short": "蘿絲小姐",
       "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
@@ -8580,7 +8580,7 @@
     {
       "id": "band_qqiyec_39",
       "name": "舞客星舞團",
-      "short": "舞客",
+      "short": "舞客星舞團",
       "color": "#ff006e",
       "category": "團體",
       "eventCount": 1
@@ -8588,7 +8588,7 @@
     {
       "id": "band_6u8lrj_83",
       "name": "畫家三其",
-      "short": "畫家",
+      "short": "畫家三其",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -8596,7 +8596,7 @@
     {
       "id": "band_drsiw0_250",
       "name": "艾蜜莉",
-      "short": "艾蜜",
+      "short": "艾蜜莉",
       "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
@@ -8604,7 +8604,7 @@
     {
       "id": "band_drsiw0_251",
       "name": "王中平",
-      "short": "王中",
+      "short": "王中平",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -8612,7 +8612,7 @@
     {
       "id": "band_drsiw0_252",
       "name": "田家達",
-      "short": "田家",
+      "short": "田家達",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -8620,7 +8620,7 @@
     {
       "id": "band_drsiw0_253",
       "name": "魏如昀",
-      "short": "魏如",
+      "short": "魏如昀",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 1
@@ -8628,7 +8628,7 @@
     {
       "id": "ntx",
       "name": "NTX",
-      "short": "NT",
+      "short": "NTX",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -8636,7 +8636,7 @@
     {
       "id": "band_uowupz",
       "name": "崔誠允(Y)",
-      "short": "崔誠",
+      "short": "崔誠允(Y)",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -8644,7 +8644,7 @@
     {
       "id": "band_6u8lrj_84",
       "name": "缺席舞團",
-      "short": "缺席",
+      "short": "缺席舞團",
       "color": "#118ab2",
       "category": "團體",
       "eventCount": 1
@@ -8652,7 +8652,7 @@
     {
       "id": "kdc",
       "name": "KDC金門流行舞團",
-      "short": "KD",
+      "short": "KDC金門流行舞團",
       "color": "#8338ec",
       "category": "團體",
       "eventCount": 1
@@ -8660,7 +8660,7 @@
     {
       "id": "gaiaville",
       "name": "蓋亞村 GaiaVille",
-      "short": "蓋亞",
+      "short": "蓋亞村 GaiaVille",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -8668,7 +8668,7 @@
     {
       "id": "band_6u8lrj_85",
       "name": "畫家其三",
-      "short": "畫家",
+      "short": "畫家其三",
       "color": "#fb5607",
       "category": "個人",
       "eventCount": 1
@@ -8676,7 +8676,7 @@
     {
       "id": "yuragi",
       "name": "Yuragi",
-      "short": "Yu",
+      "short": "Yuragi",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -8684,7 +8684,7 @@
     {
       "id": "xiexie",
       "name": "XIEXIE",
-      "short": "XI",
+      "short": "XIEXIE",
       "color": "#2ec4b6",
       "category": "樂團",
       "eventCount": 1
@@ -8692,7 +8692,7 @@
     {
       "id": "zooeywonder",
       "name": "Zooey Wonder",
-      "short": "Zo",
+      "short": "Zooey Wonder",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -8700,7 +8700,7 @@
     {
       "id": "irismondojp",
       "name": "IRIS MONDO [JP]",
-      "short": "IR",
+      "short": "IRIS MONDO [JP]",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -8708,7 +8708,7 @@
     {
       "id": "pompadollsjp",
       "name": "PompadollS [JP]",
-      "short": "Po",
+      "short": "PompadollS [JP]",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -8716,7 +8716,7 @@
     {
       "id": "bluemashjp",
       "name": "Blue Mash [JP]",
-      "short": "Bl",
+      "short": "Blue Mash [JP]",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -8724,7 +8724,7 @@
     {
       "id": "djjamieq",
       "name": "DJ Jamie Q",
-      "short": "DJ",
+      "short": "DJ Jamie Q",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -8732,7 +8732,7 @@
     {
       "id": "djryan",
       "name": "DJ Ryan",
-      "short": "DJ",
+      "short": "DJ Ryan",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -8740,7 +8740,7 @@
     {
       "id": "djjolin",
       "name": "DJ JOLIN",
-      "short": "DJ",
+      "short": "DJ JOLIN",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -8764,7 +8764,7 @@
     {
       "id": "8lak",
       "name": "8lak 張鈞",
-      "short": "8l",
+      "short": "8lak 張鈞",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -8780,7 +8780,7 @@
     {
       "id": "kire",
       "name": "KIRE 凱爾",
-      "short": "KI",
+      "short": "KIRE 凱爾",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -8796,7 +8796,7 @@
     {
       "id": "band_drsiw0_254",
       "name": "簡嘉彰",
-      "short": "簡嘉",
+      "short": "簡嘉彰",
       "color": "#ff006e",
       "category": "個人",
       "eventCount": 1
@@ -8804,7 +8804,7 @@
     {
       "id": "band_uhxcnu_5",
       "name": "糖果星球對派姊妹",
-      "short": "糖果",
+      "short": "糖果星球對派姊妹",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -8812,7 +8812,7 @@
     {
       "id": "band_6u8lrj_86",
       "name": "雙人樂團",
-      "short": "雙人",
+      "short": "雙人樂團",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -8820,7 +8820,7 @@
     {
       "id": "band_drsiw0_255",
       "name": "廖文強",
-      "short": "廖文",
+      "short": "廖文強",
       "color": "#00b4d8",
       "category": "個人",
       "eventCount": 1
@@ -8828,7 +8828,7 @@
     {
       "id": "band_drsiw0_256",
       "name": "卓文萱",
-      "short": "卓文",
+      "short": "卓文萱",
       "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 1
@@ -8836,7 +8836,7 @@
     {
       "id": "band_xebf3p_2",
       "name": "糖果星球對派對姊姊",
-      "short": "糖果",
+      "short": "糖果星球對派對姊姊",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -8844,7 +8844,7 @@
     {
       "id": "fructose",
       "name": "木苺FRUCTOSE",
-      "short": "木苺",
+      "short": "木苺FRUCTOSE",
       "color": "#ffd166",
       "category": "個人",
       "eventCount": 1
@@ -8852,7 +8852,7 @@
     {
       "id": "akirakurth",
       "name": "AKIRA KURØ [TH]",
-      "short": "AK",
+      "short": "AKIRA KURØ [TH]",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -8860,7 +8860,7 @@
     {
       "id": "puremaker",
       "name": "Pure makeR",
-      "short": "Pu",
+      "short": "Pure makeR",
       "color": "#118ab2",
       "category": "樂團",
       "eventCount": 1
@@ -8868,7 +8868,7 @@
     {
       "id": "quubiwithban",
       "name": "Quubi with 九尾Band [JP]",
-      "short": "Qu",
+      "short": "Quubi with 九尾Band [JP]",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -8876,7 +8876,7 @@
     {
       "id": "hibanajp",
       "name": "HIBANA [JP]",
-      "short": "HI",
+      "short": "HIBANA [JP]",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -8884,7 +8884,7 @@
     {
       "id": "band_feibnk_1",
       "name": "衛星とカラテア [JP]",
-      "short": "衛星",
+      "short": "衛星とカラテア [JP]",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -8892,7 +8892,7 @@
     {
       "id": "primulav",
       "name": "Primulav",
-      "short": "Pr",
+      "short": "Primulav",
       "color": "#3a86ff",
       "category": "樂團",
       "eventCount": 1
@@ -8900,7 +8900,7 @@
     {
       "id": "rukabanana",
       "name": "Ruka Banana",
-      "short": "Ru",
+      "short": "Ruka Banana",
       "color": "#00b4d8",
       "category": "樂團",
       "eventCount": 1
@@ -8916,7 +8916,7 @@
     {
       "id": "immerse",
       "name": "Immerse",
-      "short": "Im",
+      "short": "Immerse",
       "color": "#ef476f",
       "category": "樂團",
       "eventCount": 1
@@ -8924,7 +8924,7 @@
     {
       "id": "happyholiday",
       "name": "Happy Holiday!!",
-      "short": "Ha",
+      "short": "Happy Holiday!!",
       "color": "#ffd166",
       "category": "樂團",
       "eventCount": 1
@@ -8932,7 +8932,7 @@
     {
       "id": "yosugalaband",
       "name": "yosugala (Band Set) [JP]",
-      "short": "yo",
+      "short": "yosugala (Band Set) [JP]",
       "color": "#06d6a0",
       "category": "樂團",
       "eventCount": 1
@@ -8940,7 +8940,7 @@
     {
       "id": "band_6u8lrj_87",
       "name": "天国地獄",
-      "short": "天国",
+      "short": "天国地獄",
       "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
@@ -8948,7 +8948,7 @@
     {
       "id": "band_xebf3p_3",
       "name": "月宵◇クレシェンテ",
-      "short": "月宵",
+      "short": "月宵◇クレシェンテ",
       "color": "#8338ec",
       "category": "樂團",
       "eventCount": 1
@@ -8956,7 +8956,7 @@
     {
       "id": "therarez",
       "name": "THEΔRAREz",
-      "short": "TH",
+      "short": "THEΔRAREz",
       "color": "#ff006e",
       "category": "樂團",
       "eventCount": 1
@@ -8964,7 +8964,7 @@
     {
       "id": "maruzhk",
       "name": "Maru Z [HK]",
-      "short": "Ma",
+      "short": "Maru Z [HK]",
       "color": "#fb5607",
       "category": "樂團",
       "eventCount": 1
@@ -26533,7 +26533,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。\n時間來源:https://www.facebook.com/share/v/191enQ8A8N/\n來源：https://www.facebook.com/share/v/191enQ8A8N/"
     },
     {
       "id": "upcoming-row-131",
@@ -26543,7 +26543,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。\n時間來源：https://www.facebook.com/share/v/191enQ8A8N/"
     },
     {
       "id": "upcoming-row-132",
@@ -26683,7 +26683,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。\n時間來源：https://www.facebook.com/share/v/191enQ8A8N/"
     },
     {
       "id": "upcoming-row-146",
@@ -26693,7 +26693,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。\n時間來源：https://www.facebook.com/share/v/191enQ8A8N/"
     },
     {
       "id": "upcoming-row-569",
@@ -26703,7 +26703,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。\n時間來源：https://www.facebook.com/share/v/191enQ8A8N/"
     },
     {
       "id": "upcoming-row-574",
@@ -27049,11 +27049,11 @@
       "id": "upcoming-row-151",
       "date": "20261206",
       "band": "mango",
-      "time": "未公布",
+      "time": "18:50-19:20",
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。\n時間來源：https://www.facebook.com/share/v/191enQ8A8N/"
     },
     {
       "id": "upcoming-row-152",
@@ -27063,7 +27063,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。\n時間來源：https://www.facebook.com/share/v/191enQ8A8N/"
     },
     {
       "id": "upcoming-row-153",
@@ -27073,7 +27073,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。\n時間來源：https://www.facebook.com/share/v/191enQ8A8N/"
     },
     {
       "id": "upcoming-row-644",
@@ -27173,7 +27173,7 @@
       "name": "新竹 東興圳光藝節2026 東興圳光藝節開幕式",
       "location": "新竹縣竹北市文興路 (東興圳公園)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E6%96%87%E8%88%88%E8%B7%AF%20(%E6%9D%B1%E8%88%88%E5%9C%B3%E5%85%AC%E5%9C%92)",
-      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。卡司包含 DJ KEN LIN、米非 Mify、icyball 冰球樂團、高爾宣 OSN、范逸臣等。"
+      "note": "［免費］\n活動日期為 2026/12/05 (六) – 12/06 (日),共 8 組演出。\n時間來源：https://www.facebook.com/share/v/191enQ8A8N/"
     },
     {
       "id": "upcoming-row-725",
@@ -33101,6 +33101,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "22346e9f-0af9-4ae0-b629-d8140ad3f4c8",
-  "updatedAt": "2026-11-25T03:44:50.638Z"
+  "revision": "72f5b1a1-bebf-4529-bbc4-8c2c070fa451",
+  "updatedAt": "2026-11-25T06:01:56.976Z"
 }
