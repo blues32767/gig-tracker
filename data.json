@@ -15,7 +15,7 @@
       "short": "公館青少年",
       "color": "#2a9d8f",
       "category": "樂團",
-      "eventCount": 32
+      "eventCount": 33
     },
     {
       "id": "band_qqiyec_5",
@@ -2415,6 +2415,14 @@
       "short": "孩子王",
       "color": "#8338ec",
       "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_qqiyec_32",
+      "name": "宇宙啦啦隊",
+      "short": "宇宙啦啦隊",
+      "color": "#00b4d8",
+      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -7023,14 +7031,6 @@
       "short": "Ozone周子翔",
       "color": "#3a86ff",
       "category": "團體",
-      "eventCount": 1
-    },
-    {
-      "id": "band_qqiyec_32",
-      "name": "宇宙啦啦隊",
-      "short": "宇宙啦啦隊",
-      "color": "#00b4d8",
-      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -26902,6 +26902,26 @@
       "note": "［免費］\n待公佈"
     },
     {
+      "id": "upcoming-row-805",
+      "date": "20261205",
+      "band": "gongguan",
+      "time": "14:30-16:30",
+      "name": "台北 JINS GO",
+      "location": "台北市西門捷運廣場(捷運西門站6號出口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E6%8D%B7%E9%81%8B%E5%BB%A3%E5%A0%B4(%E6%8D%B7%E9%81%8B%E8%A5%BF%E9%96%80%E7%AB%996%E8%99%9F%E5%87%BA%E5%8F%A3)",
+      "note": "［免費］\n卡司包含公館青少年、宇宙啦啦隊"
+    },
+    {
+      "id": "upcoming-row-806",
+      "date": "20261205",
+      "band": "band_qqiyec_32",
+      "time": "14:30-16:30",
+      "name": "台北 JINS GO",
+      "location": "台北市西門捷運廣場(捷運西門站6號出口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E6%8D%B7%E9%81%8B%E5%BB%A3%E5%A0%B4(%E6%8D%B7%E9%81%8B%E8%A5%BF%E9%96%80%E7%AB%996%E8%99%9F%E5%87%BA%E5%8F%A3)",
+      "note": "［免費］\n卡司包含公館青少年、宇宙啦啦隊"
+    },
+    {
       "id": "upcoming-row-131",
       "date": "20261206",
       "band": "AmazingShow",
@@ -33097,6 +33117,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "b809338b-c20c-4183-8421-b08f367fa64c",
-  "updatedAt": "2026-11-25T06:42:59.636Z"
+  "revision": "6e32225c-7918-4bf4-9b0c-1bdf1cb35469",
+  "updatedAt": "2026-11-25T09:34:20.465Z"
 }
