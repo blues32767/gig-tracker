@@ -210,6 +210,14 @@
       "eventCount": 8
     },
     {
+      "id": "band",
+      "name": "粗大Band",
+      "short": "粗大Band",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 8
+    },
+    {
       "id": "band_drsiw0_59",
       "name": "固定客",
       "short": "固定客",
@@ -255,14 +263,6 @@
       "short": "FEniX",
       "color": "#8338ec",
       "category": "團體",
-      "eventCount": 7
-    },
-    {
-      "id": "band",
-      "name": "粗大Band",
-      "short": "粗大Band",
-      "color": "#ef476f",
-      "category": "樂團",
       "eventCount": 7
     },
     {
@@ -8942,6 +8942,14 @@
       "name": "李承桓",
       "short": "李承",
       "color": "#ffd166",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6gp8um_106",
+      "name": "班恩",
+      "short": "班恩",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 1
     },
@@ -29716,6 +29724,26 @@
       "note": "［售票］\n逢甲大學舉辦的校園聖誕演唱會,卡司包含怕胖團、李浩瑋、吳霏、艾薇、徐暐翔、欣菲、粗大Band、C.HoIly、BIDO 曾愷妤,主持人為聖恩。"
     },
     {
+      "id": "upcoming-row-789",
+      "date": "20261216",
+      "band": "band",
+      "time": "17:00-21:00",
+      "name": "嘉義 聖誕喜羊羊・庚嘉Sing心",
+      "location": "嘉義縣長庚科技大學嘉義分部C棟南側花園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E9%95%B7%E5%BA%9A%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%98%89%E7%BE%A9%E5%88%86%E9%83%A8C%E6%A3%9F%E5%8D%97%E5%81%B4%E8%8A%B1%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n聖誕主題活動,卡司包含粗大Band、班恩"
+    },
+    {
+      "id": "upcoming-row-790",
+      "date": "20261216",
+      "band": "band_6gp8um_106",
+      "time": "17:00-21:00",
+      "name": "嘉義 聖誕喜羊羊・庚嘉Sing心",
+      "location": "嘉義縣長庚科技大學嘉義分部C棟南側花園區",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E7%B8%A3%E9%95%B7%E5%BA%9A%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%98%89%E7%BE%A9%E5%88%86%E9%83%A8C%E6%A3%9F%E5%8D%97%E5%81%B4%E8%8A%B1%E5%9C%92%E5%8D%80",
+      "note": "［免費］\n聖誕主題活動,卡司包含粗大Band、班恩"
+    },
+    {
       "id": "upcoming-row-168",
       "date": "20261217",
       "band": "gongguan",
@@ -33371,6 +33399,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e9a58827-c325-459e-90bf-2b0c18842791",
-  "updatedAt": "2026-11-26T03:41:35.360Z"
+  "revision": "7ea5950e-4568-428e-99ba-3f9d410ec9ca",
+  "updatedAt": "2026-11-26T06:34:03.120Z"
 }
