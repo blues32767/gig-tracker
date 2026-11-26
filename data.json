@@ -55,7 +55,7 @@
       "short": "Sabrina 胡恂舞",
       "color": "#8338ec",
       "category": "個人",
-      "eventCount": 17
+      "eventCount": 18
     },
     {
       "id": "band_nmq1yt",
@@ -71,7 +71,7 @@
       "short": "PIZZALI",
       "color": "#06d6a0",
       "category": "個人",
-      "eventCount": 14
+      "eventCount": 15
     },
     {
       "id": "band_drsiw0_25",
@@ -146,10 +146,26 @@
       "eventCount": 10
     },
     {
+      "id": "band_drsiw0_71",
+      "name": "曾愷妤",
+      "short": "曾愷妤",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 10
+    },
+    {
       "id": "WendyWander",
       "name": "溫蒂漫步",
       "short": "溫蒂漫步",
       "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 9
+    },
+    {
+      "id": "band",
+      "name": "粗大Band",
+      "short": "粗大Band",
+      "color": "#ef476f",
       "category": "樂團",
       "eventCount": 9
     },
@@ -167,14 +183,6 @@
       "short": "白頻率",
       "color": "#2ec4b6",
       "category": "樂團",
-      "eventCount": 9
-    },
-    {
-      "id": "band_drsiw0_71",
-      "name": "曾愷妤",
-      "short": "曾愷妤",
-      "color": "#00b4d8",
-      "category": "個人",
       "eventCount": 9
     },
     {
@@ -210,19 +218,19 @@
       "eventCount": 8
     },
     {
-      "id": "band",
-      "name": "粗大Band",
-      "short": "粗大Band",
-      "color": "#ef476f",
-      "category": "樂團",
-      "eventCount": 8
-    },
-    {
       "id": "band_drsiw0_59",
       "name": "固定客",
       "short": "固定客",
       "color": "#ffd166",
       "category": "樂團",
+      "eventCount": 8
+    },
+    {
+      "id": "band_drsiw0_69",
+      "name": "陳勢安",
+      "short": "陳勢安",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 8
     },
     {
@@ -295,14 +303,6 @@
       "short": "P!SCO",
       "color": "#fb5607",
       "category": "樂團",
-      "eventCount": 7
-    },
-    {
-      "id": "band_drsiw0_69",
-      "name": "陳勢安",
-      "short": "陳勢安",
-      "color": "#fb5607",
-      "category": "個人",
       "eventCount": 7
     },
     {
@@ -954,6 +954,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_199",
+      "name": "蔡承祐",
+      "short": "蔡承祐",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_qqiyec_35",
       "name": "小男孩樂團",
       "short": "小男孩樂團",
@@ -1498,14 +1506,6 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_199",
-      "name": "蔡承祐",
-      "short": "蔡承祐",
-      "color": "#3a86ff",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "band_6gp8um_88",
       "name": "李李",
       "short": "李李",
@@ -1702,6 +1702,14 @@
       "name": "林頤原",
       "short": "林頤原",
       "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_6gp8um_23",
+      "name": "翁祥",
+      "short": "翁祥",
+      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 2
     },
@@ -3310,14 +3318,6 @@
       "name": "洋蔥",
       "short": "洋蔥",
       "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_6gp8um_23",
-      "name": "翁祥",
-      "short": "翁祥",
-      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 1
     },
@@ -8950,6 +8950,14 @@
       "name": "班恩",
       "short": "班恩",
       "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_6u8lrj_88",
+      "name": "崴崴孟孟",
+      "short": "崴崴",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 1
     },
@@ -25364,6 +25372,86 @@
       "note": "［免費］\n活動於2026/11/26舉行,入場時間17:40,演出開始18:00。卡司包含畢書盡、蕭秉治、鼓鼓 呂思緯、徐暐翔、艾薇、吳霏、欣菲、李貞潤、ARKis,主持人為聖恩。\n校內限定演出"
     },
     {
+      "id": "upcoming-row-791",
+      "date": "20261126",
+      "band": "sabrina",
+      "time": "17:55-18:15",
+      "name": "屏東 屏東大學校慶演唱會",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n校外人士晚半小時開放進場,且不參與抽獎及周邊。"
+    },
+    {
+      "id": "upcoming-row-792",
+      "date": "20261126",
+      "band": "band_6gp8um_23",
+      "time": "18:15-18:35",
+      "name": "屏東 屏東大學校慶演唱會",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n校外人士晚半小時開放進場,且不參與抽獎及周邊。"
+    },
+    {
+      "id": "upcoming-row-793",
+      "date": "20261126",
+      "band": "band",
+      "time": "18:45-19:15",
+      "name": "屏東 屏東大學校慶演唱會",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n校外人士晚半小時開放進場,且不參與抽獎及周邊。"
+    },
+    {
+      "id": "upcoming-row-794",
+      "date": "20261126",
+      "band": "pizzali",
+      "time": "19:15-19:35",
+      "name": "屏東 屏東大學校慶演唱會",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n校外人士晚半小時開放進場,且不參與抽獎及周邊。"
+    },
+    {
+      "id": "upcoming-row-795",
+      "date": "20261126",
+      "band": "band_6u8lrj_88",
+      "time": "19:35-19:55",
+      "name": "屏東 屏東大學校慶演唱會",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n校外人士晚半小時開放進場,且不參與抽獎及周邊。"
+    },
+    {
+      "id": "upcoming-row-796",
+      "date": "20261126",
+      "band": "band_drsiw0_199",
+      "time": "19:55-20:15",
+      "name": "屏東 屏東大學校慶演唱會",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n校外人士晚半小時開放進場,且不參與抽獎及周邊。"
+    },
+    {
+      "id": "upcoming-row-797",
+      "date": "20261126",
+      "band": "band_drsiw0_71",
+      "time": "20:15-20:35",
+      "name": "屏東 屏東大學校慶演唱會",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n校外人士晚半小時開放進場,且不參與抽獎及周邊。"
+    },
+    {
+      "id": "upcoming-row-798",
+      "date": "20261126",
+      "band": "band_drsiw0_69",
+      "time": "20:35-20:55",
+      "name": "屏東 屏東大學校慶演唱會",
+      "location": "國立屏東大學屏商校區活動中心/中央步道",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%AD%B8%E5%B1%8F%E5%95%86%E6%A0%A1%E5%8D%80%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%2F%E4%B8%AD%E5%A4%AE%E6%AD%A5%E9%81%93",
+      "note": "［免費］\n校外人士晚半小時開放進場,且不參與抽獎及周邊。"
+    },
+    {
       "id": "upcoming-row-714",
       "date": "20261127",
       "band": "gongguan",
@@ -33399,6 +33487,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7ea5950e-4568-428e-99ba-3f9d410ec9ca",
-  "updatedAt": "2026-11-26T06:34:03.120Z"
+  "revision": "b8f60a97-0308-4c26-8a3c-e5c655b88d63",
+  "updatedAt": "2026-11-26T06:34:53.672Z"
 }
