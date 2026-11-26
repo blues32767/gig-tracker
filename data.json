@@ -25447,7 +25447,7 @@
       "name": "高雄 中山高中-青春校園誌",
       "location": "高雄市楠梓區中山高中",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E4%B8%AD%E5%B1%B1%E9%AB%98%E4%B8%AD",
-      "note": "［免費］\n[免費]不對外開放\n校內限定\n可校外"
+      "note": "［免費］\n[免費]不對外開放\n校內限定\n可校外\n校園演唱會"
     },
     {
       "id": "upcoming-row-12",
@@ -29087,7 +29087,7 @@
       "name": "高雄 中山高中-青春校園誌",
       "location": "高雄市楠梓區中山高中",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%B8%82%E6%A5%A0%E6%A2%93%E5%8D%80%E4%B8%AD%E5%B1%B1%E9%AB%98%E4%B8%AD",
-      "note": "［免費］\n[免費]不對外開放\n校內限定\n可校外"
+      "note": "［免費］\n[免費]不對外開放\n校內限定\n可校外\n校園演唱會"
     },
     {
       "id": "upcoming-row-101",
@@ -30627,7 +30627,7 @@
       "name": "台中 逢甲大學校園聖誕演唱會",
       "location": "未公布",
       "mapLink": "",
-      "note": "［免費］"
+      "note": "［免費］\n聖誕演唱會"
     },
     {
       "id": "upcoming-row-366",
@@ -32511,13 +32511,13 @@
     },
     {
       "id": "upcoming-row-784",
-      "date": "20270117",
+      "date": "20270116",
       "band": "papunband",
       "time": "未公布",
       "name": "台南 南瀛草地音樂會",
       "location": "未公布",
       "mapLink": "",
-      "note": "［售票］"
+      "note": "［售票］\n音樂會演出"
     },
     {
       "id": "upcoming-row-542",
@@ -33335,6 +33335,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "5de6385b-21e7-4045-a347-bc5e845c5d4d",
-  "updatedAt": "2026-11-25T21:34:52.141Z"
+  "revision": "de0a5437-8461-43de-97d4-d81edcb53f44",
+  "updatedAt": "2026-11-26T00:34:49.689Z"
 }
