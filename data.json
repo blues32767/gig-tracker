@@ -402,6 +402,14 @@
       "eventCount": 7
     },
     {
+      "id": "band_l0o0l9",
+      "name": "...",
+      "short": "...",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
       "id": "band_6gp8um_61",
       "name": "團名",
       "short": "團名",
@@ -503,14 +511,6 @@
       "short": "彭佳慧",
       "color": "#00b4d8",
       "category": "個人",
-      "eventCount": 6
-    },
-    {
-      "id": "band_l0o0l9",
-      "name": "...",
-      "short": "...",
-      "color": "#ffd166",
-      "category": "樂團",
       "eventCount": 6
     },
     {
@@ -29402,6 +29402,16 @@
       "note": "［免費］\n2026新北歡樂耶誕城巨星耶誕演唱會,包含幻藍小熊、李東軒、婁峻碩、黃偉晉、魏嘉瑩、ARKis、FEniX、曾沛慈、盧廣仲、小男孩樂團、李杰明、周予天、陳勢安、陳華、陳忻玥、Ozone、品冠、玖壹壹等藝人演出。"
     },
     {
+      "id": "upcoming-row-827",
+      "date": "20261212",
+      "band": "band_l0o0l9",
+      "time": "未公布",
+      "name": "台北 條通祭 2026 Tiaotong Festival",
+      "location": "台北林森公園(台北市中山區林森北路 & 南京東路交叉口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E5%85%AC%E5%9C%92(%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF%20%26%20%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3)",
+      "note": "［售票］\n本祭演出時間尚未公布|*Yuragi [JP]、Hello Nico、持修 Chih Siou、海豚刑警 Iruka Porisu、DJ MATT、DJ SMASH、SUSPENDED 4TH [JP]、拍謝少年 Sorry Youth、陳珊妮 Sandee Chan、盧廣仲 Crowd Lu、DJ SMASH、DJ MATT、溫蒂漫步 Wendy Wander、傻子與白痴 Fool and Idiot、硝子羊 Verrisca、ALI [JP]、傷心欲絕 Wayne's So Sad、XIEXIE [JP] 未訂(演出日期未定,暫列活動首日)\n資訊來源:https://www.threads.com/share/FufhzFKwA/\n✴ 條通祭 2026 Tiaotong Festival ✴\n↪ 條音派對 Tiaotong Music Party\n日  期 ⌇ 2026.12.12 - 13\n地  點 ⌇ 林森公園(台北市中山區林森北路 & 南京東路交叉口)\n盧廣仲|陸續公布中...\n來源：https://www.threads.com/share/FufhzFKwA/"
+    },
+    {
       "id": "upcoming-row-92",
       "date": "20261213",
       "band": "band_drsiw0_58",
@@ -33987,6 +33997,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "c303efb9-e591-4145-b3cf-d815fd39883f",
-  "updatedAt": "2026-11-27T16:24:00.545Z"
+  "revision": "7ea94bce-a405-4a5d-8cef-49169a29ae92",
+  "updatedAt": "2026-11-27T16:28:10.965Z"
 }
