@@ -730,6 +730,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_6gp8um_61",
+      "name": "團名",
+      "short": "團名",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
       "id": "band_qqiyec_35",
       "name": "小男孩樂團",
       "short": "小男孩樂團",
@@ -990,14 +998,6 @@
       "name": "...",
       "short": "...",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "band_6gp8um_61",
-      "name": "團名",
-      "short": "團名",
-      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 4
     },
@@ -29291,7 +29291,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-800",
@@ -29301,7 +29301,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-801",
@@ -29311,7 +29311,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-802",
@@ -29321,7 +29321,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-803",
@@ -29331,7 +29331,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-811",
@@ -29341,7 +29341,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-814",
@@ -29352,6 +29352,16 @@
       "location": "新北市政府市民廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E5%B8%82%E6%B0%91%E5%BB%A3%E5%A0%B4",
       "note": "［免費］\n巨星耶誕演唱會,包含幻藍小熊、李東軒、婁峻碩、黃偉晉、魏嘉瑩、ARKis、FEniX & X-TONE、曾沛慈、盧廣仲、小男孩樂團、李杰明、周予天、陳勢安、陳華、陳忻玥、Ozone、品冠、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-816",
+      "date": "20261212",
+      "band": "band_6gp8um_61",
+      "time": "未公布",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-92",
@@ -29851,7 +29861,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-805",
@@ -29861,7 +29871,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-806",
@@ -29871,7 +29881,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-807",
@@ -29881,7 +29891,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-808",
@@ -29891,7 +29901,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-809",
@@ -29901,7 +29911,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-810",
@@ -29911,7 +29921,7 @@
       "name": "高雄 夢時代星空音樂日",
       "location": "高雄夢時代 1F 夢想廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+      "note": "［免費］\n包含閻奕格、幽靈水晶、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-95",
@@ -33859,6 +33869,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "17767668-4d82-464c-9658-90d4afb55ca6",
-  "updatedAt": "2026-11-27T09:58:23.541Z"
+  "revision": "9049c429-f340-4d7a-b943-c0e6b127c502",
+  "updatedAt": "2026-11-27T10:04:45.165Z"
 }
