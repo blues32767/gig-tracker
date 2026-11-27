@@ -282,6 +282,14 @@
       "eventCount": 8
     },
     {
+      "id": "band_6gp8um_61",
+      "name": "團名",
+      "short": "團名",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 8
+    },
+    {
       "id": "band_6gp8um_1",
       "name": "王謙",
       "short": "王謙",
@@ -414,14 +422,6 @@
       "name": "...",
       "short": "...",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 7
-    },
-    {
-      "id": "band_6gp8um_61",
-      "name": "團名",
-      "short": "團名",
-      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 7
     },
@@ -27202,6 +27202,16 @@
       "note": "［免費］\n活動原定10/24,因颱風延期至2026/12/5舉辦,原班人馬\n活動因颱風/天候/故延期,但新日期未定。\n活動於 2026/12/05 下午 14:00 至 23:00 舉辦,卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團、慶記 KTV 羅曼迪克,主持為聖恩。\n音樂祭頁面資訊,活動於 2026/12/05 (六) 舉辦,陣容共 13 組演出。\n2026 FUN肆音樂節,共 13 組演出陣容。\n可校外參加\n來源：https://www.threads.com/share/QAPYySrr3/"
     },
     {
+      "id": "upcoming-row-839",
+      "date": "20261205",
+      "band": "band_6gp8um_61",
+      "time": "未公布",
+      "name": "嘉義市 嘉義花海生活節",
+      "location": "嘉義縣水上鄉活動會場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
+      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。\n可校外\n嘉義花海生活節,包含多個時段演出,當天有紀念品小活動。\n包含壓滿俱樂部、公館青少年、南西肯恩等演出,當天有紀念品小活動。\n2026花海生活節演出時間表"
+    },
+    {
       "id": "upcoming-row-85",
       "date": "20261206",
       "band": "AmazingShow",
@@ -34107,6 +34117,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "6077af9f-d274-42e2-b2fa-4252fc47e251",
-  "updatedAt": "2026-11-27T19:12:30.890Z"
+  "revision": "f3564ee5-7b6a-4acb-ac34-48cfd4909581",
+  "updatedAt": "2026-11-27T21:55:42.695Z"
 }
