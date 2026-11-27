@@ -210,6 +210,14 @@
       "eventCount": 9
     },
     {
+      "id": "band_6gp8um_61",
+      "name": "團名",
+      "short": "團名",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 9
+    },
+    {
       "id": "LuYun",
       "name": "呂允",
       "short": "呂允",
@@ -286,14 +294,6 @@
       "name": "...",
       "short": "...",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 8
-    },
-    {
-      "id": "band_6gp8um_61",
-      "name": "團名",
-      "short": "團名",
-      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 8
     },
@@ -27212,6 +27212,16 @@
       "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。\n可校外\n嘉義花海生活節,包含多個時段演出,當天有紀念品小活動。\n包含壓滿俱樂部、公館青少年、南西肯恩等演出,當天有紀念品小活動。\n2026花海生活節演出時間表"
     },
     {
+      "id": "upcoming-row-841",
+      "date": "20261205",
+      "band": "band_6gp8um_61",
+      "time": "未公布",
+      "name": "台北 JINS GO",
+      "location": "台北市西門捷運廣場(捷運西門站6號出口)",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E6%8D%B7%E9%81%8B%E5%BB%A3%E5%A0%B4(%E6%8D%B7%E9%81%8B%E8%A5%BF%E9%96%80%E7%AB%996%E8%99%9F%E5%87%BA%E5%8F%A3)",
+      "note": "［免費］\n特別嘉賓包含宇宙啦啦隊、公館青少年。現場設有行動服務車提供免費眼鏡清潔、調整及眼部SPA按摩。\nJINS GO 活動,包含藝人演出及行動服務車提供免費清潔、調整眼鏡與眼部SPA按摩。"
+    },
+    {
       "id": "upcoming-row-85",
       "date": "20261206",
       "band": "AmazingShow",
@@ -34127,6 +34137,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "edd82287-009b-40a2-890e-fff3e1986456",
-  "updatedAt": "2026-11-27T22:04:01.821Z"
+  "revision": "19dcaa36-e122-4364-b4de-d17e18b2cd91",
+  "updatedAt": "2026-11-27T22:10:14.262Z"
 }
