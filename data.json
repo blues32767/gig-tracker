@@ -986,6 +986,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_6gp8um_61",
+      "name": "團名",
+      "short": "團名",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_174",
       "name": "戴愛玲",
       "short": "戴愛玲",
@@ -1486,14 +1494,6 @@
       "name": "...",
       "short": "...",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "band_6gp8um_61",
-      "name": "團名",
-      "short": "團名",
-      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 3
     },
@@ -29334,6 +29334,16 @@
       "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
     },
     {
+      "id": "upcoming-row-814",
+      "date": "20261212",
+      "band": "band_6gp8um_61",
+      "time": "未公布",
+      "name": "新北 2026 新北歡樂耶誕城:萌幻巨星耶誕演唱會",
+      "location": "新北市政府市民廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E5%B8%82%E6%B0%91%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n巨星耶誕演唱會,包含幻藍小熊、李東軒、婁峻碩、黃偉晉、魏嘉瑩、ARKis、FEniX & X-TONE、曾沛慈、盧廣仲、小男孩樂團、李杰明、周予天、陳勢安、陳華、陳忻玥、Ozone、品冠、玖壹壹等藝人。"
+    },
+    {
       "id": "upcoming-row-92",
       "date": "20261213",
       "band": "band_drsiw0_58",
@@ -33839,6 +33849,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "5e3c947c-aff0-41df-b5c5-7629bda30312",
-  "updatedAt": "2026-11-27T07:13:22.626Z"
+  "revision": "e1ad271c-ac70-415b-a143-fc449aff2ace",
+  "updatedAt": "2026-11-27T07:20:27.420Z"
 }
