@@ -282,6 +282,14 @@
       "eventCount": 8
     },
     {
+      "id": "band_l0o0l9",
+      "name": "...",
+      "short": "...",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 8
+    },
+    {
       "id": "band_6gp8um_61",
       "name": "團名",
       "short": "團名",
@@ -415,14 +423,6 @@
       "short": "徐暐翔",
       "color": "#ef476f",
       "category": "個人",
-      "eventCount": 7
-    },
-    {
-      "id": "band_l0o0l9",
-      "name": "...",
-      "short": "...",
-      "color": "#ffd166",
-      "category": "樂團",
       "eventCount": 7
     },
     {
@@ -33062,6 +33062,16 @@
       "note": "［免費］\n..."
     },
     {
+      "id": "upcoming-row-840",
+      "date": "20261231",
+      "band": "band_l0o0l9",
+      "time": "未公布",
+      "name": "台中 2027 台中最強跨年夜",
+      "location": "台中水湳中央公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n跨年活動,卡司包含理想混蛋、周湯豪\n理想混蛋擔任開場演出"
+    },
+    {
       "id": "upcoming-row-447",
       "date": "20270102",
       "band": "awkward",
@@ -34117,6 +34127,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "f3564ee5-7b6a-4acb-ac34-48cfd4909581",
-  "updatedAt": "2026-11-27T21:55:42.695Z"
+  "revision": "edd82287-009b-40a2-890e-fff3e1986456",
+  "updatedAt": "2026-11-27T22:04:01.821Z"
 }
