@@ -498,6 +498,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_l0o0l9",
+      "name": "...",
+      "short": "...",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 6
+    },
+    {
       "id": "band_6gp8um_61",
       "name": "團名",
       "short": "團名",
@@ -735,14 +743,6 @@
       "short": "海豚刑警",
       "color": "#ef476f",
       "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_l0o0l9",
-      "name": "...",
-      "short": "...",
-      "color": "#ffd166",
-      "category": "樂團",
       "eventCount": 5
     },
     {
@@ -27182,6 +27182,16 @@
       "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。\n可校外\n嘉義花海生活節,包含多個時段演出,當天有紀念品小活動。\n包含壓滿俱樂部、公館青少年、南西肯恩等演出,當天有紀念品小活動。\n2026花海生活節演出時間表"
     },
     {
+      "id": "upcoming-row-825",
+      "date": "20261205",
+      "band": "band_l0o0l9",
+      "time": "未公布",
+      "name": "ATT FUN 肆音樂節",
+      "location": "臺北市・ATT 4 FUN 東側戶外廣場",
+      "mapLink": "https://maps.app.goo.gl/VSNYMbhU1eYuppJM9",
+      "note": "［免費］\n活動原定10/24,因颱風延期至2026/12/5舉辦,原班人馬\n活動因颱風/天候/故延期,但新日期未定。\n活動於 2026/12/05 下午 14:00 至 23:00 舉辦,卡司包含 Saturnday、LCY 呂植宇、ARKis、F.F.O、禾羽 Kimi、How Z、DJ BBOMI、AMOW、梁河懸、無妄合作社、怕胖團、慶記 KTV 羅曼迪克,主持為聖恩。\n音樂祭頁面資訊,活動於 2026/12/05 (六) 舉辦,陣容共 13 組演出。\n2026 FUN肆音樂節,共 13 組演出陣容。\n可校外參加\n來源：https://www.threads.com/share/QAPYySrr3/"
+    },
+    {
       "id": "upcoming-row-85",
       "date": "20261206",
       "band": "AmazingShow",
@@ -33967,6 +33977,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "4a0019a5-d650-4dca-9f35-49425b84bea8",
-  "updatedAt": "2026-11-27T16:14:41.793Z"
+  "revision": "ee7eb221-e581-4765-a3a8-d7ee6a26f27c",
+  "updatedAt": "2026-11-27T16:18:11.560Z"
 }
