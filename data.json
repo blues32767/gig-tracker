@@ -490,6 +490,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_6gp8um_61",
+      "name": "團名",
+      "short": "團名",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 6
+    },
+    {
       "id": "ffo",
       "name": "F.F.O",
       "short": "F.F.O",
@@ -734,14 +742,6 @@
       "name": "...",
       "short": "...",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 5
-    },
-    {
-      "id": "band_6gp8um_61",
-      "name": "團名",
-      "short": "團名",
-      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 5
     },
@@ -32824,6 +32824,16 @@
       "note": "［免費］\n跨年活動,卡司包含理想混蛋、周湯豪"
     },
     {
+      "id": "upcoming-row-818",
+      "date": "20261231",
+      "band": "band_6gp8um_61",
+      "time": "未公布",
+      "name": "雲林 2027 雲林HolyHigh・音浪全開跨年夜",
+      "location": "雲林縣斗六膨鼠森林公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%97%E5%85%AD%E8%86%A8%E9%BC%A0%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n2027跨年活動,第一波卡司包含蕭秉治\n卡司包含蕭秉治(開場)等藝人\n2027跨年夜活動,卡司包含蕭秉治、李千娜、阿跨面、陳勢安、李子森、卓文萱、理想混蛋、小男孩樂團、BK等。\n卡司包含理想混蛋(倒數後壓軸)"
+    },
+    {
       "id": "upcoming-row-447",
       "date": "20270102",
       "band": "awkward",
@@ -33879,6 +33889,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "c69b4512-80de-42cd-b436-b220aa44899f",
-  "updatedAt": "2026-11-27T12:59:44.797Z"
+  "revision": "6168acd7-ecbb-4bad-a880-facf90b8492e",
+  "updatedAt": "2026-11-27T13:06:04.348Z"
 }
