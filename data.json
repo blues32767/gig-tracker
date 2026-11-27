@@ -27149,7 +27149,7 @@
       "name": "台北 JINS GO",
       "location": "台北市西門捷運廣場(捷運西門站6號出口)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E6%8D%B7%E9%81%8B%E5%BB%A3%E5%A0%B4(%E6%8D%B7%E9%81%8B%E8%A5%BF%E9%96%80%E7%AB%996%E8%99%9F%E5%87%BA%E5%8F%A3)",
-      "note": "［免費］\n包含特別嘉賓宇宙啦啦隊、公館青少年\nJINS GO 活動,包含藝人演出及行動服務車提供免費清潔、調整眼鏡與眼部SPA按摩。"
+      "note": "［免費］\n特別嘉賓包含宇宙啦啦隊、公館青少年。現場設有行動服務車提供免費眼鏡清潔、調整及眼部SPA按摩。\nJINS GO 活動,包含藝人演出及行動服務車提供免費清潔、調整眼鏡與眼部SPA按摩。"
     },
     {
       "id": "upcoming-row-759",
@@ -27159,7 +27159,7 @@
       "name": "台北 JINS GO",
       "location": "台北市西門捷運廣場(捷運西門站6號出口)",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A5%BF%E9%96%80%E6%8D%B7%E9%81%8B%E5%BB%A3%E5%A0%B4(%E6%8D%B7%E9%81%8B%E8%A5%BF%E9%96%80%E7%AB%996%E8%99%9F%E5%87%BA%E5%8F%A3)",
-      "note": "［免費］\n包含特別嘉賓宇宙啦啦隊、公館青少年\nJINS GO 活動,包含藝人演出及行動服務車提供免費清潔、調整眼鏡與眼部SPA按摩。"
+      "note": "［免費］\n特別嘉賓包含宇宙啦啦隊、公館青少年。現場設有行動服務車提供免費眼鏡清潔、調整及眼部SPA按摩。\nJINS GO 活動,包含藝人演出及行動服務車提供免費清潔、調整眼鏡與眼部SPA按摩。"
     },
     {
       "id": "upcoming-row-771",
@@ -34087,6 +34087,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "933796dc-b194-40f5-8ee4-84f37fbd103a",
-  "updatedAt": "2026-11-27T19:06:26.910Z"
+  "revision": "1654ef2b-2504-4235-968c-f1d1f813678c",
+  "updatedAt": "2026-11-27T19:09:05.267Z"
 }
