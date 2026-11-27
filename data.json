@@ -1474,6 +1474,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_6gp8um_61",
+      "name": "團名",
+      "short": "團名",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_66",
       "name": "栗子",
       "short": "栗子",
@@ -2295,14 +2303,6 @@
       "short": "幻藍小熊",
       "color": "#ff006e",
       "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "band_6gp8um_61",
-      "name": "團名",
-      "short": "團名",
-      "color": "#118ab2",
-      "category": "樂團",
       "eventCount": 2
     },
     {
@@ -32600,6 +32600,16 @@
       "note": "［免費］\n2027跨年活動,第一波卡司包含蕭秉治\n卡司包含蕭秉治(開場)等藝人\n跨年演唱會,卡司包含蕭秉治、小男孩樂團、阿跨面、BK、卓文萱、李子森、李千娜、陳勢安、理想混蛋。\n卡司包含理想混蛋(倒數後壓軸)"
     },
     {
+      "id": "upcoming-row-798",
+      "date": "20261231",
+      "band": "band_6gp8um_61",
+      "time": "未公布",
+      "name": "台中 2027 台中最強跨年夜",
+      "location": "台中水湳中央公園",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E6%B0%B4%E6%B9%B3%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9C%92",
+      "note": "［免費］\n跨年活動,卡司包含理想混蛋、周湯豪"
+    },
+    {
       "id": "upcoming-row-447",
       "date": "20270102",
       "band": "awkward",
@@ -33655,6 +33665,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "7407eaf4-2477-4242-9d37-aa01c74157cf",
-  "updatedAt": "2026-11-27T03:52:32.112Z"
+  "revision": "0f564ef6-8c65-4279-8415-24b2ea13e966",
+  "updatedAt": "2026-11-27T03:57:45.432Z"
 }
