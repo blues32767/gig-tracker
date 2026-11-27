@@ -402,6 +402,14 @@
       "eventCount": 7
     },
     {
+      "id": "band_6gp8um_61",
+      "name": "團名",
+      "short": "團名",
+      "color": "#118ab2",
+      "category": "樂團",
+      "eventCount": 7
+    },
+    {
       "id": "PatrickBrasca",
       "name": "派偉俊",
       "short": "派偉俊",
@@ -502,14 +510,6 @@
       "name": "...",
       "short": "...",
       "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 6
-    },
-    {
-      "id": "band_6gp8um_61",
-      "name": "團名",
-      "short": "團名",
-      "color": "#118ab2",
       "category": "樂團",
       "eventCount": 6
     },
@@ -26125,7 +26125,7 @@
       "id": "upcoming-row-582",
       "date": "20261204",
       "band": "band_drsiw0_245",
-      "time": "23:00-26:00",
+      "time": "23:00-02:00",
       "name": "南投 黑熊部落",
       "location": "南投縣 顏氏牧場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
@@ -26135,7 +26135,7 @@
       "id": "upcoming-row-583",
       "date": "20261204",
       "band": "benn",
-      "time": "26:00-27:00",
+      "time": "02:00-03:00",
       "name": "南投 黑熊部落",
       "location": "南投縣 顏氏牧場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
@@ -26275,7 +26275,7 @@
       "id": "upcoming-row-641",
       "date": "20261204",
       "band": "gaiaville",
-      "time": "23:00-26:00",
+      "time": "23:00-02:00",
       "name": "南投 黑熊部落",
       "location": "南投縣 顏氏牧場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
@@ -26390,6 +26390,16 @@
       "location": "國立宜蘭大學學生活動中心一樓春南展演廳",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E4%B8%80%E6%A8%93%E6%98%A5%E5%8D%97%E5%B1%95%E6%BC%94%E5%BB%B3",
       "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。\n售票,可校外人士參加。主持人為聖恩。"
+    },
+    {
+      "id": "upcoming-row-826",
+      "date": "20261204",
+      "band": "band_6gp8um_61",
+      "time": "未公布",
+      "name": "南投 黑熊部落",
+      "location": "南投縣 顏氏牧場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%8A%95%E7%B8%A3%20%E9%A1%8F%E6%B0%8F%E7%89%A7%E5%A0%B4",
+      "note": "［售票］\n本祭演出時間尚未公布|*克里夫 Cliff、ALOHA Production 夏悅舞集、蘇文劭 Shao、安慶 Age [JP]、嶼浵.Isle of tone、HARIKUYAMAKU [JP] feat. 才能有限公司 紹凡、孟萱、Barbara [JP]、Troy Lin、搭好,我們出不去、Junkyard Shaman [FI] × Afra Lin、睡後故事、裘海正、PiNkChAiN、emoment、YoungLee、DSPS、伍悅 TUMO、Cen Cen、馬尾、PUZZLEMAN、someshiit 山姆、Danny Tsai 蔡丹尼 未訂(演出日期未定,暫列活動首日)\n2026 黑熊部落,包含 48 組演出陣容。"
     },
     {
       "id": "upcoming-row-42",
@@ -33977,6 +33987,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "ee7eb221-e581-4765-a3a8-d7ee6a26f27c",
-  "updatedAt": "2026-11-27T16:18:11.560Z"
+  "revision": "c303efb9-e591-4145-b3cf-d815fd39883f",
+  "updatedAt": "2026-11-27T16:24:00.545Z"
 }
