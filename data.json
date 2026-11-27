@@ -730,6 +730,14 @@
       "eventCount": 5
     },
     {
+      "id": "band_l0o0l9",
+      "name": "...",
+      "short": "...",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 5
+    },
+    {
       "id": "band_6gp8um_61",
       "name": "團名",
       "short": "團名",
@@ -990,14 +998,6 @@
       "name": "多情牛奶糖",
       "short": "多情牛奶糖",
       "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 4
-    },
-    {
-      "id": "band_l0o0l9",
-      "name": "...",
-      "short": "...",
-      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 4
     },
@@ -27154,6 +27154,16 @@
       "note": "［免費］\n活動於2026/11/26舉行,入場時間17:40,演出開始18:00。卡司包含畢書盡、蕭秉治、鼓鼓 呂思緯、徐暐翔、艾薇、吳霏、欣菲、李貞潤、ARKis,主持人為聖恩。\n校內限定演出"
     },
     {
+      "id": "upcoming-row-817",
+      "date": "20261205",
+      "band": "band_l0o0l9",
+      "time": "未公布",
+      "name": "嘉義市 嘉義花海生活節",
+      "location": "嘉義縣水上鄉活動會場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%98%89%E7%BE%A9%E5%B8%82%E7%8E%89%E5%B1%B1%E8%B7%AF%E5%BA%95",
+      "note": "［免費］\n主舞台演出包含壓滿俱樂部、後山霓虹、宋德鶴、公館青少年、南西肯恩、小男孩樂團。兒童舞台有魔術劇場、特技秀等活動。\n2026嘉義花海生活節,包含主舞台與兒童舞台演出。提供免費接駁車路線1(嘉義火車站至活動會場)。\n可校外\n嘉義市花海生活節,包含多項紀念品小活動。\n包含壓滿俱樂部、公館青少年、南西肯恩等演出,當天有紀念品小活動。"
+    },
+    {
       "id": "upcoming-row-85",
       "date": "20261206",
       "band": "AmazingShow",
@@ -33869,6 +33879,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "9049c429-f340-4d7a-b943-c0e6b127c502",
-  "updatedAt": "2026-11-27T10:04:45.165Z"
+  "revision": "c69b4512-80de-42cd-b436-b220aa44899f",
+  "updatedAt": "2026-11-27T12:59:44.797Z"
 }
