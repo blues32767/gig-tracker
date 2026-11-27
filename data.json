@@ -226,6 +226,22 @@
       "eventCount": 8
     },
     {
+      "id": "fenix",
+      "name": "FEniX",
+      "short": "FEniX",
+      "color": "#8338ec",
+      "category": "團體",
+      "eventCount": 8
+    },
+    {
+      "id": "cholly",
+      "name": "C.HOLLY",
+      "short": "C.HOLLY",
+      "color": "#3a86ff",
+      "category": "個人",
+      "eventCount": 8
+    },
+    {
       "id": "band_drsiw0_59",
       "name": "固定客",
       "short": "固定客",
@@ -282,26 +298,10 @@
       "eventCount": 7
     },
     {
-      "id": "fenix",
-      "name": "FEniX",
-      "short": "FEniX",
-      "color": "#8338ec",
-      "category": "團體",
-      "eventCount": 7
-    },
-    {
       "id": "band_drsiw0_20",
       "name": "梁河懸",
       "short": "梁河懸",
       "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 7
-    },
-    {
-      "id": "cholly",
-      "name": "C.HOLLY",
-      "short": "C.HOLLY",
-      "color": "#3a86ff",
       "category": "個人",
       "eventCount": 7
     },
@@ -350,6 +350,14 @@
       "name": "周湯豪",
       "short": "周湯豪",
       "color": "#8338ec",
+      "category": "個人",
+      "eventCount": 7
+    },
+    {
+      "id": "band_drsiw0_85",
+      "name": "蕭景鴻",
+      "short": "蕭景鴻",
+      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 7
     },
@@ -439,14 +447,6 @@
       "short": "薄暮",
       "color": "#06d6a0",
       "category": "樂團",
-      "eventCount": 6
-    },
-    {
-      "id": "band_drsiw0_85",
-      "name": "蕭景鴻",
-      "short": "蕭景鴻",
-      "color": "#06d6a0",
-      "category": "個人",
       "eventCount": 6
     },
     {
@@ -559,6 +559,14 @@
       "short": "康士坦",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 5
+    },
+    {
+      "id": "band_6u8lrj_10",
+      "name": "幽靈水晶",
+      "short": "幽靈水晶",
+      "color": "#ffd166",
+      "category": "團體",
       "eventCount": 5
     },
     {
@@ -786,14 +794,6 @@
       "eventCount": 4
     },
     {
-      "id": "band_6u8lrj_10",
-      "name": "幽靈水晶",
-      "short": "幽靈水晶",
-      "color": "#ffd166",
-      "category": "團體",
-      "eventCount": 4
-    },
-    {
       "id": "band_drsiw0_60",
       "name": "羊米人",
       "short": "羊米人",
@@ -839,6 +839,14 @@
       "short": "告五人",
       "color": "#fb5607",
       "category": "樂團",
+      "eventCount": 4
+    },
+    {
+      "id": "gary",
+      "name": "洪紹欽 Gary",
+      "short": "洪紹欽 Gary",
+      "color": "#00b4d8",
+      "category": "個人",
       "eventCount": 4
     },
     {
@@ -954,6 +962,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_drsiw0_160",
+      "name": "閻奕格",
+      "short": "閻奕格",
+      "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 4
+    },
+    {
       "id": "band_drsiw0_174",
       "name": "戴愛玲",
       "short": "戴愛玲",
@@ -990,6 +1006,14 @@
       "name": "LCY 呂植宇",
       "short": "呂植宇",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "howz",
+      "name": "How Z",
+      "short": "How Z",
+      "color": "#fb5607",
       "category": "個人",
       "eventCount": 3
     },
@@ -1234,14 +1258,6 @@
       "eventCount": 3
     },
     {
-      "id": "gary",
-      "name": "洪紹欽 Gary",
-      "short": "洪紹欽 Gary",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "cjmit",
       "name": "CJ Mit",
       "short": "CJ Mit",
@@ -1458,18 +1474,18 @@
       "eventCount": 3
     },
     {
-      "id": "band_drsiw0_160",
-      "name": "閻奕格",
-      "short": "閻奕格",
-      "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 3
-    },
-    {
       "id": "band_qqiyec_25",
       "name": "多情牛奶糖",
       "short": "多情牛奶糖",
       "color": "#06d6a0",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
+      "id": "band_l0o0l9",
+      "name": "...",
+      "short": "...",
+      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 3
     },
@@ -1525,6 +1541,14 @@
       "id": "band_6gp8um_88",
       "name": "李李",
       "short": "李李",
+      "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "djkenlin",
+      "name": "DJKenLin林軒",
+      "short": "DJKenLin林軒",
       "color": "#ef476f",
       "category": "個人",
       "eventCount": 3
@@ -1590,14 +1614,6 @@
       "name": "禾羽 Kimi",
       "short": "禾羽",
       "color": "#ff006e",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "howz",
-      "name": "How Z",
-      "short": "How Z",
-      "color": "#fb5607",
       "category": "個人",
       "eventCount": 2
     },
@@ -1678,6 +1694,14 @@
       "name": "潮州土狗",
       "short": "潮州",
       "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "haku",
+      "name": "HAKU",
+      "short": "HAKU",
+      "color": "#118ab2",
       "category": "個人",
       "eventCount": 2
     },
@@ -2282,14 +2306,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_l0o0l9",
-      "name": "...",
-      "short": "...",
-      "color": "#ffd166",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_168",
       "name": "徐佳瑩",
       "short": "徐佳瑩",
@@ -2470,14 +2486,6 @@
       "name": "莊振凱",
       "short": "莊振凱",
       "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
-      "id": "djkenlin",
-      "name": "DJKenLin林軒",
-      "short": "DJKenLin林軒",
-      "color": "#ef476f",
       "category": "個人",
       "eventCount": 2
     },
@@ -3087,14 +3095,6 @@
       "short": "新響大派對",
       "color": "#ef476f",
       "category": "樂團",
-      "eventCount": 1
-    },
-    {
-      "id": "haku",
-      "name": "HAKU",
-      "short": "HAKU",
-      "color": "#118ab2",
-      "category": "個人",
       "eventCount": 1
     },
     {
@@ -8967,6 +8967,30 @@
       "short": "李千",
       "color": "#8338ec",
       "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "band_drsiw0_268",
+      "name": "鄭雙雙",
+      "short": "鄭雙",
+      "color": "#ff006e",
+      "category": "個人",
+      "eventCount": 1
+    },
+    {
+      "id": "2000wtx",
+      "name": "王泰翔 2000wtx",
+      "short": "王泰",
+      "color": "#fb5607",
+      "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_qqiyec_40",
+      "name": "哈哈台蓋瑞",
+      "short": "哈哈",
+      "color": "#3a86ff",
+      "category": "樂團",
       "eventCount": 1
     },
     {
@@ -29230,6 +29254,66 @@
       "note": "［免費］\n巨星耶誕演唱會,包含幻藍小熊、李東軒、婁峻碩、黃偉晉、魏嘉瑩、ARKis、FEniX & X-TONE、曾沛慈、盧廣仲、小男孩樂團、李杰明、周予天、陳勢安、陳華、陳忻玥、Ozone、品冠、玖壹壹等藝人。"
     },
     {
+      "id": "upcoming-row-799",
+      "date": "20261212",
+      "band": "band_drsiw0_160",
+      "time": "18:00-21:00",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-800",
+      "date": "20261212",
+      "band": "band_6u8lrj_10",
+      "time": "18:00-21:00",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-801",
+      "date": "20261212",
+      "band": "band_drsiw0_268",
+      "time": "18:00-21:00",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-802",
+      "date": "20261212",
+      "band": "2000wtx",
+      "time": "18:00-21:00",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-803",
+      "date": "20261212",
+      "band": "cholly",
+      "time": "18:00-21:00",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-811",
+      "date": "20261212",
+      "band": "band_l0o0l9",
+      "time": "未公布",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+    },
+    {
       "id": "upcoming-row-92",
       "date": "20261213",
       "band": "band_drsiw0_58",
@@ -29718,6 +29802,76 @@
       "location": "新北市政府市民廣場",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E5%B8%82%E6%B0%91%E5%BB%A3%E5%A0%B4",
       "note": "［免費］\n巨星耶誕演唱會,包含幻藍小熊、李東軒、婁峻碩、黃偉晉、魏嘉瑩、ARKis、FEniX & X-TONE、曾沛慈、盧廣仲、小男孩樂團、李杰明、周予天、陳勢安、陳華、陳忻玥、Ozone、品冠、玖壹壹等藝人。"
+    },
+    {
+      "id": "upcoming-row-804",
+      "date": "20261213",
+      "band": "band_drsiw0_85",
+      "time": "18:00-21:00",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-805",
+      "date": "20261213",
+      "band": "fenix",
+      "time": "18:00-21:00",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-806",
+      "date": "20261213",
+      "band": "howz",
+      "time": "18:00-21:00",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-807",
+      "date": "20261213",
+      "band": "band_qqiyec_40",
+      "time": "18:00-21:00",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-808",
+      "date": "20261213",
+      "band": "gary",
+      "time": "18:00-21:00",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-809",
+      "date": "20261213",
+      "band": "haku",
+      "time": "18:00-21:00",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-810",
+      "date": "20261213",
+      "band": "djkenlin",
+      "time": "18:00-21:00",
+      "name": "高雄 夢時代星空音樂日",
+      "location": "高雄夢時代 1F 夢想廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%201F%20%E5%A4%A2%E6%83%B3%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n包含閻奕格、FEniX、HowZ等藝人演出。"
     },
     {
       "id": "upcoming-row-95",
@@ -33665,6 +33819,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "d5878db3-dc79-478b-b1d4-5ecbfb3b028e",
-  "updatedAt": "2026-11-27T04:11:44.799Z"
+  "revision": "46d343c9-202a-4ce3-b8a9-2bf63cedd828",
+  "updatedAt": "2026-11-27T06:53:51.407Z"
 }
