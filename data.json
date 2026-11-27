@@ -986,6 +986,14 @@
       "eventCount": 4
     },
     {
+      "id": "band_l0o0l9",
+      "name": "...",
+      "short": "...",
+      "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 4
+    },
+    {
       "id": "band_6gp8um_61",
       "name": "團名",
       "short": "團名",
@@ -1486,14 +1494,6 @@
       "name": "B CRUSH",
       "short": "B CRUSH",
       "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 3
-    },
-    {
-      "id": "band_l0o0l9",
-      "name": "...",
-      "short": "...",
-      "color": "#ffd166",
       "category": "樂團",
       "eventCount": 3
     },
@@ -26291,7 +26291,7 @@
       "name": "宜蘭 宜夜未眠聖誕晚會",
       "location": "國立宜蘭大學學生活動中心一樓春南展演廳",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E4%B8%80%E6%A8%93%E6%98%A5%E5%8D%97%E5%B1%95%E6%BC%94%E5%BB%B3",
-      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。"
+      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。\n售票,可校外人士參加。主持人為聖恩。"
     },
     {
       "id": "upcoming-row-684",
@@ -26301,7 +26301,7 @@
       "name": "宜蘭 宜夜未眠聖誕晚會",
       "location": "國立宜蘭大學學生活動中心一樓春南展演廳",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E4%B8%80%E6%A8%93%E6%98%A5%E5%8D%97%E5%B1%95%E6%BC%94%E5%BB%B3",
-      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。"
+      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。\n售票,可校外人士參加。主持人為聖恩。"
     },
     {
       "id": "upcoming-row-685",
@@ -26311,7 +26311,7 @@
       "name": "宜蘭 宜夜未眠聖誕晚會",
       "location": "國立宜蘭大學學生活動中心一樓春南展演廳",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E4%B8%80%E6%A8%93%E6%98%A5%E5%8D%97%E5%B1%95%E6%BC%94%E5%BB%B3",
-      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。"
+      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。\n售票,可校外人士參加。主持人為聖恩。"
     },
     {
       "id": "upcoming-row-686",
@@ -26321,7 +26321,7 @@
       "name": "宜蘭 宜夜未眠聖誕晚會",
       "location": "國立宜蘭大學學生活動中心一樓春南展演廳",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E4%B8%80%E6%A8%93%E6%98%A5%E5%8D%97%E5%B1%95%E6%BC%94%E5%BB%B3",
-      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。"
+      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。\n售票,可校外人士參加。主持人為聖恩。"
     },
     {
       "id": "upcoming-row-687",
@@ -26331,7 +26331,7 @@
       "name": "宜蘭 宜夜未眠聖誕晚會",
       "location": "國立宜蘭大學學生活動中心一樓春南展演廳",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E4%B8%80%E6%A8%93%E6%98%A5%E5%8D%97%E5%B1%95%E6%BC%94%E5%BB%B3",
-      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。"
+      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。\n售票,可校外人士參加。主持人為聖恩。"
     },
     {
       "id": "upcoming-row-688",
@@ -26341,7 +26341,7 @@
       "name": "宜蘭 宜夜未眠聖誕晚會",
       "location": "國立宜蘭大學學生活動中心一樓春南展演廳",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E4%B8%80%E6%A8%93%E6%98%A5%E5%8D%97%E5%B1%95%E6%BC%94%E5%BB%B3",
-      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。"
+      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。\n售票,可校外人士參加。主持人為聖恩。"
     },
     {
       "id": "upcoming-row-689",
@@ -26351,7 +26351,7 @@
       "name": "宜蘭 宜夜未眠聖誕晚會",
       "location": "國立宜蘭大學學生活動中心一樓春南展演廳",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E4%B8%80%E6%A8%93%E6%98%A5%E5%8D%97%E5%B1%95%E6%BC%94%E5%BB%B3",
-      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。"
+      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。\n售票,可校外人士參加。主持人為聖恩。"
     },
     {
       "id": "upcoming-row-812",
@@ -26361,7 +26361,7 @@
       "name": "宜蘭 宜夜未眠聖誕晚會",
       "location": "國立宜蘭大學學生活動中心一樓春南展演廳",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E4%B8%80%E6%A8%93%E6%98%A5%E5%8D%97%E5%B1%95%E6%BC%94%E5%BB%B3",
-      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。"
+      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。\n售票,可校外人士參加。主持人為聖恩。"
     },
     {
       "id": "upcoming-row-813",
@@ -26371,7 +26371,17 @@
       "name": "宜蘭 宜夜未眠聖誕晚會",
       "location": "國立宜蘭大學學生活動中心一樓春南展演廳",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E4%B8%80%E6%A8%93%E6%98%A5%E5%8D%97%E5%B1%95%E6%BC%94%E5%BB%B3",
-      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。"
+      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。\n售票,可校外人士參加。主持人為聖恩。"
+    },
+    {
+      "id": "upcoming-row-815",
+      "date": "20261204",
+      "band": "band_l0o0l9",
+      "time": "未公布",
+      "name": "宜蘭 宜夜未眠聖誕晚會",
+      "location": "國立宜蘭大學學生活動中心一樓春南展演廳",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E7%AB%8B%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E4%B8%80%E6%A8%93%E6%98%A5%E5%8D%97%E5%B1%95%E6%BC%94%E5%BB%B3",
+      "note": "［售票］\n聖誕晚會,卡司包含王謙、老吾、欣菲、兆群、河北彩花、謝語恩、8lak 張鈞,主持人為聖恩。\n售票,可校外人士參加。主持人為聖恩。"
     },
     {
       "id": "upcoming-row-42",
@@ -33849,6 +33859,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e1ad271c-ac70-415b-a143-fc449aff2ace",
-  "updatedAt": "2026-11-27T07:20:27.420Z"
+  "revision": "17767668-4d82-464c-9658-90d4afb55ca6",
+  "updatedAt": "2026-11-27T09:58:23.541Z"
 }
