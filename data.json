@@ -146,6 +146,14 @@
       "eventCount": 10
     },
     {
+      "id": "band_drsiw0_69",
+      "name": "陳勢安",
+      "short": "陳勢安",
+      "color": "#fb5607",
+      "category": "個人",
+      "eventCount": 10
+    },
+    {
       "id": "band_drsiw0_71",
       "name": "曾愷妤",
       "short": "曾愷妤",
@@ -183,14 +191,6 @@
       "short": "白頻率",
       "color": "#2ec4b6",
       "category": "樂團",
-      "eventCount": 9
-    },
-    {
-      "id": "band_drsiw0_69",
-      "name": "陳勢安",
-      "short": "陳勢安",
-      "color": "#fb5607",
-      "category": "個人",
       "eventCount": 9
     },
     {
@@ -254,6 +254,14 @@
       "name": "固定客",
       "short": "固定客",
       "color": "#ffd166",
+      "category": "樂團",
+      "eventCount": 8
+    },
+    {
+      "id": "Bestards",
+      "name": "理想混蛋",
+      "short": "理想混蛋",
+      "color": "#FF7F00",
       "category": "樂團",
       "eventCount": 8
     },
@@ -330,14 +338,6 @@
       "eventCount": 7
     },
     {
-      "id": "Bestards",
-      "name": "理想混蛋",
-      "short": "理想混蛋",
-      "color": "#FF7F00",
-      "category": "樂團",
-      "eventCount": 7
-    },
-    {
       "id": "sinby",
       "name": "欣菲 Sinby",
       "short": "欣菲",
@@ -375,6 +375,14 @@
       "short": "滅火器",
       "color": "#C8102E",
       "category": "樂團",
+      "eventCount": 7
+    },
+    {
+      "id": "band_drsiw0_138",
+      "name": "蕭秉治",
+      "short": "蕭秉治",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 7
     },
     {
@@ -466,6 +474,14 @@
       "eventCount": 6
     },
     {
+      "id": "band_drsiw0_51",
+      "name": "李子森",
+      "short": "李子森",
+      "color": "#06d6a0",
+      "category": "個人",
+      "eventCount": 6
+    },
+    {
       "id": "band_6gp8um_19",
       "name": "薄暮",
       "short": "薄暮",
@@ -498,19 +514,19 @@
       "eventCount": 6
     },
     {
-      "id": "band_drsiw0_138",
-      "name": "蕭秉治",
-      "short": "蕭秉治",
-      "color": "#fb5607",
-      "category": "個人",
-      "eventCount": 6
-    },
-    {
       "id": "band_drsiw0_153",
       "name": "彭佳慧",
       "short": "彭佳慧",
       "color": "#00b4d8",
       "category": "個人",
+      "eventCount": 6
+    },
+    {
+      "id": "band_qqiyec_35",
+      "name": "小男孩樂團",
+      "short": "小男孩樂團",
+      "color": "#2ec4b6",
+      "category": "樂團",
       "eventCount": 6
     },
     {
@@ -558,14 +574,6 @@
       "name": "持修",
       "short": "持修",
       "color": "#ffd166",
-      "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_drsiw0_51",
-      "name": "李子森",
-      "short": "李子森",
-      "color": "#06d6a0",
       "category": "個人",
       "eventCount": 5
     },
@@ -743,14 +751,6 @@
       "short": "海豚刑警",
       "color": "#ef476f",
       "category": "個人",
-      "eventCount": 5
-    },
-    {
-      "id": "band_qqiyec_35",
-      "name": "小男孩樂團",
-      "short": "小男孩樂團",
-      "color": "#2ec4b6",
-      "category": "樂團",
       "eventCount": 5
     },
     {
@@ -1118,6 +1118,14 @@
       "name": "王艷薇",
       "short": "王艷薇",
       "color": "#118ab2",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_57",
+      "name": "阿跨面",
+      "short": "阿跨面",
+      "color": "#00b4d8",
       "category": "個人",
       "eventCount": 3
     },
@@ -1514,6 +1522,14 @@
       "eventCount": 3
     },
     {
+      "id": "band_oxbj1m",
+      "name": "BK",
+      "short": "BK",
+      "color": "#3a86ff",
+      "category": "樂團",
+      "eventCount": 3
+    },
+    {
       "id": "band_6gp8um_75",
       "name": "山姆",
       "short": "山姆",
@@ -1558,6 +1574,14 @@
       "name": "DJKenLin林軒",
       "short": "DJKenLin林軒",
       "color": "#ef476f",
+      "category": "個人",
+      "eventCount": 3
+    },
+    {
+      "id": "band_drsiw0_256",
+      "name": "卓文萱",
+      "short": "卓文萱",
+      "color": "#2ec4b6",
       "category": "個人",
       "eventCount": 3
     },
@@ -1719,14 +1743,6 @@
       "short": "安妮塔克",
       "color": "#8338ec",
       "category": "團體",
-      "eventCount": 2
-    },
-    {
-      "id": "band_drsiw0_57",
-      "name": "阿跨面",
-      "short": "阿跨面",
-      "color": "#00b4d8",
-      "category": "個人",
       "eventCount": 2
     },
     {
@@ -2354,14 +2370,6 @@
       "eventCount": 2
     },
     {
-      "id": "band_oxbj1m",
-      "name": "BK",
-      "short": "BK",
-      "color": "#3a86ff",
-      "category": "樂團",
-      "eventCount": 2
-    },
-    {
       "id": "spaceoutcome",
       "name": "Spaceoutcomet",
       "short": "Spaceoutcomet",
@@ -2602,18 +2610,18 @@
       "eventCount": 2
     },
     {
-      "id": "band_drsiw0_256",
-      "name": "卓文萱",
-      "short": "卓文萱",
-      "color": "#2ec4b6",
-      "category": "個人",
-      "eventCount": 2
-    },
-    {
       "id": "band_drsiw0_258",
       "name": "李東軒",
       "short": "李東",
       "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 2
+    },
+    {
+      "id": "band_drsiw0_267",
+      "name": "李千娜",
+      "short": "李千",
+      "color": "#8338ec",
       "category": "個人",
       "eventCount": 2
     },
@@ -8958,14 +8966,6 @@
       "name": "崴崴孟孟",
       "short": "崴崴",
       "color": "#118ab2",
-      "category": "個人",
-      "eventCount": 1
-    },
-    {
-      "id": "band_drsiw0_267",
-      "name": "李千娜",
-      "short": "李千",
-      "color": "#8338ec",
       "category": "個人",
       "eventCount": 1
     },
@@ -32942,6 +32942,96 @@
       "note": "［免費］\n2027跨年活動,第一波卡司包含蕭秉治\n卡司包含蕭秉治(開場)等藝人\n2027跨年夜活動,卡司包含蕭秉治、李千娜、阿跨面、陳勢安、李子森、卓文萱、理想混蛋、小男孩樂團、BK等。\n卡司包含理想混蛋(倒數後壓軸)"
     },
     {
+      "id": "upcoming-row-828",
+      "date": "20261231",
+      "band": "band_drsiw0_138",
+      "time": "未公布",
+      "name": "...",
+      "location": "...",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=...",
+      "note": "［免費］\n..."
+    },
+    {
+      "id": "upcoming-row-829",
+      "date": "20261231",
+      "band": "band_qqiyec_35",
+      "time": "未公布",
+      "name": "...",
+      "location": "...",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=...",
+      "note": "［免費］\n..."
+    },
+    {
+      "id": "upcoming-row-830",
+      "date": "20261231",
+      "band": "band_drsiw0_57",
+      "time": "未公布",
+      "name": "...",
+      "location": "...",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=...",
+      "note": "［免費］\n..."
+    },
+    {
+      "id": "upcoming-row-831",
+      "date": "20261231",
+      "band": "band_oxbj1m",
+      "time": "未公布",
+      "name": "...",
+      "location": "...",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=...",
+      "note": "［免費］\n..."
+    },
+    {
+      "id": "upcoming-row-832",
+      "date": "20261231",
+      "band": "band_drsiw0_256",
+      "time": "未公布",
+      "name": "...",
+      "location": "...",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=...",
+      "note": "［免費］\n..."
+    },
+    {
+      "id": "upcoming-row-833",
+      "date": "20261231",
+      "band": "band_drsiw0_51",
+      "time": "未公布",
+      "name": "...",
+      "location": "...",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=...",
+      "note": "［免費］\n..."
+    },
+    {
+      "id": "upcoming-row-834",
+      "date": "20261231",
+      "band": "band_drsiw0_267",
+      "time": "未公布",
+      "name": "...",
+      "location": "...",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=...",
+      "note": "［免費］\n..."
+    },
+    {
+      "id": "upcoming-row-835",
+      "date": "20261231",
+      "band": "band_drsiw0_69",
+      "time": "未公布",
+      "name": "...",
+      "location": "...",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=...",
+      "note": "［免費］\n..."
+    },
+    {
+      "id": "upcoming-row-836",
+      "date": "20261231",
+      "band": "Bestards",
+      "time": "未公布",
+      "name": "...",
+      "location": "...",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=...",
+      "note": "［免費］\n..."
+    },
+    {
       "id": "upcoming-row-447",
       "date": "20270102",
       "band": "awkward",
@@ -33997,6 +34087,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "e162416f-d864-4e12-a551-21da794556cf",
-  "updatedAt": "2026-11-27T18:53:13.244Z"
+  "revision": "933796dc-b194-40f5-8ee4-84f37fbd103a",
+  "updatedAt": "2026-11-27T19:06:26.910Z"
 }
