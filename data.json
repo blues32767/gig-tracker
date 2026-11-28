@@ -146,6 +146,14 @@
       "eventCount": 10
     },
     {
+      "id": "band",
+      "name": "粗大Band",
+      "short": "粗大Band",
+      "color": "#ef476f",
+      "category": "樂團",
+      "eventCount": 10
+    },
+    {
       "id": "band_drsiw0_69",
       "name": "陳勢安",
       "short": "陳勢安",
@@ -174,14 +182,6 @@
       "name": "溫蒂漫步",
       "short": "溫蒂漫步",
       "color": "#06d6a0",
-      "category": "樂團",
-      "eventCount": 9
-    },
-    {
-      "id": "band",
-      "name": "粗大Band",
-      "short": "粗大Band",
-      "color": "#ef476f",
       "category": "樂團",
       "eventCount": 9
     },
@@ -274,6 +274,14 @@
       "eventCount": 8
     },
     {
+      "id": "sinby",
+      "name": "欣菲 Sinby",
+      "short": "欣菲",
+      "color": "#00b4d8",
+      "category": "個人",
+      "eventCount": 8
+    },
+    {
       "id": "band_6u8lrj_23",
       "name": "普通隊長",
       "short": "普通隊長",
@@ -287,6 +295,14 @@
       "short": "上山",
       "color": "#ef476f",
       "category": "樂團",
+      "eventCount": 8
+    },
+    {
+      "id": "band_drsiw0_138",
+      "name": "蕭秉治",
+      "short": "蕭秉治",
+      "color": "#fb5607",
+      "category": "個人",
       "eventCount": 8
     },
     {
@@ -354,14 +370,6 @@
       "eventCount": 7
     },
     {
-      "id": "sinby",
-      "name": "欣菲 Sinby",
-      "short": "欣菲",
-      "color": "#00b4d8",
-      "category": "個人",
-      "eventCount": 7
-    },
-    {
       "id": "band_6gp8um_25",
       "name": "陳華",
       "short": "陳華",
@@ -391,14 +399,6 @@
       "short": "滅火器",
       "color": "#C8102E",
       "category": "樂團",
-      "eventCount": 7
-    },
-    {
-      "id": "band_drsiw0_138",
-      "name": "蕭秉治",
-      "short": "蕭秉治",
-      "color": "#fb5607",
-      "category": "個人",
       "eventCount": 7
     },
     {
@@ -8999,6 +8999,14 @@
       "short": "Ya",
       "color": "#00b4d8",
       "category": "樂團",
+      "eventCount": 1
+    },
+    {
+      "id": "band_z5bvs1",
+      "name": "忻恩CN",
+      "short": "忻恩",
+      "color": "#2ec4b6",
+      "category": "個人",
       "eventCount": 1
     },
     {
@@ -27222,6 +27230,46 @@
       "note": "［免費］\n特別嘉賓包含宇宙啦啦隊、公館青少年。現場設有行動服務車提供免費眼鏡清潔、調整及眼部SPA按摩。\nJINS GO 行動服務車活動,包含藝人演出、抽免費墨鏡、免費眼鏡清潔調整及眼部SPA按摩。"
     },
     {
+      "id": "upcoming-row-842",
+      "date": "20261205",
+      "band": "band_drsiw0_138",
+      "time": "未公布",
+      "name": "新北 幸輔不打烊樂園",
+      "location": "輔仁大學",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BC%94%E4%BB%81%E5%A4%A7%E5%AD%B8",
+      "note": "［免費］\n輔大在台復校65週年校慶,卡司包含蕭秉治、粗大Band、欣菲、忻恩CN等。"
+    },
+    {
+      "id": "upcoming-row-843",
+      "date": "20261205",
+      "band": "band",
+      "time": "未公布",
+      "name": "新北 幸輔不打烊樂園",
+      "location": "輔仁大學",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BC%94%E4%BB%81%E5%A4%A7%E5%AD%B8",
+      "note": "［免費］\n輔大在台復校65週年校慶,卡司包含蕭秉治、粗大Band、欣菲、忻恩CN等。"
+    },
+    {
+      "id": "upcoming-row-844",
+      "date": "20261205",
+      "band": "sinby",
+      "time": "未公布",
+      "name": "新北 幸輔不打烊樂園",
+      "location": "輔仁大學",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BC%94%E4%BB%81%E5%A4%A7%E5%AD%B8",
+      "note": "［免費］\n輔大在台復校65週年校慶,卡司包含蕭秉治、粗大Band、欣菲、忻恩CN等。"
+    },
+    {
+      "id": "upcoming-row-845",
+      "date": "20261205",
+      "band": "band_z5bvs1",
+      "time": "未公布",
+      "name": "新北 幸輔不打烊樂園",
+      "location": "輔仁大學",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E8%BC%94%E4%BB%81%E5%A4%A7%E5%AD%B8",
+      "note": "［免費］\n輔大在台復校65週年校慶,卡司包含蕭秉治、粗大Band、欣菲、忻恩CN等。"
+    },
+    {
       "id": "upcoming-row-85",
       "date": "20261206",
       "band": "AmazingShow",
@@ -34137,6 +34185,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "c9a3e42c-fb5f-462e-9df3-c084fd405bb2",
-  "updatedAt": "2026-11-28T01:11:18.832Z"
+  "revision": "c409c766-5fb8-4f2b-b10f-66b5f7f4cda8",
+  "updatedAt": "2026-11-28T06:52:36.555Z"
 }
