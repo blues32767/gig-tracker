@@ -29290,16 +29290,6 @@
       "note": "［免費］\n2026新北歡樂耶誕城巨星耶誕演唱會,包含幻藍小熊、李東軒、婁峻碩、黃偉晉、魏嘉瑩、ARKis、FEniX、曾沛慈、盧廣仲、小男孩樂團、李杰明、周予天、陳勢安、陳華、陳忻玥、Ozone、品冠、玖壹壹等藝人演出。"
     },
     {
-      "id": "upcoming-row-756",
-      "date": "20261212",
-      "band": "fenixxtone",
-      "time": "18:00-22:00",
-      "name": "新北 2026 新北歡樂耶誕城:萌幻巨星耶誕演唱會",
-      "location": "新北市政府市民廣場",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E5%B8%82%E6%B0%91%E5%BB%A3%E5%A0%B4",
-      "note": "［免費］\n2026新北歡樂耶誕城巨星耶誕演唱會,包含幻藍小熊、李東軒、婁峻碩、黃偉晉、魏嘉瑩、ARKis、FEniX、曾沛慈、盧廣仲、小男孩樂團、李杰明、周予天、陳勢安、陳華、陳忻玥、Ozone、品冠、玖壹壹等藝人演出。"
-    },
-    {
       "id": "upcoming-row-766",
       "date": "20261212",
       "band": "band_drsiw0_262",
@@ -29983,6 +29973,16 @@
       "id": "upcoming-row-755",
       "date": "20261213",
       "band": "band_drsiw0_18",
+      "time": "18:00-22:00",
+      "name": "新北 2026 新北歡樂耶誕城:萌幻巨星耶誕演唱會",
+      "location": "新北市政府市民廣場",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E5%B8%82%E6%B0%91%E5%BB%A3%E5%A0%B4",
+      "note": "［免費］\n2026新北歡樂耶誕城巨星耶誕演唱會,包含幻藍小熊、李東軒、婁峻碩、黃偉晉、魏嘉瑩、ARKis、FEniX、曾沛慈、盧廣仲、小男孩樂團、李杰明、周予天、陳勢安、陳華、陳忻玥、Ozone、品冠、玖壹壹等藝人演出。"
+    },
+    {
+      "id": "upcoming-row-756",
+      "date": "20261213",
+      "band": "fenixxtone",
       "time": "18:00-22:00",
       "name": "新北 2026 新北歡樂耶誕城:萌幻巨星耶誕演唱會",
       "location": "新北市政府市民廣場",
@@ -34185,6 +34185,6 @@
     }
   },
   "schemaVersion": 2,
-  "revision": "c409c766-5fb8-4f2b-b10f-66b5f7f4cda8",
-  "updatedAt": "2026-11-28T06:52:36.555Z"
+  "revision": "75a8e393-6990-4a79-8213-712b0b5d40c2",
+  "updatedAt": "2026-11-28T07:11:30.009Z"
 }
